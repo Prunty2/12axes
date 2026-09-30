@@ -19,8 +19,8 @@
     "margaret-thatcher",
     "clement-attlee"
   ],
-  "candidateCount": 247,
-  "pendingCount": 232,
+  "candidateCount": 68,
+  "pendingCount": 53,
   "skippedCount": 0,
   "verification": {
     "individualAuditValidators": "Passed for all fifteen against the current catalogue. Attlee–Roosevelt 96.0% warning reviewed with source-backed distinctions and immutable-answer fingerprints; no answers changed to manufacture distance.",
@@ -32,5 +32,11 @@
     "visual": "All fifteen downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher and Attlee; personality comparison tabs inspected for Howard, Albanese, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher and Attlee. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Research and add or document justified skips for the remaining 232 candidates across the requested countries; re-run complete final tests and generated-page checks; submit and attach a draft PR. All thirteen named Australians, Margaret Thatcher and Clement Attlee are added. This checkpoint does not prove completion."
+  "remaining": "Research and add or document evidence-based skips for the remaining 53 candidates in the reduced 68-person scope; run final checks and submit and attach a draft PR. The 179 candidates excluded by the scope reduction require no further work. All thirteen requested Australians, Margaret Thatcher and Clement Attlee are added. This checkpoint does not prove completion.",
+  "scopeRevision": {
+    "date": "2026-09-30",
+    "previousCandidateCount": 247,
+    "removedFromScopeCount": 179,
+    "reason": "User requested only the most notable people per country. All completed additions and thirteen required Australians retained."
+  }
 }
