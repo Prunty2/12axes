@@ -13,20 +13,21 @@
     "paul-keating",
     "kevin-rudd",
     "julia-gillard",
-    "tony-abbott"
+    "tony-abbott",
+    "malcolm-turnbull"
   ],
   "candidateCount": 247,
-  "pendingCount": 236,
+  "pendingCount": 235,
   "skippedCount": 0,
   "verification": {
-    "individualAuditValidators": "Passed for all eleven against the current catalogue, including evidence-bound close-match review for Abbott with Merz.",
+    "individualAuditValidators": "Passed for all twelve against the current catalogue. Turnbull’s nearest profiles remain below the evidence-review blocking threshold; substantive differences recorded.",
     "archiveAndMetadataIntegrity": "verify_expansion.py passed; saved vectors equal recomputation from all 240 answers plus five archetype answers.",
-    "backendFullSuite": "132 tests passed, zero failures, errors or skips.",
-    "backendUpdatedIntegration": "ExpandedPersonalityTest: 11 cases passed; each submits all archived answers in Portuguese and English and receives the matching person at 100%.",
-    "frontend": "21 tests passed before the Rudd, Gillard and Abbott data-only additions; the subsequent production build generated 1570 pages including PT/EN pages for all eleven additions.",
+    "backendFullSuite": "133 tests passed, zero failures, errors or skips.",
+    "backendUpdatedIntegration": "ExpandedPersonalityTest: 12 cases passed; each submits all archived answers in Portuguese and English and receives the matching person at 100%.",
+    "frontend": "21 tests passed before the Rudd, Gillard, Abbott and Turnbull data-only additions; the subsequent production build generated 1572 pages including PT/EN pages for all twelve additions.",
     "similarityReviewTests": "6 tests passed, including stale review, exact duplicate, missing evidence and catalogue isolation checks.",
-    "visual": "All eleven downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard and Abbott; personality comparison tabs inspected for Howard, Albanese, Hawke, Keating, Rudd, Gillard and Abbott. Quiz submission verified through backend integration tests, not browser submission.",
+    "visual": "All twelve downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott and Turnbull; personality comparison tabs inspected for Howard, Albanese, Hawke, Keating, Rudd, Gillard, Abbott and Turnbull. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Research and add or document justified skips for the remaining 236 candidates, including the other two required Australians; re-run complete final tests and generated-page checks; submit and attach a draft PR. This checkpoint does not prove completion."
+  "remaining": "Research and add or document justified skips for the remaining 235 candidates, including Scott Morrison, the last required Australian; re-run complete final tests and generated-page checks; submit and attach a draft PR. This checkpoint does not prove completion."
 }

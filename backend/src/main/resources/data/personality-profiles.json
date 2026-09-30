@@ -6747,5 +6747,22 @@
       "moral": 19.6,
       "tecnologia": 58.2
     }
+  },
+  {
+    "personalityId": "malcolm-turnbull",
+    "vector": {
+      "estrutura": 55.7,
+      "representacao": 84.7,
+      "poder": 62.7,
+      "imigracao": 36.4,
+      "diplomacia": 55.2,
+      "intervencao": 34.0,
+      "economia": 44.9,
+      "controle": 36.6,
+      "comercio": 25.8,
+      "religiao": 48.1,
+      "moral": 64.5,
+      "tecnologia": 53.6
+    }
   }
 ]

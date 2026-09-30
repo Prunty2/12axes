@@ -4762,5 +4762,17 @@
     "imageSourceName": "Commonwealth of Australia / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Tony_Abbott_official_portrait.jpg",
     "imageNote": "Retrato oficial (2013), Commonwealth of Australia, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Versão recortada, redimensionada e comprimida."
+  },
+  {
+    "id": "malcolm-turnbull",
+    "name": "Malcolm Turnbull",
+    "role": "Ex-primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1954–",
+    "description": "Premiê liberal de 2015 a 2018, republicano e defensor do casamento igualitário. Apoia mercados, livre comércio, energia renovável e pesquisa médica, com segurança rigorosa e maior autonomia australiana dentro da aliança americana.",
+    "imagePath": "/personalities/portraits/malcolm-turnbull.jpg",
+    "imageSourceName": "Commonwealth of Australia / Tim Bauer / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Malcolm_Turnbull_Portrait.jpg",
+    "imageNote": "Retrato oficial publicado em 2015, Commonwealth of Australia; crédito fotográfico Tim Bauer. CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e comprimido."
   }
 ]
