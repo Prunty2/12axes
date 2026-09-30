@@ -4942,5 +4942,17 @@
     "imageSourceName": "© European Union 2023 – Source: EP / Laia Ros · CC BY 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Olaf_Scholz_head_2023.jpg",
     "imageNote": "Retrato de 9 de maio de 2023. Recorte existente da Wikimedia Commons, redimensionado e comprimido; CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
+  },
+  {
+    "id": "mark-carney",
+    "name": "Mark Carney",
+    "role": "Primeiro-ministro do Canadá",
+    "category": "politico",
+    "lifespan": "1965–",
+    "description": "Primeiro-ministro canadense desde 2025 e ex-banqueiro central. Combina investimento privado e serviços públicos com defesa reforçada, integração comercial e proteção de setores estratégicos. Apoia direitos civis e tecnologia para a transição climática.",
+    "imagePath": "/personalities/portraits/mark-carney.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Carney_portrait_May_2025.jpg",
+    "imageNote": "Retrato de Mark Carney via Wikipédia/Wikimedia Commons."
   }
 ]

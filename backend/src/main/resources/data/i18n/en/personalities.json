@@ -2564,5 +2564,11 @@
     "name": "Olaf Scholz",
     "role": "Former German chancellor",
     "description": "German chancellor from 2021 to 2025. A Social Democrat, he raised the minimum wage, supported industry and expanded civil rights. He strengthened defence and aid to Ukraine while resisting a direct war with Russia."
+  },
+  {
+    "id": "mark-carney",
+    "name": "Mark Carney",
+    "role": "Prime Minister of Canada",
+    "description": "Canadian prime minister since 2025 and former central banker. Combines private investment and public services with stronger defence, trade integration and strategic-sector protection. Supports civil rights and technology for the climate transition."
   }
 ]

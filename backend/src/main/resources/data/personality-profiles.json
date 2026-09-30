@@ -7002,5 +7002,22 @@
       "moral": 77.6,
       "tecnologia": 51.0
     }
+  },
+  {
+    "personalityId": "mark-carney",
+    "vector": {
+      "estrutura": 61.7,
+      "representacao": 79.9,
+      "poder": 48.4,
+      "imigracao": 34.3,
+      "diplomacia": 48.1,
+      "intervencao": 35.2,
+      "economia": 59.1,
+      "controle": 47.3,
+      "comercio": 46.0,
+      "religiao": 57.1,
+      "moral": 72.9,
+      "tecnologia": 60.6
+    }
   }
 ]

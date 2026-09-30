@@ -1,0 +1,358 @@
+{
+  "id": "mark-carney",
+  "country": "Canada",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Premiership, March 2025–September 2026, with dated earlier monetary principles.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Bank of England biography",
+      "url": "https://www.bankofengland.co.uk/about/people/past/mark-carney/biography",
+      "factDate": "1965 birth; governorship 2013–2020",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "programme",
+      "title": "Canada Strong election programme",
+      "url": "https://liberal.ca/wp-content/uploads/sites/292/2025/04/Canada-Strong.pdf",
+      "factDate": "2025-04; election commitments, not proof of enactment",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "investment",
+      "title": "Carney addresses the Canada Investment Summit",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2026/09/15/prime-minister-carney-delivers-opening-remarks-canada-investment-summit",
+      "factDate": "2026-09-15; includes prospective concessions and investment targets",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "fund",
+      "title": "Canada Strong Fund announcement",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/04/27/prime-minister-carney-announces-canada-strong-fund-canadas-first",
+      "factDate": "2026-04-27; proposed initial public contribution and co-investment model",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "projects",
+      "title": "Carney statement on Commons passage of Bill C-5",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2025/06/20/prime-minister-carney-delivers-remarks-following-passage-one-canadian",
+      "factDate": "2025-06-20",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "projects-criticism",
+      "title": "BC Assembly of First Nations criticism of C-5",
+      "url": "https://www.bcafn.ca/news/federal-government-rushes-bill-c-5-through-parliament-violating-first-nations-rights-its-own",
+      "factDate": "2025-06-18; rights holders dispute consultation and executive powers",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "bail",
+      "title": "Justice Department on bail and sentencing reform",
+      "url": "https://www.canada.ca/en/department-justice/news/2026/06/canadas-sweeping-bail-and-sentencing-reforms-become-law.html",
+      "factDate": "2026-06-16; assent June 15, main provisions effective July 15",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "access",
+      "title": "Public Safety account of lawful-access proposals",
+      "url": "https://www.canada.ca/en/services/policing/police/crime-and-crime-prevention/lawful-access.html",
+      "factDate": "Bill C-22 introduced March 2026; proposals distinguished from enacted law",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "guns",
+      "title": "Carney statement on gun violence",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/06/05/statement-prime-minister-carney-national-day-against-gun-violence",
+      "factDate": "2026-06-05",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "health-plan",
+      "title": "Health Canada departmental plan",
+      "url": "https://publications.gc.ca/collections/collection_2026/sc-hc/H1-9-31-2026-eng.pdf",
+      "factDate": "2026–2027 plan; regulated cannabis framework and health safeguards",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "maid",
+      "title": "Canadian Press on the pending assisted-dying review",
+      "url": "https://toronto.citynews.ca/2026/05/06/carney-liberals-say-theyre-waiting-on-committee-report-to-decide-on-maid-extension/",
+      "factDate": "2026-05-06; no final position on mental-illness-only expansion",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "immigration",
+      "title": "Immigration Department briefing on levels commitments",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/committees/cow-may-28-2026/commitments-levels.html",
+      "factDate": "2026-05-28 briefing, published September 2026",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "identity",
+      "title": "Carney Canada Day address",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2026/07/01/prime-minister-carney-delivers-remarks-canada-day",
+      "factDate": "2026-07-01",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "nato",
+      "title": "Carney NATO defence partnerships",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/07/08/prime-minister-carney-secures-new-defence-partnerships-2026-nato",
+      "factDate": "2026-07-08; future spending targets are commitments, not realised expenditure",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "un",
+      "title": "Carney UN General Assembly priorities",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/23/prime-minister-carney-advances-collective-security-climate-and-peace-priorities",
+      "factDate": "2026-09-23",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "bank",
+      "title": "Carney on central-bank independence and accountability",
+      "url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2017/opening-remarks-at-the-boe-independence-20-years-on-conference.pdf",
+      "factDate": "2017-09-28; earlier monetary doctrine",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "crypto",
+      "title": "Carney: The future of money",
+      "url": "https://www.bis.org/review/r180323a.pdf",
+      "factDate": "2018-03; earlier monetary doctrine",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "china",
+      "title": "Carney on a new strategic partnership with China",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2026/01/16/prime-minister-carney-delivers-remarks-after-forging-new-strategic",
+      "factDate": "2026-01-16; limited EV quota at MFN tariff, not unrestricted free entry",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "tariffs",
+      "title": "Carney on Canada-US trade negotiations",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2026/08/22/prime-minister-carney-delivers-remarks-canada-us-trade-negotiations",
+      "factDate": "2026-08-22; announced response to US tariffs",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "rail",
+      "title": "VIA Rail investment and Canadian procurement",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/03/prime-minister-carney-announces-largest-investment-rails-history",
+      "factDate": "2026-09-03",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "faith",
+      "title": "Canadian Catholic News report of Carney on faith and public service",
+      "url": "https://www.catholicregister.org/item/2278-prime-minister-reflects-on-faith-service-after-pope-s-inaugural-mass",
+      "factDate": "2025-05-22, reporting May 18 remarks",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "digital",
+      "title": "Digital Transformation Canada announcement",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/03/prime-minister-carney-launches-digital-transformation-canada-deliver",
+      "factDate": "2026-09-03",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "oceans",
+      "title": "Carney announces ocean-protection investment",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/29/prime-minister-carney-announces-historic-investment-protect-canadas",
+      "factDate": "2026-09-29; announced investment and conservation target",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "harris-economy",
+      "title": "Harris-Walz economic opportunity policy book",
+      "url": "https://www.kamalaharris.com/wp-content/uploads/2024/09/Policy-Book-Economic-Opportunity.pdf",
+      "factDate": "2024-09; campaign proposals, not independently verified outcome claims",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "harris-tribal",
+      "title": "Harris remarks at the White House Tribal Nations Summit",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-white-house-tribal-nations-summit-0",
+      "factDate": "2023-12-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "harris-concession",
+      "title": "Harris concession speech transcript",
+      "url": "https://time.com/7173617/kamala-harris-concession-speech-full-transcript/",
+      "factDate": "2024-11-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "harris-nato",
+      "title": "AP: Harris rejects isolationism and backs NATO at Munich",
+      "url": "https://apnews.com/article/89e4138d0addbaac8a3869b7165ab50c",
+      "factDate": "2024-02-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "harris-ukraine",
+      "title": "Harris remarks before meeting President Zelenskyy in Munich",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-prior-meeting-with-president-volodymyr-zelenskyy-ukraine-0",
+      "factDate": "2024-02-17",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "projects",
+        "projects-criticism",
+        "programme",
+        "investment"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "programme",
+        "projects",
+        "projects-criticism",
+        "bank"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "bail",
+        "access",
+        "guns",
+        "health-plan",
+        "maid",
+        "programme"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "immigration",
+        "identity",
+        "programme"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "nato",
+        "un",
+        "investment"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "nato",
+        "un",
+        "tariffs",
+        "investment"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "investment",
+        "fund",
+        "programme"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "investment",
+        "fund",
+        "bank",
+        "crypto",
+        "programme"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "tariffs",
+        "china",
+        "rail",
+        "investment",
+        "programme"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "programme"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "programme",
+        "faith"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "investment",
+        "digital",
+        "oceans",
+        "china",
+        "health-plan"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Period: March 2025–September 2026 premiership, supplemented by explicitly dated earlier monetary speeches. Announcements, expenditure targets and proposed concessions are not described as completed outcomes. The catalogue records positions, not forecasts or an endorsement of the government’s account of its performance.",
+    "C-5 concentrates federal project-approval powers. The First Nations source disputes the adequacy of consultation and the government’s rights assurances; these criticisms are retained rather than treating consent as achieved. Provincial autonomy remains constitutionally bounded. Regional constitutions, municipal law, education and secession questions are Canadian institutional analogies, not Brazilian proposals. A local majority alone is not treated as sufficient authority for unilateral secession.",
+    "Technocratic expertise and central-bank operational independence do not imply unelected national government. Qualified emergency-executive and consent answers account for fast-tracking and disputed consultation without equating them to abolition of elections. Recall, sortition and referendum vetoes are inferred against his representative-parliamentary approach.",
+    "Security answers distinguish stricter bail from guilt at trial, and targeted lawful access from indiscriminate monitoring. Neutral vaccination, misinformation takedowns, compelled phone access and street facial recognition balance public safety and Charter safeguards; no specific blanket mandate is attributed. Emergency curfews are a bounded necessity inference. Party dissolution is rejected as a normal response to public-order disputes.",
+    "Regulated adult cannabis access reflects his government’s continuing framework, not a claim that Carney originated legalisation. The combined private-conduct item is neutral because cannabis, gambling and commercial sex have different restrictions. Terminal-illness assisted dying is a qualified continuity inference; the cited report expressly leaves mental-illness-only expansion pending. No endorsement of that expansion is asserted.",
+    "Lower migration targets address capacity, not racial selection. Support for bilingualism, cultural diversity and civic integration is distinguished from unlimited immigration or requiring every newcomer to abandon harmless traditions. Cultural-refusal items remain neutral where lawful integration and conformity to all customs are conflated.",
+    "Defence modernisation includes autonomous systems, interpreted with human accountability rather than an unrestricted right to autonomous killing. Strong NATO commitments coexist with UN diplomacy and support for international law. Independent nuclear weapons, preventive war and compulsory service are not inferred from increased conventional spending. Secret operations mean lawful national-security work, not unlimited covert violence.",
+    "Foreign-policy answers concern allied deployments, sanctions and protecting sovereignty against coercion. They do not establish support for territorial expansion or unilateral regime change. International cooperation is compatible with national interests; refusing all sanctions or military involvement is not his position.",
+    "The investment fund and public ownership of underlying airport assets coexist with private concessions and private firms. Neutral strategic ownership, undervalued privatisation and general service-delivery items preserve that distinction. Public healthcare and a needs-based safety net do not mean universal unconditional income or exclusive public delivery of every service. Land redistribution is interpreted in Canada’s established-property context, without denying Indigenous claims.",
+    "Economic coordination means targeted investment and social protections within a market economy. Tax-cut support is concrete; progressive taxation and minimum-wage protections are qualified programme inferences rather than an endorsement of confiscatory wealth policy. Operational central-bank independence is subject to a democratically established remit. The rent-freeze item remains neutral: housing affordability does not by itself establish blanket rent freezing.",
+    "Trade integration is balanced against Buy Canadian procurement, investment screening and retaliatory tariffs. The Chinese EV arrangement uses a limited quota and tariff, not a blanket ban or unrestricted admission. Foreign acquisitions of strategic assets are interpreted as transactions subject to rejection on national-interest grounds, not a universal prohibition on foreign capital.",
+    "Faith-based service is separated from sectarian legislation. The combined moral/political guidance item is neutral because personal faith and policy neutrality differ. Neutral church taxation, public symbols and religious marriage distinguish heritage and charity from exclusive state recognition; religious liberty does not require suppressing all public expressions of belief.",
+    "Equal adoption, public affection and inclusive sex education are applications of equal-rights commitments. No personal statements on every hypothetical are asserted. Neutral racial quotas distinguish anti-discrimination measures from a specific quota system. Neutral sex work balances adult agency and exploitation; neutral traditional-family status and qualified parental authority recognise personal family commitments alongside legal pluralism. Neutral meat ethics avoids converting climate policy into a moral judgement about diet.",
+    "Technology answers retain both nuclear/AI expansion and ocean conservation. Neutral urban/rural preference, preservation-versus-industry absolutes and brain enhancement reflect competing values. Qualified biotechnology, pesticides, cultivated meat and space answers are editorial applications of regulated scientific progress; the gene-editing question combines disease prevention with enhancement, which warrants a cautious answer rather than unrestricted approval."
+  ],
+  "distinctions": [
+    "Potential neighbours include regulated-market liberals such as Trudeau, Macron and Merkel. Preserve Carney’s personal Catholic faith, current tariff response, public-private investment model, NATO rearmament and nuclear/AI support; do not copy another politician’s answers.",
+    "Manual review of 95.7% proximity to Scholz: Carney’s investment/concession programme, selective tariff protection and nuclear expansion produce different ownership, planning, trade and technology answers. Scholz’s researched Uniper rescue, tariff objection and nuclear phase-out remain unchanged.",
+    "Manual review of 95.3% proximity to the existing Biden vector: Carney’s territorial-autonomy, market-incentive and technology answers yield different structure, control and technology scores. The pre-existing Biden profile is not reaudited or changed; closeness does not imply identical positions."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Mark_Carney_portrait_May_2025.jpg",
+    "author": "Daniel Torok / The White House",
+    "license": "Public domain — US federal government work",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Mark_Carney_portrait_May_2025.jpg",
+    "date": "2025-05-06",
+    "note": "Commons portrait resized to 480px and compressed from 167 KB to 32 KB.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "kamala-harris",
+      "answersSha256": "5049c3216b0af115470936b4fae56b69c2a08b6bc7c8b94733cf4584e5698f70",
+      "neighborVectorSha256": "2de4ab24692695313dcb7ac7be4b852ff83967110b8e61bb5f13bcfbdabdb84f",
+      "reason": "Both are democratic regulated-market liberals with civil-rights commitments. Carney’s investment incentives and market-oriented project approvals yield less economic direction than Harris’s economic programme. His C-5 executive powers and disputed consultation also qualify the representation answers. His Canadian collective-security role differs from Harris’s commitment to US global military leadership; the resulting defence and intervention axes differ. Preserve independently researched proximity rather than adjusting answers to manufacture separation.",
+      "differingAxes": [
+        "controle",
+        "representacao",
+        "diplomacia",
+        "intervencao"
+      ],
+      "sourceIds": [
+        "investment",
+        "projects",
+        "projects-criticism",
+        "nato",
+        "un",
+        "harris-economy",
+        "harris-tribal",
+        "harris-concession",
+        "harris-nato",
+        "harris-ukraine"
+      ]
+    }
+  ]
+}

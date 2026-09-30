@@ -158,6 +158,41 @@
       "url": "https://time.com/4193231/hillary-clinton-faith-christianity-iowa/",
       "factDate": "2016-01-25 remarks; published January 26",
       "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "carney-investment",
+      "title": "Carney addresses the Canada Investment Summit",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2026/09/15/prime-minister-carney-delivers-opening-remarks-canada-investment-summit",
+      "factDate": "2026-09-15; includes prospective concessions and investment targets",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "carney-projects",
+      "title": "Carney statement on Commons passage of Bill C-5",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2025/06/20/prime-minister-carney-delivers-remarks-following-passage-one-canadian",
+      "factDate": "2025-06-20",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "carney-projects-criticism",
+      "title": "BC Assembly of First Nations criticism of C-5",
+      "url": "https://www.bcafn.ca/news/federal-government-rushes-bill-c-5-through-parliament-violating-first-nations-rights-its-own",
+      "factDate": "2025-06-18; rights holders dispute consultation and executive powers",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "carney-nato",
+      "title": "Carney NATO defence partnerships",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/07/08/prime-minister-carney-secures-new-defence-partnerships-2026-nato",
+      "factDate": "2026-07-08; future spending targets are commitments, not realised expenditure",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "carney-un",
+      "title": "Carney UN General Assembly priorities",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/23/prime-minister-carney-advances-collective-security-climate-and-peace-priorities",
+      "factDate": "2026-09-23",
+      "accessedOn": "2026-10-01"
     }
   ],
   "axes": {
@@ -323,6 +358,30 @@
         "gaza",
         "clinton-cfr",
         "clinton-faith"
+      ]
+    },
+    {
+      "comparedWith": "mark-carney",
+      "answersSha256": "c64d27380587c219e18d795a675a0e7dbfb8806d00a2adc9c796abdf8dd10009",
+      "neighborVectorSha256": "5045c0d1264cac82a7f7e831770bd4ddef404898fae6bf507647d75fc685531b",
+      "reason": "Both are democratic regulated-market liberals with civil-rights commitments. Carney’s investment incentives and market-oriented project approvals yield less economic direction than Harris’s economic programme. His C-5 executive powers and disputed consultation also qualify the representation answers. His Canadian collective-security role differs from Harris’s commitment to US global military leadership; the resulting defence and intervention axes differ. Preserve independently researched proximity rather than adjusting answers to manufacture separation.",
+      "differingAxes": [
+        "controle",
+        "representacao",
+        "diplomacia",
+        "intervencao"
+      ],
+      "sourceIds": [
+        "economy",
+        "tribal",
+        "concession",
+        "nato",
+        "ukraine",
+        "carney-investment",
+        "carney-projects",
+        "carney-projects-criticism",
+        "carney-nato",
+        "carney-un"
       ]
     }
   ],
