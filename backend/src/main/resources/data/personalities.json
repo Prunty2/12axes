@@ -4810,5 +4810,17 @@
     "imageSourceName": "Flinders University Library / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Clement_Attlee_portrait.jpg",
     "imageNote": "Fotografia de 1945, autor desconhecido. Domínio público (PD-Australia), conforme Wikimedia Commons; imagem redimensionada e comprimida."
+  },
+  {
+    "id": "boris-johnson",
+    "name": "Boris Johnson",
+    "role": "Ex-primeiro-ministro do Reino Unido",
+    "category": "politico",
+    "lifespan": "1964–",
+    "description": "Primeiro-ministro britânico de 2019 a 2022, Johnson liderou o Brexit, promoveu livre comércio e investimento regional, apoiou o NHS público e combinou controle migratório com firme apoio militar à Ucrânia.",
+    "imagePath": "/personalities/portraits/boris-johnson.jpg",
+    "imageSourceName": "Ben Shread / Cabinet Office, via Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait.jpg",
+    "imageNote": "Retrato oficial de 2019 por Ben Shread, Cabinet Office. Crown copyright; Open Government Licence v3.0. Imagem redimensionada e comprimida."
   }
 ]

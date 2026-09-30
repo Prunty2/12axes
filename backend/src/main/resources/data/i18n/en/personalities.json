@@ -2498,5 +2498,11 @@
     "name": "Clement Attlee",
     "role": "Former British prime minister",
     "description": "British prime minister from 1945 to 1951, Attlee nationalised key industries and established the NHS. He combined parliamentary socialism and colonial independence with NATO, overseas military operations and Britain’s nuclear programme."
+  },
+  {
+    "id": "boris-johnson",
+    "name": "Boris Johnson",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 2019 to 2022, Johnson led Brexit, promoted free trade and regional investment, supported the public NHS, and combined immigration controls with strong military support for Ukraine."
   }
 ]

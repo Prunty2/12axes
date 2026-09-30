@@ -17,22 +17,23 @@
     "malcolm-turnbull",
     "scott-morrison",
     "margaret-thatcher",
-    "clement-attlee"
+    "clement-attlee",
+    "boris-johnson"
   ],
   "candidateCount": 68,
-  "pendingCount": 53,
+  "pendingCount": 52,
   "skippedCount": 0,
   "verification": {
-    "individualAuditValidators": "Passed for all fifteen against the current catalogue. Attlee–Roosevelt 96.0% warning reviewed with source-backed distinctions and immutable-answer fingerprints; no answers changed to manufacture distance.",
+    "individualAuditValidators": "Passed for all sixteen against the current catalogue. Johnson similarity warnings below 95% and five mixed technology answers reviewed; no answers changed to manufacture distance. Existing documented high-similarity reviews remain valid.",
     "archiveAndMetadataIntegrity": "verify_expansion.py passed; saved vectors equal recomputation from all 240 answers plus five archetype answers.",
-    "backendFullSuite": "136 tests passed, zero failures, errors or skips.",
-    "backendUpdatedIntegration": "ExpandedPersonalityTest: 15 cases passed; each submits all archived answers in Portuguese and English and receives the matching person at 100%.",
-    "frontend": "21 tests passed before the Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher and Attlee data-only additions; the subsequent production build generated 1578 pages including PT/EN pages for all fifteen additions.",
+    "backendFullSuite": "137 tests passed, zero failures, errors or skips.",
+    "backendUpdatedIntegration": "ExpandedPersonalityTest: 16 cases passed; each submits all 240 archived answers plus five archetype answers in Portuguese and English and receives the matching person at 100%.",
+    "frontend": "21 tests passed before the Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee and Johnson data-only additions; latest production build generated 1580 pages including PT/EN pages for all sixteen additions.",
     "similarityReviewTests": "6 tests passed, including stale review, exact duplicate, missing evidence and catalogue isolation checks.",
-    "visual": "All fifteen downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher and Attlee; personality comparison tabs inspected for Howard, Albanese, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher and Attlee. Quiz submission verified through backend integration tests, not browser submission.",
+    "visual": "All sixteen downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee and Johnson; personality comparison tabs inspected for Howard, Albanese, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee and Johnson. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Research and add or document evidence-based skips for the remaining 53 candidates in the reduced 68-person scope; run final checks and submit and attach a draft PR. The 179 candidates excluded by the scope reduction require no further work. All thirteen requested Australians, Margaret Thatcher and Clement Attlee are added. This checkpoint does not prove completion.",
+  "remaining": "Research and add or document evidence-based skips for the remaining 52 candidates in the reduced 68-person scope; run final checks and submit and attach a draft PR. The 179 candidates excluded by the scope reduction require no further work. All thirteen requested Australians, Margaret Thatcher, Clement Attlee and Boris Johnson are added. This checkpoint does not prove completion.",
   "scopeRevision": {
     "date": "2026-09-30",
     "previousCandidateCount": 247,

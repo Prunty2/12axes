@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T12:24:22Z",
+  "lastUpdated": "2026-09-30T12:30:22Z",
   "personality": {
-    "totalProfiles": 401,
+    "totalProfiles": 402,
     "pending": [],
     "done": [
       "lenin",
@@ -405,7 +405,8 @@
       "malcolm-turnbull",
       "scott-morrison",
       "margaret-thatcher",
-      "clement-attlee"
+      "clement-attlee",
+      "boris-johnson"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -522,7 +523,7 @@
           "id": "boris-johnson",
           "name": "Boris Johnson",
           "country": "United Kingdom",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "keir-starmer",

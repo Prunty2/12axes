@@ -6815,5 +6815,22 @@
       "moral": 37.1,
       "tecnologia": 53.4
     }
+  },
+  {
+    "personalityId": "boris-johnson",
+    "vector": {
+      "estrutura": 48.6,
+      "representacao": 71.6,
+      "poder": 58.0,
+      "imigracao": 46.0,
+      "diplomacia": 66.0,
+      "intervencao": 16.2,
+      "economia": 46.0,
+      "controle": 43.8,
+      "comercio": 38.9,
+      "religiao": 46.9,
+      "moral": 57.4,
+      "tecnologia": 65.3
+    }
   }
 ]
