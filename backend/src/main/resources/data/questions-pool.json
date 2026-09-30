@@ -2,7 +2,7 @@
   {
     "id": "estrutura_01",
     "axisId": "estrutura",
-    "text": "Estados e municípios devem ter autonomia para decidir sobre seus próprios assuntos, sem depender do governo federal.",
+    "text": "Estados e municípios devem decidir como gastar seus próprios recursos.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -100,7 +100,7 @@
   {
     "id": "estrutura_15",
     "axisId": "estrutura",
-    "text": "O Brasil deveria ser uma união de estados com ampla autonomia política.",
+    "text": "O governo federal deve exercer apenas poderes expressamente delegados pelos estados.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -121,14 +121,14 @@
   {
     "id": "estrutura_18",
     "axisId": "estrutura",
-    "text": "A separação de um estado não deve ser permitida, mesmo com apoio da população local.",
+    "text": "A separação de um estado deve depender da aprovação do restante do país.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "estrutura_19",
     "axisId": "estrutura",
-    "text": "Os serviços públicos locais devem ser administrados pelas prefeituras, não pelo governo federal.",
+    "text": "A educação pública deve ser administrada pelas prefeituras, não pelo governo federal.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -177,14 +177,14 @@
   {
     "id": "representacao_06",
     "axisId": "representacao",
-    "text": "Um líder competente deveria poder governar sem eleições frequentes.",
+    "text": "Governantes deveriam ter mandatos de dez anos entre eleições.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "representacao_07",
     "axisId": "representacao",
-    "text": "Todo cidadão adulto deve ter direito de voto, mesmo quando for pouco informado sobre política.",
+    "text": "O voto deve ser secreto, sem que eleitores precisem revelar sua escolha.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -268,7 +268,7 @@
   {
     "id": "representacao_19",
     "axisId": "representacao",
-    "text": "O voto deve ser secreto, sem que eleitores precisem revelar sua escolha.",
+    "text": "Mesmo um governo eleito com enorme maioria deve permitir que a oposição dispute eleições.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -310,7 +310,7 @@
   {
     "id": "poder_05",
     "axisId": "poder",
-    "text": "Câmeras com reconhecimento facial nas ruas deveriam ser ampliadas para reduzir o crime.",
+    "text": "Sou a favor de ampliar o uso de câmeras com reconhecimento facial nas ruas.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -387,7 +387,7 @@
   {
     "id": "poder_16",
     "axisId": "poder",
-    "text": "A prestação consensual de serviços sexuais entre adultos não deveria ser crime.",
+    "text": "Condutas privadas entre adultos que consintam não deveriam ser criminalizadas.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -408,7 +408,7 @@
   {
     "id": "poder_19",
     "axisId": "poder",
-    "text": "Suspeitos de terrorismo deveriam poder ser presos sem julgamento até a ameaça passar.",
+    "text": "O Estado deve poder manter suspeitos de terrorismo presos sem julgamento até a ameaça passar.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -450,14 +450,14 @@
   {
     "id": "imigracao_05",
     "axisId": "imigracao",
-    "text": "O país deveria recusar imigrantes que se recusem a respeitar os costumes locais.",
+    "text": "O país deveria recusar a entrada de imigrantes que se recusem a respeitar os costumes locais.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "imigracao_06",
     "axisId": "imigracao",
-    "text": "Imigrantes não deveriam ter que abandonar seus costumes para viver bem no país.",
+    "text": "Imigrantes devem poder obter cidadania sem abandonar seus costumes.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -471,14 +471,14 @@
   {
     "id": "imigracao_08",
     "axisId": "imigracao",
-    "text": "O país deve incentivar a preservação das culturas trazidas por imigrantes.",
+    "text": "O governo deve apoiar eventos culturais das comunidades imigrantes.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "imigracao_09",
     "axisId": "imigracao",
-    "text": "Países têm o direito de preferir imigrantes de culturas parecidas com a sua.",
+    "text": "O país deve dar preferência a imigrantes de culturas semelhantes à sua.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -506,14 +506,14 @@
   {
     "id": "imigracao_13",
     "axisId": "imigracao",
-    "text": "Dominar a língua predominante deve ser uma prioridade na política de imigração.",
+    "text": "A cidadania só deve ser concedida a imigrantes que dominem o idioma predominante do país.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "imigracao_14",
     "axisId": "imigracao",
-    "text": "Imigrantes não devem ser julgados pelos costumes atribuídos a seu país de origem.",
+    "text": "Pedidos de imigração devem ser avaliados individualmente, sem presumir valores com base no país de origem.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -562,7 +562,7 @@
   {
     "id": "diplomacia_01",
     "axisId": "diplomacia",
-    "text": "Um país deve manter Forças Armadas fortes para ser respeitado no mundo.",
+    "text": "O país deve manter Forças Armadas prontas para combate mesmo em tempos de paz.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -583,7 +583,7 @@
   {
     "id": "diplomacia_04",
     "axisId": "diplomacia",
-    "text": "Guerras quase nunca valem a pena, mesmo contra regimes hostis.",
+    "text": "Prefiro evitar uma guerra mesmo quando ela possa trazer vantagens ao país.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -597,21 +597,21 @@
   {
     "id": "diplomacia_06",
     "axisId": "diplomacia",
-    "text": "Negociações diplomáticas devem ter prioridade sobre a expansão do arsenal militar.",
+    "text": "O país deve buscar acordos diplomáticos mesmo que precise fazer concessões a adversários.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "diplomacia_07",
     "axisId": "diplomacia",
-    "text": "O Brasil deveria buscar armas nucleares para não depender da proteção de nenhuma potência.",
+    "text": "O Brasil deveria desenvolver armas nucleares.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "diplomacia_08",
     "axisId": "diplomacia",
-    "text": "Reduzir gastos militares deve ser uma prioridade para diminuir o risco de guerra.",
+    "text": "O país deve reduzir seus gastos militares.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -660,7 +660,7 @@
   {
     "id": "diplomacia_15",
     "axisId": "diplomacia",
-    "text": "O Estado deve poder realizar operações militares secretas em outros países.",
+    "text": "O Brasil deveria desenvolver drones militares.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -723,7 +723,7 @@
   {
     "id": "intervencao_04",
     "axisId": "intervencao",
-    "text": "A política externa deve priorizar a influência do país sobre seus vizinhos.",
+    "text": "O Brasil deve usar ajuda econômica para aumentar sua influência sobre países vizinhos.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -737,7 +737,7 @@
   {
     "id": "intervencao_06",
     "axisId": "intervencao",
-    "text": "O Brasil deve usar seu peso para defender empresas brasileiras no exterior.",
+    "text": "O Brasil deve exercer pressão diplomática para defender empresas brasileiras no exterior.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -772,7 +772,7 @@
   {
     "id": "intervencao_11",
     "axisId": "intervencao",
-    "text": "O Brasil deve evitar integrar blocos geopolíticos fechados.",
+    "text": "O Brasil deve evitar blocos que exijam alinhamento automático com outras potências.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -919,7 +919,7 @@
   {
     "id": "economia_12",
     "axisId": "economia",
-    "text": "A estabilidade vitalícia dos servidores públicos deveria ser eliminada.",
+    "text": "A estabilidade vitalícia dos servidores públicos deveria ser reduzida.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -968,14 +968,14 @@
   {
     "id": "economia_19",
     "axisId": "economia",
-    "text": "Prefiro manter estatais sob controle público a vendê-las por menos do que valem.",
+    "text": "Prefiro manter estatais sob controle público, mesmo que possam ser vendidas pelo valor de mercado.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "economia_20",
     "axisId": "economia",
-    "text": "As estradas deveriam ser administradas por empresas privadas.",
+    "text": "Serviços públicos devem ser administrados por empresas privadas, mesmo com financiamento estatal.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -996,7 +996,7 @@
   {
     "id": "controle_03",
     "axisId": "controle",
-    "text": "O Banco Central deve obedecer ao governo eleito, e não agir com independência total.",
+    "text": "O governo eleito deve definir as metas de inflação que orientam o Banco Central.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1031,7 +1031,7 @@
   {
     "id": "controle_08",
     "axisId": "controle",
-    "text": "Prefiro limitar aumentos do salário mínimo se eles reduzirem as oportunidades de emprego dos trabalhadores mais pobres.",
+    "text": "A preservação de empregos deve ter prioridade sobre aumentos do salário mínimo.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1087,7 +1087,7 @@
   {
     "id": "controle_16",
     "axisId": "controle",
-    "text": "O Banco Central deve ter autonomia para decidir a política monetária, mesmo contra a vontade do governo.",
+    "text": "O Banco Central deve decidir a taxa de juros sem precisar de aprovação do governo.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1122,7 +1122,7 @@
   {
     "id": "comercio_01",
     "axisId": "comercio",
-    "text": "A indústria nacional deve ser protegida com tarifas sempre que necessário.",
+    "text": "O governo deve cobrar tarifas para proteger indústrias nacionais da concorrência externa.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1164,7 +1164,7 @@
   {
     "id": "comercio_07",
     "axisId": "comercio",
-    "text": "O governo deve limitar importações que ameacem empregos locais.",
+    "text": "O governo deve fixar limites à quantidade de produtos que podem ser importados.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1185,7 +1185,7 @@
   {
     "id": "comercio_10",
     "axisId": "comercio",
-    "text": "O Brasil deveria aprofundar a integração comercial com outros países.",
+    "text": "O Brasil deveria aderir a uma união aduaneira com países vizinhos.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1213,7 +1213,7 @@
   {
     "id": "comercio_14",
     "axisId": "comercio",
-    "text": "O comércio internacional deveria ser ampliado para aumentar o desenvolvimento.",
+    "text": "O comércio com outros países deve ser ampliado, mesmo aumentando a dependência econômica.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1227,7 +1227,7 @@
   {
     "id": "comercio_16",
     "axisId": "comercio",
-    "text": "O Brasil deveria reduzir tarifas de importação que encarecem produtos ao consumidor.",
+    "text": "As tarifas de importação devem ser reduzidas, mesmo diminuindo a arrecadação do governo.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1255,14 +1255,14 @@
   {
     "id": "comercio_20",
     "axisId": "comercio",
-    "text": "A integração econômica global deveria ser aprofundada por meio de mais comércio.",
+    "text": "O Brasil deveria aceitar regras comerciais internacionais comuns, mesmo perdendo autonomia para criar barreiras.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "religiao_01",
     "axisId": "religiao",
-    "text": "A religião não deve influenciar políticas públicas.",
+    "text": "A escolha de seguir uma religião deve ser pessoal, sem interferência do Estado.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1276,7 +1276,7 @@
   {
     "id": "religiao_03",
     "axisId": "religiao",
-    "text": "As leis devem ser neutras e não seguir os valores de nenhuma religião.",
+    "text": "As leis devem tratar igualmente pessoas de todas as crenças religiosas.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1339,14 +1339,14 @@
   {
     "id": "religiao_12",
     "axisId": "religiao",
-    "text": "A sociedade deveria dar mais espaço à fé em Deus.",
+    "text": "Cerimônias oficiais devem incluir orações a Deus.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "religiao_13",
     "axisId": "religiao",
-    "text": "Feriados religiosos não deveriam ser oficiais em um Estado laico.",
+    "text": "Feriados religiosos não deveriam ser feriados nacionais.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1430,7 +1430,7 @@
   {
     "id": "moral_05",
     "axisId": "moral",
-    "text": "Sou a favor de cotas raciais para enfrentar desigualdades.",
+    "text": "Sou a favor de cotas raciais no acesso às universidades.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1451,14 +1451,14 @@
   {
     "id": "moral_08",
     "axisId": "moral",
-    "text": "Sou a favor de encerrar as cotas raciais.",
+    "text": "Sou contra cotas raciais no acesso a cargos públicos.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "moral_09",
     "axisId": "moral",
-    "text": "O aborto no início da gravidez pode ser uma escolha moralmente aceitável.",
+    "text": "Considero o aborto no início da gravidez moralmente aceitável.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1528,7 +1528,7 @@
   {
     "id": "moral_19",
     "axisId": "moral",
-    "text": "A nudez em filmes deve ser socialmente aceita.",
+    "text": "A nudez em praias públicas deve ser socialmente aceita.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1549,7 +1549,7 @@
   {
     "id": "tecnologia_02",
     "axisId": "tecnologia",
-    "text": "Prefiro um modo de vida com menos tecnologia.",
+    "text": "Devemos reduzir o uso de dispositivos digitais no dia a dia.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1563,7 +1563,7 @@
   {
     "id": "tecnologia_04",
     "axisId": "tecnologia",
-    "text": "Tecnologias usadas para alterar a reprodução humana devem ser limitadas.",
+    "text": "A clonagem humana para reprodução deveria ser proibida.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1605,7 +1605,7 @@
   {
     "id": "tecnologia_10",
     "axisId": "tecnologia",
-    "text": "Reduzir o consumo de recursos naturais deve ter prioridade no combate ao aquecimento global.",
+    "text": "Para conter o aquecimento global, devemos usar menos combustíveis fósseis, mesmo encarecendo o transporte.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1626,7 +1626,7 @@
   {
     "id": "tecnologia_13",
     "axisId": "tecnologia",
-    "text": "A vida nas grandes cidades é preferível à vida no campo.",
+    "text": "Prefiro viver em cidades com serviços altamente automatizados.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1640,7 +1640,7 @@
   {
     "id": "tecnologia_15",
     "axisId": "tecnologia",
-    "text": "O uso de implantes cerebrais para ampliar as capacidades mentais humanas deve ser permitido.",
+    "text": "Implantes cerebrais para ampliar capacidades mentais de pessoas saudáveis devem ser permitidos.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1661,7 +1661,7 @@
   {
     "id": "tecnologia_18",
     "axisId": "tecnologia",
-    "text": "A vida simples no campo é preferível à vida nas metrópoles.",
+    "text": "Prefiro uma vida rural com pouca dependência de tecnologias modernas.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1675,7 +1675,7 @@
   {
     "id": "tecnologia_20",
     "axisId": "tecnologia",
-    "text": "O uso de tecnologias para ampliar as capacidades físicas humanas deveria ser proibido.",
+    "text": "Sou contra implantes artificiais para ampliar as capacidades físicas de pessoas saudáveis.",
     "agreePole": "RIGHT",
     "weight": 1
   }

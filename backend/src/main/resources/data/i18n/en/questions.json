@@ -1,7 +1,7 @@
 [
   {
     "id": "estrutura_01",
-    "text": "Regional and local governments should have the autonomy to decide their own affairs without relying on the national government."
+    "text": "Regional and local governments should decide how to spend their own funds."
   },
   {
     "id": "estrutura_02",
@@ -57,7 +57,7 @@
   },
   {
     "id": "estrutura_15",
-    "text": "My country should be a union of regions with broad political autonomy."
+    "text": "The national government should exercise only powers expressly delegated by the regions."
   },
   {
     "id": "estrutura_16",
@@ -69,11 +69,11 @@
   },
   {
     "id": "estrutura_18",
-    "text": "A region should not be allowed to secede, even with the support of its local population."
+    "text": "A region's secession should require approval from the rest of the country."
   },
   {
     "id": "estrutura_19",
-    "text": "Local public services should be managed by local governments rather than the national government."
+    "text": "Public education should be managed by local governments rather than the national government."
   },
   {
     "id": "estrutura_20",
@@ -101,11 +101,11 @@
   },
   {
     "id": "representacao_06",
-    "text": "A competent leader should be able to govern without frequent elections."
+    "text": "Leaders should serve ten-year terms between elections."
   },
   {
     "id": "representacao_07",
-    "text": "Every adult citizen should have the right to vote, even when poorly informed about politics."
+    "text": "Voting should be secret, without voters having to reveal their choice."
   },
   {
     "id": "representacao_08",
@@ -153,7 +153,7 @@
   },
   {
     "id": "representacao_19",
-    "text": "Voting should be secret, without voters having to reveal their choice."
+    "text": "Even a government elected by a huge majority must allow the opposition to contest elections."
   },
   {
     "id": "representacao_20",
@@ -177,7 +177,7 @@
   },
   {
     "id": "poder_05",
-    "text": "Facial recognition cameras in the streets should be expanded to reduce crime."
+    "text": "I support expanding the use of facial recognition cameras in the streets."
   },
   {
     "id": "poder_06",
@@ -221,7 +221,7 @@
   },
   {
     "id": "poder_16",
-    "text": "Consensual sex work between adults should not be a criminal offense."
+    "text": "Private conduct between consenting adults should not be criminalized."
   },
   {
     "id": "poder_17",
@@ -233,7 +233,7 @@
   },
   {
     "id": "poder_19",
-    "text": "Terrorism suspects should be held without trial until the threat has passed."
+    "text": "The state should be allowed to hold terrorism suspects without trial until the threat has passed."
   },
   {
     "id": "poder_20",
@@ -257,11 +257,11 @@
   },
   {
     "id": "imigracao_05",
-    "text": "A country should refuse entry to immigrants who reject local customs."
+    "text": "The country should refuse entry to immigrants who refuse to respect local customs."
   },
   {
     "id": "imigracao_06",
-    "text": "Immigrants should not have to abandon their customs to live well in the country."
+    "text": "Immigrants should be able to obtain citizenship without abandoning their customs."
   },
   {
     "id": "imigracao_07",
@@ -269,11 +269,11 @@
   },
   {
     "id": "imigracao_08",
-    "text": "The country should encourage the preservation of cultures brought by immigrants."
+    "text": "The government should support cultural events held by immigrant communities."
   },
   {
     "id": "imigracao_09",
-    "text": "Countries have the right to prefer immigrants from cultures similar to their own."
+    "text": "The country should give preference to immigrants from cultures similar to its own."
   },
   {
     "id": "imigracao_10",
@@ -289,11 +289,11 @@
   },
   {
     "id": "imigracao_13",
-    "text": "Fluency in the country's main language should be a priority in immigration policy."
+    "text": "Citizenship should be granted only to immigrants fluent in the country's main language."
   },
   {
     "id": "imigracao_14",
-    "text": "Immigrants should not be judged by customs attributed to their country of origin."
+    "text": "Immigration applications should be assessed individually, without assuming values based on country of origin."
   },
   {
     "id": "imigracao_15",
@@ -321,7 +321,7 @@
   },
   {
     "id": "diplomacia_01",
-    "text": "A country should maintain strong armed forces to earn respect abroad."
+    "text": "The country should keep its armed forces ready for combat even in peacetime."
   },
   {
     "id": "diplomacia_02",
@@ -333,7 +333,7 @@
   },
   {
     "id": "diplomacia_04",
-    "text": "Wars are almost never worth it, even against hostile regimes."
+    "text": "I prefer avoiding war even when it could benefit my country."
   },
   {
     "id": "diplomacia_05",
@@ -341,15 +341,15 @@
   },
   {
     "id": "diplomacia_06",
-    "text": "Diplomatic negotiations should take priority over expanding the military arsenal."
+    "text": "The country should seek diplomatic agreements even if it must make concessions to adversaries."
   },
   {
     "id": "diplomacia_07",
-    "text": "My country should pursue nuclear weapons to avoid relying on protection from any foreign power."
+    "text": "My country should develop nuclear weapons."
   },
   {
     "id": "diplomacia_08",
-    "text": "Reducing military spending should be a priority to lower the risk of war."
+    "text": "The country should reduce its military spending."
   },
   {
     "id": "diplomacia_09",
@@ -377,7 +377,7 @@
   },
   {
     "id": "diplomacia_15",
-    "text": "The state should be allowed to conduct covert military operations in other countries."
+    "text": "My country should develop military drones."
   },
   {
     "id": "diplomacia_16",
@@ -413,7 +413,7 @@
   },
   {
     "id": "intervencao_04",
-    "text": "Foreign policy should prioritize my country's influence over its neighbors."
+    "text": "My country should use economic aid to increase its influence over neighboring countries."
   },
   {
     "id": "intervencao_05",
@@ -421,7 +421,7 @@
   },
   {
     "id": "intervencao_06",
-    "text": "My country should use its weight to defend its companies abroad."
+    "text": "My country should exert diplomatic pressure to defend its companies abroad."
   },
   {
     "id": "intervencao_07",
@@ -441,7 +441,7 @@
   },
   {
     "id": "intervencao_11",
-    "text": "My country should avoid joining exclusive geopolitical blocs."
+    "text": "My country should avoid blocs that require automatic alignment with other powers."
   },
   {
     "id": "intervencao_12",
@@ -525,7 +525,7 @@
   },
   {
     "id": "economia_12",
-    "text": "Lifetime job security for public employees should be abolished."
+    "text": "Lifetime job security for public employees should be reduced."
   },
   {
     "id": "economia_13",
@@ -553,11 +553,11 @@
   },
   {
     "id": "economia_19",
-    "text": "I prefer keeping state-owned companies under public control to selling them for less than they are worth."
+    "text": "I prefer keeping state-owned companies publicly owned even if they could be sold at market value."
   },
   {
     "id": "economia_20",
-    "text": "Roads should be run by private companies."
+    "text": "Public services should be managed by private companies even when funded by the state."
   },
   {
     "id": "controle_01",
@@ -569,7 +569,7 @@
   },
   {
     "id": "controle_03",
-    "text": "The central bank should obey the elected government, not act with total independence."
+    "text": "The elected government should set the inflation targets that guide the central bank."
   },
   {
     "id": "controle_04",
@@ -589,7 +589,7 @@
   },
   {
     "id": "controle_08",
-    "text": "I prefer limiting minimum-wage increases if they reduce job opportunities for the poorest workers."
+    "text": "Preserving jobs should take priority over minimum-wage increases."
   },
   {
     "id": "controle_09",
@@ -621,7 +621,7 @@
   },
   {
     "id": "controle_16",
-    "text": "The central bank should have autonomy over monetary policy, even against the government's wishes."
+    "text": "The central bank should set interest rates without needing government approval."
   },
   {
     "id": "controle_17",
@@ -641,7 +641,7 @@
   },
   {
     "id": "comercio_01",
-    "text": "Domestic industries should be protected with tariffs whenever necessary."
+    "text": "The government should impose tariffs to protect domestic industries from foreign competition."
   },
   {
     "id": "comercio_02",
@@ -665,7 +665,7 @@
   },
   {
     "id": "comercio_07",
-    "text": "The government should limit imports that threaten local jobs."
+    "text": "The government should set limits on the quantity of goods that can be imported."
   },
   {
     "id": "comercio_08",
@@ -677,7 +677,7 @@
   },
   {
     "id": "comercio_10",
-    "text": "My country should deepen trade ties with other countries."
+    "text": "My country should join a customs union with neighboring countries."
   },
   {
     "id": "comercio_11",
@@ -693,7 +693,7 @@
   },
   {
     "id": "comercio_14",
-    "text": "International trade should be expanded to support economic development."
+    "text": "Trade with other countries should expand even if it increases economic dependence."
   },
   {
     "id": "comercio_15",
@@ -701,7 +701,7 @@
   },
   {
     "id": "comercio_16",
-    "text": "My country should reduce import tariffs that raise consumer prices."
+    "text": "Import tariffs should be reduced even if that lowers government revenue."
   },
   {
     "id": "comercio_17",
@@ -717,11 +717,11 @@
   },
   {
     "id": "comercio_20",
-    "text": "Global economic integration should be deepened through more trade."
+    "text": "My country should accept common international trade rules even at the cost of autonomy to impose barriers."
   },
   {
     "id": "religiao_01",
-    "text": "Religion should not influence public policy."
+    "text": "The choice to follow a religion should be personal, without state interference."
   },
   {
     "id": "religiao_02",
@@ -729,7 +729,7 @@
   },
   {
     "id": "religiao_03",
-    "text": "Laws should be neutral and not follow the values of any religion."
+    "text": "Laws should treat people of all religious beliefs equally."
   },
   {
     "id": "religiao_04",
@@ -765,11 +765,11 @@
   },
   {
     "id": "religiao_12",
-    "text": "Society should give more room to faith in God."
+    "text": "Official ceremonies should include prayers to God."
   },
   {
     "id": "religiao_13",
-    "text": "Religious holidays should not be official in a secular state."
+    "text": "Religious holidays should not be national public holidays."
   },
   {
     "id": "religiao_14",
@@ -817,7 +817,7 @@
   },
   {
     "id": "moral_05",
-    "text": "I support race-based quotas to address inequality."
+    "text": "I support race-based quotas in university admissions."
   },
   {
     "id": "moral_06",
@@ -829,11 +829,11 @@
   },
   {
     "id": "moral_08",
-    "text": "I support ending race-based quotas."
+    "text": "I oppose race-based quotas for public-service jobs."
   },
   {
     "id": "moral_09",
-    "text": "Abortion early in pregnancy can be a morally acceptable choice."
+    "text": "I consider abortion early in pregnancy morally acceptable."
   },
   {
     "id": "moral_10",
@@ -873,7 +873,7 @@
   },
   {
     "id": "moral_19",
-    "text": "Nudity in films should be socially accepted."
+    "text": "Nudity on public beaches should be socially accepted."
   },
   {
     "id": "moral_20",
@@ -885,7 +885,7 @@
   },
   {
     "id": "tecnologia_02",
-    "text": "I prefer a way of life with less technology."
+    "text": "We should reduce the use of digital devices in everyday life."
   },
   {
     "id": "tecnologia_03",
@@ -893,7 +893,7 @@
   },
   {
     "id": "tecnologia_04",
-    "text": "Technologies used to alter human reproduction should be restricted."
+    "text": "Human cloning for reproduction should be prohibited."
   },
   {
     "id": "tecnologia_05",
@@ -917,7 +917,7 @@
   },
   {
     "id": "tecnologia_10",
-    "text": "Reducing the use of natural resources should take priority in the fight against global warming."
+    "text": "To curb global warming, we should use fewer fossil fuels even if transport becomes more expensive."
   },
   {
     "id": "tecnologia_11",
@@ -929,7 +929,7 @@
   },
   {
     "id": "tecnologia_13",
-    "text": "Life in big cities is preferable to life in the countryside."
+    "text": "I prefer living in cities with highly automated services."
   },
   {
     "id": "tecnologia_14",
@@ -937,7 +937,7 @@
   },
   {
     "id": "tecnologia_15",
-    "text": "The use of brain implants to enhance human mental abilities should be allowed."
+    "text": "Brain implants to enhance the mental abilities of healthy people should be allowed."
   },
   {
     "id": "tecnologia_16",
@@ -949,7 +949,7 @@
   },
   {
     "id": "tecnologia_18",
-    "text": "A simple life in the countryside is preferable to life in large cities."
+    "text": "I prefer rural living with little dependence on modern technology."
   },
   {
     "id": "tecnologia_19",
@@ -957,6 +957,6 @@
   },
   {
     "id": "tecnologia_20",
-    "text": "The use of technology to enhance human physical abilities should be prohibited."
+    "text": "I oppose artificial implants to enhance the physical abilities of healthy people."
   }
 ]
