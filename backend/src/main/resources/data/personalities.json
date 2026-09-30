@@ -4954,5 +4954,17 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Carney_portrait_May_2025.jpg",
     "imageNote": "Retrato de Mark Carney via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "helmut-kohl",
+    "name": "Helmut Kohl",
+    "role": "Ex-chanceler da Alemanha",
+    "category": "politico",
+    "lifespan": "1930–2017",
+    "description": "Chanceler alemão de 1982 a 1998, liderou a reunificação e a integração europeia. Democrata-cristão, combinou economia social de mercado, privatizações e proteção social com valores familiares conservadores e compromisso com a OTAN.",
+    "imagePath": "/personalities/portraits/helmut-kohl.jpg",
+    "imageSourceName": "CDU / KAS-ACDP · CC BY-SA 3.0 DE",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Helmut_Kohl_1989.jpg",
+    "imageNote": "Retrato de 1989, KAS/ACDP 10-030:200, via Wikimedia Commons. Imagem recomprimida; CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/)."
   }
 ]

@@ -29,22 +29,23 @@
     "lyndon-b-johnson",
     "angela-merkel",
     "olaf-scholz",
-    "mark-carney"
+    "mark-carney",
+    "helmut-kohl"
   ],
   "candidateCount": 31,
-  "pendingCount": 4,
+  "pendingCount": 3,
   "skippedCount": 0,
   "verification": {
-    "individualAuditValidators": "Passed for all twenty-seven against the current catalogue. Carney–Harris (97.1%) has reciprocal evidence-linked fingerprinted reviews; Carney–Scholz (95.7%) and Carney–Biden (95.3%) reviewed. Earlier reviews remain valid. No answers changed to manufacture distance.",
-    "archiveAndMetadataIntegrity": "verify_expansion.py passed: 27 added, 4 pending, 31 planned, 413 total. Saved vectors equal recomputation from all 240 answers plus five archetype answers.",
-    "backendFullSuite": "148 tests passed, zero failures, errors or skips.",
-    "backendUpdatedIntegration": "ExpandedPersonalityTest: 27 cases passed; each submits all 240 archived answers plus five archetype answers in Portuguese and English and receives the matching person at 100%.",
-    "frontend": "21 tests passed before the Rudd and later data-only additions; latest production build generated 1602 pages including PT/EN pages for all twenty-seven additions.",
+    "individualAuditValidators": "Passed for all twenty-eight against the current catalogue. Kohl–Adenauer (97.3%) has an evidence-linked fingerprinted review; Kohl–Kass and Kohl–Merz (both 95.9%) reviewed. Earlier reviews remain valid. No answers changed to manufacture distance.",
+    "archiveAndMetadataIntegrity": "verify_expansion.py passed: 28 added, 3 pending, 31 planned, 414 total. Saved vectors equal recomputation from all 240 answers plus five archetype answers.",
+    "backendFullSuite": "149 tests passed, zero failures, errors or skips.",
+    "backendUpdatedIntegration": "ExpandedPersonalityTest: 28 cases passed; each submits all 240 archived answers plus five archetype answers in Portuguese and English and receives the matching person at 100%.",
+    "frontend": "21 tests passed before the Rudd and later data-only additions; latest production build generated 1604 pages including PT/EN pages for all twenty-eight additions.",
     "similarityReviewTests": "6 tests passed, including stale review, exact duplicate, missing evidence and catalogue isolation checks.",
-    "visual": "All twenty-seven downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee, Johnson, Starmer, Farage, Lowe, Harris, Lloyd George, Clinton, Carter, Lyndon B. Johnson Merkel, Scholz and Carney; personality comparison tabs inspected for those except Hanson and Taylor. Quiz submission verified through backend integration tests, not browser submission.",
+    "visual": "All twenty-eight downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee, Johnson, Starmer, Farage, Lowe, Harris, Lloyd George, Clinton, Carter, Lyndon B. Johnson Merkel, Scholz, Carney and Kohl; personality comparison tabs inspected for those except Hanson and Taylor. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Complete four pending profiles: Helmut Kohl, Lech Wałęsa, David Ben-Gurion and Golda Meir. Then run final checks and submit and attach a draft PR. Twenty-seven additions are complete. Existing figures must not be duplicated. This checkpoint does not prove completion.",
+  "remaining": "Complete three pending profiles: Lech Wałęsa, David Ben-Gurion and Golda Meir. Then run final checks and submit and attach a draft PR. Twenty-eight additions are complete. Existing figures must not be duplicated. This checkpoint does not prove completion.",
   "scopeRevision": {
     "date": "2026-09-30",
     "previousCandidateCount": 247,
