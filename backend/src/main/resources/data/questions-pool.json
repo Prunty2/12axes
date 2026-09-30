@@ -16,14 +16,14 @@
   {
     "id": "estrutura_03",
     "axisId": "estrutura",
-    "text": "As leis devem ser definidas e os serviços administrados o mais próximo possível da população local.",
+    "text": "As leis sobre assuntos locais devem ser definidas pelos governos municipais.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "estrutura_04",
     "axisId": "estrutura",
-    "text": "Um currículo escolar único para todo o país é melhor do que cada estado ensinar de um jeito.",
+    "text": "Prefiro um currículo escolar nacional único a currículos definidos por cada estado.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -37,7 +37,7 @@
   {
     "id": "estrutura_06",
     "axisId": "estrutura",
-    "text": "Uma polícia única e nacional funcionaria melhor do que várias polícias estaduais autônomas.",
+    "text": "Prefiro uma polícia nacional única a várias polícias estaduais autônomas.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -128,7 +128,7 @@
   {
     "id": "estrutura_19",
     "axisId": "estrutura",
-    "text": "A educação pública deve ser administrada pelas prefeituras, não pelo governo federal.",
+    "text": "Os serviços públicos locais devem ser administrados pelas prefeituras, não pelo governo federal.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -177,14 +177,14 @@
   {
     "id": "representacao_06",
     "axisId": "representacao",
-    "text": "Um líder competente deveria poder governar sem eleições frequentes ou alternância obrigatória de poder.",
+    "text": "Um líder competente deveria poder governar sem eleições frequentes.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "representacao_07",
     "axisId": "representacao",
-    "text": "O voto secreto e universal é inegociável, mesmo para eleitores mal informados.",
+    "text": "Todo cidadão adulto deve ter direito de voto, mesmo quando for pouco informado sobre política.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -205,7 +205,7 @@
   {
     "id": "representacao_10",
     "axisId": "representacao",
-    "text": "Governantes deveriam ser escolhidos por competência, tradição ou sucessão, em vez de eleições populares.",
+    "text": "O chefe de governo deveria ser escolhido por sucessão hereditária, em vez de eleições populares.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -226,7 +226,7 @@
   {
     "id": "representacao_13",
     "axisId": "representacao",
-    "text": "Cargos públicos poderiam ser sorteados entre cidadãos comuns, como num júri, em vez de eleitos.",
+    "text": "Prefiro que cargos públicos sejam preenchidos por sorteio entre cidadãos comuns, em vez de eleições.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -261,21 +261,21 @@
   {
     "id": "representacao_18",
     "axisId": "representacao",
-    "text": "Reformas profundas não deveriam ser interrompidas por eleições frequentes ou alternância de poder.",
+    "text": "Um governante deveria poder permanecer no poder até concluir reformas profundas, mesmo após o fim de seu mandato.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "representacao_19",
     "axisId": "representacao",
-    "text": "Mesmo um governo eleito com enorme maioria deve respeitar todos os direitos da oposição.",
+    "text": "O voto deve ser secreto, sem que eleitores precisem revelar sua escolha.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "representacao_20",
     "axisId": "representacao",
-    "text": "Prefiro um regime autocrático que garanta ordem, segurança e prosperidade à democracia eleitoral.",
+    "text": "Prefiro um regime autocrático à democracia eleitoral se ele garantir maior segurança pública.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -289,7 +289,7 @@
   {
     "id": "poder_02",
     "axisId": "poder",
-    "text": "O consumo de maconha por adultos deveria ser legalizado ou descriminalizado.",
+    "text": "O consumo de maconha por adultos não deveria ser crime.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -317,7 +317,7 @@
   {
     "id": "poder_06",
     "axisId": "poder",
-    "text": "Condutas consensuais entre adultos, como uso de drogas, apostas e prostituição, não deveriam ser criminalizadas.",
+    "text": "Apostas entre adultos que participem voluntariamente não deveriam ser crime.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -380,14 +380,14 @@
   {
     "id": "poder_15",
     "axisId": "poder",
-    "text": "A pena de morte deveria ser adotada para crimes como estupro e assassinato.",
+    "text": "A pena de morte deveria ser adotada para assassinato.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "poder_16",
     "axisId": "poder",
-    "text": "Toda lei que proíbe o que adultos fazem em privado é um abuso do Estado.",
+    "text": "A prestação consensual de serviços sexuais entre adultos não deveria ser crime.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -422,7 +422,7 @@
   {
     "id": "imigracao_01",
     "axisId": "imigracao",
-    "text": "Quem imigra para um país deve aprender o idioma e adotar os costumes locais.",
+    "text": "Quem imigra para um país deve aprender o idioma predominante.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -436,7 +436,7 @@
   {
     "id": "imigracao_03",
     "axisId": "imigracao",
-    "text": "Fechar as fronteiras pode ser necessário para preservar a identidade cultural de um país.",
+    "text": "Sou a favor de fechar as fronteiras à imigração para preservar a identidade cultural do país.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -471,7 +471,7 @@
   {
     "id": "imigracao_08",
     "axisId": "imigracao",
-    "text": "A convivência de diferentes línguas e culturas deve ser incentivada no país.",
+    "text": "O país deve incentivar a preservação das culturas trazidas por imigrantes.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -499,7 +499,7 @@
   {
     "id": "imigracao_12",
     "axisId": "imigracao",
-    "text": "O Brasil deve continuar acolhendo imigrantes venezuelanos e haitianos.",
+    "text": "O Brasil deve acolher imigrantes de países que enfrentam crises graves.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -520,7 +520,7 @@
   {
     "id": "imigracao_15",
     "axisId": "imigracao",
-    "text": "Bairros cujos moradores imigrantes vivem isolados em sua própria cultura criam problemas para o país.",
+    "text": "O governo deve promover a integração dos bairros de imigrantes à cultura predominante do país.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -555,7 +555,7 @@
   {
     "id": "imigracao_20",
     "axisId": "imigracao",
-    "text": "A ideia de identidade nacional está ultrapassada: somos todos cidadãos do mundo.",
+    "text": "Prefiro uma identidade de cidadão do mundo a uma identidade nacional.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -618,7 +618,7 @@
   {
     "id": "diplomacia_09",
     "axisId": "diplomacia",
-    "text": "O serviço militar obrigatório é necessário para preparar o país para uma guerra.",
+    "text": "O serviço militar deve ser obrigatório para preparar o país para uma guerra.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -632,7 +632,7 @@
   {
     "id": "diplomacia_11",
     "axisId": "diplomacia",
-    "text": "A capacidade de fabricar armamentos próprios é essencial à defesa nacional.",
+    "text": "O país deve priorizar a fabricação nacional de armamentos para sua defesa.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -646,7 +646,7 @@
   {
     "id": "diplomacia_13",
     "axisId": "diplomacia",
-    "text": "Espionagem e operações militares secretas são ferramentas legítimas de um Estado.",
+    "text": "O Estado deve poder realizar espionagem contra outros países.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -660,7 +660,7 @@
   {
     "id": "diplomacia_15",
     "axisId": "diplomacia",
-    "text": "Drones e armas autônomas dão vantagem decisiva, e o Brasil deveria desenvolvê-los.",
+    "text": "O Estado deve poder realizar operações militares secretas em outros países.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -688,7 +688,7 @@
   {
     "id": "diplomacia_19",
     "axisId": "diplomacia",
-    "text": "A paz só existe quando o inimigo sabe que a resposta a um ataque será devastadora.",
+    "text": "O país deve ameaçar uma resposta militar devastadora para dissuadir ataques.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -842,7 +842,7 @@
   {
     "id": "economia_01",
     "axisId": "economia",
-    "text": "Uma revolução pode ser necessária para tirar o poder econômico das mãos de poucos.",
+    "text": "Sou a favor de uma revolução para redistribuir o poder econômico concentrado nas mãos de poucos.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -877,7 +877,7 @@
   {
     "id": "economia_06",
     "axisId": "economia",
-    "text": "Até estradas, polícia e tribunais poderiam ser administrados por empresas privadas.",
+    "text": "A polícia deveria ser administrada por empresas privadas.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -898,14 +898,14 @@
   {
     "id": "economia_09",
     "axisId": "economia",
-    "text": "Saúde, educação e água não deveriam funcionar sob a lógica do lucro.",
+    "text": "Os serviços de saúde não deveriam ser prestados com fins lucrativos.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "economia_10",
     "axisId": "economia",
-    "text": "Cobrar impostos é, no fundo, uma forma de roubo.",
+    "text": "Sou contra a cobrança obrigatória de impostos.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -919,7 +919,7 @@
   {
     "id": "economia_12",
     "axisId": "economia",
-    "text": "A estabilidade vitalícia dos servidores públicos deveria ser reduzida ou eliminada.",
+    "text": "A estabilidade vitalícia dos servidores públicos deveria ser eliminada.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -940,7 +940,7 @@
   {
     "id": "economia_15",
     "axisId": "economia",
-    "text": "A reforma agrária ainda é uma medida necessária no Brasil.",
+    "text": "O Brasil deveria redistribuir grandes propriedades rurais por meio de uma reforma agrária.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -968,28 +968,28 @@
   {
     "id": "economia_19",
     "axisId": "economia",
-    "text": "O risco de vender estatais por menos do que valem justifica mantê-las sob controle público.",
+    "text": "Prefiro manter estatais sob controle público a vendê-las por menos do que valem.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "economia_20",
     "axisId": "economia",
-    "text": "A gestão de serviços públicos deveria priorizar o setor privado.",
+    "text": "As estradas deveriam ser administradas por empresas privadas.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "controle_01",
     "axisId": "controle",
-    "text": "O governo deve planejar setores estratégicos como energia, moradia e indústria.",
+    "text": "O governo deve planejar o setor de energia.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "controle_02",
     "axisId": "controle",
-    "text": "Preços e salários deveriam ser definidos pelo mercado, sem intervenção do governo.",
+    "text": "Os preços dos produtos deveriam ser definidos pelo mercado, sem intervenção do governo.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1003,7 +1003,7 @@
   {
     "id": "controle_04",
     "axisId": "controle",
-    "text": "Empresas devem definir relações de trabalho com o mínimo de interferência do governo.",
+    "text": "Os salários deveriam ser definidos pelo mercado, sem intervenção do governo.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1031,7 +1031,7 @@
   {
     "id": "controle_08",
     "axisId": "controle",
-    "text": "O salário mínimo não deve ser alto demais, pois isso reduz os empregos disponíveis para os mais pobres.",
+    "text": "Prefiro limitar aumentos do salário mínimo se eles reduzirem as oportunidades de emprego dos trabalhadores mais pobres.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1066,7 +1066,7 @@
   {
     "id": "controle_13",
     "axisId": "controle",
-    "text": "Uma economia totalmente planejada pelo Estado funcionaria melhor do que o livre mercado.",
+    "text": "Prefiro uma economia totalmente planejada pelo Estado a uma economia de livre mercado.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1087,7 +1087,7 @@
   {
     "id": "controle_16",
     "axisId": "controle",
-    "text": "Um Banco Central independente vale mais do que a vontade política do governo da vez.",
+    "text": "O Banco Central deve ter autonomia para decidir a política monetária, mesmo contra a vontade do governo.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1108,7 +1108,7 @@
   {
     "id": "controle_19",
     "axisId": "controle",
-    "text": "O salário mínimo definido por lei protege o trabalhador mais do que a livre negociação.",
+    "text": "Deve haver um salário mínimo definido por lei, em vez de deixar todos os salários à livre negociação.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1164,14 +1164,14 @@
   {
     "id": "comercio_07",
     "axisId": "comercio",
-    "text": "O governo deve limitar importações que ameacem a indústria e o emprego local.",
+    "text": "O governo deve limitar importações que ameacem empregos locais.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "comercio_08",
     "axisId": "comercio",
-    "text": "O mundo estaria melhor sem fronteiras econômicas, funcionando como um único mercado global.",
+    "text": "Sou a favor de um mercado global único, sem fronteiras econômicas.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1206,7 +1206,7 @@
   {
     "id": "comercio_13",
     "axisId": "comercio",
-    "text": "As compras do governo e das estatais devem priorizar empresas brasileiras.",
+    "text": "As compras do governo devem priorizar empresas brasileiras.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1234,14 +1234,14 @@
   {
     "id": "comercio_17",
     "axisId": "comercio",
-    "text": "Cadeias estratégicas, como remédios e chips, devem ser protegidas da concorrência externa.",
+    "text": "A produção nacional de medicamentos deve ser protegida da concorrência externa.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "comercio_18",
     "axisId": "comercio",
-    "text": "As multinacionais são benéficas porque geram empregos e qualificam os trabalhadores locais.",
+    "text": "Sou a favor de permitir que multinacionais operem no país, mesmo concorrendo com empresas locais.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1262,14 +1262,14 @@
   {
     "id": "religiao_01",
     "axisId": "religiao",
-    "text": "Religião é assunto pessoal e não deve influenciar políticas públicas.",
+    "text": "A religião não deve influenciar políticas públicas.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "religiao_02",
     "axisId": "religiao",
-    "text": "A religião deve orientar minhas escolhas morais e políticas.",
+    "text": "A fé religiosa deve orientar minhas escolhas morais.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1297,14 +1297,14 @@
   {
     "id": "religiao_06",
     "axisId": "religiao",
-    "text": "A religião torna a vida em comunidade mais forte e deve ser incentivada.",
+    "text": "A prática religiosa deve ser incentivada na vida em comunidade.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "religiao_07",
     "axisId": "religiao",
-    "text": "Prédios públicos, como escolas e tribunais, não deveriam exibir símbolos religiosos.",
+    "text": "Escolas públicas não deveriam exibir símbolos religiosos.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1360,14 +1360,14 @@
   {
     "id": "religiao_15",
     "axisId": "religiao",
-    "text": "A palavra 'Deus' não deveria aparecer na Constituição e em discursos políticos.",
+    "text": "A palavra 'Deus' não deveria aparecer na Constituição.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "religiao_16",
     "axisId": "religiao",
-    "text": "A fé religiosa é necessária para dar sentido à vida.",
+    "text": "Prefiro buscar na fé religiosa o sentido da minha vida.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1381,21 +1381,21 @@
   {
     "id": "religiao_18",
     "axisId": "religiao",
-    "text": "Quando a lei dos homens contraria a lei de Deus, a lei de Deus vem primeiro.",
+    "text": "Quando uma lei contraria minha fé religiosa, devo seguir minha fé.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "religiao_19",
     "axisId": "religiao",
-    "text": "A moral pública não precisa se apoiar na crença em Deus.",
+    "text": "A moral pública deve ser fundamentada em princípios que não dependam da crença em Deus.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "religiao_20",
     "axisId": "religiao",
-    "text": "A fé religiosa é parte da identidade nacional e merece proteção.",
+    "text": "A fé religiosa deve ser protegida como parte da identidade nacional.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1423,21 +1423,21 @@
   {
     "id": "moral_04",
     "axisId": "moral",
-    "text": "Mudanças culturais não devem ser rápidas demais, porque acabam desestruturando a sociedade.",
+    "text": "Prefiro mudanças culturais graduais a mudanças culturais rápidas.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "moral_05",
     "axisId": "moral",
-    "text": "Cotas raciais ainda são necessárias para enfrentar desigualdades.",
+    "text": "Sou a favor de cotas raciais para enfrentar desigualdades.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "moral_06",
     "axisId": "moral",
-    "text": "Casamento de verdade é entre um homem e uma mulher.",
+    "text": "O casamento deve ser reconhecido apenas entre um homem e uma mulher.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1451,7 +1451,7 @@
   {
     "id": "moral_08",
     "axisId": "moral",
-    "text": "Cotas raciais deveriam ser encerradas para evitar divisões por cor.",
+    "text": "Sou a favor de encerrar as cotas raciais.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1465,14 +1465,14 @@
   {
     "id": "moral_10",
     "axisId": "moral",
-    "text": "O aborto é errado porque interrompe uma vida humana.",
+    "text": "Considero o aborto moralmente errado.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "moral_11",
     "axisId": "moral",
-    "text": "Adolescentes deveriam aprender sobre sexualidade e gênero sem tabus.",
+    "text": "Adolescentes deveriam receber educação sobre identidade de gênero.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1500,35 +1500,35 @@
   {
     "id": "moral_15",
     "axisId": "moral",
-    "text": "Reduzir o consumo de carne por respeito aos animais é um avanço moral.",
+    "text": "Devemos reduzir o consumo de carne por respeito aos animais.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "moral_16",
     "axisId": "moral",
-    "text": "Consumir pornografia ou drogas é um sinal de decadência moral.",
+    "text": "Considero o consumo de pornografia moralmente errado.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "moral_17",
     "axisId": "moral",
-    "text": "Relações abertas e poliamor são escolhas tão legítimas quanto o casamento tradicional.",
+    "text": "Relações afetivas consensuais com mais de um parceiro devem ser tão respeitadas quanto o casamento monogâmico.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "moral_18",
     "axisId": "moral",
-    "text": "O papel mais importante da mulher é cuidar da família e do lar.",
+    "text": "Cuidar da família deve ser a principal prioridade na vida de uma mulher.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "moral_19",
     "axisId": "moral",
-    "text": "A nudez no cinema, na arte e nas praias não deveria ser considerada ofensiva.",
+    "text": "A nudez em filmes deve ser socialmente aceita.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1542,28 +1542,28 @@
   {
     "id": "tecnologia_01",
     "axisId": "tecnologia",
-    "text": "Energia nuclear, IA e engenharia genética devem ser adotadas sem medo excessivo.",
+    "text": "Sou a favor de ampliar o uso da energia nuclear.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "tecnologia_02",
     "axisId": "tecnologia",
-    "text": "A humanidade viveria melhor com menos tecnologia, num modo de vida mais simples e natural.",
+    "text": "Prefiro um modo de vida com menos tecnologia.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "tecnologia_03",
     "axisId": "tecnologia",
-    "text": "IA e automação são bem-vindas, mesmo que eliminem muitas profissões atuais.",
+    "text": "Sou a favor de ampliar o uso de IA no trabalho, mesmo que isso elimine muitas profissões atuais.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "tecnologia_04",
     "axisId": "tecnologia",
-    "text": "Tecnologias que mexem no corpo, na mente ou na reprodução humana devem ser limitadas.",
+    "text": "Tecnologias usadas para alterar a reprodução humana devem ser limitadas.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1598,7 +1598,7 @@
   {
     "id": "tecnologia_09",
     "axisId": "tecnologia",
-    "text": "A edição genética deve ser permitida para aumentar a inteligência e prevenir doenças.",
+    "text": "A edição genética em humanos deve ser permitida para prevenir doenças.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1619,7 +1619,7 @@
   {
     "id": "tecnologia_12",
     "axisId": "tecnologia",
-    "text": "Mesmo uma mineração limpa na Amazônia ultrapassa um limite que não deveria ser cruzado.",
+    "text": "A mineração na Amazônia não deveria ser permitida, mesmo com baixo impacto ambiental.",
     "agreePole": "RIGHT",
     "weight": 1
   },
@@ -1633,14 +1633,14 @@
   {
     "id": "tecnologia_14",
     "axisId": "tecnologia",
-    "text": "Editar embriões para escolher inteligência ou aparência ultrapassa um limite ético.",
+    "text": "A edição genética de embriões para aumentar a inteligência deveria ser proibida.",
     "agreePole": "RIGHT",
     "weight": 1
   },
   {
     "id": "tecnologia_15",
     "axisId": "tecnologia",
-    "text": "Implantes cerebrais para ampliar as capacidades humanas são um caminho legítimo.",
+    "text": "O uso de implantes cerebrais para ampliar as capacidades mentais humanas deve ser permitido.",
     "agreePole": "LEFT",
     "weight": 1
   },
@@ -1668,14 +1668,14 @@
   {
     "id": "tecnologia_19",
     "axisId": "tecnologia",
-    "text": "Contra o aquecimento global, apostar em tecnologia faz mais sentido do que reduzir o consumo.",
+    "text": "No combate ao aquecimento global, prefiro priorizar soluções tecnológicas à redução do consumo.",
     "agreePole": "LEFT",
     "weight": 1
   },
   {
     "id": "tecnologia_20",
     "axisId": "tecnologia",
-    "text": "O corpo humano não deveria ser melhorado com chips e modificações artificiais.",
+    "text": "O uso de tecnologias para ampliar as capacidades físicas humanas deveria ser proibido.",
     "agreePole": "RIGHT",
     "weight": 1
   }

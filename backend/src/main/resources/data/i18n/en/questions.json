@@ -9,11 +9,11 @@
   },
   {
     "id": "estrutura_03",
-    "text": "Laws should be made and public services managed as close to local communities as possible."
+    "text": "Laws on local matters should be made by local governments."
   },
   {
     "id": "estrutura_04",
-    "text": "A single national school curriculum is better than allowing each region to set its own."
+    "text": "I prefer a single national school curriculum to curricula set by each region."
   },
   {
     "id": "estrutura_05",
@@ -21,7 +21,7 @@
   },
   {
     "id": "estrutura_06",
-    "text": "A single national police force would work better than several autonomous regional forces."
+    "text": "I prefer a single national police force to several autonomous regional forces."
   },
   {
     "id": "estrutura_07",
@@ -73,7 +73,7 @@
   },
   {
     "id": "estrutura_19",
-    "text": "Public education should be managed by local governments rather than the national government."
+    "text": "Local public services should be managed by local governments rather than the national government."
   },
   {
     "id": "estrutura_20",
@@ -101,11 +101,11 @@
   },
   {
     "id": "representacao_06",
-    "text": "A competent leader should be able to govern without frequent elections or mandatory changes in leadership."
+    "text": "A competent leader should be able to govern without frequent elections."
   },
   {
     "id": "representacao_07",
-    "text": "Secret and universal suffrage is non-negotiable, even for poorly informed voters."
+    "text": "Every adult citizen should have the right to vote, even when poorly informed about politics."
   },
   {
     "id": "representacao_08",
@@ -117,7 +117,7 @@
   },
   {
     "id": "representacao_10",
-    "text": "Leaders should be chosen by competence, tradition, or succession rather than by popular vote."
+    "text": "The head of government should be chosen by hereditary succession rather than popular elections."
   },
   {
     "id": "representacao_11",
@@ -129,7 +129,7 @@
   },
   {
     "id": "representacao_13",
-    "text": "Public offices could be filled by randomly selected citizens, as juries are, rather than by election."
+    "text": "I prefer public offices to be filled by randomly selected citizens rather than by election."
   },
   {
     "id": "representacao_14",
@@ -149,15 +149,15 @@
   },
   {
     "id": "representacao_18",
-    "text": "Major reforms should not be interrupted by frequent elections or changes in government."
+    "text": "A leader should be allowed to remain in power until major reforms are completed, even after their term ends."
   },
   {
     "id": "representacao_19",
-    "text": "Even a government elected by a huge majority must respect all the rights of the opposition."
+    "text": "Voting should be secret, without voters having to reveal their choice."
   },
   {
     "id": "representacao_20",
-    "text": "I would prefer an autocratic regime that guarantees order, security, and prosperity over electoral democracy."
+    "text": "I prefer an autocratic regime to electoral democracy if it guarantees greater public safety."
   },
   {
     "id": "poder_01",
@@ -165,7 +165,7 @@
   },
   {
     "id": "poder_02",
-    "text": "Adult cannabis use should be legalized or decriminalized."
+    "text": "Adult cannabis use should not be a criminal offense."
   },
   {
     "id": "poder_03",
@@ -181,7 +181,7 @@
   },
   {
     "id": "poder_06",
-    "text": "Consensual activities among adults, such as drug use, gambling, and sex work, should not be criminalized."
+    "text": "Gambling among consenting adults should not be a criminal offense."
   },
   {
     "id": "poder_07",
@@ -217,11 +217,11 @@
   },
   {
     "id": "poder_15",
-    "text": "The death penalty should be adopted for crimes such as rape and murder."
+    "text": "The death penalty should be adopted for murder."
   },
   {
     "id": "poder_16",
-    "text": "Any law that bans what adults do in private is an abuse by the state."
+    "text": "Consensual sex work between adults should not be a criminal offense."
   },
   {
     "id": "poder_17",
@@ -241,7 +241,7 @@
   },
   {
     "id": "imigracao_01",
-    "text": "Those who immigrate to a country should learn the language and adopt local customs."
+    "text": "People who immigrate to a country should learn its main language."
   },
   {
     "id": "imigracao_02",
@@ -249,7 +249,7 @@
   },
   {
     "id": "imigracao_03",
-    "text": "Closing the borders may be necessary to preserve a country's cultural identity."
+    "text": "I support closing the borders to immigration to preserve the country's cultural identity."
   },
   {
     "id": "imigracao_04",
@@ -269,7 +269,7 @@
   },
   {
     "id": "imigracao_08",
-    "text": "The coexistence of different languages and cultures should be encouraged in a country."
+    "text": "The country should encourage the preservation of cultures brought by immigrants."
   },
   {
     "id": "imigracao_09",
@@ -285,7 +285,7 @@
   },
   {
     "id": "imigracao_12",
-    "text": "My country should continue to welcome immigrants from countries facing severe crises."
+    "text": "My country should welcome immigrants from countries facing severe crises."
   },
   {
     "id": "imigracao_13",
@@ -297,7 +297,7 @@
   },
   {
     "id": "imigracao_15",
-    "text": "Neighborhoods whose immigrant residents remain culturally isolated create problems for the country."
+    "text": "The government should promote the integration of immigrant neighborhoods into the country's predominant culture."
   },
   {
     "id": "imigracao_16",
@@ -317,7 +317,7 @@
   },
   {
     "id": "imigracao_20",
-    "text": "The idea of national identity is outdated: we are all citizens of the world."
+    "text": "I prefer an identity as a citizen of the world to a national identity."
   },
   {
     "id": "diplomacia_01",
@@ -353,7 +353,7 @@
   },
   {
     "id": "diplomacia_09",
-    "text": "Mandatory military service is necessary to prepare a country for war."
+    "text": "Military service should be compulsory to prepare the country for war."
   },
   {
     "id": "diplomacia_10",
@@ -361,7 +361,7 @@
   },
   {
     "id": "diplomacia_11",
-    "text": "The ability to manufacture weapons domestically is essential to national defense."
+    "text": "The country should prioritize domestic weapons manufacturing for its defense."
   },
   {
     "id": "diplomacia_12",
@@ -369,7 +369,7 @@
   },
   {
     "id": "diplomacia_13",
-    "text": "Espionage and covert military operations are legitimate tools of a state."
+    "text": "The state should be allowed to conduct espionage against other countries."
   },
   {
     "id": "diplomacia_14",
@@ -377,7 +377,7 @@
   },
   {
     "id": "diplomacia_15",
-    "text": "Drones and autonomous weapons provide a decisive advantage, and my country should develop them."
+    "text": "The state should be allowed to conduct covert military operations in other countries."
   },
   {
     "id": "diplomacia_16",
@@ -393,7 +393,7 @@
   },
   {
     "id": "diplomacia_19",
-    "text": "Peace only exists when the enemy knows the response to an attack will be devastating."
+    "text": "The country should threaten a devastating military response to deter attacks."
   },
   {
     "id": "diplomacia_20",
@@ -481,7 +481,7 @@
   },
   {
     "id": "economia_01",
-    "text": "A revolution may be necessary to take economic power out of the hands of the few."
+    "text": "I support a revolution to redistribute economic power concentrated in the hands of a few."
   },
   {
     "id": "economia_02",
@@ -501,7 +501,7 @@
   },
   {
     "id": "economia_06",
-    "text": "Even roads, police, and courts could be managed by private companies."
+    "text": "The police should be run by private companies."
   },
   {
     "id": "economia_07",
@@ -513,11 +513,11 @@
   },
   {
     "id": "economia_09",
-    "text": "Healthcare, education, and water should not operate under the logic of profit."
+    "text": "Healthcare services should not be provided for profit."
   },
   {
     "id": "economia_10",
-    "text": "Collecting taxes is, in the end, a form of theft."
+    "text": "I oppose compulsory taxation."
   },
   {
     "id": "economia_11",
@@ -525,7 +525,7 @@
   },
   {
     "id": "economia_12",
-    "text": "Lifetime job security for public employees should be limited or eliminated."
+    "text": "Lifetime job security for public employees should be abolished."
   },
   {
     "id": "economia_13",
@@ -537,7 +537,7 @@
   },
   {
     "id": "economia_15",
-    "text": "Land reform is still a necessary measure in my country."
+    "text": "My country should redistribute large rural estates through land reform."
   },
   {
     "id": "economia_16",
@@ -553,19 +553,19 @@
   },
   {
     "id": "economia_19",
-    "text": "The risk of selling state-owned companies for less than they are worth justifies keeping them under public control."
+    "text": "I prefer keeping state-owned companies under public control to selling them for less than they are worth."
   },
   {
     "id": "economia_20",
-    "text": "Private companies should take priority in the management of public services."
+    "text": "Roads should be run by private companies."
   },
   {
     "id": "controle_01",
-    "text": "The government should plan strategic sectors such as energy, housing, and industry."
+    "text": "The government should plan the energy sector."
   },
   {
     "id": "controle_02",
-    "text": "Prices and wages should be set by the market without government intervention."
+    "text": "Product prices should be set by the market without government intervention."
   },
   {
     "id": "controle_03",
@@ -573,7 +573,7 @@
   },
   {
     "id": "controle_04",
-    "text": "Companies should set the terms of employment with minimal government interference."
+    "text": "Wages should be set by the market without government intervention."
   },
   {
     "id": "controle_05",
@@ -589,7 +589,7 @@
   },
   {
     "id": "controle_08",
-    "text": "The minimum wage should not be set too high, because that reduces jobs available to the poorest workers."
+    "text": "I prefer limiting minimum-wage increases if they reduce job opportunities for the poorest workers."
   },
   {
     "id": "controle_09",
@@ -609,7 +609,7 @@
   },
   {
     "id": "controle_13",
-    "text": "An economy fully planned by the state would work better than the free market."
+    "text": "I prefer an economy fully planned by the state to a free-market economy."
   },
   {
     "id": "controle_14",
@@ -621,7 +621,7 @@
   },
   {
     "id": "controle_16",
-    "text": "An independent central bank is worth more than the current government's political wishes."
+    "text": "The central bank should have autonomy over monetary policy, even against the government's wishes."
   },
   {
     "id": "controle_17",
@@ -633,7 +633,7 @@
   },
   {
     "id": "controle_19",
-    "text": "A minimum wage set by law protects workers more than free negotiation does."
+    "text": "There should be a legal minimum wage rather than leaving all wages to free negotiation."
   },
   {
     "id": "controle_20",
@@ -665,11 +665,11 @@
   },
   {
     "id": "comercio_07",
-    "text": "The government should limit imports that threaten local industry and jobs."
+    "text": "The government should limit imports that threaten local jobs."
   },
   {
     "id": "comercio_08",
-    "text": "The world would be better off without economic borders, working as a single global market."
+    "text": "I support a single global market without economic borders."
   },
   {
     "id": "comercio_09",
@@ -689,7 +689,7 @@
   },
   {
     "id": "comercio_13",
-    "text": "Purchases by governments and state-owned companies should give priority to domestic companies."
+    "text": "Government purchases should give priority to domestic companies."
   },
   {
     "id": "comercio_14",
@@ -705,11 +705,11 @@
   },
   {
     "id": "comercio_17",
-    "text": "Strategic supply chains, such as medicines and chips, should be protected from foreign competition."
+    "text": "Domestic medicine production should be protected from foreign competition."
   },
   {
     "id": "comercio_18",
-    "text": "Multinational companies are beneficial because they create jobs and train local workers."
+    "text": "I support allowing multinational companies to operate in the country, even when they compete with local companies."
   },
   {
     "id": "comercio_19",
@@ -721,11 +721,11 @@
   },
   {
     "id": "religiao_01",
-    "text": "Religion is a personal matter and should not influence public policy."
+    "text": "Religion should not influence public policy."
   },
   {
     "id": "religiao_02",
-    "text": "Faith should be the guide for my moral and political choices."
+    "text": "Religious faith should guide my moral choices."
   },
   {
     "id": "religiao_03",
@@ -741,11 +741,11 @@
   },
   {
     "id": "religiao_06",
-    "text": "Religion strengthens community life and should be encouraged."
+    "text": "Religious practice should be encouraged in community life."
   },
   {
     "id": "religiao_07",
-    "text": "Public buildings, such as schools and courts, should not display religious symbols."
+    "text": "Public schools should not display religious symbols."
   },
   {
     "id": "religiao_08",
@@ -777,11 +777,11 @@
   },
   {
     "id": "religiao_15",
-    "text": "The word 'God' should not appear in the constitution or in political speeches."
+    "text": "The word 'God' should not appear in the constitution."
   },
   {
     "id": "religiao_16",
-    "text": "Religious faith is necessary to give life meaning."
+    "text": "I prefer to seek the meaning of my life in religious faith."
   },
   {
     "id": "religiao_17",
@@ -789,15 +789,15 @@
   },
   {
     "id": "religiao_18",
-    "text": "When the law of men contradicts the law of God, the law of God comes first."
+    "text": "When a law conflicts with my religious faith, I should follow my faith."
   },
   {
     "id": "religiao_19",
-    "text": "Public morality does not need to be based on belief in God."
+    "text": "Public morality should be grounded in principles that do not depend on belief in God."
   },
   {
     "id": "religiao_20",
-    "text": "Religious faith is part of the national identity and deserves protection."
+    "text": "Religious faith should be protected as part of the national identity."
   },
   {
     "id": "moral_01",
@@ -813,15 +813,15 @@
   },
   {
     "id": "moral_04",
-    "text": "Cultural changes that come too fast end up destabilizing the whole of society."
+    "text": "I prefer gradual cultural change to rapid cultural change."
   },
   {
     "id": "moral_05",
-    "text": "Race-based quotas are still needed to address inequality."
+    "text": "I support race-based quotas to address inequality."
   },
   {
     "id": "moral_06",
-    "text": "Real marriage is between a man and a woman."
+    "text": "Marriage should be recognized only between a man and a woman."
   },
   {
     "id": "moral_07",
@@ -829,7 +829,7 @@
   },
   {
     "id": "moral_08",
-    "text": "Race-based quotas should be ended to avoid divisions along racial lines."
+    "text": "I support ending race-based quotas."
   },
   {
     "id": "moral_09",
@@ -837,11 +837,11 @@
   },
   {
     "id": "moral_10",
-    "text": "Abortion is wrong because it ends a human life."
+    "text": "I consider abortion morally wrong."
   },
   {
     "id": "moral_11",
-    "text": "Teenagers should learn about sexuality and gender without taboos."
+    "text": "Teenagers should receive education about gender identity."
   },
   {
     "id": "moral_12",
@@ -857,23 +857,23 @@
   },
   {
     "id": "moral_15",
-    "text": "Reducing meat consumption out of respect for animals is a moral advance."
+    "text": "We should reduce meat consumption out of respect for animals."
   },
   {
     "id": "moral_16",
-    "text": "Using pornography or drugs is a sign of moral decline."
+    "text": "I consider pornography use morally wrong."
   },
   {
     "id": "moral_17",
-    "text": "Open relationships and polyamory are choices as legitimate as traditional marriage."
+    "text": "Consensual romantic relationships with more than one partner should be respected as much as monogamous marriage."
   },
   {
     "id": "moral_18",
-    "text": "A woman's most important role is caring for the family and the home."
+    "text": "Caring for the family should be the main priority in a woman's life."
   },
   {
     "id": "moral_19",
-    "text": "Nudity in films, art, and on beaches should not be considered offensive."
+    "text": "Nudity in films should be socially accepted."
   },
   {
     "id": "moral_20",
@@ -881,19 +881,19 @@
   },
   {
     "id": "tecnologia_01",
-    "text": "Nuclear energy, AI, and genetic engineering should be embraced without excessive fear."
+    "text": "I support expanding the use of nuclear energy."
   },
   {
     "id": "tecnologia_02",
-    "text": "Humanity would live better with less technology, in a simpler, more natural way of life."
+    "text": "I prefer a way of life with less technology."
   },
   {
     "id": "tecnologia_03",
-    "text": "AI and automation are welcome, even if they eliminate many of today's professions."
+    "text": "I support expanding the use of AI at work, even if that eliminates many of today's professions."
   },
   {
     "id": "tecnologia_04",
-    "text": "Technologies that alter the human body, mind, or reproduction should be restricted."
+    "text": "Technologies used to alter human reproduction should be restricted."
   },
   {
     "id": "tecnologia_05",
@@ -913,7 +913,7 @@
   },
   {
     "id": "tecnologia_09",
-    "text": "Gene editing should be permitted to increase intelligence and prevent disease."
+    "text": "Human gene editing should be permitted to prevent disease."
   },
   {
     "id": "tecnologia_10",
@@ -925,7 +925,7 @@
   },
   {
     "id": "tecnologia_12",
-    "text": "Even low-impact mining in the Amazon rainforest crosses a line that should not be crossed."
+    "text": "Mining in the Amazon rainforest should not be allowed, even with low environmental impact."
   },
   {
     "id": "tecnologia_13",
@@ -933,11 +933,11 @@
   },
   {
     "id": "tecnologia_14",
-    "text": "Editing embryos to choose intelligence or looks crosses an ethical line."
+    "text": "Gene editing of embryos to increase intelligence should be prohibited."
   },
   {
     "id": "tecnologia_15",
-    "text": "Brain implants are a legitimate way to expand human abilities."
+    "text": "The use of brain implants to enhance human mental abilities should be allowed."
   },
   {
     "id": "tecnologia_16",
@@ -953,10 +953,10 @@
   },
   {
     "id": "tecnologia_19",
-    "text": "Against global warming, relying on technology makes more sense than cutting consumption."
+    "text": "In tackling global warming, I prefer prioritizing technological solutions over reducing consumption."
   },
   {
     "id": "tecnologia_20",
-    "text": "The human body should not be enhanced with chips and artificial modifications."
+    "text": "The use of technology to enhance human physical abilities should be prohibited."
   }
 ]
