@@ -2558,5 +2558,11 @@
     "name": "Angela Merkel",
     "role": "Former German chancellor",
     "description": "German chancellor from 2005 to 2021. A Christian Democrat, she combined a social market economy and fiscal restraint with European integration, refugee reception and the nuclear phase-out."
+  },
+  {
+    "id": "olaf-scholz",
+    "name": "Olaf Scholz",
+    "role": "Former German chancellor",
+    "description": "German chancellor from 2021 to 2025. A Social Democrat, he raised the minimum wage, supported industry and expanded civil rights. He strengthened defence and aid to Ukraine while resisting a direct war with Russia."
   }
 ]

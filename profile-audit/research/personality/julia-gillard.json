@@ -200,6 +200,34 @@
       "url": "https://www.pm.gov.au/media/podcast-interview-squiz",
       "factDate": "2025-01-21",
       "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "scholz-federalism",
+      "title": "Inaugural Bundesrat address",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/antrittsrede-von-bundeskanzler-olaf-scholz-2005572",
+      "factDate": "2022-02-11",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-cannabis",
+      "title": "Health Ministry account of the Cannabis Act",
+      "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/bt-beschliesst-kontrollierte-abgabe-von-cannabis-zu-konsumzwecken-pm-23-02-2024",
+      "factDate": "2024-02-23; regulated adult possession and cultivation, not unrestricted drug sales",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-uniper",
+      "title": "Uniper shareholder structure and rescue history",
+      "url": "https://www.uniper.energy/de/investoren/aktie/aktionaersstruktur",
+      "factDate": "September–December 2022 rescue; shareholding snapshot 2024-02-29",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-fiscal-reform",
+      "title": "Scholz campaign conference speech",
+      "url": "https://olaf-scholz.spd.de/aktuelles/detail/news/rede-anlaesslich-der-wahlsiegkonferenz/30/11/2024",
+      "factDate": "2024-11-30; limited debt-rule reform and higher taxes on the wealthiest",
+      "accessedOn": "2026-10-01"
     }
   ],
   "axes": {
@@ -365,6 +393,28 @@
         "multicultural",
         "hawke-structure",
         "hawke-euthanasia"
+      ]
+    },
+    {
+      "comparedWith": "olaf-scholz",
+      "answersSha256": "f52276541632e370220ba0b4faea1683c096f77eaea44a70bd42989402ea27ec",
+      "neighborVectorSha256": "7f069691b103fdceaa383fd02a94854cf054b969f26246ba53f259f06123fe1c",
+      "reason": "Both are secular parliamentary social democrats, but Scholz’s federalist speech supports more territorial autonomy than Gillard’s national coordination. His coalition legalised regulated cannabis while Gillard rejected decriminalisation. The Uniper rescue and late investment/debt-rule programme also leave Scholz more supportive of public ownership and economic intervention in these answers than Gillard’s mixed-provider, market-design record. Neither vector is identical; preserve the researched overlap.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "economia",
+        "controle"
+      ],
+      "sourceIds": [
+        "health",
+        "economy",
+        "drugs",
+        "security",
+        "scholz-federalism",
+        "scholz-cannabis",
+        "scholz-uniper",
+        "scholz-fiscal-reform"
       ]
     }
   ]

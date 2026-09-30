@@ -165,6 +165,34 @@
       "url": "https://pmtranscripts.pmc.gov.au/release/transcript-19005",
       "factDate": "2013-01-23",
       "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "scholz-federalism",
+      "title": "Inaugural Bundesrat address",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/antrittsrede-von-bundeskanzler-olaf-scholz-2005572",
+      "factDate": "2022-02-11",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-cannabis",
+      "title": "Health Ministry account of the Cannabis Act",
+      "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/bt-beschliesst-kontrollierte-abgabe-von-cannabis-zu-konsumzwecken-pm-23-02-2024",
+      "factDate": "2024-02-23; regulated adult possession and cultivation, not unrestricted drug sales",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-defence",
+      "title": "Scholz Zeitenwende policy statement",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/policy-statement-by-olaf-scholz-chancellor-of-the-federal-republic-of-germany-and-member-of-the-german-bundestag-27-february-2022-in-berlin-2008378",
+      "factDate": "2022-02-27; EUR 100 billion special fund and defence commitments",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-nonreligious",
+      "title": "Bundestag archived biography",
+      "url": "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/S/scholz_olaf-860468",
+      "factDate": "2021–2025 parliamentary biography; no religious affiliation",
+      "accessedOn": "2026-10-01"
     }
   ],
   "axes": {
@@ -311,6 +339,28 @@
         "gillard-faith",
         "gillard-economy",
         "gillard-security"
+      ]
+    },
+    {
+      "comparedWith": "olaf-scholz",
+      "answersSha256": "7804cf543c72329af893abdc1f77ff4f4f280e94abf4a939d459fec89413955e",
+      "neighborVectorSha256": "7f069691b103fdceaa383fd02a94854cf054b969f26246ba53f259f06123fe1c",
+      "reason": "These are different social-democratic leaders with shared welfare, market and equal-rights principles. Scholz’s Länder-focused federalism scores more decentralised than Albanese’s national-standards approach; regulated cannabis access and Germany’s NATO/sanctions role give different liberty and external-engagement results. Scholz’s explicit non-affiliation differs from Albanese’s Catholic upbringing and public-life account. The closeness is retained, not edited away.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "intervencao",
+        "religiao"
+      ],
+      "sourceIds": [
+        "cabinet",
+        "online",
+        "un",
+        "faith",
+        "scholz-federalism",
+        "scholz-cannabis",
+        "scholz-defence",
+        "scholz-nonreligious"
       ]
     }
   ]

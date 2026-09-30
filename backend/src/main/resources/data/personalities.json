@@ -4930,5 +4930,17 @@
     "imageSourceName": "Armin Linnartz / Wikimedia Commons · CC BY-SA 3.0 DE",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_Juli_2010_-_3zu4.jpg",
     "imageNote": "Foto de Armin Linnartz, julho de 2010. Versão da Wikimedia Commons redimensionada e comprimida; CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)."
+  },
+  {
+    "id": "olaf-scholz",
+    "name": "Olaf Scholz",
+    "role": "Ex-chanceler da Alemanha",
+    "category": "politico",
+    "lifespan": "1958–",
+    "description": "Chanceler alemão de 2021 a 2025. Social-democrata, elevou o salário mínimo, apoiou a indústria e ampliou direitos civis. Reforçou a defesa e o apoio à Ucrânia, mantendo cautela diante de uma guerra direta com a Rússia.",
+    "imagePath": "/personalities/portraits/olaf-scholz.jpg",
+    "imageSourceName": "© European Union 2023 – Source: EP / Laia Ros · CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Olaf_Scholz_head_2023.jpg",
+    "imageNote": "Retrato de 9 de maio de 2023. Recorte existente da Wikimedia Commons, redimensionado e comprimido; CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   }
 ]

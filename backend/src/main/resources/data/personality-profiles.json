@@ -6985,5 +6985,22 @@
       "moral": 52.7,
       "tecnologia": 48.8
     }
+  },
+  {
+    "personalityId": "olaf-scholz",
+    "vector": {
+      "estrutura": 59.3,
+      "representacao": 84.7,
+      "poder": 53.2,
+      "imigracao": 37.9,
+      "diplomacia": 45.7,
+      "intervencao": 32.9,
+      "economia": 68.7,
+      "controle": 60.4,
+      "comercio": 27.0,
+      "religiao": 64.3,
+      "moral": 77.6,
+      "tecnologia": 51.0
+    }
   }
 ]

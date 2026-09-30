@@ -1,0 +1,467 @@
+{
+  "id": "olaf-scholz",
+  "country": "Germany",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Chancellorship, December 2021–May 2025, including the final election programme.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Federal Chancellery biography",
+      "url": "https://www.bundeskanzler.de/bk-en/federal-chancellery/federal-chancellors-since-1949/olaf-scholz",
+      "factDate": "1958 birth; chancellorship December 2021–May 2025",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "nonreligious",
+      "title": "Bundestag archived biography",
+      "url": "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/S/scholz_olaf-860468",
+      "factDate": "2021–2025 parliamentary biography; no religious affiliation",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "federalism",
+      "title": "Inaugural Bundesrat address",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/antrittsrede-von-bundeskanzler-olaf-scholz-2005572",
+      "factDate": "2022-02-11",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "court-budget",
+      "title": "Scholz statement following the constitutional budget ruling",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/regierungserklaerung-von-bundeskanzler-olaf-scholz-2245460",
+      "factDate": "2023-11-28",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "programme",
+      "title": "Scholz inaugural policy statement",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/regierungserklaerung-von-bundeskanzler-olaf-scholz-1992008",
+      "factDate": "2021-12-15; proposed programme, not proof that every proposal became law",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "security",
+      "title": "Scholz statement on security and migration",
+      "url": "https://www.bundesregierung.de/breg-de/suche/scholz-sicherheitslage-2291096",
+      "factDate": "2024-06-06",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "security-package",
+      "title": "Interior Minister Faeser on the coalition security package",
+      "url": "https://www.bundesregierung.de/breg-de/suche/rede-der-bundesministerin-des-innern-und-fuer-heimat-nancy-faeser--2316548",
+      "factDate": "2024-10-18; coalition proposals and parliamentary debate",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "cannabis",
+      "title": "Health Ministry account of the Cannabis Act",
+      "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/bt-beschliesst-kontrollierte-abgabe-von-cannabis-zu-konsumzwecken-pm-23-02-2024",
+      "factDate": "2024-02-23; regulated adult possession and cultivation, not unrestricted drug sales",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "dying-debate",
+      "title": "Bundestag record of competing assisted-suicide proposals",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2023/kw27-de-suiziddebatte-954918",
+      "factDate": "2023-07-06; parliamentary context, no personal vote attributed",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "citizenship",
+      "title": "Government account of citizenship reform",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/modernisation-citizenship-law-2254382",
+      "factDate": "2024-01-19",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "citizenship-crosscheck",
+      "title": "AP report of citizenship reform and Scholz statement",
+      "url": "https://apnews.com/article/3039a42bf6985d2caafe62546e558c37",
+      "factDate": "2024-01-19",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "summer",
+      "title": "Scholz summer press conference: welfare, growth, migration and security",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/chancellor-summer-press-conference-2024-2301040",
+      "factDate": "2024-07-24",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "defence",
+      "title": "Scholz Zeitenwende policy statement",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/policy-statement-by-olaf-scholz-chancellor-of-the-federal-republic-of-germany-and-member-of-the-german-bundestag-27-february-2022-in-berlin-2008378",
+      "factDate": "2022-02-27; EUR 100 billion special fund and defence commitments",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "restraint",
+      "title": "Scholz Munich Security Conference address",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/scholz-muenchner-konferenz-2261080",
+      "factDate": "2024-02-17; deterrence and rejection of direct NATO-Russia war",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "uniper",
+      "title": "Uniper shareholder structure and rescue history",
+      "url": "https://www.uniper.energy/de/investoren/aktie/aktionaersstruktur",
+      "factDate": "September–December 2022 rescue; shareholding snapshot 2024-02-29",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "chips",
+      "title": "Scholz and the Intel Magdeburg investment agreement",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/investitionsentscheidung-intel-2198332",
+      "factDate": "2023-06-19; announced investment and government support, not a completed factory",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "fiscal-reform",
+      "title": "Scholz campaign conference speech",
+      "url": "https://olaf-scholz.spd.de/aktuelles/detail/news/rede-anlaesslich-der-wahlsiegkonferenz/30/11/2024",
+      "factDate": "2024-11-30; limited debt-rule reform and higher taxes on the wealthiest",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "campaign",
+      "title": "Scholz party-conference speech",
+      "url": "https://olaf-scholz.spd.de/aktuelles/detail/news/rede-auf-dem-bundesparteitag/11/01/2025",
+      "factDate": "2025-01-11; rent regulation, tax proposals and investment incentives",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "trade",
+      "title": "Reuters report on Scholz industry and trade speech",
+      "url": "https://www.marketscreener.com/quote/stock/MICROSOFT-CORPORATION-4835/news/Germany-must-forge-new-policy-to-save-its-industry-says-Scholz-48087816/",
+      "factDate": "2024-10-16",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "religion",
+      "title": "Scholz address to the Protestant Church reception",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-von-bundeskanzler-olaf-scholz-2198954",
+      "factDate": "2023-06-21; published 2023-06-24",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "gender",
+      "title": "Federal Agency for Civic Education account of the Self-Determination Act",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/555990/1-november-selbstbestimmungsgesetz-tritt-in-kraft/",
+      "factDate": "2024-10-31; law takes effect 2024-11-01",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "abortion",
+      "title": "Bundestag account of proposed abortion reform",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2024/kw49-de-schwangerschaftsabbruch-1032654",
+      "factDate": "2024-12-05 debate and 2025-02-10 hearing; proposal, not enacted repeal",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "abortion-support",
+      "title": "ZDF report identifying Scholz as a supporter of the abortion proposal",
+      "url": "https://www.zdfheute.de/briefing/macron-bitcoin-abtreibung-zdfheute-update-100.html",
+      "factDate": "2024-12-05",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "digital",
+      "title": "Scholz Digital Summit speech",
+      "url": "https://www.bundesregierung.de/breg-de/suche/rede-von-bundeskanzler-olaf-scholz-2317078",
+      "factDate": "2024-10; AI regulation, quantum computing and biotechnology",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "nuclear",
+      "title": "AP report of Scholz rejecting a nuclear-power revival",
+      "url": "https://apnews.com/article/684a51ee824a018dd29a7258a750d316",
+      "factDate": "2023-09-02",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "anthony-albanese-cabinet",
+      "title": "National Cabinet: national AI standards, firearms and shared responsibilities",
+      "url": "https://www.pm.gov.au/media/meeting-national-cabinet-26-august-26",
+      "factDate": "2026-08-26",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "anthony-albanese-online",
+      "title": "Social-media safeguards and government regulation",
+      "url": "https://www.pm.gov.au/media/press-conference-parliament-house-canberra-8-september-2026",
+      "factDate": "2026-09-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "anthony-albanese-un",
+      "title": "Albanese: national statement to the United Nations",
+      "url": "https://www.pm.gov.au/media/australias-national-statement",
+      "factDate": "2025-09-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "anthony-albanese-faith",
+      "title": "Albanese: Catholic upbringing and public life, Squiz interview",
+      "url": "https://www.pm.gov.au/media/podcast-interview-squiz",
+      "factDate": "2025-01-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "julia-gillard-health",
+      "title": "Gillard: national health standards, shared funding and local hospital control",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17661",
+      "factDate": "2011-02-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "julia-gillard-economy",
+      "title": "Gillard: market design, public and private providers, national standards and independent Reserve Bank",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17445",
+      "factDate": "2010-07-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "julia-gillard-drugs",
+      "title": "ABC: Gillard rejects decriminalisation while supporting addiction treatment",
+      "url": "https://www.abc.net.au/news/2012-04-03/eminent-group-calls-for-end-to-drug-prohibition/3928706",
+      "factDate": "2012-04-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "julia-gillard-security",
+      "title": "Gillard: National Security Strategy, defence, diplomacy, intelligence and rights",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-19005",
+      "factDate": "2013-01-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "keir-starmer-devolution",
+      "title": "English Devolution White Paper",
+      "url": "https://www.gov.uk/government/publications/english-devolution-white-paper-power-and-partnership-foundations-for-growth/english-devolution-white-paper",
+      "factDate": "2024-12-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "keir-starmer-defence",
+      "title": "Starmer Commons statement on defence and aid spending",
+      "url": "https://www.gov.uk/government/speeches/prime-ministers-oral-statement-to-the-house-of-commons-25-february-2025",
+      "factDate": "2025-02-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "keir-starmer-eu-limits",
+      "title": "Minister letter to Commons committee: EU reset red lines",
+      "url": "https://committees.parliament.uk/publications/47986/documents/250972/default/",
+      "factDate": "2025-05-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "keir-starmer-nuclear",
+      "title": "Government nuclear planning reforms",
+      "url": "https://www.gov.uk/government/news/government-rips-up-rules-to-fire-up-nuclear-power",
+      "factDate": "2025-02-06",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "federalism",
+        "programme"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "court-budget",
+        "religion",
+        "programme"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "security",
+        "security-package",
+        "cannabis",
+        "federalism",
+        "dying-debate",
+        "programme"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "citizenship",
+        "citizenship-crosscheck",
+        "summer",
+        "security",
+        "religion"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "defence",
+        "restraint",
+        "summer"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "defence",
+        "restraint",
+        "summer",
+        "religion"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "programme",
+        "summer",
+        "uniper",
+        "fiscal-reform"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "summer",
+        "fiscal-reform",
+        "campaign",
+        "chips",
+        "court-budget"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "chips",
+        "campaign"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "nonreligious",
+        "religion",
+        "programme"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "programme",
+        "gender",
+        "abortion",
+        "abortion-support",
+        "cannabis"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "digital",
+        "nuclear",
+        "chips",
+        "defence",
+        "programme"
+      ]
+    }
+  },
+  "uncertainties": [
+    "This is a reconstruction of Scholz’s December 2021–May 2025 chancellorship, including his final election programme. It does not attribute later Merz-government policies to him or claim that he remains chancellor. Greater weight is given to his mature governing record than to his early Juso activism.",
+    "Federal autonomy is bounded by the Basic Law, national rights and fiscal solidarity. Support for Länder government is not a right of unilateral secession. The education, municipal-law and minority-autonomy answers are institutional analogies, not proposals about Brazilian jurisdictions.",
+    "The court-budget speech accepts judicial finality after the government’s financing approach was ruled unconstitutional. It is evidence of constitutional accountability, not a claim that the government’s original budget was lawful. Parliamentary confidence mechanisms do not imply popular recall, legislative veto referenda or sortition.",
+    "Digital investigation support is limited to lawful, proportionate policing. The security-package source is Faeser speaking for his coalition; it is not a personal Scholz quotation or proof that every investigative proposal was enacted. Neutral street facial-recognition and phone-unlocking answers distinguish targeted identification from indiscriminate surveillance and self-incrimination.",
+    "Neutral false-information removal balances harmful unlawful content and pluralistic expression. Party prohibition is understood as a judicial constitutional measure against genuine threats, not a discretionary power to remove normal opposition. Death-penalty rejection, presumption of innocence and judicial limits on detention are constitutional inferences from his rule-of-law programme.",
+    "Vaccination support refers to his documented 2022 position; no general mandate is claimed to have become law. Emergency curfews remain a qualified inference under necessity, parliamentary law and proportionality. Cannabis reform is restricted adult access, not legalisation of cocaine or unrestricted commercial supply. The mixed private-conduct question remains neutral because regulated autonomy and health safeguards both matter.",
+    "Voluntary euthanasia remains neutral because the right to self-determined dying and protection against abuse pull in different directions. The parliamentary assisted-suicide debate alone does not establish his personal vote or endorsement of active euthanasia.",
+    "Citizenship reform and anti-discrimination support coexist with deportations and irregular-migration controls. Language and constitutional integration are distinguished from abandoning harmless cultural traditions. Neutral cultural-refusal exclusion separates civic obligations from conformity to every local custom. Refugee reception does not mean unlimited entry.",
+    "The defence answers retain the 2022 rearmament shift alongside his 2024 insistence on avoiding a direct NATO-Russia war. Nuclear opposition concerns an independent German arsenal, not NATO nuclear sharing. The combined drones/autonomous-weapons question remains neutral because armed drones do not establish support for autonomous lethal decisions. The war-almost-never-worthwhile item balances restraint with support for Ukraine’s armed resistance. Conscription rejection is a qualified inference from the period’s preference for professional and voluntary service, not categorical opposition to any future service model.",
+    "External influence refers to European leadership, allied deployments and sanctions rather than territorial expansion or unilateral regime change. International law constrains national interests. Neutrality is rejected in relation to the aggression against Ukraine, while diplomatic contacts remain legitimate.",
+    "Public ownership in the Uniper rescue is documented, but a crisis nationalisation does not establish support for collectivising all firms. Welfare is a need-based floor with labour-market obligations, not unconditional universal basic income. Neutral privatisation and private-service competition distinguish public guarantees from mixed delivery; healthcare support does not imply abolishing every private provider. Land reform is interpreted in Germany’s established-property context.",
+    "Labour bargaining, minimum wages, industrial subsidies and rent regulation support economic coordination within a market economy. Central-bank independence, exchange-rate and cryptocurrency responses are cautious applications of his European monetary and regulated-finance framework. The rent-freeze response is a qualified extension of rent-brake support during severe crises, not a claim that he enacted a universal national freeze.",
+    "The 2024–2025 debt-rule proposals are limited reforms for investment, not abolition of fiscal rules. Progressive tax proposals coexist with targeted relief for households and businesses. Neutral minimum-wage employment tradeoff balances his strong wage-floor support with the need for viable jobs. National-champion support means strategic projects, not blanket exclusion of foreign firms: the Intel proposal is a counterexample.",
+    "Trade openness coexists with strategic supply-chain security and local investment incentives. Neutral procurement, economic-sovereignty and tariff-last-resort answers preserve that tension. His objection to Chinese EV tariffs is directly reported; support for semiconductor capacity does not imply blanket import bans. The Intel source records announced intentions and support, not successful completion of the plant.",
+    "Religious non-affiliation and secular law do not mean hostility to churches. Neutral taxation and public-symbol answers preserve Germany’s cooperative church-state arrangements alongside equal treatment; respect for religious education and heritage is not an endorsement of compulsory belief.",
+    "The abortion answer draws on his reported support and the parliamentary proposal’s content; no enactment is claimed. The gender law concerns civil registration, not medical treatment. Equal adoption, sex education, sex work, pornography, open relationships and gendered language are qualified applications of equal rights and regulated adult autonomy. Neutral racial-quota items balance anti-discrimination with individual equality, not a claim that gender quotas prove support for race quotas. Neutral family authority balances parental responsibility with children’s rights and public education; neutral meat ethics separates climate policy from a personal moral judgement about diet.",
+    "The combined nuclear/AI/genetics item is neutral because he supports digital and biomedical innovation while rejecting a nuclear revival. City-versus-country responses are balanced: development should serve both. Neutral GM cultivation and enhancement implants distinguish scientific opportunity from ethical, ecological and safety limits. The gene-editing item bundles disease prevention with intelligence enhancement; disagreement reflects that ethical boundary, not rejection of medical research. Cultured meat, pesticides, mining and space are explicit hypothetical applications of climate protection and regulated technological progress, not reported personal proposals."
+  ],
+  "distinctions": [
+    "Likely neighbours are European social democrats and regulated-market progressives. Preserve industrial support, the Uniper rescue, NATO rearmament, civic integration, secular pluralism and nuclear phase-out.",
+    "Do not copy Merkel’s personal marriage vote or cannabis opposition, or attribute post-May-2025 government measures to Scholz."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Olaf_Scholz_head_2023.jpg",
+    "author": "European Union 2023 – Source: European Parliament / Laia Ros; existing Commons crop by Edelseider",
+    "license": "CC BY 4.0 (explicit source permission; Commons also lists CC BY 2.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Olaf_Scholz_head_2023.jpg",
+    "date": "2023-05-09",
+    "note": "Existing Commons crop resized to 480px and compressed from 3.35 MB to 18 KB. Source-requested European Union/EP credit retained.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "anthony-albanese",
+      "answersSha256": "dfc1d7927648d0372defdaa0b2b40ba49a4aa83006265bef40a37fceb1c2c60b",
+      "neighborVectorSha256": "4bd0e8ced39e9e92b7c7a8e7b2296515bb47f92abbc2d63327e1fb1d930955f7",
+      "reason": "These are different social-democratic leaders with shared welfare, market and equal-rights principles. Scholz’s Länder-focused federalism scores more decentralised than Albanese’s national-standards approach; regulated cannabis access and Germany’s NATO/sanctions role give different liberty and external-engagement results. Scholz’s explicit non-affiliation differs from Albanese’s Catholic upbringing and public-life account. The closeness is retained, not edited away.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "intervencao",
+        "religiao"
+      ],
+      "sourceIds": [
+        "federalism",
+        "cannabis",
+        "defence",
+        "nonreligious",
+        "anthony-albanese-cabinet",
+        "anthony-albanese-online",
+        "anthony-albanese-un",
+        "anthony-albanese-faith"
+      ]
+    },
+    {
+      "comparedWith": "julia-gillard",
+      "answersSha256": "dfc1d7927648d0372defdaa0b2b40ba49a4aa83006265bef40a37fceb1c2c60b",
+      "neighborVectorSha256": "c2a470d4881b47fae708eb58d97a0b16fd04300bea9e233f20832b71076c747a",
+      "reason": "Both are secular parliamentary social democrats, but Scholz’s federalist speech supports more territorial autonomy than Gillard’s national coordination. His coalition legalised regulated cannabis while Gillard rejected decriminalisation. The Uniper rescue and late investment/debt-rule programme also leave Scholz more supportive of public ownership and economic intervention in these answers than Gillard’s mixed-provider, market-design record. Neither vector is identical; preserve the researched overlap.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "economia",
+        "controle"
+      ],
+      "sourceIds": [
+        "federalism",
+        "cannabis",
+        "uniper",
+        "fiscal-reform",
+        "julia-gillard-health",
+        "julia-gillard-economy",
+        "julia-gillard-drugs",
+        "julia-gillard-security"
+      ]
+    },
+    {
+      "comparedWith": "keir-starmer",
+      "answersSha256": "dfc1d7927648d0372defdaa0b2b40ba49a4aa83006265bef40a37fceb1c2c60b",
+      "neighborVectorSha256": "f207d3729824676406d8c2d320c609005cf82316a65087d18dbe166ec33208b9",
+      "reason": "Shared regulated-market and civil-rights commitments explain the overlap. German federal autonomy differs from English devolution; Scholz’s caution about direct war and rejection of an independent nuclear arsenal differ from Starmer’s UK deterrent and defence commitments. Scholz’s trade openness and nuclear-power phase-out also distinguish him from Starmer’s trade red lines and nuclear expansion. No answers are changed to force separation.",
+      "differingAxes": [
+        "estrutura",
+        "diplomacia",
+        "comercio",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "federalism",
+        "restraint",
+        "trade",
+        "nuclear",
+        "keir-starmer-devolution",
+        "keir-starmer-defence",
+        "keir-starmer-eu-limits",
+        "keir-starmer-nuclear"
+      ]
+    }
+  ]
+}

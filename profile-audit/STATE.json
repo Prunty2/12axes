@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T14:12:54Z",
+  "lastUpdated": "2026-09-30T14:24:13Z",
   "personality": {
-    "totalProfiles": 411,
+    "totalProfiles": 412,
     "pending": [],
     "done": [
       "lenin",
@@ -415,7 +415,8 @@
       "hillary-clinton",
       "jimmy-carter",
       "lyndon-b-johnson",
-      "angela-merkel"
+      "angela-merkel",
+      "olaf-scholz"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -586,7 +587,7 @@
           "id": "olaf-scholz",
           "name": "Olaf Scholz",
           "country": "Germany",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "mark-carney",
