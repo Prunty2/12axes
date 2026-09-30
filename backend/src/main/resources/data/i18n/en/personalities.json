@@ -2456,5 +2456,11 @@
     "name": "Paul Keating",
     "role": "Former Australian prime minister",
     "description": "Labor prime minister from 1991 to 1996, he advanced market reform, compulsory superannuation and Indigenous rights. He championed a republic and closer Asian ties, later opposing AUKUS and nuclear power."
+  },
+  {
+    "id": "kevin-rudd",
+    "name": "Kevin Rudd",
+    "role": "Former Australian prime minister",
+    "description": "Labor prime minister in 2007–2010 and 2013, he led crisis stimulus, the apology to Indigenous Australians and Kyoto ratification. He combines social protection, Christian faith and multilateral diplomacy with support for AUKUS."
   }
 ]

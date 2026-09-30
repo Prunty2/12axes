@@ -10,20 +10,21 @@
     "pauline-hanson",
     "angus-taylor",
     "bob-hawke",
-    "paul-keating"
+    "paul-keating",
+    "kevin-rudd"
   ],
   "candidateCount": 247,
-  "pendingCount": 239,
+  "pendingCount": 238,
   "skippedCount": 0,
   "verification": {
-    "individualAuditValidators": "Passed for all eight against the current catalogue; evidence-bound close-match reviews also cover Hawke-Obama and Keating-Mattarella/Clinton.",
+    "individualAuditValidators": "Passed for all nine against the current catalogue; evidence-bound close-match reviews also cover Hawke-Obama and Keating-Mattarella/Clinton.",
     "archiveAndMetadataIntegrity": "verify_expansion.py passed; saved vectors equal recomputation from all 240 answers plus five archetype answers.",
-    "backendFullSuite": "129 tests passed, zero failures, errors or skips.",
-    "backendUpdatedIntegration": "ExpandedPersonalityTest: 8 cases passed; each submits all archived answers in Portuguese and English and receives the matching person at 100%.",
-    "frontend": "21 tests passed; production build generated 1564 pages including PT/EN pages for all eight additions.",
+    "backendFullSuite": "130 tests passed, zero failures, errors or skips.",
+    "backendUpdatedIntegration": "ExpandedPersonalityTest: 9 cases passed; each submits all archived answers in Portuguese and English and receives the matching person at 100%.",
+    "frontend": "21 tests passed before the Rudd data-only addition; the subsequent production build generated 1566 pages including PT/EN pages for all nine additions.",
     "similarityReviewTests": "6 tests passed, including stale review, exact duplicate, missing evidence and catalogue isolation checks.",
-    "visual": "All eight downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke and Keating; personality comparison tabs inspected for Howard, Albanese, Hawke and Keating. Quiz submission verified through backend integration tests, not browser submission.",
+    "visual": "All nine downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating and Rudd; personality comparison tabs inspected for Howard, Albanese, Hawke, Keating and Rudd. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Research and add or document justified skips for the remaining 239 candidates, including the other five required Australians; re-run complete final tests and generated-page checks; submit and attach a draft PR. This checkpoint does not prove completion."
+  "remaining": "Research and add or document justified skips for the remaining 238 candidates, including the other four required Australians; re-run complete final tests and generated-page checks; submit and attach a draft PR. This checkpoint does not prove completion."
 }

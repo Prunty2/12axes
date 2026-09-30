@@ -4726,5 +4726,17 @@
     "imageSourceName": "Commonwealth of Australia / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Keating_Paul_Portrait.jpg",
     "imageNote": "Retrato de 1993; Commonwealth of Australia, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Redimensionado e comprimido."
+  },
+  {
+    "id": "kevin-rudd",
+    "name": "Kevin Rudd",
+    "role": "Ex-primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1957–",
+    "description": "Primeiro-ministro trabalhista em 2007–2010 e 2013, liderou o estímulo anticrise, o pedido de desculpas aos povos indígenas e a adesão a Kyoto. Combina proteção social, fé cristã e diplomacia multilateral com apoio ao AUKUS.",
+    "imagePath": "/personalities/portraits/kevin-rudd.jpg",
+    "imageSourceName": "Department of Foreign Affairs and Trade / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kevin_Michael_Rudd_HOM_2023_Portrait_(3x4_cropped).jpg",
+    "imageNote": "Retrato de 2023; Department of Foreign Affairs and Trade (www.dfat.gov.au), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Recorte do Commons redimensionado e comprimido."
   }
 ]

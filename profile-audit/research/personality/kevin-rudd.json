@@ -1,0 +1,271 @@
+{
+  "id": "kevin-rudd",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Premiership 2007–2010 and 2013; 2006 conscience speeches and explicitly dated later positions through September 2026.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "naa-life",
+      "title": "National Archives: Kevin Rudd biography",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/kevin-rudd",
+      "factDate": "1957–; premiership 2007–2010 and 2013",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "naa-office",
+      "title": "National Archives: Rudd in office, climate, apology, stimulus and Fair Work",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/kevin-rudd/during-office",
+      "factDate": "2007–2013",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "health",
+      "title": "Rudd: proposed National Health and Hospitals Network",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17098",
+      "factDate": "2010-03-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "health-history",
+      "title": "Senate: hospital reform funding arrangements and subsequent revisions",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Health/Health/Final%20Report/c02",
+      "factDate": "2010–2011 arrangements",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "vision",
+      "title": "Rudd: Australia 2020, values, multiculturalism, public goods and world engagement",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-15873",
+      "factDate": "2008-04-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "death-penalty",
+      "title": "Rudd: universal opposition to the death penalty",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-16211",
+      "factDate": "2008-10-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Rudd: interview on Australian gun reform",
+      "url": "https://kevinrudd.com/archive/2018-03-19-kevin-rudd-qa-with-education-week-global-learning-blog",
+      "factDate": "2018-03-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "filter",
+      "title": "ALRC submission: scope and history of proposed mandatory internet filtering",
+      "url": "https://www.alrc.gov.au/wp-content/uploads/2019/08/ci_2522_l_green_w_attachments.pdf",
+      "factDate": "2007–2010 policy; submission 2011",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "assisted-dying",
+      "title": "WA parliamentary report reproducing Rudd concerns about pressure on elderly patients",
+      "url": "https://www.parliament.wa.gov.au/parliament/commit.nsf/%28Report%2BLookup%2Bby%2BCom%2BID%29/71C9AFECD0FAEE6E482582F200037B37/%24file/Joint%2BSelect%2BCommitte%2Bon%2Bthe%2BEnd%2Bof%2BLife%2BChoices%2B-%2BReport%2Bfor%2BWebsite.pdf",
+      "factDate": "2017-10-24 remarks; report 2018",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "png",
+      "title": "Rudd: Australia and Papua New Guinea Regional Settlement Arrangement",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-22764",
+      "factDate": "2013-07-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "defence-2026",
+      "title": "Rudd: AUKUS, deterrence, diplomacy and conditions for nuclear-powered submarines",
+      "url": "https://kevinrudd.com/media/kevin-rudd-on-aukus-his-past-remarks-and-how-to-avoid-war-crikey",
+      "factDate": "2026-09-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "industry-2026",
+      "title": "Rudd: National Press Club address, industrial policy and defence",
+      "url": "https://kevinrudd.com/media/national-press-club-address",
+      "factDate": "2026-09-10",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ai-2026",
+      "title": "Rudd: AI in US-China strategic competition, innovation and guardrails",
+      "url": "https://kevinrudd.com/media/adelaide-ai-speech",
+      "factDate": "2026-09-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gfc",
+      "title": "Rudd: UN speech on global financial reform",
+      "url": "https://kevinrudd.com/archive/2008-09-26-speech-to-the-un-on-global-financial-crisis",
+      "factDate": "2008-09-26",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "rba",
+      "title": "Rudd: first Cabinet meeting and enhanced Reserve Bank independence",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-15696",
+      "factDate": "2007-12-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nbn",
+      "title": "Rudd: NBN public investment, private participation and planned sell-down",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-16491",
+      "factDate": "2009-04-07",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "Rudd interview: Christian social ethics and matters of conscience",
+      "url": "https://www.abc.net.au/lateline/archive/articles/2006/10/02/s1753915.htm",
+      "factDate": "2006-10-02",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ru486",
+      "title": "Rudd parliamentary speech: RU486, faith, reason and family support",
+      "url": "https://www.openaustralia.org.au/debate/?id=2006-02-15.106.1",
+      "factDate": "2006-02-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "marriage",
+      "title": "Rudd: Church and State are able to have different positions on same-sex marriage",
+      "url": "https://kevinrudd.com/media/church-and-state-are-able-to-have-different-positions-on-same-sex-marriage",
+      "factDate": "2013-05-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "stem-cells",
+      "title": "Associated Press: Rudd opposed the 2006 therapeutic cloning bill",
+      "url": "https://www.cbsnews.com/news/aussie-lawmakers-end-ban-on-human-cloning/",
+      "factDate": "2006-12-06",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "health",
+        "health-history",
+        "vision"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "naa-office",
+        "health",
+        "industry-2026",
+        "defence-2026"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "death-penalty",
+        "guns",
+        "filter",
+        "assisted-dying",
+        "industry-2026",
+        "defence-2026"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "vision",
+        "png",
+        "industry-2026"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "defence-2026",
+        "industry-2026",
+        "vision"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "defence-2026",
+        "vision",
+        "naa-office"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "naa-office",
+        "vision",
+        "nbn",
+        "industry-2026"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "gfc",
+        "naa-office",
+        "rba",
+        "industry-2026"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "vision",
+        "defence-2026",
+        "industry-2026"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "ru486",
+        "marriage"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "marriage",
+        "ru486",
+        "naa-office",
+        "faith"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "ai-2026",
+        "industry-2026",
+        "stem-cells",
+        "defence-2026",
+        "naa-office"
+      ]
+    }
+  },
+  "uncertainties": [
+    "The profile follows his documented change to support civil same-sex marriage in May 2013 rather than retaining his earlier opposition.",
+    "His 2013 PNG policy concerned unauthorised boat arrivals, not all migrants or all refugees. Multiculturalism and border enforcement are therefore represented separately.",
+    "The proposed 2010 hospital funding arrangement was revised under Gillard; it evidences Rudd policy preferences, not the current healthcare system.",
+    "The original NBN proposal included majority public ownership during construction and a later sell-down. It is not evidence for permanent state ownership of every strategic company.",
+    "The September 2026 industrial-policy proposals update the career profile: international investment and trade coexist with support for sovereign manufacturing capacities.",
+    "His preference for human oversight of military AI constrains the bundled autonomous-weapons question. Enthusiasm for AI is not endorsement of uncontrolled deployment.",
+    "The mandatory internet filter is recorded as a proposal; no claim is made that it was implemented as originally designed.",
+    "Mandatory vaccination, forced phone unlocking, facial recognition, cryptocurrency, cultured meat, brain implants and several contemporary moral questions lack direct evidence. Answers are bounded editorial inference or neutral, not quotations.",
+    "RU486 support concerned which regulator should assess a drug under existing law; it does not establish that Rudd regarded every abortion as morally unobjectionable.",
+    "Assisted-dying reservations are based on his 2017 concerns reproduced in a WA parliamentary report. The 2006 cloning opposition is historically dated and does not imply opposition to all biotechnology.",
+    "The National Archives in-office summary includes chronological errors in some overseas-travel dates; these dates are not reproduced or relied upon.",
+    "Claims in partisan speeches about opponents, military statistics or AI incidents are not independently asserted as facts in the profile."
+  ],
+  "distinctions": [
+    "The profile combines Keynesian economic management with explicit support for Reserve Bank independence.",
+    "Compared with Keating, Rudd supports AUKUS and stronger collective regional deterrence, and places greater recent emphasis on industrial policy.",
+    "Christian social ethics and later marriage equality coexist; he is neither modelled as a secular progressive on every issue nor as an opponent of all social reform.",
+    "Multicultural public identity is retained alongside the restrictive 2013 asylum settlement policy."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Kevin_Michael_Rudd_HOM_2023_Portrait_(3x4_cropped).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Kevin_Michael_Rudd_HOM_2023_Portrait_%283x4_cropped%29.jpg/960px-Kevin_Michael_Rudd_HOM_2023_Portrait_%283x4_cropped%29.jpg",
+    "localPath": "frontend/public/personalities/portraits/kevin-rudd.jpg",
+    "note": "Real 2023 portrait, Department of Foreign Affairs and Trade, CC BY 4.0. Commons crop resized and compressed; visually inspected.",
+    "visuallyChecked": true
+  }
+}

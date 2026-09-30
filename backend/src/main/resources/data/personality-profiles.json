@@ -6696,5 +6696,22 @@
       "moral": 54.6,
       "tecnologia": 52.4
     }
+  },
+  {
+    "personalityId": "kevin-rudd",
+    "vector": {
+      "estrutura": 36.7,
+      "representacao": 84.7,
+      "poder": 58.0,
+      "imigracao": 36.0,
+      "diplomacia": 51.7,
+      "intervencao": 28.1,
+      "economia": 65.1,
+      "controle": 58.0,
+      "comercio": 41.3,
+      "religiao": 31.0,
+      "moral": 57.0,
+      "tecnologia": 45.2
+    }
   }
 ]
