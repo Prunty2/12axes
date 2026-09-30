@@ -23,8 +23,8 @@
     "nigel-farage",
     "rupert-lowe"
   ],
-  "candidateCount": 69,
-  "pendingCount": 50,
+  "candidateCount": 26,
+  "pendingCount": 7,
   "skippedCount": 0,
   "verification": {
     "individualAuditValidators": "Passed for all nineteen against the current catalogue. Lowe–Farage similarity (97.3%) has reciprocal, evidence-linked, fingerprinted reviews. Lowe similarity to Abbott (96.4%) and Flavio Bolsonaro (95.4%) reviewed. No answers changed to manufacture distance. Existing documented high-similarity reviews remain valid.",
@@ -36,7 +36,7 @@
     "visual": "All nineteen downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee, Johnson, Starmer, Farage and Lowe; personality comparison tabs inspected for those except Hanson and Taylor. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Research and add or document evidence-based skips for the remaining 50 candidates in the 69-person scope; run final checks and submit and attach a draft PR. The 179 candidates excluded by the scope reduction require no further work. All thirteen requested Australians and six selected UK additions, including Rupert Lowe, are complete. This checkpoint does not prove completion.",
+  "remaining": "Complete the seven retained candidates: Kamala Harris, Hillary Clinton, Jimmy Carter, Lyndon B. Johnson, Mark Carney, Angela Merkel and Olaf Scholz. Then run final checks and submit and attach a draft PR. Nineteen additions are complete. Justin Trudeau, Dominik Tarczyński, Xi Jinping and Kim Jong Un already have profiles and require no duplicate addition. The 179 originally excluded candidates and 43 newly excluded candidates require no further work. This checkpoint does not prove completion.",
   "scopeRevision": {
     "date": "2026-09-30",
     "previousCandidateCount": 247,
@@ -52,6 +52,28 @@
       ],
       "previousCandidateCount": 68,
       "candidateCount": 69
+    },
+    {
+      "date": "2026-09-30",
+      "userRequest": "Cut most of those because they are not noteable enough except for the US ones. Add Tredeau, Carney. Add Merkel, Scholz. Add Dominik Tarczynski. Add Xi Jinping if he's there. If he's not there, add Kim Jong Un if he's not there. You can cut most of those less notable European ones.",
+      "previousCandidateCount": 69,
+      "candidateCount": 26,
+      "removedFromScopeCount": 43,
+      "retainedPendingIds": [
+        "kamala-harris",
+        "hillary-clinton",
+        "jimmy-carter",
+        "lyndon-b-johnson",
+        "angela-merkel",
+        "olaf-scholz",
+        "mark-carney"
+      ],
+      "requestedAlreadyPresentIds": [
+        "justin-trudeau",
+        "dominik-tarczynski",
+        "xi-jinping",
+        "kim-jong-un"
+      ]
     }
   ]
 }

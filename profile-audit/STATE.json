@@ -1,6 +1,6 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T13:10:30Z",
+  "lastUpdated": "2026-09-30T13:13:13Z",
   "personality": {
     "totalProfiles": 405,
     "pending": [],
@@ -414,7 +414,7 @@
     "expansion": {
       "startedOn": "2026-09-30",
       "baseCommit": "a1dc5b4",
-      "scope": "Most notable current and historical politicians across the requested countries, reduced at the user's request on 2026-09-30. Retain all thirteen explicitly requested Australians and all completed additions; select four or five additions each for the UK, US, France, Germany and Canada, and one or two for each other country, accounting for notable figures already in the catalogue. Existing profiles are retained, not duplicated. Candidates without adequate evidence will be recorded as skipped. Rupert Lowe is an explicit user-requested addition to the UK shortlist, bringing the total to 69 candidates.",
+      "scope": "Narrowed again at the user’s request on 2026-09-30: preserve nineteen completed additions; finish Kamala Harris, Hillary Clinton, Jimmy Carter, Lyndon B. Johnson, Mark Carney, Angela Merkel and Olaf Scholz. Justin Trudeau, Dominik Tarczyński, Xi Jinping and Kim Jong Un are already in the catalogue and must not be duplicated. Other pending candidates have been removed from this expansion. Submit the draft PR after the retained work and final verification are complete.",
       "requiredAustralianIds": [
         "anthony-albanese",
         "pauline-hanson",
@@ -571,30 +571,6 @@
           "status": "pending"
         },
         {
-          "id": "marine-le-pen",
-          "name": "Marine Le Pen",
-          "country": "France",
-          "status": "pending"
-        },
-        {
-          "id": "francois-mitterrand",
-          "name": "François Mitterrand",
-          "country": "France",
-          "status": "pending"
-        },
-        {
-          "id": "jacques-chirac",
-          "name": "Jacques Chirac",
-          "country": "France",
-          "status": "pending"
-        },
-        {
-          "id": "nicolas-sarkozy",
-          "name": "Nicolas Sarkozy",
-          "country": "France",
-          "status": "pending"
-        },
-        {
           "id": "angela-merkel",
           "name": "Angela Merkel",
           "country": "Germany",
@@ -607,243 +583,9 @@
           "status": "pending"
         },
         {
-          "id": "helmut-kohl",
-          "name": "Helmut Kohl",
-          "country": "Germany",
-          "status": "pending"
-        },
-        {
-          "id": "willy-brandt",
-          "name": "Willy Brandt",
-          "country": "Germany",
-          "status": "pending"
-        },
-        {
           "id": "mark-carney",
           "name": "Mark Carney",
           "country": "Canada",
-          "status": "pending"
-        },
-        {
-          "id": "pierre-poilievre",
-          "name": "Pierre Poilievre",
-          "country": "Canada",
-          "status": "pending"
-        },
-        {
-          "id": "stephen-harper",
-          "name": "Stephen Harper",
-          "country": "Canada",
-          "status": "pending"
-        },
-        {
-          "id": "pierre-trudeau",
-          "name": "Pierre Trudeau",
-          "country": "Canada",
-          "status": "pending"
-        },
-        {
-          "id": "john-a-macdonald",
-          "name": "John A. Macdonald",
-          "country": "Canada",
-          "status": "pending"
-        },
-        {
-          "id": "jacinda-ardern",
-          "name": "Jacinda Ardern",
-          "country": "New Zealand",
-          "status": "pending"
-        },
-        {
-          "id": "christopher-luxon",
-          "name": "Christopher Luxon",
-          "country": "New Zealand",
-          "status": "pending"
-        },
-        {
-          "id": "giorgia-meloni",
-          "name": "Giorgia Meloni",
-          "country": "Italy",
-          "status": "pending"
-        },
-        {
-          "id": "silvio-berlusconi",
-          "name": "Silvio Berlusconi",
-          "country": "Italy",
-          "status": "pending"
-        },
-        {
-          "id": "jose-maria-aznar",
-          "name": "José María Aznar",
-          "country": "Spain",
-          "status": "pending"
-        },
-        {
-          "id": "felipe-gonzalez",
-          "name": "Felipe González",
-          "country": "Spain",
-          "status": "pending"
-        },
-        {
-          "id": "mario-soares",
-          "name": "Mário Soares",
-          "country": "Portugal",
-          "status": "pending"
-        },
-        {
-          "id": "antonio-costa",
-          "name": "António Costa",
-          "country": "Portugal",
-          "status": "pending"
-        },
-        {
-          "id": "mark-rutte",
-          "name": "Mark Rutte",
-          "country": "Netherlands",
-          "status": "pending"
-        },
-        {
-          "id": "geert-wilders",
-          "name": "Geert Wilders",
-          "country": "Netherlands",
-          "status": "pending"
-        },
-        {
-          "id": "guy-verhofstadt",
-          "name": "Guy Verhofstadt",
-          "country": "Belgium",
-          "status": "pending"
-        },
-        {
-          "id": "leo-varadkar",
-          "name": "Leo Varadkar",
-          "country": "Ireland",
-          "status": "pending"
-        },
-        {
-          "id": "eamon-de-valera",
-          "name": "Éamon de Valera",
-          "country": "Ireland",
-          "status": "pending"
-        },
-        {
-          "id": "carl-bildt",
-          "name": "Carl Bildt",
-          "country": "Sweden",
-          "status": "pending"
-        },
-        {
-          "id": "gro-harlem-brundtland",
-          "name": "Gro Harlem Brundtland",
-          "country": "Norway",
-          "status": "pending"
-        },
-        {
-          "id": "mette-frederiksen",
-          "name": "Mette Frederiksen",
-          "country": "Denmark",
-          "status": "pending"
-        },
-        {
-          "id": "sanna-marin",
-          "name": "Sanna Marin",
-          "country": "Finland",
-          "status": "pending"
-        },
-        {
-          "id": "sebastian-kurz",
-          "name": "Sebastian Kurz",
-          "country": "Austria",
-          "status": "pending"
-        },
-        {
-          "id": "christoph-blocher",
-          "name": "Christoph Blocher",
-          "country": "Switzerland",
-          "status": "pending"
-        },
-        {
-          "id": "alexis-tsipras",
-          "name": "Alexis Tsipras",
-          "country": "Greece",
-          "status": "pending"
-        },
-        {
-          "id": "kyriakos-mitsotakis",
-          "name": "Kyriakos Mitsotakis",
-          "country": "Greece",
-          "status": "pending"
-        },
-        {
-          "id": "donald-tusk",
-          "name": "Donald Tusk",
-          "country": "Poland",
-          "status": "pending"
-        },
-        {
-          "id": "lech-waesa",
-          "name": "Lech Wałęsa",
-          "country": "Poland",
-          "status": "pending"
-        },
-        {
-          "id": "vaclav-havel",
-          "name": "Václav Havel",
-          "country": "Czechia",
-          "status": "pending"
-        },
-        {
-          "id": "kaja-kallas",
-          "name": "Kaja Kallas",
-          "country": "Estonia",
-          "status": "pending"
-        },
-        {
-          "id": "shinzo-abe",
-          "name": "Shinzo Abe",
-          "country": "Japan",
-          "status": "pending"
-        },
-        {
-          "id": "junichiro-koizumi",
-          "name": "Junichiro Koizumi",
-          "country": "Japan",
-          "status": "pending"
-        },
-        {
-          "id": "kim-dae-jung",
-          "name": "Kim Dae-jung",
-          "country": "South Korea",
-          "status": "pending"
-        },
-        {
-          "id": "moon-jae-in",
-          "name": "Moon Jae-in",
-          "country": "South Korea",
-          "status": "pending"
-        },
-        {
-          "id": "tsai-ing-wen",
-          "name": "Tsai Ing-wen",
-          "country": "Taiwan",
-          "status": "pending"
-        },
-        {
-          "id": "lee-hsien-loong",
-          "name": "Lee Hsien Loong",
-          "country": "Singapore",
-          "status": "pending"
-        },
-        {
-          "id": "yitzhak-rabin",
-          "name": "Yitzhak Rabin",
-          "country": "Israel",
-          "status": "pending"
-        },
-        {
-          "id": "david-ben-gurion",
-          "name": "David Ben-Gurion",
-          "country": "Israel",
           "status": "pending"
         }
       ],
@@ -1944,6 +1686,290 @@
           ],
           "previousCandidateCount": 68,
           "candidateCount": 69
+        },
+        {
+          "date": "2026-09-30",
+          "userRequest": "Cut most of those because they are not noteable enough except for the US ones. Add Tredeau, Carney. Add Merkel, Scholz. Add Dominik Tarczynski. Add Xi Jinping if he's there. If he's not there, add Kim Jong Un if he's not there. You can cut most of those less notable European ones.",
+          "previousCandidateCount": 69,
+          "candidateCount": 26,
+          "removedFromScopeCount": 43,
+          "excludedFromScope": [
+            {
+              "id": "marine-le-pen",
+              "name": "Marine Le Pen",
+              "country": "France",
+              "status": "pending"
+            },
+            {
+              "id": "francois-mitterrand",
+              "name": "François Mitterrand",
+              "country": "France",
+              "status": "pending"
+            },
+            {
+              "id": "jacques-chirac",
+              "name": "Jacques Chirac",
+              "country": "France",
+              "status": "pending"
+            },
+            {
+              "id": "nicolas-sarkozy",
+              "name": "Nicolas Sarkozy",
+              "country": "France",
+              "status": "pending"
+            },
+            {
+              "id": "helmut-kohl",
+              "name": "Helmut Kohl",
+              "country": "Germany",
+              "status": "pending"
+            },
+            {
+              "id": "willy-brandt",
+              "name": "Willy Brandt",
+              "country": "Germany",
+              "status": "pending"
+            },
+            {
+              "id": "pierre-poilievre",
+              "name": "Pierre Poilievre",
+              "country": "Canada",
+              "status": "pending"
+            },
+            {
+              "id": "stephen-harper",
+              "name": "Stephen Harper",
+              "country": "Canada",
+              "status": "pending"
+            },
+            {
+              "id": "pierre-trudeau",
+              "name": "Pierre Trudeau",
+              "country": "Canada",
+              "status": "pending"
+            },
+            {
+              "id": "john-a-macdonald",
+              "name": "John A. Macdonald",
+              "country": "Canada",
+              "status": "pending"
+            },
+            {
+              "id": "jacinda-ardern",
+              "name": "Jacinda Ardern",
+              "country": "New Zealand",
+              "status": "pending"
+            },
+            {
+              "id": "christopher-luxon",
+              "name": "Christopher Luxon",
+              "country": "New Zealand",
+              "status": "pending"
+            },
+            {
+              "id": "giorgia-meloni",
+              "name": "Giorgia Meloni",
+              "country": "Italy",
+              "status": "pending"
+            },
+            {
+              "id": "silvio-berlusconi",
+              "name": "Silvio Berlusconi",
+              "country": "Italy",
+              "status": "pending"
+            },
+            {
+              "id": "jose-maria-aznar",
+              "name": "José María Aznar",
+              "country": "Spain",
+              "status": "pending"
+            },
+            {
+              "id": "felipe-gonzalez",
+              "name": "Felipe González",
+              "country": "Spain",
+              "status": "pending"
+            },
+            {
+              "id": "mario-soares",
+              "name": "Mário Soares",
+              "country": "Portugal",
+              "status": "pending"
+            },
+            {
+              "id": "antonio-costa",
+              "name": "António Costa",
+              "country": "Portugal",
+              "status": "pending"
+            },
+            {
+              "id": "mark-rutte",
+              "name": "Mark Rutte",
+              "country": "Netherlands",
+              "status": "pending"
+            },
+            {
+              "id": "geert-wilders",
+              "name": "Geert Wilders",
+              "country": "Netherlands",
+              "status": "pending"
+            },
+            {
+              "id": "guy-verhofstadt",
+              "name": "Guy Verhofstadt",
+              "country": "Belgium",
+              "status": "pending"
+            },
+            {
+              "id": "leo-varadkar",
+              "name": "Leo Varadkar",
+              "country": "Ireland",
+              "status": "pending"
+            },
+            {
+              "id": "eamon-de-valera",
+              "name": "Éamon de Valera",
+              "country": "Ireland",
+              "status": "pending"
+            },
+            {
+              "id": "carl-bildt",
+              "name": "Carl Bildt",
+              "country": "Sweden",
+              "status": "pending"
+            },
+            {
+              "id": "gro-harlem-brundtland",
+              "name": "Gro Harlem Brundtland",
+              "country": "Norway",
+              "status": "pending"
+            },
+            {
+              "id": "mette-frederiksen",
+              "name": "Mette Frederiksen",
+              "country": "Denmark",
+              "status": "pending"
+            },
+            {
+              "id": "sanna-marin",
+              "name": "Sanna Marin",
+              "country": "Finland",
+              "status": "pending"
+            },
+            {
+              "id": "sebastian-kurz",
+              "name": "Sebastian Kurz",
+              "country": "Austria",
+              "status": "pending"
+            },
+            {
+              "id": "christoph-blocher",
+              "name": "Christoph Blocher",
+              "country": "Switzerland",
+              "status": "pending"
+            },
+            {
+              "id": "alexis-tsipras",
+              "name": "Alexis Tsipras",
+              "country": "Greece",
+              "status": "pending"
+            },
+            {
+              "id": "kyriakos-mitsotakis",
+              "name": "Kyriakos Mitsotakis",
+              "country": "Greece",
+              "status": "pending"
+            },
+            {
+              "id": "donald-tusk",
+              "name": "Donald Tusk",
+              "country": "Poland",
+              "status": "pending"
+            },
+            {
+              "id": "lech-waesa",
+              "name": "Lech Wałęsa",
+              "country": "Poland",
+              "status": "pending"
+            },
+            {
+              "id": "vaclav-havel",
+              "name": "Václav Havel",
+              "country": "Czechia",
+              "status": "pending"
+            },
+            {
+              "id": "kaja-kallas",
+              "name": "Kaja Kallas",
+              "country": "Estonia",
+              "status": "pending"
+            },
+            {
+              "id": "shinzo-abe",
+              "name": "Shinzo Abe",
+              "country": "Japan",
+              "status": "pending"
+            },
+            {
+              "id": "junichiro-koizumi",
+              "name": "Junichiro Koizumi",
+              "country": "Japan",
+              "status": "pending"
+            },
+            {
+              "id": "kim-dae-jung",
+              "name": "Kim Dae-jung",
+              "country": "South Korea",
+              "status": "pending"
+            },
+            {
+              "id": "moon-jae-in",
+              "name": "Moon Jae-in",
+              "country": "South Korea",
+              "status": "pending"
+            },
+            {
+              "id": "tsai-ing-wen",
+              "name": "Tsai Ing-wen",
+              "country": "Taiwan",
+              "status": "pending"
+            },
+            {
+              "id": "lee-hsien-loong",
+              "name": "Lee Hsien Loong",
+              "country": "Singapore",
+              "status": "pending"
+            },
+            {
+              "id": "yitzhak-rabin",
+              "name": "Yitzhak Rabin",
+              "country": "Israel",
+              "status": "pending"
+            },
+            {
+              "id": "david-ben-gurion",
+              "name": "David Ben-Gurion",
+              "country": "Israel",
+              "status": "pending"
+            }
+          ],
+          "retainedPendingIds": [
+            "kamala-harris",
+            "hillary-clinton",
+            "jimmy-carter",
+            "lyndon-b-johnson",
+            "angela-merkel",
+            "olaf-scholz",
+            "mark-carney"
+          ],
+          "requestedAlreadyPresentIds": [
+            "justin-trudeau",
+            "dominik-tarczynski",
+            "xi-jinping",
+            "kim-jong-un"
+          ],
+          "interpretation": "Trudeau means Justin Trudeau. Retain all four US candidates from the current shortlist and the three explicitly requested missing profiles. Other pending candidates are removed from this expansion; completed additions and existing catalogue entries are retained. Justin Trudeau, Dominik Tarczyński, Xi Jinping and Kim Jong Un were verified to already have PT/EN metadata, twelve-axis profiles and portraits.",
+          "exclusionNote": "Scope reduction requested by the user; these are not researched evidence-quality skips."
         }
       ]
     }
