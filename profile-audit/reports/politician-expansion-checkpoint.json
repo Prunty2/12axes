@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "status": "implementation_complete",
+  "status": "complete",
   "branch": "feature/expand-politician-comparisons",
   "added": [
     "anthony-albanese",
@@ -48,7 +48,7 @@
     "visual": "All 31 portraits inspected. English profile pages inspected for all additions except Menzies and Whitlam; personality comparison tabs inspected for all except Menzies, Whitlam, Hanson and Taylor. Wałęsa, Ben-Gurion and Meir detail pages and comparison tabs passed the final browser spot check. Quiz submissions verified by backend integration tests, not a full browser questionnaire run.",
     "preservation": "All 386 pre-existing PT metadata, EN metadata and saved vector records equal base a1dc5b4 exactly. Runtime quiz/scoring code unchanged."
   },
-  "remaining": "Create and attach the requested draft PR; implementation and local verification are complete.",
+  "remaining": "None. The requested 31-profile expansion is complete and the draft PR has been submitted.",
   "scopeRevision": {
     "date": "2026-09-30",
     "previousCandidateCount": 247,
@@ -116,5 +116,11 @@
       "historicalExclusionNote": "Earlier scope exclusions remain as history. This amendment restores these five people to active work; Lech Wałęsa uses the corrected transliterated slug lech-walesa, replacing the never-added candidate slug lech-waesa."
     }
   ],
-  "prWritingPreference": "User requests a confident, compelling case for merging. Lead with the concrete catalogue improvement, complete quiz integration, preserved existing profiles and actual passing checks. Keep every claim factual and do not hide material limitations or describe simulations as personal questionnaire responses."
+  "prWritingPreference": "User requests a confident, compelling case for merging. Lead with the concrete catalogue improvement, complete quiz integration, preserved existing profiles and actual passing checks. Keep every claim factual and do not hide material limitations or describe simulations as personal questionnaire responses.",
+  "pullRequest": {
+    "url": "https://github.com/Prunty2/12axes/pull/1",
+    "draft": true,
+    "base": "Prunty2/12axes:main",
+    "head": "feature/expand-politician-comparisons"
+  }
 }
