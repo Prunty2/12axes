@@ -1,0 +1,211 @@
+{
+  "id": "lech-walesa",
+  "country": "Poland",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Solidarity leadership, 1980–1989, and presidency, 1990–1995.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Lech Wałęsa Institute: biography",
+      "url": "https://walesa.org/pl/fundator/biografia",
+      "factDate": "1980–1995; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "nobel",
+      "title": "Nobel Peace Prize 1983",
+      "url": "https://www.nobelprize.org/prizes/peace/1983/summary/",
+      "factDate": "1983; nonviolent union and human-rights struggle",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "pace",
+      "title": "Wałęsa address and answers to the Council of Europe",
+      "url": "https://assembly.coe.int/nw/xml/Speeches/Speech-XML2HTML-EN.asp?SpeechID=249",
+      "factDate": "1992-02-04",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "presidency",
+      "title": "CIDOB: Lech Walesa",
+      "url": "https://www.cidob.org/en/lider-politico/lech-walesa",
+      "factDate": "Biography covering events through 2001; presidency 1990–1995",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "local",
+      "title": "RFE/RL: establishment of the Lech Wałęsa Institute",
+      "url": "https://www.rferl.org/a/1141103.html",
+      "factDate": "1996-02-06; decentralisation and Catholic social teaching",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "rights",
+      "title": "Amnesty International report on Poland in 1995",
+      "url": "https://www.refworld.org/reference/annualreport/amnesty/1996/en/72202",
+      "factDate": "1996; 1995 events and death-penalty moratorium",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "minorities",
+      "title": "Wałęsa renounces antisemitism in meeting with American Jews",
+      "url": "https://www.jta.org/archive/walesa-renounces-anti-semitism-in-meeting-with-american-jews",
+      "factDate": "1990-12-14",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "reconciliation",
+      "title": "Wałęsa vows to fight antisemitism",
+      "url": "https://www.jta.org/archive/walesa-vows-to-fight-anti-semitism-blaming-himself-partly-for-revival",
+      "factDate": "1991-03-25",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "nato",
+      "title": "NATO: Poland and NATO",
+      "url": "https://www.nato.int/cps/fr/natohq/declassified_223582.htm",
+      "factDate": "1990–1999; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "russia",
+      "title": "Library of Congress country study: Soviet Union and Russia",
+      "url": "https://www.countrystudies.us/poland/89.htm",
+      "factDate": "1992; troop withdrawal and bilateral cooperation",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "abortion",
+      "title": "Le Monde/AFP: Wałęsa vetoes abortion amendment",
+      "url": "https://www.lemonde.fr/archives/article/1994/07/06/pologne-lech-walesa-bloque-la-loi-sur-l-avortement_3820876_1819218.html",
+      "factDate": "1994-07-06; veto on July 4",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "technology",
+      "title": "Wałęsa oral history: Winning the Development Battle",
+      "url": "https://www.bushcenter.org/freedom-collection/lech-walesa-winning-the-development-battle",
+      "factDate": "Retrospective interview on communications technology and communism",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "investment",
+      "title": "World Bank research on foreign investment in Central and Eastern Europe",
+      "url": "https://documents1.worldbank.org/curated/en/804451468771530709/pdf/multi-page.pdf",
+      "factDate": "1991 investment appeal described retrospectively",
+      "accessedOn": "2026-10-01"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "local",
+        "presidency"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "bio",
+        "presidency",
+        "pace"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "nobel",
+        "rights",
+        "presidency",
+        "technology"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "pace",
+        "minorities",
+        "reconciliation"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "nobel",
+        "nato",
+        "russia"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "bio",
+        "nato",
+        "russia"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "pace",
+        "presidency",
+        "bio"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "pace",
+        "presidency"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "pace",
+        "investment"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "presidency",
+        "local",
+        "pace"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "abortion",
+        "presidency",
+        "local"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "technology",
+        "pace",
+        "local"
+      ]
+    }
+  },
+  "uncertainties": [
+    "This is a historical profile of Solidarity leadership and the 1990–1995 presidency, not a claim about every opinion expressed in retirement. The early-1996 institute principles corroborate the preceding period. Later retrospective interviews are used only to explain his earlier experience.",
+    "Local self-government does not imply a federation of sovereign provinces or secession. Central police, common labour guarantees and presidential coordination coexist with municipal discretion. Indigenous-law questions are analogies to protected minority autonomy within a national legal order.",
+    "His democratic achievement does not erase executive overreach: he sought stronger presidential powers, clashed with cabinets and resisted constraints. Electoral legitimacy, opposition and universal suffrage remain distinct from enthusiasm for parliamentary checks in every crisis. A qualified agreement on emergency executive authority reflects that tension, not endorsement of permanent dictatorship.",
+    "Death-penalty neutrality balances the continuing penal framework and the moratorium during the end of his presidency; no personal categorical statement was verified. The rights source describes Poland, not every measure as his personal initiative. Public-health and weapons answers apply ordinary public-safety limits; surveillance and preventive detention are constrained by his experience of repression. Facial-recognition neutrality balances crime prevention and monitoring abuse.",
+    "Conservative drug and euthanasia answers apply his Catholic social principles, not a verified personal vote on each hypothetical. Phone unlocking and payments questions stress resistance to general surveillance, without asserting that all judicial investigation is illegitimate.",
+    "The minority record is mixed: his public repudiation of antisemitism and subsequent acknowledgement of responsibility matter alongside contentious campaign rhetoric. Protected language education and heritage do not mean unlimited immigration. Neutral cultural preference and migration caps reflect national identity alongside pluralism; his refugee remarks called for European cooperation, not treating civilians as an invading army.",
+    "Nobel recognition concerns nonviolent resistance, not abolition of national defence. NATO membership was pursued during his presidency and achieved after it. Modern weapons are analogies to accountable defensive capability; independent nuclear weapons are rejected. Preventive-force neutrality distinguishes imminent defence from a speculative war. Military service answers reflect a defence system with civic obligations, not proof of an individual proposal for Brazil.",
+    "International cooperation and sovereignty are simultaneous priorities. Neutral overseas bases and regional leadership distinguish cooperative alliance arrangements from domination. Sanctions may defend sovereignty, but disliking a government is not sufficient by itself. No contemporary conflict position is projected backwards.",
+    "Economic answers retain both union self-organisation and market transition. Worker participation is not mandatory worker ownership of every large firm. Privatisation is selective and sequenced; welfare support is needs-based. National development finance and essential services coexist with commercial competition.",
+    "Currency stability and recession relief can conflict. Neutral exchange-rate control and national champions preserve that balance. Cryptocurrency is a hypothetical application of the need for monetary institutions, not an attributed 1990s statement. Trade answers combine reciprocal European access with transitional industrial and employment protection.",
+    "Catholic public ethics and an acknowledged civil church-state distinction do not imply clerical rule. Religious identity means the Polish cultural context, not imposing Catholicism on a foreign country. Modern gender, adoption, polyamory, language and sex-work questions extrapolate the period’s family ethic; racial-quota neutrality balances equal citizenship with remedies for exclusion.",
+    "Technology answers support modernisation while applying environmental and Catholic ethical limits. No individual statement on AI, embryo selection, cultivated meat or brain chips is claimed. Neutral automation weighs productivity against workers’ displacement; neutral urban/rural preferences value both settings. Therapeutic medicine is distinguished from unrestricted enhancement. Environmental commitments were explicitly qualified by economic capacity."
+  ],
+  "distinctions": [
+    "Potential neighbours are Catholic democrats and anticommunist reformers. Distinguish union leadership, selective privatisation, strong elected presidential power and negotiation from clerical authoritarianism or laissez-faire libertarianism."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Lech_Wałęsa_prezydent_RP.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lech_Wa%C5%82%C4%99sa_prezydent_RP.jpg",
+    "author": "Chancellery of the President of Poland",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "date": "Undated official presidential portrait",
+    "note": "Recompressed from 21 KB to 7 KB; CC BY-SA 3.0 retained.",
+    "visuallyChecked": true
+  }
+}

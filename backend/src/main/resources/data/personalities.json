@@ -4966,5 +4966,41 @@
     "imageSourceName": "CDU / KAS-ACDP · CC BY-SA 3.0 DE",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Helmut_Kohl_1989.jpg",
     "imageNote": "Retrato de 1989, KAS/ACDP 10-030:200, via Wikimedia Commons. Imagem recomprimida; CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/)."
+  },
+  {
+    "id": "lech-walesa",
+    "name": "Lech Wałęsa",
+    "role": "Ex-presidente da Polônia",
+    "category": "politico",
+    "lifespan": "1943–",
+    "description": "Líder do Solidariedade e presidente da Polônia de 1990 a 1995, ajudou a encerrar o regime comunista. Combinou sindicalismo independente, transição ao mercado, valores católicos e aproximação às instituições europeias e atlânticas.",
+    "imagePath": "/personalities/portraits/lech-walesa.jpg",
+    "imageSourceName": "Chancellery of the President of Poland · CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lech_Wałęsa_prezydent_RP.jpg",
+    "imageNote": "Retrato oficial via Wikimedia Commons, recomprimido; CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+  },
+  {
+    "id": "david-ben-gurion",
+    "name": "David Ben-Gurion",
+    "role": "Primeiro primeiro-ministro de Israel",
+    "category": "politico",
+    "lifespan": "1886–1973",
+    "description": "Fundador e primeiro premiê de Israel, associou sionismo trabalhista, imigração judaica e construção de instituições nacionais. Defendeu planejamento econômico, ciência e força militar, mantendo compromissos religiosos e restrições de segurança aos árabes.",
+    "imagePath": "/personalities/portraits/david-ben-gurion.jpg",
+    "imageSourceName": "Fritz Cohen / GPO · Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:David_Ben_Gurion.jpg",
+    "imageNote": "Retrato de 1960, acervo GPO D597-087, via Wikimedia Commons; recorte existente redimensionado e recomprimido."
+  },
+  {
+    "id": "golda-meir",
+    "name": "Golda Meir",
+    "role": "Ex-primeira-ministra de Israel",
+    "category": "politico",
+    "lifespan": "1898–1978",
+    "description": "Primeira-ministra de Israel de 1969 a 1974, veio do sionismo trabalhista e ampliou a proteção social. Defendeu imigração judaica e segurança militar, preservou compromissos religiosos e aceitou acordos de separação de forças após a guerra de 1973.",
+    "imagePath": "/personalities/portraits/golda-meir.jpg",
+    "imageSourceName": "Marion S. Trikosko / Library of Congress",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Golda_Meir_03265u-2.jpg",
+    "imageNote": "Retrato de 1973, acervo US News & World Report da Library of Congress, via Wikimedia Commons; versão redimensionada e recomprimida."
   }
 ]

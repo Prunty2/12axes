@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T14:50:36Z",
+  "lastUpdated": "2026-09-30T15:07:57Z",
   "personality": {
-    "totalProfiles": 414,
+    "totalProfiles": 417,
     "pending": [],
     "done": [
       "lenin",
@@ -418,7 +418,10 @@
       "angela-merkel",
       "olaf-scholz",
       "mark-carney",
-      "helmut-kohl"
+      "helmut-kohl",
+      "lech-walesa",
+      "david-ben-gurion",
+      "golda-meir"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -613,19 +616,19 @@
           "id": "lech-walesa",
           "name": "Lech Wałęsa",
           "country": "Poland",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "david-ben-gurion",
           "name": "David Ben-Gurion",
           "country": "Israel",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "golda-meir",
           "name": "Golda Meir",
           "country": "Israel",
-          "status": "pending"
+          "status": "added"
         }
       ],
       "scopeRevision": {

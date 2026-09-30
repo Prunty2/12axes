@@ -2576,5 +2576,23 @@
     "name": "Helmut Kohl",
     "role": "Former German chancellor",
     "description": "German chancellor from 1982 to 1998, he led reunification and European integration. A Christian Democrat, he combined a social-market economy, privatisation and social insurance with conservative family values and commitment to NATO."
+  },
+  {
+    "id": "lech-walesa",
+    "name": "Lech Wałęsa",
+    "role": "Former Polish president",
+    "description": "Solidarity leader and Polish president from 1990 to 1995, he helped end communist rule. He combined independent trade unionism, market transition, Catholic values and closer ties with European and Atlantic institutions."
+  },
+  {
+    "id": "david-ben-gurion",
+    "name": "David Ben-Gurion",
+    "role": "Founding prime minister of Israel",
+    "description": "Israel’s founding prime minister combined Labour Zionism, Jewish immigration and national institutions. He promoted economic planning, science and military strength while retaining religious compromises and security restrictions on Arab citizens."
+  },
+  {
+    "id": "golda-meir",
+    "name": "Golda Meir",
+    "role": "Former Israeli prime minister",
+    "description": "Israeli prime minister from 1969 to 1974, she emerged from Labour Zionism and expanded social protection. She backed Jewish immigration and military security, retained religious compromises and accepted disengagement agreements after the 1973 war."
   }
 ]

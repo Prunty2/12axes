@@ -7036,5 +7036,56 @@
       "moral": 23.2,
       "tecnologia": 44.0
     }
+  },
+  {
+    "personalityId": "lech-walesa",
+    "vector": {
+      "estrutura": 42.6,
+      "representacao": 75.1,
+      "poder": 48.4,
+      "imigracao": 43.1,
+      "diplomacia": 33.6,
+      "intervencao": 41.0,
+      "economia": 56.8,
+      "controle": 45.0,
+      "comercio": 37.7,
+      "religiao": 9.5,
+      "moral": 16.5,
+      "tecnologia": 42.9
+    }
+  },
+  {
+    "personalityId": "david-ben-gurion",
+    "vector": {
+      "estrutura": 9.3,
+      "representacao": 60.9,
+      "poder": 75.8,
+      "imigracao": 81.7,
+      "diplomacia": 87.4,
+      "intervencao": 19.8,
+      "economia": 72.7,
+      "controle": 79.3,
+      "comercio": 62.1,
+      "religiao": 43.2,
+      "moral": 35.7,
+      "tecnologia": 73.7
+    }
+  },
+  {
+    "personalityId": "golda-meir",
+    "vector": {
+      "estrutura": 16.4,
+      "representacao": 74.0,
+      "poder": 68.7,
+      "imigracao": 73.3,
+      "diplomacia": 68.3,
+      "intervencao": 23.3,
+      "economia": 76.2,
+      "controle": 71.0,
+      "comercio": 45.5,
+      "religiao": 45.6,
+      "moral": 39.3,
+      "tecnologia": 56.0
+    }
   }
 ]
