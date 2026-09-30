@@ -1,0 +1,316 @@
+{
+  "id": "clement-attlee",
+  "country": "United Kingdom",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Labour leadership and government, 1935–1955, incorporating explicitly dated later votes and statements through October 1965",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "GOV.UK: Clement Attlee, premiership and legislation",
+      "url": "https://www.gov.uk/government/history/past-prime-ministers/clement-attlee",
+      "factDate": "1883–1967; premiership 1945–1951",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "manifesto",
+      "title": "Labour: Let Us Face the Future, reproduced by Fordham University",
+      "url": "https://sourcebooks.web.fordham.edu/mod/1945labour-letsusface.asp",
+      "factDate": "1945",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "parliament",
+      "title": "UK Parliament: Attlee and reform of the House of Lords",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseoflords/house-of-lords-reform/from-the-collections/from-the-parliamentary-collections-the-parliament-act/clement-attlee/",
+      "factDate": "1947–1949",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "welsh-council",
+      "title": "National Library of Wales: administrative history of the Council for Wales",
+      "url": "https://archives.library.wales/index.php/fourth-memorandum-of-the-council-for-wales-and-monmouthshire-and-the-reply-of-the-prime-minister",
+      "factDate": "Council established May 1949; archival description accompanying 1959 document",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "devolution-context",
+      "title": "Hansard: Rosebery reports Attlee earlier endorsement of a federal framework",
+      "url": "https://api.parliament.uk/historic-hansard/lords/1947/nov/13/scottish-affairs",
+      "factDate": "1947-11-13, referring to 1945 speech",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "vetting",
+      "title": "Hansard: Attlee explains civil-service security vetting",
+      "url": "https://hansard.parliament.uk/Commons/1948-03-25/debates/ef98157e-5d21-4da6-ac09-72ad17428df5/CivilService(CommunistsAndFascists)",
+      "factDate": "1948-03-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "party-freedom",
+      "title": "Hansard: Attlee refuses to outlaw the British Communist Party",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1950/mar/13/communist-party-great-britain",
+      "factDate": "1950-03-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "capital1948",
+      "title": "Hansard: division on suspension of the death penalty",
+      "url": "https://hansard.parliament.uk/commons/1948-04-14/debates/2321acc2-e1a3-4e82-a6e2-38e7849f63e5/NewClause%E2%80%94(SuspensionOfDeathPenalty)",
+      "factDate": "1948-04-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "capital1965",
+      "title": "Hansard: Attlee votes against retaining capital punishment for murder of police officers",
+      "url": "https://api.parliament.uk/historic-hansard/lords/1965/jul/27/murder-abolition-of-death-penalty-bill-1",
+      "factDate": "1965-07-27",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "vaccination",
+      "title": "House of Commons Library: vaccination policy and repeal of compulsory-vaccination Acts",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9076/CBP-9076.pdf",
+      "factDate": "NHS Acts 1946 and 1947; briefing published 2021",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "windrush",
+      "title": "National Archives: Attlee letter on Windrush, transcript on page 83",
+      "url": "https://cdn.nationalarchives.gov.uk/documents/education/Commonwealth-migration-since-1945-The-National-Archives.pdf",
+      "factDate": "1948-07-05",
+      "accessedOn": "2026-09-30",
+      "accessNote": "Downloaded the official PDF and read the transcript on printed page 83 after the HTML resource returned an error."
+    },
+    {
+      "id": "malaya",
+      "title": "National Army Museum: emergency powers and the Briggs Plan",
+      "url": "https://www.nam.ac.uk/explore/malayan-emergency",
+      "factDate": "1948–1951 portion of the 1948–1960 campaign",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nuclear",
+      "title": "Government historian: decision to build a British atomic bomb",
+      "url": "https://history.blog.gov.uk/2022/01/07/whats-the-context-the-decision-to-build-a-british-atomic-bomb-8-january-1947/",
+      "factDate": "1947-01-08 decision; article 2022-01-07",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "truman",
+      "title": "Truman Presidential Library: joint statement with Prime Minister Attlee",
+      "url": "https://www.trumanlibrary.gov/library/public-papers/301/joint-statement-following-discussions-prime-minister-great-britain",
+      "factDate": "1950-12-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "palestine",
+      "title": "US Office of the Historian: Attlee telegram to Truman about Palestine operations",
+      "url": "https://history.state.gov/historicaldocuments/frus1946v07/d496",
+      "factDate": "1946-06-29",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "bank",
+      "title": "Bank of England: nationalisation in 1946",
+      "url": "https://www.bankofengland.co.uk/explainers/who-owns-the-bank-of-england",
+      "factDate": "1946 nationalisation; institutional historical account",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gatt",
+      "title": "Richard Toye: The Attlee Government, the Imperial Preference System and the Creation of the GATT",
+      "url": "https://academic.oup.com/ehr/article-abstract/118/478/912/404819",
+      "factDate": "1947 negotiations; scholarly article 2003",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "religion",
+      "title": "Humanist Heritage: Attlee religious outlook and recorded interview",
+      "url": "https://heritage.humanists.uk/clement-attlee/",
+      "factDate": "1965 interview quoted in Kenneth Harris biography, 1982",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "education",
+      "title": "National Archives: Education Act 1944 and religious education settlement",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/attlees-britain/education-act-1944/",
+      "factDate": "1944 coalition legislation implemented under Attlee",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sexual-june",
+      "title": "Hansard: Attlee supports a narrower version of homosexual-law reform",
+      "url": "https://api.parliament.uk/historic-hansard/lords/1965/jun/21/sexual-offences-bill-hl",
+      "factDate": "1965-06-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sexual-october",
+      "title": "Hansard: Attlee supports reform on justice and deterrence grounds",
+      "url": "https://api.parliament.uk/historic-hansard/lords/1965/oct/28/sexual-offences-bill-hl",
+      "factDate": "1965-10-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "equal-pay",
+      "title": "Hansard: Attlee confirms acceptance of the principle of equal pay",
+      "url": "https://api.parliament.uk/historic-hansard//commons/1950/jun/20/equal-pay-government-policy",
+      "factDate": "1950-06-20",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "bio",
+        "manifesto",
+        "welsh-council",
+        "devolution-context",
+        "education"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "parliament",
+        "party-freedom",
+        "manifesto",
+        "bio"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "vetting",
+        "party-freedom",
+        "capital1948",
+        "capital1965",
+        "vaccination",
+        "malaya",
+        "sexual-october"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "windrush",
+        "welsh-council",
+        "manifesto"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "nuclear",
+        "truman",
+        "malaya",
+        "palestine"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "bio",
+        "palestine",
+        "malaya",
+        "truman"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "bio",
+        "manifesto",
+        "bank",
+        "vetting"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "manifesto",
+        "bank",
+        "bio"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "gatt",
+        "manifesto",
+        "bank"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "religion",
+        "education",
+        "manifesto"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "sexual-june",
+        "sexual-october",
+        "equal-pay",
+        "manifesto",
+        "religion"
+      ],
+      "evidenceNote": "1965 law-reform statements and 1950 equal-pay response are direct evidence; modern marriage/adoption/quotas and family-education questions are cautious editorial extrapolations. Six unresolved answers remain neutral. This is not an assertion of a comprehensive contemporary platform."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "manifesto",
+        "nuclear",
+        "bio"
+      ],
+      "evidenceNote": "Five neutral entries preserve unresolved preferences. Pro-science answers derive from industrial and medical development; nuclear funding and national parks provide opposing concrete anchors. No historical claim is made about current biotechnology, AI or climate policy."
+    }
+  },
+  "uncertainties": [
+    "This is an editorial simulation, not a completed Attlee questionnaire. The period centres on Labour leadership and government, 1935–1955, with explicitly dated later statements and votes through October 1965. It is not a snapshot restricted to the 1945 Cabinet.",
+    "The death-penalty answers follow the later record: Attlee appears among the Noes on the 1948 suspension clause, but among Not-Contents on the 27 July 1965 amendment retaining execution for police murders. This demonstrates a change on capital punishment for murder, not a position on every military offence.",
+    "In June 1965 he favoured limiting homosexual reform to repeal of the Labouchere provision and supported Dilhorne amendments. In October he supported reform because punishment did not deter and on justice grounds. Neither statement establishes equal adoption, marriage or public-expression rights. The moral axis retains conventional family preferences with explicit uncertainty on modern subjects.",
+    "No sufficiently specific personal abortion, euthanasia, gender-identity, gender-neutral-language or cultivated-meat position was established. Neutral entries are unresolved editorial judgements, not claims that Attlee expressed indifference. Other modern answers are qualified analogies to welfare, scientific research, security and family principles. They should not be cited as his historical statements.",
+    "National health coordination is compatible with the separate Scottish NHS and local administration. The Welsh council had no statutory powers. The earlier federal-framework claim comes from Rosebery reporting a 1945 Attlee speech, not an implementation record. Secession and indigenous-autonomy answers infer conditional self-determination, not unilateral subdivision of Britain.",
+    "Parliamentary sovereignty explains representacao_05. Rejection of judicial invalidation of parliamentary legislation does not imply arbitrary executive power. Political participation means representative elections here, not recall, sortition or permanent popular assemblies.",
+    "Security vetting applied particularly to sensitive civil-service posts; it did not prohibit all political belief. Attlee explicitly refused to outlaw the domestic Communist Party in 1950. Malayan emergency detention, curfews and controlled resettlement qualify the civil-liberties record without attributing every colonial act personally to Attlee.",
+    "The vaccination answer follows repeal of the nineteenth-century compulsory-vaccination laws by his government, not opposition to vaccination. Digital surveillance, compelled device access and facial recognition are inferred security analogies with limited confidence, not an assertion that these technologies existed in his administration. Firearms and drug answers reconstruct the restrictive legal context, not a new personal manifesto on modern policy.",
+    "The Windrush letter defended entry rights irrespective of race and rejected assumptions that arriving workers were unemployable; it also expected arrivals to remain limited and reserved changes if compelling evidence emerged. Commonwealth admission is not universal open borders, and Welsh cultural recognition is not proof of a fully developed migrant-language policy.",
+    "The GATT source is a scholarly abstract describing commitment to freer trade alongside imperial preferences and transitional safeguards. Electric vehicles, chips and foreign takeovers are analogous strategic-industry questions; no claim is made about Chinese EVs in the 1940s.",
+    "Public ownership did not encompass every business. Worker ownership is interpreted as collective public ownership, not compulsory employee ownership of each firm. Civil-service job-security answers allow removal and reorganisation rather than portraying all appointments as guaranteed for life. Wage-floor answers are principles, not a claim that Attlee enacted a universal national minimum wage.",
+    "The 1945 manifesto supports public ownership, investment and rent controls, agricultural planning, scientific progress and family welfare; it is not evidence for unrestricted biotechnology or AI-driven dismissal without support. Modern environmental answers balance industrial development with the 1949 national-parks legislation rather than attribute a climate-change policy to him.",
+    "The religious profile distinguishes personal unbelief from hostility to religion. Christian ethical influence and the retained school settlement do not make him a theocratic politician or a campaigner for abolishing religion.",
+    "The 1947 bomb decision was made by a small ministerial group. The first test in 1952 occurred after his premiership. The December 1950 Truman statement expressed nuclear restraint and consultation, not a formal British veto over US atomic use."
+  ],
+  "distinctions": [
+    "Likely neighbours are parliamentary socialist and social-democratic profiles such as Olof Palme and Gough Whitlam. Attlee must be answered independently: nationalisation and economic controls coexist with nuclear deterrence, NATO and colonial emergency coercion.",
+    "Unlike revolutionary Marxist profiles, Attlee retained elections, opposition and substantial private business. Unlike later market-oriented Labour politicians, he nationalised major industrial and infrastructure sectors.",
+    "Unlike a contemporary socially progressive politician, his later homosexual-law reform support was qualified and coexisted with conventional moral language. Unlike an unchanging traditionalist, he supported specific legal reforms in 1965.",
+    "Unlike either a pacifist decoloniser or an unconditional imperial interventionist, he combined negotiated independence, multilateral cooperation and military operations abroad."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Clement_Attlee_portrait.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Clement_Attlee_portrait.jpg",
+    "author": "Unknown photographer; source Flinders University Library",
+    "date": "1945",
+    "license": "Public domain, PD-Australia, as recorded on Wikimedia Commons",
+    "note": "Historical photograph resized to 480 pixels wide and recompressed. Unknown photographer; Commons supplies the public-domain rationale.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "franklin-roosevelt",
+      "answersSha256": "9128040410bcc4bbb1cbbfb91f688b10810b492ff4dd8b3313c0f747b12fc032",
+      "neighborVectorSha256": "51d33e559e68cf4d683cfceabeb7db841fc1b8d008a24cdb20e6138429d77fbb",
+      "reason": "The 96.0% match is a similarity warning, not an identical vector. Against the existing Roosevelt profile, Attlee scores higher on public ownership (83.4 versus 75.0), democracy (76.3 versus 68.8) and secularism (59.5 versus 48.8), and lower on coercive security (56.8 versus 72.5). Attlee-specific evidence includes strategic nationalisation, rejection of a domestic Communist Party ban, the later 1965 capital-punishment vote and personal unbelief. These substantive distinctions coexist with shared public intervention and wartime/postwar security priorities. This reviews the computed neighbour, not a new historical audit of Roosevelt; no answers were changed to reduce proximity.",
+      "differingAxes": [
+        "economia",
+        "representacao",
+        "poder",
+        "religiao"
+      ],
+      "sourceIds": [
+        "bio",
+        "bank",
+        "party-freedom",
+        "capital1965",
+        "religion"
+      ]
+    }
+  ]
+}

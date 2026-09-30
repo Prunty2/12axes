@@ -4798,5 +4798,17 @@
     "imageSourceName": "Thatcher Estate / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait.jpg",
     "imageNote": "Retrato de cerca de 1995–1996, provavelmente de Terence Donovan; versão JPEG por Begoon. Uso livre autorizado pelo espólio Thatcher; imagem redimensionada e recomprimida."
+  },
+  {
+    "id": "clement-attlee",
+    "name": "Clement Attlee",
+    "role": "Ex-primeiro-ministro britânico",
+    "category": "politico",
+    "lifespan": "1883–1967",
+    "description": "Primeiro-ministro britânico de 1945 a 1951, Attlee nacionalizou setores estratégicos e criou o NHS. Combinou socialismo parlamentar e independências coloniais com a OTAN, operações militares externas e o programa nuclear britânico.",
+    "imagePath": "/personalities/portraits/clement-attlee.jpg",
+    "imageSourceName": "Flinders University Library / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Clement_Attlee_portrait.jpg",
+    "imageNote": "Fotografia de 1945, autor desconhecido. Domínio público (PD-Australia), conforme Wikimedia Commons; imagem redimensionada e comprimida."
   }
 ]

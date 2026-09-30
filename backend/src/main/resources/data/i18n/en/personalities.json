@@ -2492,5 +2492,11 @@
     "name": "Margaret Thatcher",
     "role": "Former British prime minister",
     "description": "British prime minister from 1979 to 1990, Thatcher pursued privatisation, fiscal restraint and trade union restrictions. She championed NATO, parliamentary sovereignty and traditional family values while retaining the publicly funded NHS."
+  },
+  {
+    "id": "clement-attlee",
+    "name": "Clement Attlee",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 1945 to 1951, Attlee nationalised key industries and established the NHS. He combined parliamentary socialism and colonial independence with NATO, overseas military operations and Britain’s nuclear programme."
   }
 ]
