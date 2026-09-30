@@ -339,6 +339,24 @@
         "superannuation",
         "faith-welfare"
       ]
+    },
+    {
+      "comparedWith": "jimmy-carter",
+      "answersSha256": "89b68c849d7c6f5bc71b7801172a3fead9512c03bda9896dda23a8fccdaf2357",
+      "neighborVectorSha256": "b02230b9e2da3ed209750cd26a6d6f9d4033d988c1a20984858966ab48ae1949",
+      "reason": "Both editorial profiles support democratic government, social protection and market reform. Keating’s financial liberalisation, privatisation and Asian trade integration give comercio 17.5 versus Carter’s 31.8. His compact-city and industrial-development record differs from Carter’s rural/conservation emphasis (tecnologia 52.4 versus 45.2). His later strategic autonomy positions also differ on intervencao (49.4 versus 41.0). This accepts documented political proximity between distinct people; archived answers are unchanged.",
+      "differingAxes": [
+        "comercio",
+        "tecnologia",
+        "intervencao"
+      ],
+      "sourceIds": [
+        "naa-life",
+        "privatisation",
+        "naa-office",
+        "cities",
+        "aukus-2026"
+      ]
     }
   ]
 }

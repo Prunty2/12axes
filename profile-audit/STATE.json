@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T13:40:05Z",
+  "lastUpdated": "2026-09-30T13:51:57Z",
   "personality": {
-    "totalProfiles": 408,
+    "totalProfiles": 409,
     "pending": [],
     "done": [
       "lenin",
@@ -412,7 +412,8 @@
       "rupert-lowe",
       "kamala-harris",
       "david-lloyd-george",
-      "hillary-clinton"
+      "hillary-clinton",
+      "jimmy-carter"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -565,7 +566,7 @@
           "id": "jimmy-carter",
           "name": "Jimmy Carter",
           "country": "United States",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "lyndon-b-johnson",

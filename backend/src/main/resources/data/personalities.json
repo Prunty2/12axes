@@ -4894,5 +4894,17 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg",
     "imageNote": "Retrato de Hillary Clinton via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "jimmy-carter",
+    "name": "Jimmy Carter",
+    "role": "Ex-presidente dos Estados Unidos",
+    "category": "politico",
+    "lifespan": "1924–2024",
+    "description": "Presidente dos EUA de 1977 a 1981. Combinou desregulação e proteção social com conservação ambiental e diplomacia de direitos humanos. Sua fé batista inspirou o trabalho humanitário e posições morais próprias.",
+    "imagePath": "/personalities/portraits/jimmy-carter.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:JimmyCarterPortrait.jpg",
+    "imageNote": "Retrato de Jimmy Carter via Wikipédia/Wikimedia Commons."
   }
 ]

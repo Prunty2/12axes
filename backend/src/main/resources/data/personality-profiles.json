@@ -6934,5 +6934,22 @@
       "moral": 76.4,
       "tecnologia": 58.3
     }
+  },
+  {
+    "personalityId": "jimmy-carter",
+    "vector": {
+      "estrutura": 55.7,
+      "representacao": 85.9,
+      "poder": 40.1,
+      "imigracao": 33.6,
+      "diplomacia": 30.0,
+      "intervencao": 41.0,
+      "economia": 55.6,
+      "controle": 50.9,
+      "comercio": 31.8,
+      "religiao": 36.9,
+      "moral": 53.4,
+      "tecnologia": 45.2
+    }
   }
 ]

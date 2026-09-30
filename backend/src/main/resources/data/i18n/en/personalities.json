@@ -2540,5 +2540,11 @@
     "name": "Hillary Clinton",
     "role": "Former US secretary of state",
     "description": "US secretary of state from 2009 to 2013 and presidential nominee in 2016. Clinton advocates civil rights, affordable health care and regulated markets, combining military alliances and foreign intervention with diplomacy."
+  },
+  {
+    "id": "jimmy-carter",
+    "name": "Jimmy Carter",
+    "role": "Former US president",
+    "description": "US president from 1977 to 1981. Carter combined deregulation and social protection with conservation and human-rights diplomacy. His Baptist faith shaped his humanitarian work and moral convictions."
   }
 ]
