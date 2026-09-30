@@ -6713,5 +6713,22 @@
       "moral": 57.0,
       "tecnologia": 45.2
     }
+  },
+  {
+    "personalityId": "julia-gillard",
+    "vector": {
+      "estrutura": 42.6,
+      "representacao": 83.5,
+      "poder": 59.1,
+      "imigracao": 37.9,
+      "diplomacia": 49.3,
+      "intervencao": 30.5,
+      "economia": 60.3,
+      "controle": 52.1,
+      "comercio": 22.2,
+      "religiao": 63.1,
+      "moral": 71.7,
+      "tecnologia": 48.8
+    }
   }
 ]

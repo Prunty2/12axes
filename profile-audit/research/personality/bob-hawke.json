@@ -158,6 +158,27 @@
       "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7591",
       "factDate": "1989-05-08",
       "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-health",
+      "title": "Gillard: national health standards, shared funding and local hospital control",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17661",
+      "factDate": "2011-02-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-euthanasia",
+      "title": "Gillard: reservations about safeguards in assisted dying",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17746",
+      "factDate": "2011-03-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-asylum",
+      "title": "Gillard government: memorandum on offshore asylum processing in Nauru",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18767",
+      "factDate": "2012-08-29",
+      "accessedOn": "2026-09-30"
     }
   ],
   "axes": {
@@ -288,6 +309,22 @@
         "woodford",
         "steel",
         "tariff-transition"
+      ]
+    },
+    {
+      "comparedWith": "julia-gillard",
+      "answersSha256": "199242877e13b0484a4d55bcc5d437c0b3ea0306ae7ae5ce44d06a1ad0204340",
+      "neighborVectorSha256": "c2a470d4881b47fae708eb58d97a0b16fd04300bea9e233f20832b71076c747a",
+      "reason": "The new Gillard profile is another democratic Labor reformer, but preserves states and local hospital management, records assisted-dying reservations and offshore asylum processing. These distinguish her from Hawke's state-abolition proposal, later assisted-dying support and multicultural record: estrutura 27.1 versus 42.6, poder 50.8 versus 59.1 and imigracao 26.0 versus 37.9. Scores aggregate many hypothetical questions and are not historical measurements. Existing Hawke answers are unchanged.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "imigracao"
+      ],
+      "sourceIds": [
+        "gillard-health",
+        "gillard-euthanasia",
+        "gillard-asylum"
       ]
     }
   ]

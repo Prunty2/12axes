@@ -2462,5 +2462,11 @@
     "name": "Kevin Rudd",
     "role": "Former Australian prime minister",
     "description": "Labor prime minister in 2007–2010 and 2013, he led crisis stimulus, the apology to Indigenous Australians and Kyoto ratification. He combines social protection, Christian faith and multilateral diplomacy with support for AUKUS."
+  },
+  {
+    "id": "julia-gillard",
+    "name": "Julia Gillard",
+    "role": "Former Australian prime minister",
+    "description": "Australia’s first female prime minister, she led Labor from 2010 to 2013. She introduced carbon pricing and disability insurance, advanced education reform, and advocates gender equality within a regulated market economy."
   }
 ]

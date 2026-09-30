@@ -4738,5 +4738,17 @@
     "imageSourceName": "Department of Foreign Affairs and Trade / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kevin_Michael_Rudd_HOM_2023_Portrait_(3x4_cropped).jpg",
     "imageNote": "Retrato de 2023; Department of Foreign Affairs and Trade (www.dfat.gov.au), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Recorte do Commons redimensionado e comprimido."
+  },
+  {
+    "id": "julia-gillard",
+    "name": "Julia Gillard",
+    "role": "Ex-primeira-ministra da Austrália",
+    "category": "politico",
+    "lifespan": "1961–",
+    "description": "Primeira mulher a governar a Austrália, foi premiê trabalhista de 2010 a 2013. Implantou preço sobre carbono e seguro de apoio à deficiência, promoveu reformas educacionais e defende igualdade de gênero e uma economia de mercado regulada.",
+    "imagePath": "/personalities/portraits/julia-gillard.jpg",
+    "imageSourceName": "Commonwealth of Australia / National Archives",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Julia-gillard-official-portrait-pmc.jpg",
+    "imageNote": "Retrato oficial de 2010. © Commonwealth of Australia (National Archives of Australia) 2019, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e comprimido."
   }
 ]

@@ -144,6 +144,27 @@
       "url": "https://en.wikipedia.org/wiki/Anthony_Albanese",
       "factDate": "Biography accessed 2026-09-30",
       "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-faith",
+      "title": "SBS interview: Gillard describes her atheism",
+      "url": "https://www.sbs.com.au/news/article/julia-gillard-talks-gay-marriage-kevin-rudd-and-that-speech-in-exclusive-interview/ov0tzr4gd",
+      "factDate": "2014-09-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-economy",
+      "title": "Gillard: market design, public and private providers, national standards and independent Reserve Bank",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17445",
+      "factDate": "2010-07-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-security",
+      "title": "Gillard: National Security Strategy, defence, diplomacy, intelligence and rights",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-19005",
+      "factDate": "2013-01-23",
+      "accessedOn": "2026-09-30"
     }
   ],
   "axes": {
@@ -274,6 +295,22 @@
         "online",
         "migration",
         "multicultural"
+      ]
+    },
+    {
+      "comparedWith": "julia-gillard",
+      "answersSha256": "7804cf543c72329af893abdc1f77ff4f4f280e94abf4a939d459fec89413955e",
+      "neighborVectorSha256": "c2a470d4881b47fae708eb58d97a0b16fd04300bea9e233f20832b71076c747a",
+      "reason": "The added Gillard model is a distinct Labor career with plausible overlap. Gillard explicitly describes herself as atheist, emphasises equivalent roles for public and private providers, and combines national-security diplomacy with alliance deployments. Albanese differs in the stored model on religiao (56.0 versus 63.1), economia (66.3 versus 60.3) and intervencao (43.6 versus 30.5). These are editorial model distinctions, not measured historical distances. Existing Albanese answers are unchanged.",
+      "differingAxes": [
+        "religiao",
+        "economia",
+        "intervencao"
+      ],
+      "sourceIds": [
+        "gillard-faith",
+        "gillard-economy",
+        "gillard-security"
       ]
     }
   ]

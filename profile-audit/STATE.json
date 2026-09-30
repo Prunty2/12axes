@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T10:57:06Z",
+  "lastUpdated": "2026-09-30T11:08:58Z",
   "personality": {
-    "totalProfiles": 395,
+    "totalProfiles": 396,
     "pending": [],
     "done": [
       "lenin",
@@ -399,7 +399,8 @@
       "angus-taylor",
       "bob-hawke",
       "paul-keating",
-      "kevin-rudd"
+      "kevin-rudd",
+      "julia-gillard"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -480,7 +481,7 @@
           "id": "julia-gillard",
           "name": "Julia Gillard",
           "country": "Australia",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "tony-abbott",
