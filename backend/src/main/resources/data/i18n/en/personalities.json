@@ -2468,5 +2468,11 @@
     "name": "Julia Gillard",
     "role": "Former Australian prime minister",
     "description": "Australia’s first female prime minister, she led Labor from 2010 to 2013. She introduced carbon pricing and disability insurance, advanced education reform, and advocates gender equality within a regulated market economy."
+  },
+  {
+    "id": "tony-abbott",
+    "name": "Tony Abbott",
+    "role": "Former Australian prime minister",
+    "description": "Prime minister from 2013 to 2015, he privatised Medibank Private and repealed carbon pricing. He advocates Christian tradition, lower immigration, nuclear power, free trade and a strong US military alliance."
   }
 ]

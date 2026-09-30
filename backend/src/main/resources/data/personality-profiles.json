@@ -6730,5 +6730,22 @@
       "moral": 71.7,
       "tecnologia": 48.8
     }
+  },
+  {
+    "personalityId": "tony-abbott",
+    "vector": {
+      "estrutura": 54.5,
+      "representacao": 82.3,
+      "poder": 59.1,
+      "imigracao": 78.9,
+      "diplomacia": 70.7,
+      "intervencao": 16.2,
+      "economia": 33.0,
+      "controle": 28.3,
+      "comercio": 28.2,
+      "religiao": 20.0,
+      "moral": 19.6,
+      "tecnologia": 58.2
+    }
   }
 ]

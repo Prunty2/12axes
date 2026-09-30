@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T11:08:58Z",
+  "lastUpdated": "2026-09-30T11:19:19Z",
   "personality": {
-    "totalProfiles": 396,
+    "totalProfiles": 397,
     "pending": [],
     "done": [
       "lenin",
@@ -400,7 +400,8 @@
       "bob-hawke",
       "paul-keating",
       "kevin-rudd",
-      "julia-gillard"
+      "julia-gillard",
+      "tony-abbott"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -487,7 +488,7 @@
           "id": "tony-abbott",
           "name": "Tony Abbott",
           "country": "Australia",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "malcolm-turnbull",

@@ -4750,5 +4750,17 @@
     "imageSourceName": "Commonwealth of Australia / National Archives",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Julia-gillard-official-portrait-pmc.jpg",
     "imageNote": "Retrato oficial de 2010. © Commonwealth of Australia (National Archives of Australia) 2019, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e comprimido."
+  },
+  {
+    "id": "tony-abbott",
+    "name": "Tony Abbott",
+    "role": "Ex-primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1957–",
+    "description": "Premiê liberal de 2013 a 2015, privatizou Medibank Private e revogou o imposto sobre carbono. Defende tradição cristã, menor imigração, energia nuclear, livre comércio e uma aliança militar forte com os Estados Unidos.",
+    "imagePath": "/personalities/portraits/tony-abbott.jpg",
+    "imageSourceName": "Commonwealth of Australia / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Tony_Abbott_official_portrait.jpg",
+    "imageNote": "Retrato oficial (2013), Commonwealth of Australia, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Versão recortada, redimensionada e comprimida."
   }
 ]
