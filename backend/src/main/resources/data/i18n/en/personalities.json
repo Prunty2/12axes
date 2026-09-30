@@ -2444,5 +2444,17 @@
     "name": "Angus Taylor",
     "role": "Australian opposition leader",
     "description": "Liberal opposition leader since 2026 and former energy minister, he advocates lower taxes and regulation, migration tied to Australian values, and stronger AUKUS capabilities. He supports fossil fuels and opening the way to nuclear energy."
+  },
+  {
+    "id": "bob-hawke",
+    "name": "Bob Hawke",
+    "role": "Former Australian prime minister",
+    "description": "Labor prime minister from 1983 to 1991, he combined Medicare and union accords with freer trade and financial deregulation. He championed multiculturalism and conservation, later backing nuclear power and marriage equality."
+  },
+  {
+    "id": "paul-keating",
+    "name": "Paul Keating",
+    "role": "Former Australian prime minister",
+    "description": "Labor prime minister from 1991 to 1996, he advanced market reform, compulsory superannuation and Indigenous rights. He championed a republic and closer Asian ties, later opposing AUKUS and nuclear power."
   }
 ]

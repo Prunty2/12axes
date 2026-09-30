@@ -4702,5 +4702,29 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Angus_Taylor",
     "imageNote": "Retrato de Angus Taylor via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "bob-hawke",
+    "name": "Bob Hawke",
+    "role": "Ex-primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1929–2019",
+    "description": "Primeiro-ministro trabalhista de 1983 a 1991, combinou Medicare e acordos sindicais com abertura comercial e desregulação financeira. Defendeu multiculturalismo e proteção ambiental; depois apoiou energia nuclear e casamento igualitário.",
+    "imagePath": "/personalities/portraits/bob-hawke.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bob_Hawke-1983.jpg",
+    "imageNote": "Retrato de Bob Hawke via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "paul-keating",
+    "name": "Paul Keating",
+    "role": "Ex-primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1944–",
+    "description": "Primeiro-ministro trabalhista de 1991 a 1996, promoveu abertura econômica, aposentadoria compulsória e direitos indígenas. Defendeu uma república e integração com a Ásia; depois tornou-se crítico do AUKUS e da energia nuclear.",
+    "imagePath": "/personalities/portraits/paul-keating.jpg",
+    "imageSourceName": "Commonwealth of Australia / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Keating_Paul_Portrait.jpg",
+    "imageNote": "Retrato de 1993; Commonwealth of Australia, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Redimensionado e comprimido."
   }
 ]

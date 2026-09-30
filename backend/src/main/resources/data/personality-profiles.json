@@ -6662,5 +6662,39 @@
       "moral": 39.6,
       "tecnologia": 64.1
     }
+  },
+  {
+    "personalityId": "bob-hawke",
+    "vector": {
+      "estrutura": 27.1,
+      "representacao": 83.5,
+      "poder": 50.8,
+      "imigracao": 26.0,
+      "diplomacia": 43.3,
+      "intervencao": 38.8,
+      "economia": 55.6,
+      "controle": 49.7,
+      "comercio": 19.9,
+      "religiao": 59.5,
+      "moral": 72.9,
+      "tecnologia": 47.6
+    }
+  },
+  {
+    "personalityId": "paul-keating",
+    "vector": {
+      "estrutura": 41.4,
+      "representacao": 79.9,
+      "poder": 47.2,
+      "imigracao": 28.8,
+      "diplomacia": 27.6,
+      "intervencao": 49.4,
+      "economia": 53.2,
+      "controle": 46.1,
+      "comercio": 17.5,
+      "religiao": 40.5,
+      "moral": 54.6,
+      "tecnologia": 52.4
+    }
   }
 ]

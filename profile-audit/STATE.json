@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T10:31:43Z",
+  "lastUpdated": "2026-09-30T10:49:07Z",
   "personality": {
-    "totalProfiles": 392,
+    "totalProfiles": 394,
     "pending": [],
     "done": [
       "lenin",
@@ -396,7 +396,9 @@
       "gough-whitlam",
       "anthony-albanese",
       "pauline-hanson",
-      "angus-taylor"
+      "angus-taylor",
+      "bob-hawke",
+      "paul-keating"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -459,13 +461,13 @@
           "id": "bob-hawke",
           "name": "Bob Hawke",
           "country": "Australia",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "paul-keating",
           "name": "Paul Keating",
           "country": "Australia",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "kevin-rudd",
