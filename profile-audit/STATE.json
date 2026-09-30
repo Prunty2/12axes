@@ -1,6 +1,6 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T13:13:13Z",
+  "lastUpdated": "2026-09-30T13:14:31Z",
   "personality": {
     "totalProfiles": 405,
     "pending": [],
@@ -414,7 +414,7 @@
     "expansion": {
       "startedOn": "2026-09-30",
       "baseCommit": "a1dc5b4",
-      "scope": "Narrowed again at the user’s request on 2026-09-30: preserve nineteen completed additions; finish Kamala Harris, Hillary Clinton, Jimmy Carter, Lyndon B. Johnson, Mark Carney, Angela Merkel and Olaf Scholz. Justin Trudeau, Dominik Tarczyński, Xi Jinping and Kim Jong Un are already in the catalogue and must not be duplicated. Other pending candidates have been removed from this expansion. Submit the draft PR after the retained work and final verification are complete.",
+      "scope": "Preserve nineteen completed additions. Finish the narrowed contemporary and US shortlist: Kamala Harris, Hillary Clinton, Jimmy Carter, Lyndon B. Johnson, Mark Carney, Angela Merkel and Olaf Scholz. At the user’s request, also add five major historical figures: David Lloyd George, Helmut Kohl, Lech Wałęsa, David Ben-Gurion and Golda Meir. Winston Churchill, Justin Trudeau, Dominik Tarczyński, Xi Jinping and Kim Jong Un already have complete catalogue entries and must not be duplicated. Earlier excluded candidates remain out of scope unless explicitly restored by this amendment. Submit the draft PR after retained work and final verification are complete.",
       "requiredAustralianIds": [
         "anthony-albanese",
         "pauline-hanson",
@@ -586,6 +586,36 @@
           "id": "mark-carney",
           "name": "Mark Carney",
           "country": "Canada",
+          "status": "pending"
+        },
+        {
+          "id": "david-lloyd-george",
+          "name": "David Lloyd George",
+          "country": "United Kingdom",
+          "status": "pending"
+        },
+        {
+          "id": "helmut-kohl",
+          "name": "Helmut Kohl",
+          "country": "Germany",
+          "status": "pending"
+        },
+        {
+          "id": "lech-walesa",
+          "name": "Lech Wałęsa",
+          "country": "Poland",
+          "status": "pending"
+        },
+        {
+          "id": "david-ben-gurion",
+          "name": "David Ben-Gurion",
+          "country": "Israel",
+          "status": "pending"
+        },
+        {
+          "id": "golda-meir",
+          "name": "Golda Meir",
+          "country": "Israel",
           "status": "pending"
         }
       ],
@@ -1970,6 +2000,34 @@
           ],
           "interpretation": "Trudeau means Justin Trudeau. Retain all four US candidates from the current shortlist and the three explicitly requested missing profiles. Other pending candidates are removed from this expansion; completed additions and existing catalogue entries are retained. Justin Trudeau, Dominik Tarczyński, Xi Jinping and Kim Jong Un were verified to already have PT/EN metadata, twelve-axis profiles and portraits.",
           "exclusionNote": "Scope reduction requested by the user; these are not researched evidence-quality skips."
+        },
+        {
+          "date": "2026-09-30",
+          "userRequest": "Add historical people too who have been significantly notable for example Winston Churchill if they are not already there.",
+          "previousCandidateCount": 26,
+          "candidateCount": 31,
+          "addedIds": [
+            "david-lloyd-george",
+            "helmut-kohl",
+            "lech-walesa",
+            "david-ben-gurion",
+            "golda-meir"
+          ],
+          "requestedAlreadyPresentIds": [
+            "winston-churchill"
+          ],
+          "selectionCriteria": "A small historical supplement focused on internationally consequential leaders: wartime British leadership, German reunification, the Polish Solidarity movement and the founding and early leadership of Israel. Preserve the narrowed contemporary shortlist rather than restore all excluded country lists.",
+          "alreadyPresentExamples": [
+            "charles-de-gaulle",
+            "franklin-roosevelt",
+            "abraham-lincoln",
+            "george-washington",
+            "napoleao-bonaparte",
+            "nelson-mandela",
+            "mikhail-gorbachev",
+            "margaret-thatcher"
+          ],
+          "historicalExclusionNote": "Earlier scope exclusions remain as history. This amendment restores these five people to active work; Lech Wałęsa uses the corrected transliterated slug lech-walesa, replacing the never-added candidate slug lech-waesa."
         }
       ]
     }
