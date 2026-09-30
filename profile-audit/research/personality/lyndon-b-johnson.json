@@ -1,0 +1,376 @@
+{
+  "id": "lyndon-b-johnson",
+  "country": "United States",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Presidency, November 1963–January 1969; Great Society, civil-rights reforms, Cold War intervention and contemporary social attitudes.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "LBJ Presidential Library biography",
+      "url": "https://lbjlibrary.org/life-and-legacy/the-man-himself/biography",
+      "factDate": "1908–1973; presidency 1963–1969",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "great-society",
+      "title": "University of Michigan Great Society address",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-university-michigan",
+      "factDate": "1964-05-22",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "voting",
+      "title": "The American Promise: voting rights address",
+      "url": "https://www.presidency.ucsb.edu/documents/special-message-the-congress-the-american-promise",
+      "factDate": "1965-03-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "education",
+      "title": "Signing the Elementary and Secondary Education Act",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-johnson-city-tex-upon-signing-the-elementary-and-secondary-education-bill",
+      "factDate": "1965-04-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tribal",
+      "title": "The Forgotten American: Indian self-determination message",
+      "url": "https://www.presidency.ucsb.edu/documents/special-message-the-congress-the-problems-the-american-indian-the-forgotten-american",
+      "factDate": "1968-03-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "health",
+      "title": "National Archives: Medicare and Medicaid Act",
+      "url": "https://www.archives.gov/milestone-documents/medicare-and-medicaid-act",
+      "factDate": "1965-07-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "crime",
+      "title": "Statement signing the Omnibus Crime Control and Safe Streets Act",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-upon-signing-the-omnibus-crime-control-and-safe-streets-act-1968",
+      "factDate": "1968-06-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Statement on gun-control proposals",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-his-gun-control-proposals",
+      "factDate": "1968-06-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "drugs",
+      "title": "Signing penalties for traffic in and possession of LSD and related drugs",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-upon-signing-bill-relating-traffic-or-possession-drugs-such-lsd",
+      "factDate": "1968-10-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "surveillance",
+      "title": "Rockefeller Commission working report, Ford Library copy preserved by National Security Archive",
+      "url": "https://nsarchive.gwu.edu/sites/default/files/documents/2719476/Document-15.pdf",
+      "factDate": "1975-06-04 working copy; PDF pages 38–40 describe Operation CHAOS beginning during Johnson’s administration, with later expansion",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "immigration",
+      "title": "Statement following House committee action on immigration reform",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-following-house-judiciary-committee-action-the-immigration-bill",
+      "factDate": "1965-08-03; national-origins quota repeal, family unity and continued admission limits",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "bilingual",
+      "title": "Actions on Mexican-American affairs and bilingual education",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-summarizing-actions-the-recommendations-the-inter-agency-committee",
+      "factDate": "1968-02-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "vietnam",
+      "title": "Address limiting the Vietnam bombing and declining reelection",
+      "url": "https://lbjlibrary.org/object/text/presidents-address-nation-03-31-1968",
+      "factDate": "1968-03-31",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "vietnam-escalation",
+      "title": "Presidential news conference on Vietnam commitments and troop increases",
+      "url": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-1038",
+      "factDate": "1965-07-28",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "dominican",
+      "title": "FRUS: meeting with congressional leaders on Dominican intervention",
+      "url": "https://history.state.gov/historicaldocuments/frus1964-68v32/d35",
+      "factDate": "1965-04-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "arms-control",
+      "title": "State Department historical summary: arms control under Johnson",
+      "url": "https://1997-2001.state.gov/about_state/history/johnxi.html",
+      "factDate": "1964–1968; Outer Space Treaty 1967 and Non-Proliferation Treaty 1968",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "trade",
+      "title": "Kennedy Round trade proclamation remarks",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-upon-signing-the-kennedy-round-trade-negotiations-proclamation",
+      "factDate": "1967-12-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "economic-report",
+      "title": "Economic Report of the President: fiscal policy, capital controls and wage-price restraint",
+      "url": "https://www.presidency.ucsb.edu/documents/annual-message-the-congress-the-economic-report-the-president-16",
+      "factDate": "1968-02-01",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "fed",
+      "title": "Federal Reserve history: Treasury-Fed Accord to the mid-1960s",
+      "url": "https://www.federalreservehistory.org/essays/treas-fed-accord-to-mid1960s",
+      "factDate": "2013-11-22 historical analysis of 1951–1965 and subsequent policy",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "wages",
+      "title": "Signing the Fair Labor Standards Amendments",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-signing-the-fair-labor-standards-amendments-1966",
+      "factDate": "1966-09-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "Catholic University address on faith, morality and church-state separation",
+      "url": "https://www.presidency.ucsb.edu/documents/commencement-address-catholic-university",
+      "factDate": "1965-06-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "equal-employment",
+      "title": "Executive Order 11375: sex included in equal-employment requirements",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-11375-amending-executive-order-no-11246-relating-equal-employment",
+      "factDate": "1967-10-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "equality",
+      "title": "Equal justice message on federal civil-rights protection and substantive opportunity",
+      "url": "https://www.presidency.ucsb.edu/documents/special-message-the-congress-equal-justice",
+      "factDate": "1967-02-15",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "jenkins",
+      "title": "Johnson–Hoover conversation on Walter Jenkins; LBJ Library/Miller Center transcript linked on page",
+      "url": "https://lbjtapes.org/conversation/i-think-he-ought-be-institutionalized",
+      "factDate": "1964-10-23; WH6410-14-5948",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "family-planning",
+      "title": "Appointment of population and family-planning committee",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-upon-appointing-the-committee-population-and-family-planning",
+      "factDate": "1968-07-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "science",
+      "title": "Remarks to Scientists and Engineers for Johnson-Humphrey",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-meeting-scientists-and-engineers-for-johnson-humphrey",
+      "factDate": "1964-10-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "space",
+      "title": "Statement on the post-Apollo space programme report",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-concerning-the-report-the-space-program-the-post-apollo-period",
+      "factDate": "1967-02-11",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "voting",
+        "education",
+        "tribal",
+        "health",
+        "crime"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "voting",
+        "vietnam",
+        "crime",
+        "surveillance"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "crime",
+        "guns",
+        "drugs",
+        "surveillance",
+        "jenkins"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "immigration",
+        "bilingual",
+        "tribal",
+        "voting"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "vietnam-escalation",
+        "vietnam",
+        "dominican",
+        "arms-control",
+        "trade"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "vietnam-escalation",
+        "dominican",
+        "vietnam",
+        "trade"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "health",
+        "great-society",
+        "economic-report",
+        "wages"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "economic-report",
+        "fed",
+        "wages",
+        "great-society"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "economic-report"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "voting",
+        "crime"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "equal-employment",
+        "equality",
+        "jenkins",
+        "family-planning",
+        "faith"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "science",
+        "space",
+        "great-society",
+        "family-planning",
+        "arms-control"
+      ]
+    }
+  },
+  "uncertainties": [
+    "This is an editorial reconstruction of the 1963–1969 presidency, not a questionnaire Johnson completed or an average of his entire Senate career. Presidential civil-rights reforms do not erase earlier compromises with segregationists. Later modern hypotheticals are explicitly inferred.",
+    "Federal guarantees against discriminatory state action are distinguished from a unitary state: his education and crime statements preserve local administration. Tribal self-determination is supported by the 1968 message, not retrospectively credited with every reform enacted under Nixon. Secession, tax distribution and regional constitutions are constitutional inferences.",
+    "Voting-rights advocacy supports democratic scores, while emergency executive discretion and security investigations prevent treating his conduct as uniformly libertarian. Recall, sortition and legislative referenda are inferred through his representative, congressional model. The profile does not claim that all elections in his earlier career were free of controversy.",
+    "The 1968 crime-bill statement explicitly opposed broad law-enforcement wiretapping while retaining national-security exceptions. The Rockefeller working report records presidential requests behind CHAOS and later unlawful domestic excesses. It does not prove that Johnson personally ordered or knew every later operation; activities beginning in late 1969 belong to Nixon’s presidency. Neutral digital monitoring and political-party restrictions balance constitutional protections and security exceptions.",
+    "Neutral capital punishment balances the administration’s reform and due-process commitments with continued punitive criminal law; no direct personal abolitionist or blanket retentionist statement is attributed. A bounded inference is preferable to substituting Ramsey Clark’s position for Johnson’s. Neutral detention and misinformation items similarly reflect competing security and legal commitments. Euthanasia, facial recognition and phone access are analogies, not historical proposals.",
+    "The drug source directly concerns LSD and related drugs, not a new documented statement on marijuana. Marijuana and all-drug questions are cautious inferences from the broader prohibition-era enforcement position. Gun regulation includes licensing and registration proposals while retaining civilian ownership, rather than a total gun ban.",
+    "The immigration axis measures cultural accommodation rather than just admission numbers. Quota repeal, family unity and bilingual schooling support pluralism; the original programme explicitly rejected unlimited entry. Language-learning and civic adaptation need not erase inherited cultures.",
+    "Vietnam escalation, conscription and Dominican intervention are assessed as actions, not overridden by peaceful rhetoric. The March 1968 bombing limitation is retained alongside the continuing military commitment. Nuclear-armament questions mean the existing American deterrent, not endorsement of proliferation by all countries; the NPT and Outer Space Treaty remain explicit counterweights.",
+    "International adjudication and mediation are not identical: neutral war-crimes-court authority weighs sovereignty against multilateral law, while support for international dispute resolution does not assert that Johnson always deferred to it. His stated anti-communist or protective rationale is evidence of his policy, not independent proof of every threat he alleged.",
+    "Medicare and Medicaid expand public insurance, not government ownership of every hospital or the nationalisation of all health care. Economic ownership neutrals distinguish strategic public responsibilities and private provision, work incentives and continuing need, and inheritance rights and redistribution. Income support is targeted, not a claim that he enacted unconditional universal basic income.",
+    "The 1968 economic report supports selective capital controls, wage-price restraint and a tax surcharge while defending international exchange and private enterprise. The Fed history documents conflict over monetary tightening; a preference for coordination does not mean the Federal Reserve was legally abolished or fully subordinated. Neutral general price freezes distinguish voluntary guidance from mandatory wartime controls. Modern cryptocurrency and electric-vehicle questions are analogies.",
+    "The religion score reflects public Christian moral language and church-state separation, not a theological judgement about sincerity. Neutral religious-law, public-symbol and policy-influence items balance personal moral motivation with pluralistic constitutional obligations.",
+    "Racial and employment equality do not establish modern LGBT liberalism. The October 1964 Jenkins transcript includes both personal compassion and pathologising language; the title’s institutionalisation phrase is Hoover’s, not a Johnson quotation. Adoption, gender identity and marriage answers are historical inferences. Family planning supports contraception and informed family choice, not a verified abortion-rights platform; the neutral early-abortion response balances those commitments with traditional morality.",
+    "Technology answers extrapolate cautiously from documented atomic-energy, space, medical-research and conservation commitments. No direct position is claimed on GM crops, brain implants, cultured meat or embryo editing. Five neutral technology answers balance urban/rural value, research benefits and ethical limits, and space/environment priorities, rather than encoding absence of evidence as centrism."
+  ],
+  "distinctions": [
+    "Likely neighbours include US New Deal and Cold War liberals. Independently retain Johnson’s civil-rights and health-insurance expansion, military escalation, capital controls and Kennedy Round tariff reductions.",
+    "Do not substitute contemporary Democratic social policies for his historically documented attitudes toward sexuality.",
+    "His support for federal civil-rights enforcement is not support for replacing all state and local institutions."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:President_Lyndon_B._Johnson,_White_House_color_portrait.jpg",
+    "author": "Yoichi Okamoto, official White House photographer; existing Commons crop",
+    "license": "Public domain, US federal government work",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/President_Lyndon_B._Johnson%2C_White_House_color_portrait.jpg",
+    "date": "1969-01-09",
+    "note": "Existing Commons portrait crop, resized to 480px and compressed from 1.54 MB to 33 KB without facial alteration.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "david-lloyd-george",
+      "answersSha256": "d80e10642612f098067d9190801e18e60efa69084fb2c0b679fde610e08e9f81",
+      "neighborVectorSha256": "38a291e57af73763a54bb3c06d931230a6830b29c508e9e5f7daa96389745ca0",
+      "reason": "96.5% similarity reflects welfare reform, state capacity and military intervention. Johnson’s 1965 voting-rights programme and federal equal-employment protections support a higher democratic and social-equality score than the existing Lloyd George profile, which retains wartime concentration and restricted franchise. Johnson’s quota repeal, bilingual schooling and Kennedy Round tariff reductions also produce distinct cultural and trade scores. His crime statement preserves due process despite security exceptions. The profiles represent distinct periods and programmes; their high overlap is retained without changing answers to manufacture distance.",
+      "differingAxes": [
+        "representacao",
+        "poder",
+        "imigracao",
+        "comercio",
+        "moral"
+      ],
+      "sourceIds": [
+        "voting",
+        "crime",
+        "immigration",
+        "trade",
+        "equal-employment"
+      ]
+    },
+    {
+      "comparedWith": "harry-truman",
+      "answersSha256": "d80e10642612f098067d9190801e18e60efa69084fb2c0b679fde610e08e9f81",
+      "neighborVectorSha256": "f85622581c4d73a64b62e191d94deef43bdc0a999665d5e731f34ea5c69225d0",
+      "reason": "95.6% similarity is plausible for two US presidents combining social reform and Cold War power. Johnson’s documented Vietnam troop escalation, increased draft calls and Dominican intervention support the stronger military projection in this reconstruction; the existing Truman vector is less interventionist. Johnson also differs on federal structure, security, tariff liberalisation and historically inferred social attitudes. This comparison records differences in the saved vectors, not a claim that the twelve scores exhaust either presidency. His Medicare/Medicaid programme and 1960s record were answered independently rather than copied from Truman.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "diplomacia",
+        "intervencao",
+        "comercio",
+        "moral"
+      ],
+      "sourceIds": [
+        "vietnam-escalation",
+        "dominican",
+        "trade",
+        "jenkins",
+        "health"
+      ]
+    }
+  ],
+  "validationReview": {
+    "neutralReview": "26/240 neutral answers (10.8%). Five security and five technology neutrals preserve explicitly documented tensions; uncertainties distinguish direct historical evidence from modern hypothetical inference.",
+    "calibration": "Intervention 11.4 and military orientation 70.7 preserve escalation and overseas deployments alongside negotiation and arms control. Public ownership 59.1 distinguishes public insurance and services from wholesale nationalisation. No responses altered because of similarity scores."
+  }
+}

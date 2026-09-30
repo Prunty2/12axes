@@ -4906,5 +4906,17 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:JimmyCarterPortrait.jpg",
     "imageNote": "Retrato de Jimmy Carter via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "lyndon-b-johnson",
+    "name": "Lyndon B. Johnson",
+    "role": "Ex-presidente dos Estados Unidos",
+    "category": "politico",
+    "lifespan": "1908–1973",
+    "description": "Presidente dos EUA de 1963 a 1969. A Grande Sociedade ampliou direitos civis, educação e saúde pública com Medicare e Medicaid. Combinou uma economia privada regulada com a escalada militar no Vietnã.",
+    "imagePath": "/personalities/portraits/lyndon-b-johnson.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:President_Lyndon_B._Johnson,_White_House_color_portrait.jpg",
+    "imageNote": "Retrato de Lyndon B. Johnson via Wikipédia/Wikimedia Commons."
   }
 ]

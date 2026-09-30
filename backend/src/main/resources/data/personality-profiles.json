@@ -6951,5 +6951,22 @@
       "moral": 53.4,
       "tecnologia": 45.2
     }
+  },
+  {
+    "personalityId": "lyndon-b-johnson",
+    "vector": {
+      "estrutura": 47.4,
+      "representacao": 76.3,
+      "poder": 63.9,
+      "imigracao": 43.8,
+      "diplomacia": 70.7,
+      "intervencao": 11.4,
+      "economia": 59.1,
+      "controle": 70.0,
+      "comercio": 29.4,
+      "religiao": 40.5,
+      "moral": 37.1,
+      "tecnologia": 59.5
+    }
   }
 ]

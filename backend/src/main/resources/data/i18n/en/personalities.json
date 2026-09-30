@@ -2546,5 +2546,11 @@
     "name": "Jimmy Carter",
     "role": "Former US president",
     "description": "US president from 1977 to 1981. Carter combined deregulation and social protection with conservation and human-rights diplomacy. His Baptist faith shaped his humanitarian work and moral convictions."
+  },
+  {
+    "id": "lyndon-b-johnson",
+    "name": "Lyndon B. Johnson",
+    "role": "Former US president",
+    "description": "US president from 1963 to 1969. His Great Society expanded civil rights, education and public health insurance through Medicare and Medicaid. Johnson combined a regulated private economy with military escalation in Vietnam."
   }
 ]
