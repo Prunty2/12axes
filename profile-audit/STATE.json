@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T13:30:55Z",
+  "lastUpdated": "2026-09-30T13:40:05Z",
   "personality": {
-    "totalProfiles": 407,
+    "totalProfiles": 408,
     "pending": [],
     "done": [
       "lenin",
@@ -411,7 +411,8 @@
       "nigel-farage",
       "rupert-lowe",
       "kamala-harris",
-      "david-lloyd-george"
+      "david-lloyd-george",
+      "hillary-clinton"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -558,7 +559,7 @@
           "id": "hillary-clinton",
           "name": "Hillary Clinton",
           "country": "United States",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "jimmy-carter",

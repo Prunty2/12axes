@@ -6917,5 +6917,22 @@
       "moral": 27.2,
       "tecnologia": 67.7
     }
+  },
+  {
+    "personalityId": "hillary-clinton",
+    "vector": {
+      "estrutura": 54.5,
+      "representacao": 85.9,
+      "poder": 50.8,
+      "imigracao": 29.5,
+      "diplomacia": 62.4,
+      "intervencao": 12.6,
+      "economia": 59.1,
+      "controle": 53.3,
+      "comercio": 52.0,
+      "religiao": 41.7,
+      "moral": 76.4,
+      "tecnologia": 58.3
+    }
   }
 ]

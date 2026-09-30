@@ -144,6 +144,20 @@
       "url": "https://www.presidency.ucsb.edu/documents/statement-the-vice-president-senate-republicans-vote-once-again-block-nationwide",
       "factDate": "2024-09-17",
       "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "clinton-cfr",
+      "title": "Clinton speech and questions at the Council on Foreign Relations",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-and-question-and-answer-session-the-council-foreign-relations-new-york-city",
+      "factDate": "2015-11-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "clinton-faith",
+      "title": "TIME: Clinton explains her Christian faith and its role in politics",
+      "url": "https://time.com/4193231/hillary-clinton-faith-christianity-iowa/",
+      "factDate": "2016-01-25 remarks; published January 26",
+      "accessedOn": "2026-09-30"
     }
   ],
   "axes": {
@@ -291,6 +305,24 @@
         "promises",
         "tribal",
         "ivf"
+      ]
+    },
+    {
+      "comparedWith": "hillary-clinton",
+      "answersSha256": "c64d27380587c219e18d795a675a0e7dbfb8806d00a2adc9c796abdf8dd10009",
+      "neighborVectorSha256": "a1db3680cb913c943a55630c574cbed85167576c40135efb20ee94c9e6ad1ee7",
+      "reason": "98.8% overlap is a real consequence of shared Democratic commitments, with independent answers and different periods. Harris is less assertive externally (21.0 versus 12.6), more secular on the quiz (53.6 versus 41.7), and more socially progressive (82.4 versus 76.4). Harris’s 2024 reproductive/cannabis platform and Baptist/interfaith context differ from Clinton’s 2015 Syrian no-fly-zone proposal and explicit Methodist social-service framing. Neither biography nor vector is duplicated; archived answers are unchanged.",
+      "differingAxes": [
+        "intervencao",
+        "religiao",
+        "moral"
+      ],
+      "sourceIds": [
+        "promises",
+        "faith",
+        "gaza",
+        "clinton-cfr",
+        "clinton-faith"
       ]
     }
   ],

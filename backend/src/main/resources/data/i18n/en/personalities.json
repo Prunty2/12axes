@@ -2534,5 +2534,11 @@
     "name": "David Lloyd George",
     "role": "Former British prime minister",
     "description": "British prime minister from 1916 to 1922, Lloyd George expanded social insurance and wealth taxation, combining reforming liberalism, wartime industrial mobilisation and imperial power with negotiated peace and Irish self-government."
+  },
+  {
+    "id": "hillary-clinton",
+    "name": "Hillary Clinton",
+    "role": "Former US secretary of state",
+    "description": "US secretary of state from 2009 to 2013 and presidential nominee in 2016. Clinton advocates civil rights, affordable health care and regulated markets, combining military alliances and foreign intervention with diplomacy."
   }
 ]

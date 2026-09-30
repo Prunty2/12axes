@@ -23,22 +23,23 @@
     "nigel-farage",
     "rupert-lowe",
     "kamala-harris",
-    "david-lloyd-george"
+    "david-lloyd-george",
+    "hillary-clinton"
   ],
   "candidateCount": 31,
-  "pendingCount": 10,
+  "pendingCount": 9,
   "skippedCount": 0,
   "verification": {
-    "individualAuditValidators": "Passed for all twenty-one against the current catalogue. Lloyd George’s nearest neighbours Theodore Roosevelt (93.8%) and Franklin Roosevelt (93.7%) reviewed; no blocking overlap. Harris–Starmer similarity (97.0%) has reciprocal evidence-linked fingerprinted reviews. Existing high-similarity reviews remain valid; no answers changed to manufacture distance.",
+    "individualAuditValidators": "Passed for all twenty-two against the current catalogue. Clinton–Harris (98.8%) has reciprocal evidence-linked fingerprinted reviews; Clinton–Starmer (96.0%) and Clinton–Rudd (94.1%) reviewed. All other reviews remain valid. No answers changed to manufacture distance.",
     "archiveAndMetadataIntegrity": "verify_expansion.py passed; saved vectors equal recomputation from all 240 answers plus five archetype answers.",
-    "backendFullSuite": "142 tests passed, zero failures, errors or skips.",
-    "backendUpdatedIntegration": "ExpandedPersonalityTest: 21 cases passed; each submits all 240 archived answers plus five archetype answers in Portuguese and English and receives the matching person at 100%.",
-    "frontend": "21 tests passed before the Rudd and later data-only additions; latest production build generated 1590 pages including PT/EN pages for all twenty-one additions.",
+    "backendFullSuite": "143 tests passed, zero failures, errors or skips.",
+    "backendUpdatedIntegration": "ExpandedPersonalityTest: 22 cases passed; each submits all 240 archived answers plus five archetype answers in Portuguese and English and receives the matching person at 100%.",
+    "frontend": "21 tests passed before the Rudd and later data-only additions; latest production build generated 1592 pages including PT/EN pages for all twenty-two additions.",
     "similarityReviewTests": "6 tests passed, including stale review, exact duplicate, missing evidence and catalogue isolation checks.",
-    "visual": "All twenty-one downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee, Johnson, Starmer, Farage, Lowe, Harris and Lloyd George; personality comparison tabs inspected for those except Hanson and Taylor. Quiz submission verified through backend integration tests, not browser submission.",
+    "visual": "All twenty-two downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee, Johnson, Starmer, Farage, Lowe, Harris, Lloyd George and Clinton; personality comparison tabs inspected for those except Hanson and Taylor. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Complete ten pending profiles: Hillary Clinton, Jimmy Carter, Lyndon B. Johnson, Mark Carney, Angela Merkel, Olaf Scholz, Helmut Kohl, Lech Wałęsa, David Ben-Gurion and Golda Meir. Then run final checks and submit and attach a draft PR. Twenty-one additions are complete. Existing figures must not be duplicated. This checkpoint does not prove completion.",
+  "remaining": "Complete nine pending profiles: Jimmy Carter, Lyndon B. Johnson, Mark Carney, Angela Merkel, Olaf Scholz, Helmut Kohl, Lech Wałęsa, David Ben-Gurion and Golda Meir. Then run final checks and submit and attach a draft PR. Twenty-two additions are complete. Existing figures must not be duplicated. This checkpoint does not prove completion.",
   "scopeRevision": {
     "date": "2026-09-30",
     "previousCandidateCount": 247,
@@ -105,5 +106,6 @@
       ],
       "historicalExclusionNote": "Earlier scope exclusions remain as history. This amendment restores these five people to active work; Lech Wałęsa uses the corrected transliterated slug lech-walesa, replacing the never-added candidate slug lech-waesa."
     }
-  ]
+  ],
+  "prWritingPreference": "User requests a confident, compelling case for merging. Lead with the concrete catalogue improvement, complete quiz integration, preserved existing profiles and actual passing checks. Keep every claim factual and do not hide material limitations or describe simulations as personal questionnaire responses."
 }

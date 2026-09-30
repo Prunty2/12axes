@@ -4882,5 +4882,17 @@
     "imageSourceName": "Olive Edis / National Portrait Gallery, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:DavidLloydGeorge.jpg",
     "imageNote": "Fotografia de 1917 por Olive Edis, National Portrait Gallery. Domínio público conforme Wikimedia Commons. Redimensionada e comprimida."
+  },
+  {
+    "id": "hillary-clinton",
+    "name": "Hillary Clinton",
+    "role": "Ex-secretária de Estado dos Estados Unidos",
+    "category": "politico",
+    "lifespan": "1947–",
+    "description": "Secretária de Estado dos EUA de 2009 a 2013 e candidata presidencial em 2016. Defende direitos civis, saúde acessível e mercados regulados, combinando alianças militares e intervenção externa com diplomacia.",
+    "imagePath": "/personalities/portraits/hillary-clinton.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg",
+    "imageNote": "Retrato de Hillary Clinton via Wikipédia/Wikimedia Commons."
   }
 ]
