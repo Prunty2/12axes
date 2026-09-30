@@ -161,6 +161,8 @@ Todos os endpoints (exceto `/api/health`) aceitam o parâmetro `lang` (`pt` ou `
 
 ### Payload de Resultado
 
+Exemplo abreviado da estrutura (as duas respostas abaixo não formam uma submissão completa):
+
 ```json
 {
   "variant": "short",
@@ -172,6 +174,29 @@ Todos os endpoints (exceto `/api/health`) aceitam o parâmetro `lang` (`pt` ou `
 ```
 
 Valores de `answer`: `STRONGLY_AGREE`, `AGREE`, `NEUTRAL`, `DISAGREE`, `STRONGLY_DISAGREE`.
+
+Cada entrada deve ser um objeto não nulo com `questionId` conhecido e não vazio e
+`answer` obrigatório, usando um dos nomes acima. Valores numéricos (inclusive
+strings como `"0"`) não são aceitos. Cada ID de pergunta pode aparecer apenas uma
+vez, mesmo quando as respostas repetidas são iguais.
+
+`POST /api/results` exige uma submissão completa da variante informada:
+
+| Variante | Respostas obrigatórias |
+|----------|------------------------|
+| `short` | 36 IDs distintos, exatamente 3 por eixo |
+| `extended` | 60 IDs distintos, exatamente 5 por eixo |
+| `extreme` | Todas as 240 perguntas do pool |
+
+Os aliases de variante listados acima também são aceitos; `variant` ausente, nulo
+ou em branco usa `short`. Uma variante desconhecida retorna HTTP 400.
+`POST /api/election/results` sempre exige as 36 perguntas do quiz eleitoral
+(3 por eixo), independentemente de `variant`.
+
+Entradas malformadas, IDs desconhecidos ou duplicados, lista vazia, eixos ausentes,
+respostas em excesso e submissões incompletas retornam **HTTP 400**, sem calcular
+um resultado parcial nem preencher eixos ausentes com pontuação neutra.
+As respostas opcionais de `archetype` não substituem perguntas obrigatórias.
 
 ### Resposta Resumida
 

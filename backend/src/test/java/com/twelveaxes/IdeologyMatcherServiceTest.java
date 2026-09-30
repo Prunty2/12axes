@@ -91,7 +91,7 @@ class IdeologyMatcherServiceTest {
         List<SubmittedAnswer> answers = dataService.getQuestions().stream()
                 .map(q -> new SubmittedAnswer(q.id(), AnswerValue.NEUTRAL))
                 .toList();
-        var axes = scoringService.score(new ResultRequest(answers));
+        var axes = scoringService.score(new ResultRequest(answers, QuizDataService.EXTREME_VARIANT));
 
         List<IdeologyMatch> matches = matcherService.findMatches(axes);
 
@@ -165,7 +165,7 @@ class IdeologyMatcherServiceTest {
         List<SubmittedAnswer> answers = dataService.getQuestions().stream()
                 .map(q -> new SubmittedAnswer(q.id(), AnswerValue.NEUTRAL))
                 .toList();
-        var axes = scoringService.score(new ResultRequest(answers));
+        var axes = scoringService.score(new ResultRequest(answers, QuizDataService.EXTREME_VARIANT));
 
         var match = matcherService.findMatches(axes).get(0);
 
@@ -181,7 +181,7 @@ class IdeologyMatcherServiceTest {
         List<SubmittedAnswer> answers = dataService.getQuestions().stream()
                 .map(this::extremeFascistAnswer)
                 .toList();
-        var axes = scoringService.score(new ResultRequest(answers));
+        var axes = scoringService.score(new ResultRequest(answers, QuizDataService.EXTREME_VARIANT));
 
         var matches = matcherService.findMatches(axes);
 
@@ -197,7 +197,7 @@ class IdeologyMatcherServiceTest {
         List<SubmittedAnswer> answers = dataService.getQuestions().stream()
                 .map(this::extremeAnarchistAnswer)
                 .toList();
-        var axes = scoringService.score(new ResultRequest(answers));
+        var axes = scoringService.score(new ResultRequest(answers, QuizDataService.EXTREME_VARIANT));
 
         var matches = matcherService.findMatches(axes);
 

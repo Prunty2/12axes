@@ -54,7 +54,7 @@ class ScoringServiceTest {
                 .map(question -> new SubmittedAnswer(question.id(), AnswerValue.NEUTRAL))
                 .toList();
 
-        var results = scoringService.score(new ResultRequest(answers));
+        var results = scoringService.score(new ResultRequest(answers, QuizDataService.EXTREME_VARIANT));
 
         assertThat(results).hasSize(12);
         assertThat(results).allSatisfy(axis -> {

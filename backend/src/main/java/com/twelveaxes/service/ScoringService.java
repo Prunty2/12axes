@@ -5,9 +5,11 @@ import com.twelveaxes.model.Axis;
 import com.twelveaxes.model.AxisResult;
 import com.twelveaxes.model.Pole;
 import com.twelveaxes.model.Question;
+import com.twelveaxes.model.QuizPayload;
 import com.twelveaxes.model.ResultRequest;
 import com.twelveaxes.model.SubmittedAnswer;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -30,10 +32,11 @@ public class ScoringService {
     }
 
     public List<AxisResult> score(ResultRequest request, String lang) {
-        Map<String, Question> questionById = dataService.getQuestions().stream()
+        QuizPayload quiz = dataService.getQuiz(request.variant());
+        Map<String, Question> questionById = quiz.questions().stream()
                 .collect(Collectors.toMap(Question::id, Function.identity()));
 
-        validateAnswers(request.answers(), questionById);
+        validateAnswers(request.answers(), questionById, quiz);
 
         Map<String, WeightedScore> scores = new HashMap<>();
         for (SubmittedAnswer submittedAnswer : request.answers()) {
@@ -51,8 +54,9 @@ public class ScoringService {
                 .toList();
     }
     public List<AxisResult> scoreElection(ResultRequest request) {
-        Map<String, Question> questions = dataService.getElectionQuestions().stream().collect(Collectors.toMap(Question::id, Function.identity()));
-        validateAnswers(request.answers(), questions);
+        QuizPayload quiz = dataService.getElectionQuiz();
+        Map<String, Question> questions = quiz.questions().stream().collect(Collectors.toMap(Question::id, Function.identity()));
+        validateAnswers(request.answers(), questions, quiz);
         Map<String, WeightedScore> scores = new HashMap<>();
         for (SubmittedAnswer answer : request.answers()) { Question q=questions.get(answer.questionId()); double left=q.agreePole()==Pole.LEFT ? answer.answer().scoreTowardAgreement() : 1-answer.answer().scoreTowardAgreement(); scores.computeIfAbsent(q.axisId(), x -> new WeightedScore()).add(left,q.weight()); }
         return dataService.getAxes(QuizDataService.LANG_PT).stream().map(axis -> toAxisResult(axis,scores.get(axis.id()),QuizDataService.LANG_PT)).toList();
@@ -99,15 +103,41 @@ public class ScoringService {
         });
     }
 
-    private void validateAnswers(List<SubmittedAnswer> answers, Map<String, Question> questionById) {
-        Set<String> unknown = answers.stream()
-                .map(SubmittedAnswer::questionId)
-                .filter(id -> !questionById.containsKey(id))
-                .collect(Collectors.toSet());
-        if (!unknown.isEmpty()) {
+    private void validateAnswers(List<SubmittedAnswer> answers, Map<String, Question> questionById, QuizPayload quiz) {
+        if (answers == null || answers.isEmpty()) {
+            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Respostas obrigatórias");
+        }
+        Set<String> seen = new HashSet<>();
+        Map<String, Integer> countsByAxis = new HashMap<>();
+        for (SubmittedAnswer answer : answers) {
+            if (answer == null || answer.questionId() == null || answer.questionId().isBlank()
+                    || answer.answer() == null) {
+                throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Resposta inválida: questionId e answer obrigatórios");
+            }
+            Question question = questionById.get(answer.questionId());
+            if (question == null) {
+                throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "ID de pergunta desconhecido: " + answer.questionId());
+            }
+            if (!seen.add(answer.questionId())) {
+                throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "ID de pergunta duplicado: " + answer.questionId());
+            }
+            countsByAxis.merge(question.axisId(), 1, Integer::sum);
+        }
+
+        // Validate base answers before archetypes; optional choices cannot fill missing axes.
+        for (Axis axis : quiz.axes()) {
+            int expected = quiz.questionsPerAxis() == 0
+                    ? (int) questionById.values().stream().filter(q -> q.axisId().equals(axis.id())).count()
+                    : quiz.questionsPerAxis();
+            if (countsByAxis.getOrDefault(axis.id(), 0) != expected) {
+                throw new ResponseStatusException(HttpStatus.BAD_REQUEST,
+                        "Submissão inválida: esperadas " + expected + " respostas no eixo " + axis.id());
+            }
+        }
+        if (answers.size() != quiz.questionCount()) {
             throw new ResponseStatusException(
                     HttpStatus.BAD_REQUEST,
-                    "Respostas inválidas. IDs desconhecidos: " + unknown
+                    "Submissão inválida: esperadas " + quiz.questionCount() + " respostas"
             );
         }
     }

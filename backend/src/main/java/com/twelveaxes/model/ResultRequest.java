@@ -2,11 +2,12 @@ package com.twelveaxes.model;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotEmpty;
+import jakarta.validation.constraints.NotNull;
 import java.util.List;
 import java.util.Map;
 
 public record ResultRequest(
-        @NotEmpty List<@Valid SubmittedAnswer> answers,
+        @NotEmpty List<@NotNull @Valid SubmittedAnswer> answers,
         String variant,
         // Perguntas de arquétipo do fim do quiz: id da pergunta -> id da alternativa.
         // Opcional: quem pula (ou clientes antigos) manda nulo ou vazio.
