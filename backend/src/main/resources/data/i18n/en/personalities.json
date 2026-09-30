@@ -2522,5 +2522,11 @@
     "name": "Rupert Lowe",
     "role": "Restore Britain leader",
     "description": "Restore Britain leader Lowe advocates net-negative immigration, Christian heritage and a smaller state, combining free speech and self-defence with strict criminal penalties and national sovereignty."
+  },
+  {
+    "id": "kamala-harris",
+    "name": "Kamala Harris",
+    "role": "Former US vice president",
+    "description": "US vice president from 2021 to 2025, Harris advocates reproductive rights, economic regulation and social protection alongside private enterprise, border enforcement and US-led military alliances."
   }
 ]

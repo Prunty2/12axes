@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T13:14:31Z",
+  "lastUpdated": "2026-09-30T13:24:08Z",
   "personality": {
-    "totalProfiles": 405,
+    "totalProfiles": 406,
     "pending": [],
     "done": [
       "lenin",
@@ -409,7 +409,8 @@
       "boris-johnson",
       "keir-starmer",
       "nigel-farage",
-      "rupert-lowe"
+      "rupert-lowe",
+      "kamala-harris"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -550,7 +551,7 @@
           "id": "kamala-harris",
           "name": "Kamala Harris",
           "country": "United States",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "hillary-clinton",

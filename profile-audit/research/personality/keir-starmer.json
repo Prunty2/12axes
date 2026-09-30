@@ -355,5 +355,23 @@
       "us-trade"
     ],
     "neutralReview": "Eleven mixed answers (4.6%); no axis above three neutrals. Mixed statements combine coercion and consent, taxation and growth, strategic protection and cheap imports, private adult conduct and exploitation safeguards, or technological benefit and ethical limits."
-  }
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "kamala-harris",
+      "answersSha256": "a8e32595898c8dd0b86037f92bbc39b0500b3c01393b2edc4b1fb5c8b9898382",
+      "neighborVectorSha256": "2de4ab24692695313dcb7ac7be4b852ff83967110b8e61bb5f13bcfbdabdb84f",
+      "reason": "The 97.0% overlap with Harris reflects democratic mixed economies and allied security policies. Starmer remains more security-oriented (61.5 versus 47.2) and assimilation-oriented (43.8 versus 28.3), and less socially progressive (72.9 versus 82.4). His facial-recognition support, language and settlement proposals, and sex-based-space policy support these differences. The archived answers remain unchanged.",
+      "differingAxes": [
+        "poder",
+        "imigracao",
+        "moral"
+      ],
+      "sourceIds": [
+        "order",
+        "immigration",
+        "sex"
+      ]
+    }
+  ]
 }

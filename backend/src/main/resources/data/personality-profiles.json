@@ -6883,5 +6883,22 @@
       "moral": 25.6,
       "tecnologia": 57.1
     }
+  },
+  {
+    "personalityId": "kamala-harris",
+    "vector": {
+      "estrutura": 55.7,
+      "representacao": 87.0,
+      "poder": 47.2,
+      "imigracao": 28.3,
+      "diplomacia": 57.6,
+      "intervencao": 21.0,
+      "economia": 61.5,
+      "controle": 55.7,
+      "comercio": 47.2,
+      "religiao": 53.6,
+      "moral": 82.4,
+      "tecnologia": 57.1
+    }
   }
 ]

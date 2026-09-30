@@ -21,22 +21,23 @@
     "boris-johnson",
     "keir-starmer",
     "nigel-farage",
-    "rupert-lowe"
+    "rupert-lowe",
+    "kamala-harris"
   ],
   "candidateCount": 31,
-  "pendingCount": 12,
+  "pendingCount": 11,
   "skippedCount": 0,
   "verification": {
-    "individualAuditValidators": "Passed for all nineteen against the current catalogue. Lowe–Farage similarity (97.3%) has reciprocal, evidence-linked, fingerprinted reviews. Lowe similarity to Abbott (96.4%) and Flavio Bolsonaro (95.4%) reviewed. No answers changed to manufacture distance. Existing documented high-similarity reviews remain valid.",
+    "individualAuditValidators": "Passed for all twenty against the current catalogue. Harris–Starmer similarity (97.0%) has reciprocal, evidence-linked, fingerprinted reviews; Biden (95.0%) and Gillard (94.5%) reviewed. No answers changed to manufacture distance. Existing high-similarity reviews remain valid.",
     "archiveAndMetadataIntegrity": "verify_expansion.py passed; saved vectors equal recomputation from all 240 answers plus five archetype answers.",
-    "backendFullSuite": "140 tests passed, zero failures, errors or skips.",
-    "backendUpdatedIntegration": "ExpandedPersonalityTest: 19 cases passed; each submits all 240 archived answers plus five archetype answers in Portuguese and English and receives the matching person at 100%.",
-    "frontend": "21 tests passed before the Rudd and later data-only additions; latest production build generated 1586 pages including PT/EN pages for all nineteen additions.",
+    "backendFullSuite": "141 tests passed, zero failures, errors or skips.",
+    "backendUpdatedIntegration": "ExpandedPersonalityTest: 20 cases passed; each submits all 240 archived answers plus five archetype answers in Portuguese and English and receives the matching person at 100%.",
+    "frontend": "21 tests passed before the Rudd and later data-only additions; latest production build generated 1588 pages including PT/EN pages for all twenty additions.",
     "similarityReviewTests": "6 tests passed, including stale review, exact duplicate, missing evidence and catalogue isolation checks.",
-    "visual": "All nineteen downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee, Johnson, Starmer, Farage and Lowe; personality comparison tabs inspected for those except Hanson and Taylor. Quiz submission verified through backend integration tests, not browser submission.",
+    "visual": "All twenty downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee, Johnson, Starmer, Farage, Lowe and Harris; personality comparison tabs inspected for those except Hanson and Taylor. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Complete twelve pending profiles: Kamala Harris, Hillary Clinton, Jimmy Carter, Lyndon B. Johnson, Mark Carney, Angela Merkel, Olaf Scholz, David Lloyd George, Helmut Kohl, Lech Wałęsa, David Ben-Gurion and Golda Meir. Then run final checks and submit and attach a draft PR. Nineteen additions are complete. Winston Churchill and the other verified existing figures require no duplicate addition. Earlier exclusions remain out of scope except for the five historical figures explicitly restored by the latest amendment. This checkpoint does not prove completion.",
+  "remaining": "Complete eleven pending profiles: Hillary Clinton, Jimmy Carter, Lyndon B. Johnson, Mark Carney, Angela Merkel, Olaf Scholz, David Lloyd George, Helmut Kohl, Lech Wałęsa, David Ben-Gurion and Golda Meir. Then run final checks and submit and attach a draft PR. Twenty additions are complete. Existing figures must not be duplicated. This checkpoint does not prove completion.",
   "scopeRevision": {
     "date": "2026-09-30",
     "previousCandidateCount": 247,
