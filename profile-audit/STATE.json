@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T11:44:21Z",
+  "lastUpdated": "2026-09-30T11:57:57Z",
   "personality": {
-    "totalProfiles": 399,
+    "totalProfiles": 400,
     "pending": [],
     "done": [
       "lenin",
@@ -403,7 +403,8 @@
       "julia-gillard",
       "tony-abbott",
       "malcolm-turnbull",
-      "scott-morrison"
+      "scott-morrison",
+      "margaret-thatcher"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -574,7 +575,7 @@
           "id": "margaret-thatcher",
           "name": "Margaret Thatcher",
           "country": "United Kingdom",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "clement-attlee",

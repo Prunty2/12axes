@@ -15,20 +15,21 @@
     "julia-gillard",
     "tony-abbott",
     "malcolm-turnbull",
-    "scott-morrison"
+    "scott-morrison",
+    "margaret-thatcher"
   ],
   "candidateCount": 247,
-  "pendingCount": 234,
+  "pendingCount": 233,
   "skippedCount": 0,
   "verification": {
-    "individualAuditValidators": "Passed for all thirteen against the current catalogue. Morrison–Howard proximity reviewed in both directions, with evidence and immutable-answer fingerprints; no answers changed to manufacture distance.",
+    "individualAuditValidators": "Passed for all fourteen against the current catalogue. Thatcher–Abbott proximity reviewed in both directions, with evidence and immutable-answer fingerprints; no answers changed to manufacture distance.",
     "archiveAndMetadataIntegrity": "verify_expansion.py passed; saved vectors equal recomputation from all 240 answers plus five archetype answers.",
-    "backendFullSuite": "134 tests passed, zero failures, errors or skips.",
-    "backendUpdatedIntegration": "ExpandedPersonalityTest: 13 cases passed; each submits all archived answers in Portuguese and English and receives the matching person at 100%.",
-    "frontend": "21 tests passed before the Rudd, Gillard, Abbott, Turnbull and Morrison data-only additions; the subsequent production build generated 1574 pages including PT/EN pages for all thirteen additions.",
+    "backendFullSuite": "135 tests passed, zero failures, errors or skips.",
+    "backendUpdatedIntegration": "ExpandedPersonalityTest: 14 cases passed; each submits all archived answers in Portuguese and English and receives the matching person at 100%.",
+    "frontend": "21 tests passed before the Rudd, Gillard, Abbott, Turnbull, Morrison and Thatcher data-only additions; the subsequent production build generated 1576 pages including PT/EN pages for all fourteen additions.",
     "similarityReviewTests": "6 tests passed, including stale review, exact duplicate, missing evidence and catalogue isolation checks.",
-    "visual": "All thirteen downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull and Morrison; personality comparison tabs inspected for Howard, Albanese, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull and Morrison. Quiz submission verified through backend integration tests, not browser submission.",
+    "visual": "All fourteen downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison and Thatcher; personality comparison tabs inspected for Howard, Albanese, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison and Thatcher. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Research and add or document justified skips for the remaining 234 candidates across the requested countries; re-run complete final tests and generated-page checks; submit and attach a draft PR. All thirteen named Australians are added. This checkpoint does not prove completion."
+  "remaining": "Research and add or document justified skips for the remaining 233 candidates across the requested countries; re-run complete final tests and generated-page checks; submit and attach a draft PR. All thirteen named Australians and Margaret Thatcher are added. This checkpoint does not prove completion."
 }

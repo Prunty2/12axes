@@ -264,6 +264,23 @@
         "immigration",
         "biotech"
       ]
+    },
+    {
+      "comparedWith": "margaret-thatcher",
+      "answersSha256": "54359af6f95c2101a94a76a981333b59a219488740217692741ada9e4b1ecb27",
+      "neighborVectorSha256": "4ec926849e91174ddc9421e84719261828227c2917f5a54687d5a18fb6b824c6",
+      "reason": "Abbott’s independently archived model remains distinct from Thatcher: estrutura 54.5 versus 34.3 reflects his federalism programme; poder 59.1 versus 68.7 includes his opposition to executions; moral 19.6 versus 29.1 reflects the abortion and traditional-family positions documented here. Thatcher’s own evidence is recorded in her research file. This accepts shared conservative and alliance commitments without changing either answer archive.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "moral"
+      ],
+      "sourceIds": [
+        "federalism",
+        "death-penalty",
+        "abortion",
+        "family"
+      ]
     }
   ]
 }

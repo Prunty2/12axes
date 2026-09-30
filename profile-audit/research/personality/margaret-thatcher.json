@@ -1,0 +1,350 @@
+{
+  "id": "margaret-thatcher",
+  "country": "United Kingdom",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Conservative leadership and premiership, 1975–1990; earlier votes used as context",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "gov-bio",
+      "title": "GOV.UK: Margaret Thatcher, premiership and reforms",
+      "url": "https://www.gov.uk/government/history/past-prime-ministers/margaret-thatcher",
+      "factDate": "1925–2013; premiership 1979–1990",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "bruges",
+      "title": "Bruges speech: sovereign cooperation, open markets and NATO",
+      "url": "https://www.margaretthatcher.org/document/107332",
+      "factDate": "1988-09-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "science",
+      "title": "Royal Society speech: science, research funding and environmental risks",
+      "url": "https://www.margaretthatcher.org/document/107346",
+      "factDate": "1988-09-27",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "Church of Scotland speech: Christianity, democracy and social provision",
+      "url": "https://www.margaretthatcher.org/document/107246",
+      "factDate": "1988-05-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "conference87",
+      "title": "Conservative conference speech: ownership, education and traditional values",
+      "url": "https://www.margaretthatcher.org/document/106941",
+      "factDate": "1987-10-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "law",
+      "title": "Young Conservative conference: criminal penalties and independent law enforcement",
+      "url": "https://www.margaretthatcher.org/document/106743",
+      "factDate": "1987-02-07",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "immigration78",
+      "title": "Conservative Central Council: restricting immigration and equal citizenship",
+      "url": "https://www.margaretthatcher.org/document/103651",
+      "factDate": "1978-04-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "devolution",
+      "title": "Scottish Sunday Post article opposing the proposed Scottish Assembly",
+      "url": "https://www.margaretthatcher.org/document/103956",
+      "factDate": "1979-02-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "bank",
+      "title": "Commons statement on Rome European Council: monetary accountability and free trade",
+      "url": "https://www.margaretthatcher.org/document/108234",
+      "factDate": "1990-10-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gchq",
+      "title": "Hansard: GCHQ union restrictions and acceptance of final court judgment",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1984/jul/17/gchq",
+      "factDate": "1984-07-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "death-penalty",
+      "title": "Sun interview: capital punishment as an option for particularly cruel murder",
+      "url": "https://www.margaretthatcher.org/document/106555",
+      "factDate": "1987-05-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "universe",
+      "title": "Universe interview: family, abortion time limit, religious education and NHS",
+      "url": "https://www.margaretthatcher.org/document/106579",
+      "factDate": "1987-02-04; published 1987-02-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "early-votes",
+      "title": "Hansard: Peter Bottomley recalls Thatcher votes for abortion and homosexual-law reform",
+      "url": "https://hansard.parliament.uk/Commons/2023-03-09/debates/50015a81-42ee-478b-a5d1-2b0f75fb4931/CommonsChamber",
+      "factDate": "1967 votes recalled 2023-03-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "section28",
+      "title": "National Archives: origins and scope of Section 28",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/origins-section-28/",
+      "factDate": "1988 legislation; historical archive account",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "embryo",
+      "title": "Hansard: Clause 11 debate and divisions on permitting licensed embryo research",
+      "url": "https://hansard.parliament.uk/Commons/1990-04-23/debates/bf444fb0-912c-4bb6-bf56-29d77a4f767f/Clause11",
+      "factDate": "1990-04-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "conference83",
+      "title": "Conservative conference speech: technological change, jobs and public services",
+      "url": "https://www.margaretthatcher.org/document/105454",
+      "factDate": "1983-10-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "libya",
+      "title": "Commons statement supporting limited US strikes on Libya from British bases",
+      "url": "https://www.margaretthatcher.org/document/106362",
+      "factDate": "1986-04-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "grenada",
+      "title": "Daily Mail interview: disagreement with US invasion of Grenada",
+      "url": "https://www.margaretthatcher.org/document/105212",
+      "factDate": "1983-11-04",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sanctions",
+      "title": "CTV interview: South Africa, sanctions and negotiation",
+      "url": "https://www.margaretthatcher.org/document/106264",
+      "factDate": "1986-07-07",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Hansard: Home Secretary presents Firearms Amendment Bill",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1988/jan/21/firearms-amendment-bill",
+      "factDate": "1988-01-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "interception",
+      "title": "Hansard: Home Secretary outlines interception warrants and safeguards",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1985/feb/07/interception-of-communications",
+      "factDate": "1985-02-07",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "broadcast",
+      "title": "Hansard: government defence of broadcasting restrictions",
+      "url": "https://hansard.parliament.uk/Commons/1988-11-02/debates/5930b05f-d535-4f6d-92dd-6f0f2e1ee11d/BusinessOfTheHouse",
+      "factDate": "1988-11-02",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "refugees",
+      "title": "Hansard: Vietnamese refugee quota and resettlement",
+      "url": "https://hansard.parliament.uk/Commons/1980-11-13/debates/5cbe9594-45f5-4922-a65e-17ddcd320e81/VietnameseRefugees",
+      "factDate": "1980-11-13; 1979 commitment",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "devolution",
+        "universe",
+        "conference87",
+        "bruges"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "faith",
+        "bank",
+        "gchq",
+        "gov-bio"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "law",
+        "death-penalty",
+        "guns",
+        "interception",
+        "broadcast",
+        "universe",
+        "gchq"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "immigration78",
+        "refugees",
+        "universe"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "bruges",
+        "gov-bio",
+        "libya",
+        "grenada"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "libya",
+        "grenada",
+        "sanctions",
+        "bruges",
+        "bank"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "gov-bio",
+        "conference87",
+        "conference83",
+        "faith",
+        "universe"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "bruges",
+        "bank",
+        "conference87",
+        "gov-bio"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "bruges",
+        "bank"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "universe"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "conference87",
+        "section28",
+        "universe",
+        "early-votes"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "science",
+        "embryo",
+        "conference83"
+      ]
+    }
+  },
+  "uncertainties": [
+    "The profile centres on Conservative leadership and premiership, 1975–1990. Earlier 1967 votes provide context; later retirement statements, including later climate scepticism, do not override the premiership record.",
+    "Answers are editorial reconstructions, not answers given by Thatcher. AI, cryptocurrencies, facial recognition, gender self-identification, neutral language, cultivated meat and enhancement questions are modern hypotheticals. Qualified choices extrapolate from documented principles; neutral answers retain unresolved tensions rather than claim a historical position.",
+    "UK constitutional analogies matter: opposition to devolved legislatures is distinct from opposition to European supranational authority. Parliamentary sovereignty explains representacao_05; accepting judicial review of executive acts does not establish support for courts striking down Acts of Parliament.",
+    "Local services and police were not all nationalised. School-level choice and administration qualify centralising answers. estrutura_18 rejects the absolute ban on any consensual separation rather than endorsing unilateral Scottish independence.",
+    "Broadcasting restrictions concerned specified organisations and direct speech; they did not outlaw all press criticism. National-security union restrictions and lawful interception should not be described as unlimited police power. poder_19 rejects detention with no defined endpoint or trial; it does not deny support for special counterterrorism powers.",
+    "Death-penalty support concerned exceptionally grave murders, not an automatic death sentence for every crime mentioned in poder_15. Firearms proposals restricted specified weapons and preserved licensed sporting uses; this is not a total civilian firearms ban.",
+    "The economic record includes a publicly funded NHS, pensions and basic welfare. economia_14 is a qualified inference from work incentives and conditional assistance, not a claim that she imposed a universal fixed benefit time limit.",
+    "controle_17 reflects retained national monetary authority and the ability to manage exchange arrangements; it does not claim uninterrupted support for fixed exchange rates. The 1990 ERM decision does not erase earlier opposition to monetary integration.",
+    "Publicly funded religious education and Christian moral language do not imply a theocracy. Moral reconstruction distinguishes private decriminalisation, public promotion, adoption and marriage. No claim is made that modern gender or language proposals existed in their present form during her premiership.",
+    "Embryo division: amendment 1 would have prohibited research; Thatcher voted No, then Aye on the clause. Support for licensed early-embryo research does not imply support for unrestricted cloning or selecting intelligence and appearance. Clinical devices and therapeutic research are distinguished from enhancement.",
+    "Environmental answers use her 1988 scientific and policy statements, including efficiency and pollution control. Agricultural biotechnology, urban/rural preferences and modern food technologies are not presented as direct quotations or documented questionnaire answers."
+  ],
+  "distinctions": [
+    "Likely neighbours include Ronald Reagan and John Howard: Thatcher shared market reform and Atlantic security priorities, but governed a unitary parliamentary system, retained the NHS and supported specified gun restrictions. Assess independently; do not copy their answers.",
+    "Unlike protectionist nationalist profiles, opposition to European political centralisation coexisted with support for the European single market, foreign investment and global trade.",
+    "Unlike a libertarian minimum-state profile, she retained public welfare, national monetary accountability and coercive policing; unlike a theocratic conservative profile, she supported limited abortion law reform and licensed embryo research.",
+    "Unlike an unconditional interventionist, she disputed the Grenada invasion and broad South African economic sanctions. Those differences do not make her neutralist or pacifist.",
+    "Reviewed the 96.7% Howard warning: Thatcher’s stored model differs especially on religion (17.6 versus 36.5) and immigration (68.2 versus 54.0). Her explicit Christian public ethos and 1978 migration programme support these directions. These numbers describe editorial models, not independently measured beliefs.",
+    "Reviewed the 96.4% Kristol warning: Thatcher’s model differs on representation (76.3 versus 57.5), structure (34.3 versus 51.2) and morality (29.1 versus 15.0). Her parliamentary commitments, anti-devolution position and qualified abortion record support keeping a distinct independently assessed profile."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Margaret_Thatcher_stock_portrait.jpg",
+    "author": "Photographer probably Terence Donovan (uncertain); JPEG colour work by Begoon",
+    "date": "circa 1995–1996; released 2005-01-14",
+    "license": "Copyrighted free use: Thatcher Estate permission for any purpose, including commercial use and modification, as recorded on Commons",
+    "note": "Real historical photograph, resized to 480 pixels wide and recompressed; photographer attribution remains qualified.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "tony-abbott",
+      "answersSha256": "f15190c6aa22a6b3b50e1e173a0f210668348b0b3fdde3487a132d9d08620349",
+      "neighborVectorSha256": "de516081608f1df1aaf0eec488d03520fe6c74568493750c4a7e648d0fb889a3",
+      "reason": "These distinct politicians share conservative, market and alliance commitments. Thatcher’s independent model is more centralised (estrutura 34.3 versus 54.5), more supportive of coercive law enforcement (poder 68.7 versus 59.1), more open to trade (comercio 21.0 versus 28.2), and less uniformly traditional on personal morality (moral 29.1 versus 19.6). Her opposition to the proposed Scottish Assembly, support for capital punishment, free-trade speeches and qualified abortion position support these differences. The figures compare editorial models, not measured beliefs. No answers were adjusted to reduce similarity.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "comercio",
+        "moral"
+      ],
+      "sourceIds": [
+        "devolution",
+        "death-penalty",
+        "bruges",
+        "universe"
+      ]
+    }
+  ],
+  "computedComparisons": {
+    "method": "profile-audit/compatibility.py, current catalogue, 2026-09-30",
+    "personality": [
+      {
+        "id": "tony-abbott",
+        "compatibility": 97.2
+      },
+      {
+        "id": "john-howard",
+        "compatibility": 96.7
+      }
+    ],
+    "ideology": [
+      {
+        "id": "nacional-liberalismo",
+        "compatibility": 96.5
+      },
+      {
+        "id": "neoconservadorismo",
+        "compatibility": 94.3
+      }
+    ],
+    "country": [
+      {
+        "id": "israel",
+        "compatibility": 95.4
+      },
+      {
+        "id": "roma-republicana",
+        "compatibility": 93.4
+      }
+    ]
+  }
+}

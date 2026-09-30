@@ -2486,5 +2486,11 @@
     "name": "Scott Morrison",
     "role": "Former Australian prime minister",
     "description": "Australian prime minister from 2018 to 2022, Morrison combined Christian conservatism, support for business and controlled migration with pandemic wage subsidies, AUKUS and technology-led climate targets."
+  },
+  {
+    "id": "margaret-thatcher",
+    "name": "Margaret Thatcher",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 1979 to 1990, Thatcher pursued privatisation, fiscal restraint and trade union restrictions. She championed NATO, parliamentary sovereignty and traditional family values while retaining the publicly funded NHS."
   }
 ]
