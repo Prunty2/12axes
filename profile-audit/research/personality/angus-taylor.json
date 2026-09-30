@@ -1,0 +1,258 @@
+{
+  "id": "angus-taylor",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Leadership platform through September 2026, with earlier ministerial and parliamentary record for institutional and personal positions",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "leadership",
+      "title": "Reuters: Taylor elected opposition leader",
+      "url": "https://www.marketscreener.com/news/change-or-die-says-australia-s-new-opposition-leader-taylor-ce7e5ddad880ff21",
+      "factDate": "2026-02-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "biography",
+      "title": "Angus Taylor biography and portrait",
+      "url": "https://en.wikipedia.org/wiki/Angus_Taylor",
+      "factDate": "Biography accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "budget",
+      "title": "Taylor: Coalition Budget in Reply commitments",
+      "url": "https://www.angustaylor.com.au/our-budget",
+      "factDate": "2026-05 budget reply; current policy page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sydney",
+      "title": "Taylor: Sydney Institute address",
+      "url": "https://www.angustaylor.com.au/media/address-to-the-sydney-institute",
+      "factDate": "2026-07-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "cities",
+      "title": "ABC: Taylor explains City Deals and joint investment",
+      "url": "https://www.abc.net.au/news/2016-03-25/uk-city-model-to-be-adapted-for-australia/7276252",
+      "factDate": "2016-03-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "cities-primary",
+      "title": "Turnbull and Taylor City Deals: cooperation across three levels of government",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-40476",
+      "factDate": "2016-09-29",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "marriage",
+      "title": "Taylor parliamentary speech on marriage and religious freedom",
+      "url": "https://www.openaustralia.org.au/debate/?id=2017-12-06.18.1",
+      "factDate": "2017-12-06 Hansard transcript",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "religion",
+      "title": "Taylor ABC interview on religious freedom and discrimination",
+      "url": "https://www.minister.industry.gov.au/ministers/taylor/transcripts/interview-rafael-epstein-abc-radio-melbourne",
+      "factDate": "2018-10 interview",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "encryption",
+      "title": "Signed Taylor letter on lawful access to encrypted communications",
+      "url": "https://www.accessnow.org/wp-content/uploads/2018/08/signed-response-from-Minister-Angus-Taylor.pdf",
+      "factDate": "2018 ministerial response",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tobacco",
+      "title": "Taylor: tobacco enforcement and regulated adult vaping proposal",
+      "url": "https://www.angustaylor.com.au/media/the-coalitions-plan-to-kill-the-illicit-tobacco-market-and-smash-the-gangs",
+      "factDate": "2026-09-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "migration",
+      "title": "Taylor: Australian Values Migration Plan",
+      "url": "https://www.angustaylor.com.au/media/coalition-unveils-first-instalment-of-its-australian-values-migration-plan",
+      "factDate": "2026-04-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "migration-abc",
+      "title": "ABC: visa social-media screening and binding values proposal",
+      "url": "https://www.abc.net.au/news/2026-04-13/coalition-immigration-policy-angus-taylor-announcement/106559472",
+      "factDate": "2026-04-13; updated 2026-04-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "interview",
+      "title": "7NEWS: family, free trade, fuel security and migration interview",
+      "url": "https://7news.com.au/news/7news-the-issue-podcast-angus-taylor-opens-up-on-family-tragedy-the-fuel-crisis-and-pauline-hanson-c-22061857",
+      "factDate": "2026 interview before April migration announcement",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "investment",
+      "title": "Taylor: simpler foreign-investment rules and deregulation",
+      "url": "https://nswliberal.org.au/news/coalition-to-overhaul-firb-and-cut-red-tape-to-boost-productivity",
+      "factDate": "2025-03-05",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gender",
+      "title": "ABC: proposed biological-sex definitions in discrimination law",
+      "url": "https://www.abc.net.au/news/2026-05-16/opposition-leader-angus-taylor-vows-amend-sex-discrimination-act/106688258",
+      "factDate": "2026-05-16",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "cities",
+        "cities-primary",
+        "sydney",
+        "budget"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "marriage",
+        "leadership",
+        "sydney"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "encryption",
+        "tobacco",
+        "marriage",
+        "migration"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "migration",
+        "migration-abc",
+        "budget",
+        "interview"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "budget"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "budget",
+        "interview"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "sydney",
+        "budget",
+        "interview"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "sydney",
+        "budget",
+        "investment",
+        "tobacco"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "investment",
+        "interview",
+        "budget"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "marriage",
+        "religion"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "marriage",
+        "gender",
+        "interview",
+        "religion"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "sydney",
+        "budget",
+        "cities",
+        "religion"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Answers simulate political principles; they are not a questionnaire completed by Taylor. Proposed opposition policies are not described as enacted measures.",
+    "The 2017 speech distinguishes a personal no vote on marriage from support for the legislation after the public vote. It is used for both moral convictions and democratic accountability.",
+    "No precise personal abortion position was established by dedicated searches. Early-abortion permissibility and the general moral claim about abortion remain neutral rather than importing views of conservative associates.",
+    "The 2026 gender-law proposal is treated as support for biological-sex definitions, not as a claim that Taylor proposed removing every protection for transgender people.",
+    "International tribunals, overseas bases, conscription, euthanasia, facial recognition and genetic enhancement include qualified inference where no direct stance was established.",
+    "Religious identity is grounded in his own parliamentary speech, not inferred from relatives or party membership."
+  ],
+  "distinctions": [
+    "Likely neighbours include Howard and Merz, but Taylor combines 2026 migration screening with free-trade orientation and a technology-led energy platform.",
+    "Taylor rejects the scale of One Nations economic intervention while sharing support for stronger defence and lower migration.",
+    "Personal Christian conservatism coexists with accepting civil marriage legislation after a democratic vote.",
+    "Domestic fuel security and public infrastructure coexist with market-led production and foreign-investment liberalisation.",
+    "The next stored neighbour, Tarcisio de Freitas, differs in poder (71.2 versus 60.3), intervencao (46.2 versus 25.7), religiao (21.2 versus 34.1) and moral (25.0 versus 39.6); its 95.5% match does not establish duplicate answers."
+  ],
+  "portrait": {
+    "article": "https://en.wikipedia.org/wiki/Angus_Taylor",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Angus_Taylor_2018_portrait_black.jpg/330px-Angus_Taylor_2018_portrait_black.jpg",
+    "descriptionPage": "https://commons.wikimedia.org/wiki/File:Angus_Taylor_2018_portrait_black.jpg",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "friedrich-merz",
+      "answersSha256": "d7081ee24c198a5cc3f409e78ca1784b19f7b8290028318cf20f5c5f5f447116",
+      "neighborVectorSha256": "95dc416a0341c396dc3da5590636d424a801b5db850f0b18cc49d74e89a76ba8",
+      "reason": "The shared centre-right outlook produces a close aggregate match, not identical profiles. Taylor has representacao 82.3 versus the stored Merz 71.2, controle 23.5 versus 31.2, and moral 39.6 versus 31.2. His explicit acceptance of the marriage vote, 2026 deregulation platform and mixed personal-conservative/civil-law record support these independently inferred answers. The comparison concerns existing quiz models, not proof of a precise measured difference between the two men.",
+      "differingAxes": [
+        "representacao",
+        "controle",
+        "moral"
+      ],
+      "sourceIds": [
+        "marriage",
+        "sydney",
+        "gender"
+      ]
+    },
+    {
+      "comparedWith": "john-howard",
+      "answersSha256": "d7081ee24c198a5cc3f409e78ca1784b19f7b8290028318cf20f5c5f5f447116",
+      "neighborVectorSha256": "e6620bbfad1a2c6d951e0280afcd04d95dd47ce886eb726793a0fca31d0debb4",
+      "reason": "Distinct Australian Liberal leaders with plausible policy overlap. Taylor has estrutura 51.0 versus Howard 39.0, imigracao 69.5 versus 54.0 and moral 39.6 versus 27.7. Cooperative City Deals and local discretion, the 2026 binding migration-values proposal and acceptance of civil marriage legislation are concrete parts of Taylors record. No answers were copied from Howard or changed to force separation.",
+      "differingAxes": [
+        "estrutura",
+        "imigracao",
+        "moral"
+      ],
+      "sourceIds": [
+        "cities",
+        "sydney",
+        "migration",
+        "marriage"
+      ]
+    }
+  ]
+}

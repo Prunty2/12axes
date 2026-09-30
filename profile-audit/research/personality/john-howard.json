@@ -205,6 +205,20 @@
         "migration",
         "cloning"
       ]
+    },
+    {
+      "comparedWith": "angus-taylor",
+      "answersSha256": "a372dd99d56eb20c37b76e25d95753d6b4232eb830578a28bb3944ff0a772990",
+      "neighborVectorSha256": "02d13a2db4b03d464742e58580bb3d0905346b650bd29274647166b5cf545c9c",
+      "reason": "Howard and Taylor are distinct Liberal leaders with overlapping economic and defence positions. Howards archived model has estrutura 39.0 versus Taylor 51.0 and imigracao 54.0 versus 69.5, grounded in national workplace rules, federal intervention and qualified acceptance of cultural diversity in Howards research. These are comparisons of stored editorial models, not precise empirical measurements. Howards permanent answers remain untouched.",
+      "differingAxes": [
+        "estrutura",
+        "imigracao"
+      ],
+      "sourceIds": [
+        "federalism",
+        "migration"
+      ]
     }
   ]
 }

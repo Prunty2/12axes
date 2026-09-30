@@ -2426,5 +2426,23 @@
     "name": "Gough Whitlam",
     "role": "Former Australian prime minister",
     "description": "Australian prime minister from 1972 to 1975, Whitlam introduced Medibank, abolished university fees and conscription, advanced Indigenous rights and racial equality, and cut tariffs while expanding federal responsibilities."
+  },
+  {
+    "id": "anthony-albanese",
+    "name": "Anthony Albanese",
+    "role": "Australian prime minister",
+    "description": "Labor prime minister since 2022, he expanded support for Medicare and domestic industry. He backs multiculturalism, LGBT rights and renewable energy while maintaining migration controls and the AUKUS defence partnership."
+  },
+  {
+    "id": "pauline-hanson",
+    "name": "Pauline Hanson",
+    "role": "Australian senator and One Nation leader",
+    "description": "One Nation founder and Queensland senator, she advocates restricted immigration, cultural assimilation and traditional values. She combines industrial protection and strategic public ownership with support for small business and nuclear energy."
+  },
+  {
+    "id": "angus-taylor",
+    "name": "Angus Taylor",
+    "role": "Australian opposition leader",
+    "description": "Liberal opposition leader since 2026 and former energy minister, he advocates lower taxes and regulation, migration tied to Australian values, and stronger AUKUS capabilities. He supports fossil fuels and opening the way to nuclear energy."
   }
 ]

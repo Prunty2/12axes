@@ -4666,5 +4666,41 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Gough_Whitlam",
     "imageNote": "Retrato de Gough Whitlam via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "anthony-albanese",
+    "name": "Anthony Albanese",
+    "role": "Primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1963–",
+    "description": "Primeiro-ministro trabalhista desde 2022, ampliou o apoio ao Medicare e à indústria nacional. Defende multiculturalismo, direitos LGBT e energia renovável, mantendo controle migratório e a aliança militar AUKUS.",
+    "imagePath": "/personalities/portraits/anthony-albanese.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+    "imageNote": "Retrato de Anthony Albanese via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "pauline-hanson",
+    "name": "Pauline Hanson",
+    "role": "Senadora australiana e líder do One Nation",
+    "category": "politico",
+    "lifespan": "1954–",
+    "description": "Fundadora do One Nation e senadora por Queensland, defende imigração restrita, assimilação cultural e valores tradicionais. Combina proteção à indústria e propriedade pública estratégica com apoio a pequenos negócios e energia nuclear.",
+    "imagePath": "/personalities/portraits/pauline-hanson.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Pauline_Hanson",
+    "imageNote": "Retrato de Pauline Hanson via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "angus-taylor",
+    "name": "Angus Taylor",
+    "role": "Líder da oposição australiana",
+    "category": "politico",
+    "lifespan": "1966–",
+    "description": "Líder liberal da oposição desde 2026 e ex-ministro da Energia, defende redução de impostos e regulação, imigração vinculada a valores australianos e reforço do AUKUS. Apoia combustíveis fósseis e a abertura à energia nuclear.",
+    "imagePath": "/personalities/portraits/angus-taylor.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Angus_Taylor",
+    "imageNote": "Retrato de Angus Taylor via Wikipédia/Wikimedia Commons."
   }
 ]

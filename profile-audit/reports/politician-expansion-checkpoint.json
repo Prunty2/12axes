@@ -5,20 +5,23 @@
   "added": [
     "john-howard",
     "robert-menzies",
-    "gough-whitlam"
+    "gough-whitlam",
+    "anthony-albanese",
+    "pauline-hanson",
+    "angus-taylor"
   ],
   "candidateCount": 247,
-  "pendingCount": 244,
+  "pendingCount": 241,
   "skippedCount": 0,
   "verification": {
-    "individualAuditValidators": "Passed for all three against the current catalogue; Howard-Merz similarity has an evidence-bound review.",
+    "individualAuditValidators": "Passed for all six against the current catalogue; evidence-bound similarity reviews cover Howard-Merz, Albanese-Obama, Taylor-Merz and Taylor-Howard.",
     "archiveAndMetadataIntegrity": "verify_expansion.py passed; saved vectors equal recomputation from all 240 answers plus five archetype answers.",
-    "backendFullSuite": "121 tests passed after Howard and Menzies; before Whitlam.",
-    "backendUpdatedIntegration": "ExpandedPersonalityTest: 3 cases passed, each submits all archived answers in Portuguese and English and receives the matching person at 100%; IdeologyPersonalityMappingTest: 6 passed after Whitlam.",
-    "frontend": "21 tests passed; production build generated 1554 pages including PT/EN pages for the three additions.",
+    "backendFullSuite": "127 tests passed, zero failures, errors or skips.",
+    "backendUpdatedIntegration": "ExpandedPersonalityTest: 6 cases passed; each submits all archived answers in Portuguese and English and receives the matching person at 100%.",
+    "frontend": "21 tests passed; production build generated 1560 pages including PT/EN pages for all six additions.",
     "similarityReviewTests": "6 tests passed, including stale review, exact duplicate, missing evidence and catalogue isolation checks.",
-    "visual": "All three downloaded and compressed portraits inspected. John Howard English generated profile and personality comparison tab inspected in the in-app browser.",
+    "visual": "All six downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson and Taylor; personality comparison tabs inspected for Howard and Albanese. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Research and add or document justified skips for the remaining 244 candidates, including the other 10 required Australians; re-run complete final tests and generated-page checks; submit and attach a draft PR. This checkpoint does not prove completion."
+  "remaining": "Research and add or document justified skips for the remaining 241 candidates, including the other seven required Australians; re-run complete final tests and generated-page checks; submit and attach a draft PR. This checkpoint does not prove completion."
 }

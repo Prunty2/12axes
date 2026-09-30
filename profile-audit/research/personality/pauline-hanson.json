@@ -1,0 +1,295 @@
+{
+  "id": "pauline-hanson",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Federal political positions through September 2026, prioritising June–July 2026 statements and current published policies",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "principles",
+      "title": "Hanson: biography, federalism and political principles",
+      "url": "https://www.senatorhanson.com.au/pauline-hanson-senate-website/",
+      "factDate": "Undated standing statement; contains older positions, checked against 2026 platform",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "referenda",
+      "title": "One Nation: citizen-initiated referenda",
+      "url": "https://www.onenation.org.au/citizen-initiated-referenda",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "speech",
+      "title": "One Nation: constitutional free-speech protection",
+      "url": "https://www.onenation.org.au/free-speech-policy",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "covid",
+      "title": "One Nation: opposition to vaccine mandates",
+      "url": "https://www.onenation.org.au/covid",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "One Nation: licensed firearms ownership",
+      "url": "https://www.onenation.org.au/firearms",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "cannabis",
+      "title": "One Nation: medicinal cannabis",
+      "url": "https://www.onenation.org.au/cannabis",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "digital",
+      "title": "One Nation: opposition to digital ID",
+      "url": "https://www.onenation.org.au/the-on-going-digital-id-battle",
+      "factDate": "2024 article, accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "territories",
+      "title": "Parliament: Restoring Territory Rights Bill",
+      "url": "https://www.aph.gov.au/sitecore/content/Home/Parliamentary_Business/Bills_Legislation/bd/bd2223a/23bd005",
+      "factDate": "2022 legislative briefing",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "territory-votes",
+      "title": "They Vote For You: Hanson votes on territory assisted-dying powers",
+      "url": "https://theyvoteforyou.org.au/people/senate/queensland/pauline_hanson/policies/190",
+      "factDate": "2018 and 2022 Senate divisions",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "capital-punishment",
+      "title": "Report of Hanson supporting capital punishment in Sky News interview",
+      "url": "https://article.wn.com/view/2025/09/18/Pauline_Hanson_calls_for_the_death_penalty_to_return_to_Aust/",
+      "factDate": "2025-09-18 syndicated report; current implementation commitment uncertain",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "immigration",
+      "title": "One Nation: migration restrictions and visa enforcement",
+      "url": "https://www.onenation.org.au/immigration",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "press-club",
+      "title": "ABC: Hanson Press Club address on culture, work and social issues",
+      "url": "https://www.abc.net.au/news/2026-06-17/pauline-hanson-press-club-address-banner-stunt-one-nation/106808570",
+      "factDate": "2026-06-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "burqa",
+      "title": "AP: Hanson campaigns for national public face-covering ban",
+      "url": "https://apnews.com/article/2db5e6143fbf3b9c77e1bac14ab32499",
+      "factDate": "2025-11-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "foreign-policy",
+      "title": "ABC: Hansons positions on AUKUS, Taiwan, defence and international institutions",
+      "url": "https://www.abc.net.au/news/2026-06-21/one-nation-foreign-policy-revealed/106822090",
+      "factDate": "2026-06-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "oil",
+      "title": "One Nation: proposed public stakes in oil and gas",
+      "url": "https://www.onenation.org.au/oil-and-gas",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ownership",
+      "title": "One Nation: foreign ownership restrictions",
+      "url": "https://www.onenation.org.au/foreign-ownership",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tax",
+      "title": "One Nation: multinational taxation and opposition to inheritance tax",
+      "url": "https://www.onenation.org.au/tax",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "family-tax",
+      "title": "One Nation: family income splitting",
+      "url": "https://www.onenation.org.au/famly-tax-policy",
+      "factDate": "2025 policy; still published 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "economic-review",
+      "title": "ABC: economic proposals, mortgages and monetary policy",
+      "url": "https://www.abc.net.au/news/2026-07-15/one-nation-economic-policies-reserve-bank-gina-rinehart/106909282",
+      "factDate": "2026-07-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "religion",
+      "title": "ABC transcript: Hanson Senate speech distinguishes Christian heritage and secular government",
+      "url": "https://www.abc.net.au/news/2016-09-15/pauline-hanson-maiden-speech-2016/7847136",
+      "factDate": "2016-09-14 speech; published 2016-09-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "abortion",
+      "title": "One Nation: abortion restrictions and conscientious objection",
+      "url": "https://www.onenation.org.au/pro-life",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "education",
+      "title": "One Nation: education and gender curriculum",
+      "url": "https://www.onenation.org.au/education",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nuclear",
+      "title": "One Nation: nuclear energy and hydroelectricity",
+      "url": "https://www.onenation.org.au/embracing-nuclear-energy-hydro-australia-future",
+      "factDate": "Standing policy accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ai",
+      "title": "One Nation: AI safeguards advocated by Hanson",
+      "url": "https://www.onenation.org.au/uncertain-future-ai",
+      "factDate": "2026-07-17",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "principles",
+        "territories",
+        "territory-votes",
+        "education"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "referenda",
+        "speech",
+        "press-club"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "guns",
+        "speech",
+        "covid",
+        "digital",
+        "territory-votes",
+        "capital-punishment",
+        "cannabis",
+        "principles"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "immigration",
+        "press-club",
+        "burqa"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "foreign-policy",
+        "principles"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "foreign-policy",
+        "immigration"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "oil",
+        "principles",
+        "economic-review",
+        "press-club",
+        "tax"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "family-tax",
+        "tax",
+        "economic-review",
+        "press-club",
+        "oil"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "ownership",
+        "foreign-policy",
+        "principles"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "religion",
+        "press-club",
+        "burqa"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "education",
+        "abortion",
+        "press-club",
+        "family-tax",
+        "principles"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "nuclear",
+        "ai",
+        "principles",
+        "economic-review"
+      ]
+    }
+  },
+  "uncertainties": [
+    "The answers are editorial simulations, not 240 direct personal statements. Institutional hypotheticals, biometric policing, recreational drugs and biotechnology use qualified inference.",
+    "The older Senate website remains useful for explicit federalism and ownership principles but is not treated as proof that every historical proposal remains current.",
+    "Published migration caps, net-migration targets and defence spending figures vary between statements and definitions. The profile represents the stated restrictive migration and higher-defence direction, without selecting a single disputed number.",
+    "Party policy is attributed only where consistent with Hansons leadership statements; Malcolm Roberts statements about the US and Barnaby Joyces detailed monetary ideas are not automatically her personal views.",
+    "Territory-rights votes concern who can legislate, not endorsement of every assisted-dying provision. The related questionnaire response is a qualified inference.",
+    "Capital-punishment support is reported in a 2025 interview; a firm 2026 implementation pledge was not established. The answer reflects personal support with reduced certainty, not a claimed current bill.",
+    "Abortion policy language about existing law is advocacy, not an authoritative description of Australian law. Hansons 2026 refusal to name a gestational cutoff and stated life-saving exception are retained."
+  ],
+  "distinctions": [
+    "Likely neighbours include Trump and other national conservatives, but Hansons public-bank and energy-equity proposals differ from a uniformly privatising model.",
+    "Civil-liberty claims on speech, vaccines and digital ID coexist with coercive cultural and security policies.",
+    "Federalism and popular referendums coexist with opposition to separate Indigenous legal or representative institutions.",
+    "Support for nuclear energy and industry coexists with AI safeguards and caution about human enhancement."
+  ],
+  "portrait": {
+    "article": "https://en.wikipedia.org/wiki/Pauline_Hanson",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Pauline_Hanson_2017_05_%283x4_cropped%29.jpg/330px-Pauline_Hanson_2017_05_%283x4_cropped%29.jpg",
+    "descriptionPage": "https://commons.wikimedia.org/wiki/File:Pauline_Hanson_2017_05_(3x4_cropped).jpg",
+    "visuallyChecked": true
+  }
+}

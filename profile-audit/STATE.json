@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T10:11:42Z",
+  "lastUpdated": "2026-09-30T10:31:43Z",
   "personality": {
-    "totalProfiles": 389,
+    "totalProfiles": 392,
     "pending": [],
     "done": [
       "lenin",
@@ -393,7 +393,10 @@
       "fernando-iii-de-castela",
       "john-howard",
       "robert-menzies",
-      "gough-whitlam"
+      "gough-whitlam",
+      "anthony-albanese",
+      "pauline-hanson",
+      "angus-taylor"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -420,19 +423,19 @@
           "id": "anthony-albanese",
           "name": "Anthony Albanese",
           "country": "Australia",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "pauline-hanson",
           "name": "Pauline Hanson",
           "country": "Australia",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "angus-taylor",
           "name": "Angus Taylor",
           "country": "Australia",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "john-howard",
