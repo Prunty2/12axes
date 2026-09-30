@@ -6866,5 +6866,22 @@
       "moral": 31.3,
       "tecnologia": 50.0
     }
+  },
+  {
+    "personalityId": "rupert-lowe",
+    "vector": {
+      "estrutura": 43.8,
+      "representacao": 79.9,
+      "poder": 46.0,
+      "imigracao": 92.0,
+      "diplomacia": 72.4,
+      "intervencao": 28.8,
+      "economia": 28.0,
+      "controle": 24.2,
+      "comercio": 48.2,
+      "religiao": 17.6,
+      "moral": 25.6,
+      "tecnologia": 57.1
+    }
   }
 ]

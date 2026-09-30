@@ -4846,5 +4846,17 @@
     "imageSourceName": "Laurie Noble / UK Parliament, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Nigel_Farage_MP_crop_2.jpg",
     "imageNote": "Retrato oficial de 2024 por Laurie Noble. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Recorte do Commons redimensionado e comprimido."
+  },
+  {
+    "id": "rupert-lowe",
+    "name": "Rupert Lowe",
+    "role": "Líder do Restore Britain",
+    "category": "politico",
+    "lifespan": "1957–",
+    "description": "Líder do Restore Britain, Lowe defende imigração líquida negativa, herança cristã e redução do Estado, combinando liberdade de expressão e autodefesa com penas rigorosas e soberania nacional.",
+    "imagePath": "/personalities/portraits/rupert-lowe.jpg",
+    "imageSourceName": "©House of Commons / Laurie Noble, via Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Rupert_Lowe_MP_crop_2.jpg",
+    "imageNote": "Retrato oficial de 2024: ©House of Commons / Laurie Noble. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Recorte do Commons redimensionado e comprimido."
   }
 ]

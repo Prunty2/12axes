@@ -341,5 +341,27 @@
       "ai"
     ],
     "neutralReview": "Five technology neutrals reflect actual bundled tensions: resource extraction versus rural stewardship; industrial growth versus local environmental costs; therapeutic uses versus enhancement; and productivity versus biological limits. Their presence is not a substitute for missing research."
-  }
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "rupert-lowe",
+      "answersSha256": "1ab1582bd124fea2177a57cb2a5be6b754c5ba857e43e44b37d52d77b53ae542",
+      "neighborVectorSha256": "3753920df0f5753d1f5b50fea89a2b42d569529f740a3d1e68244e26c90c609d",
+      "reason": "Lowe is a distinct politician whose independently sourced profile overlaps with Farage on sovereignty, immigration and markets. Farage personally rejects the death penalty, distinguishes free trade from tariffs, and describes more ambivalent private religious belief. His late-September caution about large AI data centres also differs from Lowe’s industrial and automation programme. All twelve vector axes differ; no archived Farage answers were changed.",
+      "differingAxes": [
+        "poder",
+        "imigracao",
+        "controle",
+        "religiao",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "death",
+        "reuters",
+        "faith-interview",
+        "ai",
+        "policies"
+      ]
+    }
+  ]
 }

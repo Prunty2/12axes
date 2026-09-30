@@ -2516,5 +2516,11 @@
     "name": "Nigel Farage",
     "role": "Reform UK leader",
     "description": "Reform UK leader and Brexit campaigner, Farage combines national sovereignty, restricted immigration and lower taxes with a tax-funded NHS, strong defence and criticism of judicial checks on a parliamentary mandate."
+  },
+  {
+    "id": "rupert-lowe",
+    "name": "Rupert Lowe",
+    "role": "Restore Britain leader",
+    "description": "Restore Britain leader Lowe advocates net-negative immigration, Christian heritage and a smaller state, combining free speech and self-defence with strict criminal penalties and national sovereignty."
   }
 ]

@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T12:59:01Z",
+  "lastUpdated": "2026-09-30T13:10:30Z",
   "personality": {
-    "totalProfiles": 404,
+    "totalProfiles": 405,
     "pending": [],
     "done": [
       "lenin",
@@ -408,7 +408,8 @@
       "clement-attlee",
       "boris-johnson",
       "keir-starmer",
-      "nigel-farage"
+      "nigel-farage",
+      "rupert-lowe"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -543,7 +544,7 @@
           "id": "rupert-lowe",
           "name": "Rupert Lowe",
           "country": "United Kingdom",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "kamala-harris",
