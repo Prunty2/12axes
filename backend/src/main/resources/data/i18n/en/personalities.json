@@ -2510,5 +2510,11 @@
     "name": "Keir Starmer",
     "role": "Former British prime minister",
     "description": "British prime minister from 2024 to 2026, Starmer combined strategic public ownership and private investment, workers’ rights, immigration controls and defence expansion, while backing AI and nuclear power."
+  },
+  {
+    "id": "nigel-farage",
+    "name": "Nigel Farage",
+    "role": "Reform UK leader",
+    "description": "Reform UK leader and Brexit campaigner, Farage combines national sovereignty, restricted immigration and lower taxes with a tax-funded NHS, strong defence and criticism of judicial checks on a parliamentary mandate."
   }
 ]

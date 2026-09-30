@@ -1,0 +1,345 @@
+{
+  "id": "nigel-farage",
+  "country": "United Kingdom",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Reform UK leadership, 2024–30 September 2026; dated earlier personal and ideological context.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "parliament",
+      "title": "UK Parliament: Nigel Farage career",
+      "url": "https://members.parliament.uk/member/5091/career",
+      "factDate": "2024–2026; accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "policies",
+      "title": "Reform UK current policy programme",
+      "url": "https://www.reformparty.uk/policies",
+      "factDate": "Current at 2026-09-30; proposals, not enacted measures",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "scotland",
+      "title": "Reform UK Scotland manifesto, foreword by Farage",
+      "url": "https://reformuk.scot/wp-content/uploads/2026/04/Reform-UK-Scotland-Manifesto-2026.pdf",
+      "factDate": "2026 Scottish election",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "union",
+      "title": "PA: Farage on Scottish independence and First Ministers meeting",
+      "url": "https://www.aol.co.uk/articles/first-ministers-meeting-not-threat-142558000.html",
+      "factDate": "2026-09-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "elections",
+      "title": "Reform UK proposed Election Integrity Bill",
+      "url": "https://www.reformparty.uk/policies/election-integrity-bill/download",
+      "factDate": "2026; accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "emergency",
+      "title": "Farage conference speech: proposed first 100 days",
+      "url": "https://www.reformparty.uk/news/we-ll-declare-a-national-emergency-to-fix-broken-britain-in-100-days",
+      "factDate": "Speech 2026-09-04; published 2026-09-05",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "speech",
+      "title": "Farage opposes anti-disinformation unit",
+      "url": "https://reformparty.uk/news/nigel-farage-burnham-s-orwellian-anti-disinformation-unit-will-be-used-to-clamp-down-on-free-speech",
+      "factDate": "2026-09-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "death",
+      "title": "Farage: opposition to capital punishment",
+      "url": "https://www.the-independent.com/voices/comment/i-m-against-the-death-penalty-but-i-think-we-should-be-free-to-debate-it-9669991.html",
+      "factDate": "2014-08-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "itv-2024",
+      "title": "ITV interview: science education, cannabis and foreign affairs",
+      "url": "https://www.itv.com/news/2024-06-21/free-university-cannabis-replacing-the-tories-farage-answers-your-questions",
+      "factDate": "2024-06-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "reuters",
+      "title": "Reuters interview: Farage distinguishes his views from Trump on tariffs, death penalty and abortion",
+      "url": "https://www.reutersconnect.com/item/nigel-farage-declares-war-on-the-old-order-in-his-blueprint-for-britain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNDUzMzE2MDMyMDI2UlAx/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0xWQTAwQjQ1MzMxNjAzMjAyNlJQMQ",
+      "factDate": "Interview 2026-03-05; published 2026-03-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "wales",
+      "title": "ITV: Farage at Welsh manifesto launch, including Ukrainian refugees",
+      "url": "https://www.itv.com/news/wales/2026-03-04/reform-unveil-senedd-election-manifesto-and-pledge-to-scrap-20mph-speed-limits",
+      "factDate": "2026-03-05 launch; updated 2026-03-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "defence",
+      "title": "Reform UK: rebuilding armed forces",
+      "url": "https://www.reformparty.uk/news/labour-and-the-tories-have-left-britain-defenceless",
+      "factDate": "2026-07-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "iran",
+      "title": "Farage calls for IRGC proscription",
+      "url": "https://www.reformparty.uk/news/the-threat-from-iran-is-a-national-emergency",
+      "factDate": "2026-09-29",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "war",
+      "title": "LBC/PA: Farage says Britain should not join Iran war",
+      "url": "https://www.lbc.co.uk/article/nigel-farage-oil-prices-trump-iran-5HjdW94_2/",
+      "factDate": "2026-03-10",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ukraine",
+      "title": "Independent: Farage opposes British troop deployment in Ukraine",
+      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-ukraine-peace-deal-starmer-troops-b2896204.html/",
+      "factDate": "2026-01-07",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "welfare",
+      "title": "Reform UK welfare proposals, foreword by Farage and Jenrick",
+      "url": "https://www.reformparty.uk/policies/making-welfare-work/download",
+      "factDate": "2026; accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "business",
+      "title": "Reform UK small-business programme",
+      "url": "https://reformparty.uk/index.php/news/reform-s-plan-to-rescue-britain-s-small-businesses",
+      "factDate": "2026-08-26",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "crypto",
+      "title": "PA: Farage speech on financial deregulation and digital assets",
+      "url": "https://www.the-independent.com/news/uk/home-news/nigel-farage-margaret-thatcher-city-of-london-gordon-brown-london-b2844431.html",
+      "factDate": "2025-10-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "farming",
+      "title": "Reform UK agriculture and fishing principles, foreword by Farage",
+      "url": "https://www.reformparty.uk/policies/agriculture-fishing/download",
+      "factDate": "2026; accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "brexit",
+      "title": "Farage on national sovereignty and Brexit",
+      "url": "https://reformparty.uk/news/only-reform-uk-can-deliver-the-promises-of-brexit",
+      "factDate": "2026-06-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith-interview",
+      "title": "High Profiles / Third Way: interview with Farage",
+      "url": "https://highprofiles.info/interview/nigel-farage/",
+      "factDate": "Winter 2012 publication, discussing 2011 book",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith-current",
+      "title": "Gawain Towler on Farage and Christianity",
+      "url": "https://thecritic.co.uk/does-nigel-do-god/",
+      "factDate": "2025-10-28; account by a political associate",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "abortion",
+      "title": "Sky News: Farage on abortion and assisted dying",
+      "url": "https://news.sky.com/story/nigel-farage-says-it-is-utterly-ludicrous-to-allow-abortion-up-to-24-weeks-13375431",
+      "factDate": "2025-05-27",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "marriage",
+      "title": "PinkNews: Farage LBC interview on same-sex marriage",
+      "url": "https://www.thepinknews.com/2025/07/04/nigel-farage-same-sex-gay-marriage-wrong/",
+      "factDate": "2025-07-04",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ai",
+      "title": "ITV Border interview: Farage supports pause on hyperscale AI data centres",
+      "url": "https://www.itv.com/news/border/2026-09-29/what-now-for-ai-data-centres-after-nigel-farage-calls-for-a-pause",
+      "factDate": "2026-09-29",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "standards",
+      "title": "AP: Farage reelected after resignation amid donation investigation",
+      "url": "https://apnews.com/article/16f5c7deff9de672c1c9b1950513b52f",
+      "factDate": "2026-08-14",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "scotland",
+        "union",
+        "brexit"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "emergency",
+        "elections",
+        "faith-interview",
+        "standards"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "policies",
+        "speech",
+        "death",
+        "reuters",
+        "itv-2024",
+        "abortion",
+        "faith-interview"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "policies",
+        "wales",
+        "elections",
+        "faith-current"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "defence",
+        "policies",
+        "iran",
+        "reuters",
+        "war"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "brexit",
+        "war",
+        "iran",
+        "reuters",
+        "defence"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "policies",
+        "business",
+        "welfare",
+        "faith-interview",
+        "scotland"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "business",
+        "crypto",
+        "policies",
+        "welfare",
+        "farming"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "reuters",
+        "farming",
+        "brexit",
+        "business"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith-interview",
+        "faith-current",
+        "marriage"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "marriage",
+        "abortion",
+        "faith-interview",
+        "scotland",
+        "faith-current"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "ai",
+        "farming",
+        "policies",
+        "itv-2024"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Profile centres on the 2024–September 2026 Reform leadership, with dated earlier evidence where it directly clarifies personal principles. All 240 answers are editorial simulations rather than personal quiz responses.",
+    "The Scottish manifesto bears Farage’s foreword and explicitly supports local revenue retention and spending discretion. It is supporting evidence of endorsed devolution, not a claim that every Scottish institutional proposal is a UK-wide personal promise. UK unionism is distinct from complete administrative centralisation.",
+    "The emergency speech calls for Parliament to sit longer, not to be abolished. Court restrictions and packing the Lords nevertheless weaken independent checks. The proposed electoral understanding/language test is a substantive qualification to universal suffrage, not simply a citizenship rule. These are proposals, not enacted law.",
+    "AP reports resignation and reelection amid an undeclared-gift investigation and Farage’s denial of wrongdoing. Electoral success does not settle the standards question, and no criminal conviction is inferred.",
+    "Security answers distinguish targeted investigations from unlimited surveillance or indefinite detention. Specific claims about facial recognition, smartphone unlocking, curfews and gun possession are cautious extrapolations from law-and-order and civil-liberty principles, not documented personal pledges. Earlier drug-reform openness is superseded by his 2024 expressed doubts.",
+    "Restrictions on entry and residency are not automatically positions on all private cultural practices. The neutral answer on retaining customs reflects tolerance of private conduct constrained by a strong demand for public assimilation. The refugee answer maps Brazil-specific examples to UK humanitarian entry.",
+    "In January 2026 Farage opposed British peacekeepers in Ukraine, citing inadequate capacity. This is not unconditional neutrality.",
+    "Iran positions shifted during March 2026: support for allies and hard rhetoric coexist with a later objection to British participation. The neutral regime-change response captures this tension. Nuclear questions map to retaining British deterrence, not endorsing universal proliferation. Conscription is not inferred from support for defence spending.",
+    "Current welfare proposals restore the two-child cap, replacing earlier support for removing it. NHS funding remains taxation-based; free access does not settle every provider-ownership question. The neutral strategic-ownership response reflects selective national control alongside private enterprise.",
+    "Bank of England answers reflect a tension between monetary credibility and political pressure for different reserve and regulatory policies. A proposed Bitcoin reserve is not abolition of the central bank. No claim that promised tax reductions fund themselves is adopted as fact.",
+    "Free trade does not imply surrendering national treaty authority or removing every safeguard for food, fishing and security-sensitive investment. The difference from Trump on tariffs is expressly documented by Reuters, rather than inferred from political friendship.",
+    "The religious interview was published in Winter 2012; it is historical personal context, not proof of current inner belief. Towler is a political associate and his 2025 account is labelled accordingly. The profile concerns stated Christian cultural identity and respect for common law, not a claim of clerical rule.",
+    "The marriage source records opposition to the original change and acceptance of settled law. Neutral adoption and sex-work answers reflect competing equal-treatment and family-tradition principles; no policy to reverse same-sex marriage is asserted. Abortion support is qualified and does not mean opposition to all gestational limits.",
+    "The 29 September 2026 data-centre interview takes precedence over generic pro-growth assumptions and differs from Reform MSPs’ votes. It concerns large developments and community impacts, not a blanket AI ban. Biotechnology, brain implants and human enhancement are analogies from medical benefit, autonomy and traditional limits; neutral answers identify those competing considerations.",
+    "Party sources are evidence of advocated policy, not independent validation of their fiscal estimates, allegations about opponents or claims about migrants. The ECHR is not an EU institution, regardless of loose rhetoric in the Brexit source."
+  ],
+  "distinctions": [
+    "Compared with Trump, his own Reuters interview rejects a similar tariff strategy and distinguishes abortion and death-penalty views. Personal political affinity does not justify copying answers.",
+    "Compared with Thatcher, the contemporary platform retains tax-funded health care and explicit national-preference policies, while constitutional proposals stress referendums and parliamentary mandates.",
+    "Compared with Johnson, he advocates substantially stricter immigration and settlement changes. Compared with Hanson, free-trade advocacy and British parliamentary and religious context require independent assessment."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Nigel_Farage_MP_crop_2.jpg",
+    "author": "Laurie Noble",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Official_portrait_of_Nigel_Farage_MP_crop_2.jpg",
+    "date": "2024-07-11",
+    "note": "Official parliamentary portrait by Laurie Noble, via Wikimedia Commons. Commons crop resized and compressed; no facial alteration.",
+    "visuallyChecked": true
+  },
+  "validationReview": {
+    "nearestPersonality": "angus-taylor",
+    "compatibilityPercent": 96.0,
+    "alsoReviewed": [
+      "tony-abbott",
+      "friedrich-merz"
+    ],
+    "reason": "All three share conservative and market-oriented principles, but the computed profile preserves substantial differences. Farage versus Taylor: representation 71.6 vs 82.3, immigration 86.2 vs 69.5, trade 38.7 vs 24.6 and technology 50.0 vs 64.1. Versus Abbott: intervention 32.9 vs 16.2, religion 30.6 vs 20.0 and moral 31.3 vs 19.6. Versus Merz: structure 41.4 vs 56.2, immigration 86.2 vs 70.0 and technology 50.0 vs 67.5. The constitutional, settlement, tariff, personal-faith and recent AI evidence supports these differences. No answers changed to manufacture separation.",
+    "sourceIds": [
+      "elections",
+      "emergency",
+      "policies",
+      "reuters",
+      "faith-interview",
+      "ai"
+    ],
+    "neutralReview": "Five technology neutrals reflect actual bundled tensions: resource extraction versus rural stewardship; industrial growth versus local environmental costs; therapeutic uses versus enhancement; and productivity versus biological limits. Their presence is not a substitute for missing research."
+  }
+}

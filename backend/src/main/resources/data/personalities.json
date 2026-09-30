@@ -4834,5 +4834,17 @@
     "imageSourceName": "Simon Dawson / No 10 Downing Street, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Sir_Keir_Starmer_Official_Portrait_(3x4_cropped).jpg",
     "imageNote": "Retrato oficial de 2024 por Simon Dawson / No 10 Downing Street. Crown copyright; Open Government Licence v3.0. Recorte do Commons redimensionado e comprimido."
+  },
+  {
+    "id": "nigel-farage",
+    "name": "Nigel Farage",
+    "role": "Líder do Reform UK",
+    "category": "politico",
+    "lifespan": "1964–",
+    "description": "Líder do Reform UK e defensor do Brexit, Farage combina soberania nacional, imigração restrita e impostos menores com NHS tributário, defesa robusta e crítica aos controles judiciais sobre o mandato parlamentar.",
+    "imagePath": "/personalities/portraits/nigel-farage.jpg",
+    "imageSourceName": "Laurie Noble / UK Parliament, via Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Nigel_Farage_MP_crop_2.jpg",
+    "imageNote": "Retrato oficial de 2024 por Laurie Noble. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Recorte do Commons redimensionado e comprimido."
   }
 ]
