@@ -4822,5 +4822,17 @@
     "imageSourceName": "Ben Shread / Cabinet Office, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait.jpg",
     "imageNote": "Retrato oficial de 2019 por Ben Shread, Cabinet Office. Crown copyright; Open Government Licence v3.0. Imagem redimensionada e comprimida."
+  },
+  {
+    "id": "keir-starmer",
+    "name": "Keir Starmer",
+    "role": "Ex-primeiro-ministro do Reino Unido",
+    "category": "politico",
+    "lifespan": "1962–",
+    "description": "Primeiro-ministro britânico de 2024 a 2026, Starmer combinou propriedade pública estratégica e investimento privado, direitos trabalhistas, controle migratório e expansão da defesa, com aposta em IA e energia nuclear.",
+    "imagePath": "/personalities/portraits/keir-starmer.jpg",
+    "imageSourceName": "Simon Dawson / No 10 Downing Street, via Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Sir_Keir_Starmer_Official_Portrait_(3x4_cropped).jpg",
+    "imageNote": "Retrato oficial de 2024 por Simon Dawson / No 10 Downing Street. Crown copyright; Open Government Licence v3.0. Recorte do Commons redimensionado e comprimido."
   }
 ]

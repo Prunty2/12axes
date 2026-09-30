@@ -6832,5 +6832,22 @@
       "moral": 57.4,
       "tecnologia": 65.3
     }
+  },
+  {
+    "personalityId": "keir-starmer",
+    "vector": {
+      "estrutura": 47.4,
+      "representacao": 81.1,
+      "poder": 61.5,
+      "imigracao": 43.8,
+      "diplomacia": 61.2,
+      "intervencao": 23.3,
+      "economia": 65.1,
+      "controle": 55.7,
+      "comercio": 38.9,
+      "religiao": 60.7,
+      "moral": 72.9,
+      "tecnologia": 65.3
+    }
   }
 ]

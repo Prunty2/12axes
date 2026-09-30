@@ -2504,5 +2504,11 @@
     "name": "Boris Johnson",
     "role": "Former British prime minister",
     "description": "British prime minister from 2019 to 2022, Johnson led Brexit, promoted free trade and regional investment, supported the public NHS, and combined immigration controls with strong military support for Ukraine."
+  },
+  {
+    "id": "keir-starmer",
+    "name": "Keir Starmer",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 2024 to 2026, Starmer combined strategic public ownership and private investment, workers’ rights, immigration controls and defence expansion, while backing AI and nuclear power."
   }
 ]

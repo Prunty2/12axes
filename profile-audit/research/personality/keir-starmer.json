@@ -1,0 +1,359 @@
+{
+  "id": "keir-starmer",
+  "country": "United Kingdom",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "July 2024–July 2026 premiership; earlier abortion and personal religious context explicitly dated.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "biography",
+      "title": "Government biography: Keir Starmer",
+      "url": "https://www.gov.uk/government/people/keir-starmer",
+      "factDate": "2024-07-05 to 2026-07-20 premiership; accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "devolution",
+      "title": "English Devolution White Paper",
+      "url": "https://www.gov.uk/government/publications/english-devolution-white-paper-power-and-partnership-foundations-for-growth/english-devolution-white-paper",
+      "factDate": "2024-12-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "plan",
+      "title": "Starmer: Plan for Change speech",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-on-plan-for-change-5-december-2024",
+      "factDate": "2024-12-05",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "votes",
+      "title": "Government proposes votes at sixteen",
+      "url": "https://www.gov.uk/government/news/16-year-olds-to-be-given-right-to-vote-through-seismic-government-election-reforms",
+      "factDate": "2025-07-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "lords",
+      "title": "Hereditary Peers Bill passes House of Lords",
+      "url": "https://www.gov.uk/government/news/hereditary-peers-bill-passes-in-house-of-lords-paving-the-way-for-further-reform",
+      "factDate": "2026-03-10",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "mandelson",
+      "title": "Starmer statement accepting responsibility for Mandelson appointment",
+      "url": "https://www.gov.uk/government/speeches/pm-statement-on-the-appointment-of-peter-mandelson-20-april-2026",
+      "factDate": "2026-04-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "order",
+      "title": "Starmer statement on violent disorder and police technology",
+      "url": "https://www.gov.uk/government/speeches/prime-minister-keir-starmers-statement-in-downing-street-1-august",
+      "factDate": "2024-08-01",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "digital",
+      "title": "Commons Library: Digital ID in the UK",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10369/",
+      "factDate": "2025-09-26 announcement; 2026-01-15 mandatory element dropped; successor cancelled 2026-07-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "dying",
+      "title": "AP: Commons assisted-dying vote and Starmer support",
+      "url": "https://apnews.com/article/f8d2986e8e3fa6afb1b8bd2cf19ba5e2",
+      "factDate": "2025-06-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "immigration",
+      "title": "Government announcement of immigration white paper",
+      "url": "https://www.gov.uk/government/news/prime-minister-unveils-new-plan-to-end-years-of-uncontrolled-migration",
+      "factDate": "2025-05-11; announcement concerns 2025-05-12 launch",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "asylum",
+      "title": "Government announces asylum reform and ECHR implementation discussions",
+      "url": "https://www.gov.uk/government/news/uk-to-reform-asylum-offer-to-reduce-the-pull-factor-for-small-boat-crossings",
+      "factDate": "2025-10-01",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "defence",
+      "title": "Starmer Commons statement on defence and aid spending",
+      "url": "https://www.gov.uk/government/speeches/prime-ministers-oral-statement-to-the-house-of-commons-25-february-2025",
+      "factDate": "2025-02-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "palestine",
+      "title": "Starmer statement recognising Palestine",
+      "url": "https://www.gov.uk/government/speeches/pm-statement-on-the-recognition-of-palestine-21-september-2025",
+      "factDate": "2025-09-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "steel",
+      "title": "Government brings British Steel into public ownership",
+      "url": "https://www.gov.uk/government/news/government-brings-british-steel-into-public-ownership-to-protect-uk-steelmaking",
+      "factDate": "2026-07-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "rail",
+      "title": "Government legislative programme: rail ownership, National Wealth Fund and devolution",
+      "url": "https://www.gov.uk/government/news/kings-speech-to-unlock-growth-and-take-the-brakes-off-britain",
+      "factDate": "2024-07-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nhs",
+      "title": "NHS agreement with independent providers",
+      "url": "https://www.gov.uk/government/news/deal-between-nhs-and-independent-sector-to-cut-nhs-waiting-lists",
+      "factDate": "2025-01-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "benefits",
+      "title": "Government guidance: two-child limit before its removal",
+      "url": "https://www.gov.uk/guidance/claiming-benefits-for-2-or-more-children",
+      "factDate": "Two-child limit removed from 2026-04-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "investment",
+      "title": "Investment Summit: Starmer commitments to business and regulatory reform",
+      "url": "https://www.gov.uk/government/news/major-investment-deals-set-to-be-announced-at-governments-inaugural-international-investment-summit-as-pm-vows-to-remove-needless-regulation-declar",
+      "factDate": "2024-10-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "workers",
+      "title": "Employment Rights Act becomes law",
+      "url": "https://www.gov.uk/government/news/new-lawsbringthe-world-of-work-into-the-21stcentury",
+      "factDate": "2025-12-18",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "fiscal",
+      "title": "Spring Statement 2025",
+      "url": "https://www.gov.uk/government/publications/spring-statement-2025-document/spring-statement-2025-html",
+      "factDate": "2025-03-26",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "eu",
+      "title": "UK-EU Summit Joint Statement",
+      "url": "https://www.gov.uk/government/publications/ukeu-summit-key-documentation/uk-eu-summit-joint-statement-html",
+      "factDate": "2025-05-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "eu-limits",
+      "title": "Minister letter to Commons committee: EU reset red lines",
+      "url": "https://committees.parliament.uk/publications/47986/documents/250972/default/",
+      "factDate": "2025-05-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "us-trade",
+      "title": "US-UK Economic Prosperity Deal general terms",
+      "url": "https://www.gov.uk/government/publications/us-uk-economic-prosperity-deal-epd/general-terms-for-the-united-states-of-america-and-the-united-kingdom-of-great-britain-and-northern-ireland-economic-prosperity-deal-web-accessible-v",
+      "factDate": "2025-05-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "ITV interview: Starmer on family faith and personal nonreligiosity",
+      "url": "https://www.itv.com/news/2024-06-25/sir-keir-starmer-tells-itv-he-wants-to-be-prime-minister-for-a-decade",
+      "factDate": "2024-06-25; interview aired 2024-06-27",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "equality",
+      "title": "Labour 2024 manifesto: equality and LGBT rights",
+      "url": "https://labour.org.uk/wp-content/uploads/2024/06/Change-Labour-manifesto-2024-screen-reader.pdf",
+      "factDate": "2024-06-13; promises, not assumed completed legislation",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sex",
+      "title": "ITV: Starmer Commons remarks on sex-based spaces and trans dignity",
+      "url": "https://www.itv.com/news/2025-04-23/badenoch-says-pm-doesnt-have-the-balls-to-share-his-views-in-trans-debate",
+      "factDate": "2025-04-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "abortion",
+      "title": "Evening Standard / PA: Starmer response to Roe reversal",
+      "url": "https://www.standard.co.uk/news/uk/roe-v-wade-abortion-rights-overturn-us-supreme-court-boris-johnson-b1008341.html",
+      "factDate": "2022-06-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ai",
+      "title": "AI Opportunities Action Plan: government response",
+      "url": "https://www.gov.uk/government/publications/ai-opportunities-action-plan-government-response",
+      "factDate": "2025-01-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nuclear",
+      "title": "Government nuclear planning reforms",
+      "url": "https://www.gov.uk/government/news/government-rips-up-rules-to-fire-up-nuclear-power",
+      "factDate": "2025-02-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "biotech",
+      "title": "Food Standards Agency: precision-breeding draft guidance",
+      "url": "https://food.blog.gov.uk/2025/03/05/precision-breeding-publication-of-draft-guidance/",
+      "factDate": "2025-03-05",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "devolution",
+        "plan",
+        "nuclear"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "votes",
+        "lords",
+        "mandelson",
+        "biography"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "order",
+        "digital",
+        "dying",
+        "equality"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "immigration",
+        "asylum",
+        "equality",
+        "faith"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "defence",
+        "palestine",
+        "eu"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "defence",
+        "palestine",
+        "eu",
+        "us-trade"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "steel",
+        "rail",
+        "nhs",
+        "benefits",
+        "investment"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "workers",
+        "investment",
+        "fiscal",
+        "steel",
+        "rail"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "eu",
+        "eu-limits",
+        "us-trade",
+        "steel",
+        "investment"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "equality"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "equality",
+        "sex",
+        "abortion",
+        "dying",
+        "faith"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "ai",
+        "nuclear",
+        "biotech",
+        "investment"
+      ]
+    }
+  },
+  "uncertainties": [
+    "The core scope is the July 2024–July 2026 premiership, checked against government biography on 30 September 2026. Earlier abortion and family-faith statements provide explicitly dated context. Policies of the successor government are not attributed to Starmer.",
+    "All 240 answers are editorial simulations. Local tax allocation, indigenous self-rule, cryptocurrency competition, sex work, polyamory, brain implants and enhancement are inferred from competing documented principles rather than claimed personal answers. Neutral codes mark a substantive tension in bundled propositions, not missing research alone.",
+    "English devolution is not a federal constitution. National housing targets and infrastructure reforms constrain local vetoes. The model maps Brazilian territorial questions to UK devolution and does not claim Starmer endorsed unilateral Scottish secession.",
+    "The Mandelson statement admits the appointment was a mistake and offers Starmer’s account of the vetting process. It does not independently establish every claim in that account or prove that Starmer committed a crime. Electoral and judicial commitments are assessed separately from this failure of judgment.",
+    "The May 2025 immigration source records proposals, including earned settlement and language requirements; it is not evidence every measure took effect. Cultural pluralism is distinguished from opposition to unrestricted entry. Later asylum/ECHR implementation proposals are included without claiming withdrawal from the convention.",
+    "The official digital-ID explainer still contains mandatory-employer language, conflicting with the Commons Library timeline and January reporting. The parliamentary chronology is used: Starmer’s government dropped the mandatory element in January, while cancellation in July belongs to his successor. No question directly asks about ID cards, and this history does not imply support for unrestricted surveillance.",
+    "Support for facial recognition and criminal enforcement does not show support for punishment without trial. The vaccination statement is mixed because universal compulsion combines public-health protection with individual consent; no blanket mandate is asserted.",
+    "The June 2025 assisted-dying vote supports a limited terminal-illness proposal, not unrestricted euthanasia. Gender dignity is distinguished from legal sex classification and single-sex spaces. No enacted conversion-therapy ban is inferred from a manifesto promise.",
+    "British Steel public ownership is verified for 16 July 2026; rail public ownership and use of private NHS providers demonstrate a mixed economy. Removal of the two-child limit is dated to April 2026 rather than carrying forward the earlier refusal to remove it.",
+    "Defence spending numbers are announced commitments with fiscal conditions, not claimed completed expenditure. Nuclear answers concern retaining UK deterrence in its alliance context, not a documented programme for new countries to acquire nuclear weapons.",
+    "Trade answers balance openness and strategic supply chains. The neutral answers on Chinese electric vehicles and general industrial import restriction reflect selective protection alongside liberalisation; they are not claims that Starmer proposed those exact tariffs.",
+    "Precision breeding is legally narrower than transgenesis and supports only qualified agreement on broader GM development. Medical benefit and ethical limits pull in different directions on invasive enhancement and combined disease-prevention/intelligence questions. No personal commitment to brain implants or designer embryos is asserted."
+  ],
+  "distinctions": [
+    "Compared with Attlee, public ownership is selective and private investment and private NHS capacity are explicit partners; no full postwar nationalisation programme is inferred.",
+    "Compared with other social democrats, restrictive immigration proposals, facial recognition and defence prioritisation qualify the civil-libertarian and multicultural reading.",
+    "Compared with Boris Johnson, workers’ rights, rail ownership and European cooperation differ, despite overlapping NATO, nuclear energy and growth commitments. Answers were assessed for Starmer independently."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Sir_Keir_Starmer_Official_Portrait_(3x4_cropped).jpg",
+    "author": "Simon Dawson / No 10 Downing Street, Crown copyright",
+    "license": "Open Government Licence v3.0",
+    "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Prime_Minister_Sir_Keir_Starmer_Official_Portrait_%283x4_cropped%29.jpg",
+    "date": "2024-07-05",
+    "note": "Commons-supplied 3x4 crop of official portrait. Contains public sector information licensed under the Open Government Licence v3.0. Resized and compressed; no facial alteration.",
+    "visuallyChecked": true
+  },
+  "validationReview": {
+    "nearestPersonality": "julia-gillard",
+    "similarityPercent": 96.6,
+    "review": "High similarity is consistent with shared parliamentary democracy, welfare, secular personal outlook and social equality. Starmer differs in the computed defence axis (61.2 versus 49.3), trade (38.9 versus 22.2), technology (65.3 versus 48.8) and intervention (23.3 versus 30.5). The defence increase, selective steel ownership, AI and nuclear programmes support these differences. No answer was adjusted to lower similarity.",
+    "sourceIds": [
+      "defence",
+      "steel",
+      "ai",
+      "nuclear",
+      "us-trade"
+    ],
+    "neutralReview": "Eleven mixed answers (4.6%); no axis above three neutrals. Mixed statements combine coercion and consent, taxation and growth, strategic protection and cheap imports, private adult conduct and exploitation safeguards, or technological benefit and ethical limits."
+  }
+}
