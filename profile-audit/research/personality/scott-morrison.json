@@ -1,0 +1,374 @@
+{
+  "id": "scott-morrison",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Federal political career, particularly 2018–2022 premiership, checked against public statements through 2026-09-08",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "naa",
+      "title": "National Archives: Scott Morrison",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/scott-morrison",
+      "factDate": "Biography; 1968 birth and 2018–2022 premiership",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nikkei",
+      "title": "Nikkei Asia Forum: economic security and Japan partnership",
+      "url": "https://www.scottmorrison.com.au/speeches/nikkei-asia-forum-sydney-2026-economic-security-amp-australia-japan-partnership",
+      "factDate": "2026-09-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gst",
+      "title": "The GST reforms were not a zero sum game",
+      "url": "https://www.scottmorrison.com.au/media/the-gst-reforms-were-not-a-zero-sum-game",
+      "factDate": "2026-08-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "federation",
+      "title": "National Federation Reform Council",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-44142",
+      "factDate": "2021-12-10",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "bell",
+      "title": "Bell inquiry report into additional ministerial appointments",
+      "url": "https://www.ag.gov.au/about-us/publications/bell-inquiry-report",
+      "factDate": "2022-11-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "censure",
+      "title": "Morrison response to parliamentary censure",
+      "url": "https://www.scottmorrison.com.au/speeches/speech-to-parliament-on-censure",
+      "factDate": "2022-11-30 speech; published 2022-12-01",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "concession",
+      "title": "Morrison concedes 2022 election",
+      "url": "https://www.abc.net.au/news/2022-05-21/labor-anthony-albanese-projected-to-win-2022-federal-election/101084660",
+      "factDate": "2022-05-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "security",
+      "title": "Counterterrorism, encrypted communications and exclusion proposals",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-41987",
+      "factDate": "2018-11-22",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Maintaining the National Firearms Agreement",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42250",
+      "factDate": "2019-03-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "vaccines",
+      "title": "Sector-specific vaccination mandates and reopening",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-43671",
+      "factDate": "2021-11-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "death",
+      "title": "Marise Payne launches government death-penalty abolition strategy",
+      "url": "https://www.foreignminister.gov.au/minister/marise-payne/speech/launch-australias-strategy-abolition-death-penalty",
+      "factDate": "2018-10-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "death-confirm",
+      "title": "Morrison reiterates unchanged death-penalty position",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42576",
+      "factDate": "2019-12-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "migration",
+      "title": "Population plan and permanent migration cap",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42209",
+      "factDate": "2019-03-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "Address to Second International Conference on Anti-Semitism",
+      "url": "https://www.scottmorrison.com.au/speeches/address-the-second-international-conference-on-anti-semitism",
+      "factDate": "2026-01-27",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "enterprise",
+      "title": "Business, technology-led net zero and CEFC investment",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-43653",
+      "factDate": "2021-11-10",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "jobkeeper",
+      "title": "JobKeeper wage subsidy announcement",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42766",
+      "factDate": "2020-03-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "economy",
+      "title": "Morrison government economic policy retrospective",
+      "url": "https://www.scottmorrison.com.au/morrison-government-achievements/economy",
+      "factDate": "2018–2022 policy record; undated retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "stemcells",
+      "title": "Government Stem Cell Therapies Mission",
+      "url": "https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/progressing-the-long-term-plan-for-stem-cell-research",
+      "factDate": "2019-10-02",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "iran",
+      "title": "Morrison supports US strikes on Iran",
+      "url": "https://www.scottmorrison.com.au/media/donald-trumps-strikes-on-iran-a-necessary-measure",
+      "factDate": "2025-06-22",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "abortion",
+      "title": "Morrison calls himself conservative on abortion",
+      "url": "https://www.sbs.com.au/news/article/scott-morrison-a-conservative-on-abortion/n38v47v6t",
+      "factDate": "2019-08-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "marriage",
+      "title": "Final 7.30 election interview: marriage, NDIS and home ownership",
+      "url": "https://www.abc.net.au/news/2019-05-17/scott-morrison-gives-his-final-7.30-interview-of/11121856",
+      "factDate": "2019-05-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "schools",
+      "title": "Religious education and proposed student protections",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42011",
+      "factDate": "2018-12-05",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sports",
+      "title": "Morrison supports sex-based sports proposal without legislative commitment",
+      "url": "https://www.abc.net.au/news/2022-04-11/scott-morrison-liberal-candidate-transgender-women-sports/100982148",
+      "factDate": "2022-04-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "euthanasia",
+      "title": "Territories euthanasia lawmaking powers",
+      "url": "https://www.abc.net.au/news/2022-05-19/euthanasia-laws-territories-/101081286",
+      "factDate": "2022-05-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "space",
+      "title": "Australia first Moon mission announcement",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-43608",
+      "factDate": "2021-10-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nacc",
+      "title": "NACC Operation Myrtleford investigation report, especially pages 433–435",
+      "url": "https://www.nacc.gov.au/sites/default/files/documents/2026-03/Operation%20Myrtleford%20Investigation%20Report.pdf",
+      "factDate": "2026-03-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nacc-response",
+      "title": "Morrison responds to NACC findings",
+      "url": "https://www.scottmorrison.com.au/media/statement-regarding-nacc-rejection-of-robodebt-royal-commission-findings-regarding-morrison-conduct",
+      "factDate": "2026-03-11",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "gst",
+        "federation",
+        "abortion",
+        "euthanasia"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "bell",
+        "censure",
+        "concession",
+        "nacc",
+        "nacc-response"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "security",
+        "guns",
+        "vaccines",
+        "death",
+        "death-confirm",
+        "euthanasia"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "migration",
+        "faith"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "nikkei",
+        "iran"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "nikkei",
+        "iran"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "enterprise",
+        "jobkeeper",
+        "economy",
+        "marriage"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "enterprise",
+        "jobkeeper",
+        "economy",
+        "nikkei"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "economy",
+        "nikkei"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "naa",
+        "faith",
+        "schools",
+        "marriage"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "abortion",
+        "marriage",
+        "schools",
+        "sports",
+        "faith"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "enterprise",
+        "nikkei",
+        "stemcells",
+        "space"
+      ]
+    }
+  },
+  "uncertainties": [
+    "The 240 choices are editorial simulations from policy and principles, not survey answers supplied by Morrison. N marks unresolved mixed propositions; qualified choices on hypothetical matters remain inferences.",
+    "Profile centres on federal political career through 2022 with explicit checks of public statements through September 2026. The PM transcript site incorrectly ends its service header at the election call; use the NAA and 2018–2022 display period.",
+    "National coordination does not erase constitutional state autonomy. GST reform retained equalisation; a preference for state incentives is not opposition to every transfer. Indigenous legal autonomy and municipal supremacy are inferred cautiously.",
+    "Bell found the additional appointments constitutionally valid but secrecy damaging to responsible government. They are evidence of executive overreach, not evidence that Morrison abolished Parliament or elections. His election concession limits the interpretation.",
+    "Robodebt: the 2023 Royal Commission made adverse findings, which Morrison rejected. The NACC in March 2026 found no corrupt conduct by him within its specific referrals; its conclusion on page 435 rejects a personal honesty or good-faith breach and identifies missing departmental advice. Do not represent earlier allegations as a current proven corruption finding or the NACC investigation as endorsing the entire scheme.",
+    "Counterterrorism proposals are described as positions at the time, not a claim every measure was enacted unchanged. Support for temporary orders is not unlimited detention without judicial process. Vaccination answers distinguish targeted mandates from a blanket requirement.",
+    "Australian opposition to capital punishment is supported by the government strategy and Morrison reiteration, not inferred from liberal democracy alone. Euthanasia coverage concerns his refusal to restore territorial legislative power, not a claim he overturned all state laws.",
+    "Migration cap rationale concerns congestion and settlement distribution. Multiculturalism praise and religious transparency proposals do not establish support for ethnic exclusion. Brazil-specific refugee questions are read as support for a controlled humanitarian programme.",
+    "2025 Iran article is evidence of his position, not independent confirmation of claims about nuclear facilities, casualties or operational success. Nuclear-powered submarines are distinct from nuclear weapons. Conscription and international-court hypotheticals are qualified institutional inferences.",
+    "JobKeeper was a temporary employer wage subsidy, not UBI. Announced programme allocations are not asserted as final expenditure. Retrospective tax claims describe his government programme, not current tax law. CEFC use is a named exception to a private-enterprise preference.",
+    "The 2018 religious-school text is a proposal and is not described as enacted law. Personal marriage beliefs are distinguished from his decision not to reverse the legal change. Biological-sex sports support is not treated as endorsement of every statement by the candidate involved.",
+    "Stem-cell therapy support does not establish support for reproductive cloning or germline enhancement. GMO, pesticide, mining and automation choices are qualified applications of his technology-led development principles. Rural/urban preference, cultivated meat and elective brain enhancement remain uncertain."
+  ],
+  "distinctions": [
+    "Likely neighbours include John Howard, Tony Abbott and Angus Taylor: shared Coalition economics, security and social conservatism are genuine similarities. Morrison also adopted net zero, large temporary pandemic wage subsidies, targeted health mandates and AUKUS.",
+    "Compared with Malcolm Turnbull, Morrison maintains a more explicitly faith-and-family moral outlook while accepting settled marriage law. His reliance on strategic industry support in 2026 does not imply economy-wide planning.",
+    "Compared with Pauline Hanson, he celebrates multicultural immigration, supports trade agreements and defended the National Firearms Agreement. These contrasts must not be erased by shared border-control preferences.",
+    "Post-calculation review: 96.2% proximity to Angus Taylor and 96.0% to Friedrich Merz is plausible shared centre-right policy. Morrison's pandemic subsidy and CEFC record, Pentecostal public faith and explicit praise for multicultural immigration require separate judgments; no profile answers were copied or retuned to reach these comparisons."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Scott_Morrison_portrait.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Scott_Morrison_portrait.jpg",
+    "author": "Department of Prime Minister and Cabinet",
+    "license": "CC BY 3.0 AU",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/au/",
+    "date": "2021-10-19",
+    "note": "Downloaded real official portrait; resized and recompressed to 480px width using project image optimiser.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "john-howard",
+      "answersSha256": "4a10d9f8bea9cac3f7e56070a29ecc5f751c0dd45e8a40eab6eb71b4986bec09",
+      "neighborVectorSha256": "e6620bbfad1a2c6d951e0280afcd04d95dd47ce886eb726793a0fca31d0debb4",
+      "reason": "Distinct Australian prime ministers share Coalition economics, gun controls and alliance commitments. Morrison combines pandemic wage subsidies and strategic public financing (economia 40.1), technology-led net zero and a lunar programme (tecnologia 65.3), with more explicit Pentecostal public faith (religiao 26.0). Howard's archived model reflects Telstra privatisation and WorkChoices, opposition to embryo cloning, and voluntary chaplaincy. The close overall match is plausible overlap, not identical answers; no answers were altered to manufacture separation.",
+      "differingAxes": [
+        "economia",
+        "religiao",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "jobkeeper",
+        "enterprise",
+        "faith",
+        "space"
+      ]
+    }
+  ],
+  "calculatedComparisons": {
+    "personalities": [
+      {
+        "id": "john-howard",
+        "percent": 97.1
+      },
+      {
+        "id": "angus-taylor",
+        "percent": 96.2
+      }
+    ],
+    "ideologies": [
+      {
+        "id": "neoconservadorismo",
+        "percent": 95.6
+      },
+      {
+        "id": "atlantismo",
+        "percent": 94.0
+      }
+    ],
+    "countries": [
+      {
+        "id": "roma-republicana",
+        "percent": 94.8
+      },
+      {
+        "id": "israel",
+        "percent": 94.3
+      }
+    ],
+    "note": "Calculated by compatibility.py; numerical similarity is not historical identity or endorsement."
+  }
+}

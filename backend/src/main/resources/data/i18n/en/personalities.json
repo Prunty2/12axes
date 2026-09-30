@@ -2480,5 +2480,11 @@
     "name": "Malcolm Turnbull",
     "role": "Former Australian prime minister",
     "description": "Prime minister from 2015 to 2018, a republican and supporter of marriage equality. He backs markets, free trade, renewable energy and medical research, alongside strict security policies and greater Australian autonomy within the US alliance."
+  },
+  {
+    "id": "scott-morrison",
+    "name": "Scott Morrison",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister from 2018 to 2022, Morrison combined Christian conservatism, support for business and controlled migration with pandemic wage subsidies, AUKUS and technology-led climate targets."
   }
 ]

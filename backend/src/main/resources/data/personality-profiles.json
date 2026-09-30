@@ -6764,5 +6764,22 @@
       "moral": 64.5,
       "tecnologia": 53.6
     }
+  },
+  {
+    "personalityId": "scott-morrison",
+    "vector": {
+      "estrutura": 47.4,
+      "representacao": 79.9,
+      "poder": 62.7,
+      "imigracao": 50.3,
+      "diplomacia": 64.8,
+      "intervencao": 22.1,
+      "economia": 40.1,
+      "controle": 39.0,
+      "comercio": 36.5,
+      "religiao": 26.0,
+      "moral": 36.3,
+      "tecnologia": 65.3
+    }
   }
 ]

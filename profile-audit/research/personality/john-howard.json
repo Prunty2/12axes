@@ -219,6 +219,22 @@
         "federalism",
         "migration"
       ]
+    },
+    {
+      "comparedWith": "scott-morrison",
+      "answersSha256": "a372dd99d56eb20c37b76e25d95753d6b4232eb830578a28bb3944ff0a772990",
+      "neighborVectorSha256": "cfffc7d91f7580541e5d0e03185665e68c9fb52b9e250c02b423b7f33cae1eaf",
+      "reason": "Howard's historical premiership model is grounded in Telstra privatisation, national workplace reform and caution over embryo cloning. Morrison's separately researched model includes pandemic wage subsidies, technology-led net zero and more explicit Pentecostal public faith. Their differing economy, religion and technology values represent plausible distinctions within shared Coalition politics; Howard's permanent answers remain unchanged.",
+      "differingAxes": [
+        "economia",
+        "religiao",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "naa",
+        "religion",
+        "cloning"
+      ]
     }
   ]
 }

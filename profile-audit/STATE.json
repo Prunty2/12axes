@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T11:30:39Z",
+  "lastUpdated": "2026-09-30T11:44:21Z",
   "personality": {
-    "totalProfiles": 398,
+    "totalProfiles": 399,
     "pending": [],
     "done": [
       "lenin",
@@ -402,7 +402,8 @@
       "kevin-rudd",
       "julia-gillard",
       "tony-abbott",
-      "malcolm-turnbull"
+      "malcolm-turnbull",
+      "scott-morrison"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
@@ -501,7 +502,7 @@
           "id": "scott-morrison",
           "name": "Scott Morrison",
           "country": "Australia",
-          "status": "pending"
+          "status": "added"
         },
         {
           "id": "peter-dutton",

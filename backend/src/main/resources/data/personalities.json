@@ -4774,5 +4774,17 @@
     "imageSourceName": "Commonwealth of Australia / Tim Bauer / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Malcolm_Turnbull_Portrait.jpg",
     "imageNote": "Retrato oficial publicado em 2015, Commonwealth of Australia; crédito fotográfico Tim Bauer. CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e comprimido."
+  },
+  {
+    "id": "scott-morrison",
+    "name": "Scott Morrison",
+    "role": "Ex-primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1968–",
+    "description": "Primeiro-ministro australiano de 2018 a 2022, Morrison combinou conservadorismo cristão, incentivo às empresas e controle migratório com subsídios emergenciais na pandemia, AUKUS e metas climáticas apoiadas em tecnologia.",
+    "imagePath": "/personalities/portraits/scott-morrison.jpg",
+    "imageSourceName": "Department of Prime Minister and Cabinet / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Scott_Morrison_portrait.jpg",
+    "imageNote": "Retrato oficial de Scott Morrison, Department of Prime Minister and Cabinet, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e recomprimido."
   }
 ]
