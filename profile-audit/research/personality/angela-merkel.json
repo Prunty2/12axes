@@ -1,0 +1,421 @@
+{
+  "id": "angela-merkel",
+  "country": "Germany",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Chancellorship, November 2005–December 2021, with greater weight on the later governing record and explicit earlier context.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Federal Chancellery biography",
+      "url": "https://www.bundeskanzler.de/bk-de/content/lebenslauf-angela-merkel-1839844",
+      "factDate": "1954 birth; chancellorship November 2005–December 2021",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "federalism",
+      "title": "Merkel speech on federalism reform",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-von-bundeskanzlerin-dr-angela-merkel-793928",
+      "factDate": "2006-06-30",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "programme",
+      "title": "Merkel policy statement: social market economy, budget, minimum wage and energy transition",
+      "url": "https://www.bundesregierung.de/breg-en/news/policy-statement-by-federal-chancellor-angela-merkel-803174",
+      "factDate": "2014-01-29",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "democracy",
+      "title": "Merkel address to the Parliamentary Assembly of the Council of Europe",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/speech-by-federal-chancellor-dr-angela-merkel-to-the-parliamentary-assembly-of-the-council-of-europe-on-20-april-2021-via-video-conference--1895364.pdf",
+      "factDate": "2021-04-20",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "emergency",
+      "title": "Merkel speech supporting the federal pandemic emergency brake",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-von-bundeskanzlerin-dr-angela-merkel-1891554",
+      "factDate": "2021-04-16",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "vaccination",
+      "title": "Federal-Länder decision on restrictions and proposed vaccination mandate",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/federation-laender-decision-1987282",
+      "factDate": "2021-12-02; proposal before Merkel left office, not a claim that a general mandate was enacted",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "privacy",
+      "title": "Merkel on privacy, surveillance and security",
+      "url": "https://www.bundesregierung.de/breg-en/service/germany-is-a-country-of-freedom-421444",
+      "factDate": "2013-07-19",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "retention",
+      "title": "Justice Minister Maas on coalition data-retention legislation",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-des-bundesministers-der-justiz-und-fuer-verbraucherschutz-heiko-maas--810970",
+      "factDate": "2015-10-16; coalition policy, metadata distinguished from contents",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "drugs",
+      "title": "DPA report of Merkel interview rejecting recreational cannabis legalisation",
+      "url": "https://www.aerzteblatt.de/news/merkel-gegen-legalisierung-von-cannabis-08ba120c-85de-40b1-af0d-fe0818158b37",
+      "factDate": "2017-08-28",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "assisted-dying",
+      "title": "Bundestag record of the 2015 assisted-suicide debate and legislation",
+      "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=371",
+      "factDate": "2015-11-06; parliamentary context, not proof of every personal view",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "integration",
+      "title": "Merkel speech at the eighth integration summit",
+      "url": "https://www.bundeskanzler.de/bk-de/aktuelles/rede-von-bundeskanzlerin-merkel-beim-8-integrationsgipfel-am-17-november-2015-484558",
+      "factDate": "2015-11-17",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "pluralism",
+      "title": "Merkel statement on religious coexistence and belonging",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/archive/islam-is-part-of-germany-says-chancellor-444952",
+      "factDate": "2015-01-12",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "free-speech",
+      "title": "Merkel statement following the Paris attacks",
+      "url": "https://www.bundesregierung.de/breg-de/suche/regierungserklaerung-von-bundeskanzlerin-dr-angela-merkel-794892",
+      "factDate": "2015-01-15",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "security",
+      "title": "Merkel Munich Security Conference address",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/speech-by-federal-chancellor-dr-angela-merkel-during-the-munich-security-conference-special-edition-on-19-february-2021-video-conference--1861248?view=renderNewsletterHtml",
+      "factDate": "2021-02-19",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "nord-stream",
+      "title": "Federal Government statement on Ukraine transit and Nord Stream 2",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/media-center/1953222-1953222",
+      "factDate": "2021-08-22",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "trade",
+      "title": "Merkel at B20: free trade and common regulatory standards",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/archive/making-the-case-for-free-trade-436664",
+      "factDate": "2017-05-03",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "labour",
+      "title": "Merkel Labour 20 address on unions and social partnership",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/archive/speech-by-federal-chancellor-angela-merkel-at-the-g20-dialogue-forum-with-trade-unions-labour-20-in-berlin-on-17-may-2017-797954",
+      "factDate": "2017-05-17",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "lufthansa",
+      "title": "Federal Government Lufthansa support package",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/unterstuetzung-lufthansa-1755534",
+      "factDate": "2020-05; proposed 20% state share and KfW financing",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "ecb",
+      "title": "Merkel farewell address for ECB President Mario Draghi",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-von-bundeskanzlerin-dr-angela-merkel-1686362",
+      "factDate": "2019-10-28; published 2019-10-29",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "recovery",
+      "title": "Merkel statement announcing the Franco-German recovery initiative",
+      "url": "https://www.bundesregierung.de/breg-en/issues/statement-nach-corona-kabinett-1754044",
+      "factDate": "2020-05-18; proposed EUR 500 billion fund",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "faith",
+      "title": "Merkel discussion at the Protestant Kirchentag",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/archive/our-faith-demands-that-we-act-422200",
+      "factDate": "2017-05-25",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "marriage",
+      "title": "EPD/KNA report of Merkel post-vote explanation: marriage and adoption",
+      "url": "https://www.kirche-und-leben.de/bundestag-beschliesst-ehe-fuer-alle",
+      "factDate": "2017-06-30",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "marriage-vote",
+      "title": "Bundestag account of marriage equality legislation",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2017/kw26-de-ehe-fuer-alle-513682",
+      "factDate": "2017-06-30; distinguish earlier debates included on the same page",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "abortion-information",
+      "title": "Government announcement of Article 219a information reform",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/reform-of-article-219a-1583754",
+      "factDate": "2019-02-05",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "pid",
+      "title": "Merkel signed foreword in CDU booklet on preimplantation diagnosis",
+      "url": "https://archiv.cdu.de/system/tdf/media/dokumente/110119-PID-Broschuere.pdf?file=1&id=256&type=field_collection_item",
+      "factDate": "2011-01 booklet; PDF page 3, referencing 2010-11-16 conference",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "ai",
+      "title": "Government AI strategy and Merkel interview",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/ai-a-brand-for-germany-1551432",
+      "factDate": "2018-11; Merkel interview 2018-11-13",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "biotechnology",
+      "title": "Federal Government High-Tech Strategy",
+      "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/hightech-strategie-fuer-deutschland-475516",
+      "factDate": "2006-08-29 strategy; research, environmental safety and consumer choice",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "gmo-limits",
+      "title": "Agriculture Minister Aigner on MON810 restrictions and continued research",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-der-bundesministerin-fuer-ernaehrung-landwirtschaft-und-verbraucherschutz-ilse-aigner--799368",
+      "factDate": "2009-04-23; ministerial position within Merkel coalition",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "conscription",
+      "title": "Defence minister on suspension, not abolition, of conscription",
+      "url": "https://www.bundesregierung.de/breg-de/suche/rede-des-bundesministers-der-verteidigung-karl-theodor-freiherr-zu-guttenberg--792936",
+      "factDate": "2011-02-24",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "rents",
+      "title": "Minister Hendricks interview on the coalition rent-brake proposal",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/wohnquartiere-attraktiver-machen-646588",
+      "factDate": "2014 interview; coalition policy planned from 2015, not a personal Merkel statement",
+      "accessedOn": "2026-10-01"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "federalism",
+        "programme",
+        "emergency"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "democracy",
+        "federalism",
+        "free-speech"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "privacy",
+        "retention",
+        "emergency",
+        "vaccination",
+        "drugs",
+        "assisted-dying",
+        "democracy",
+        "free-speech"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "integration",
+        "pluralism",
+        "faith",
+        "programme"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "security",
+        "democracy",
+        "conscription"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "security",
+        "democracy",
+        "nord-stream",
+        "trade"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "programme",
+        "labour",
+        "lufthansa"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "programme",
+        "ecb",
+        "recovery",
+        "lufthansa",
+        "labour",
+        "rents"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "programme",
+        "lufthansa",
+        "nord-stream"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "pluralism",
+        "free-speech",
+        "pid"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "marriage",
+        "marriage-vote",
+        "programme",
+        "pid",
+        "abortion-information",
+        "democracy"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "programme",
+        "ai",
+        "biotechnology",
+        "gmo-limits",
+        "pid",
+        "democracy"
+      ]
+    }
+  },
+  "uncertainties": [
+    "The profile reconstructs Merkel’s 2005–2021 chancellorship, with greater weight on the later governing record. It is not a claim about every post-retirement comment or the programme of her successors. Her earlier nuclear-life extension is superseded by the phase-out she defended in office after 2011.",
+    "Federalism means Länder and municipal competencies within the Basic Law, not a unilateral right of secession. The 2006 reforms coexist with later federal education funding and the 2021 national emergency brake. Regional constitutions, indigenous autonomy and national tax rules are institutional analogies rather than personal proposals for Brazil.",
+    "Democratic commitments support parliamentary accountability and judicial review, not automatic support for recall, sortition or unrestricted legislative referenda. Long tenure through elections is distinguished from abolishing electoral competition.",
+    "The 2015 retention source is her justice minister’s account of coalition legislation, not Merkel speaking. It concerns metadata with stated time limits and exclusions, not blanket storage of conversation contents. The digital-monitoring answer is a qualified inference permitting lawful investigation, constrained by her privacy and rule-of-law statements. No claim is made that every government measure survived judicial review.",
+    "Neutral phone-unlocking, facial-recognition and false-information responses balance security or protection from harm against privacy and expression. Party prohibition is interpreted as a court-governed constitutional safeguard, not executive suppression of ordinary opposition. Capital punishment, detention and firearms are inferred through the constitutional European framework and security policy.",
+    "COVID curfews and late-2021 support for a vaccination mandate are documented, but no general mandate is claimed to have become law under Merkel. Her position changed during the pandemic; the answer gives greater weight to the final position and keeps proportionality conditions.",
+    "Recreational cannabis opposition is directly recorded in her 2017 interview; medical use is a distinct exception. Euthanasia opposition is a cautious inference from life-protection principles and the period’s debate, not a claim that the parliamentary article establishes her individual vote. Assisted suicide, active euthanasia and refusal of treatment are not treated as identical.",
+    "Integration requirements refer primarily to language, lawful conduct and civic participation. The two neutral cultural-precedence/exclusion items distinguish these obligations from erasing cultural identity or expelling someone merely for unfamiliar customs. Refugee admission is not an endorsement of unrestricted borders; the 2017 Kirchentag discussion explicitly supported returning people without residence rights.",
+    "Foreign-policy answers retain NATO commitments and Afghanistan deployments alongside diplomacy and international courts. Nuclear rejection refers to a sovereign German nuclear arsenal, not rejection of NATO deterrence. Suspension of compulsory military service and the preference for professional forces inform the conscription answer; autonomous weapons remain neutral because defensive innovation and human-control safeguards pull in different directions.",
+    "Russia policy should not be rewritten after 2022: the 2021 speech criticises Russian conduct and supports Ukraine’s sovereignty while retaining dialogue. Nord Stream 2 demonstrates continued energy engagement despite geopolitical tension. No Scholz-era arms or defence policy is attributed to Merkel.",
+    "The social market economy includes mixed ownership and insurance provision, not complete nationalisation or wholesale privatisation. Neutral strategic ownership, welfare duration, healthcare ownership and private-service priority distinguish essential guarantees from delivery arrangements. Social assistance is conditional support for people in need, not a claim that Merkel adopted universal unconditional basic income.",
+    "Her acceptance of the minimum wage was a coalition compromise with employment and collective-bargaining safeguards. Neutral general wage/price-setting, national champions and rent freezes preserve selective regulation within a competitive market. Opposition to higher wealth taxes is inferred from her tax-restraint programme, not a personal statement on every hypothetical tax. The 2020 recovery initiative qualifies fiscal restraint; it was initially a proposal, not the final EU fund design.",
+    "Trade openness coexists with strategic screening, crisis protection and agricultural interests. Neutral economic-sovereignty and tariff-as-last-resort responses preserve those tensions. The Chinese electric-car question is a hypothetical application of her anti-protectionist approach, not an attribution of later EU tariff decisions.",
+    "Christian ethics and constitutional pluralism coexist. Neutral exclusive-secular-policy, faith-as-necessary and public-symbol items reflect that distinction. The religion axis does not measure whether her faith is sincere.",
+    "Her 2017 personal marriage vote must be distinguished from the law passed by Parliament and from her contemporaneous support for same-sex adoption. Gender identity, polyamory, pornography and race-based quotas are qualified inferences from dignity, gradual change, social responsibility and individual equality, not reported direct quotations. Gender representation policies are not evidence of support for racial quotas.",
+    "Neutral early abortion reflects protection of prenatal life alongside legally regulated access and counselling; the 2019 information announcement alone does not establish an unrestricted abortion-rights position. Sexual education neutrality balances parents’ responsibilities and public education. Neutral gendered-language policy balances respectful treatment and caution about prescribed cultural change.",
+    "Technology includes both AI/industrial research support and nuclear phase-out/bioethical limits. Neutral bundled nuclear-AI-genetics, city-versus-country and enhancement-implant answers retain these substantive tensions. GM development means regulated research, not unrestricted cultivation: the 2009 MON810 ban and ministerial support for research are included. Cultured meat, implants and gene editing extend documented principles and are not claimed as direct proposals. Her PID-ban preference is documented in her signed foreword, not inferred from party membership.",
+    "The rent-brake source is Minister Hendricks describing the coalition programme. A ceiling on increases relative to local reference rents is distinct from a general rent freeze; the neutral answer retains this distinction."
+  ],
+  "distinctions": [
+    "Likely neighbours include Christian democrats and European social-market centrists. Preserve Merkel’s integration requirements, Christian ethics, personal marriage vote, nuclear phase-out, fiscal restraint and crisis exceptions.",
+    "Do not copy a later German chancellor’s defence, migration, drug or social programme into Merkel’s profile."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_Juli_2010_-_3zu4.jpg",
+    "author": "Armin Linnartz; existing Commons crop and white-balance correction",
+    "license": "CC BY-SA 3.0 Germany",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Angela_Merkel_Juli_2010_-_3zu4.jpg",
+    "date": "2010-07",
+    "note": "Existing Commons version resized to 480px and compressed from 2.32 MB to 21 KB. Distributed under the same licence.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "jimmy-carter",
+      "answersSha256": "85555aa8f5b2f334f92cb34410d0fbb76a6fc44d09fcbc7c0ab1750616a9b1eb",
+      "neighborVectorSha256": "b02230b9e2da3ed209750cd26a6d6f9d4033d988c1a20984858966ab48ae1949",
+      "reason": "97.0% compatibility reflects democratic institutions, Christian ethics, social protection and a preference for diplomacy. Merkel is more security-oriented in the saved vectors: documented pandemic curfews and late mandate support, as well as rejection of recreational cannabis legalisation, contrast with Carter’s later civil-liberties and drug-policy record. Her language and integration requirements and monetary/fiscal framework also differ. Distinct evidence-based answers are preserved rather than adjusted to manufacture distance.",
+      "differingAxes": [
+        "poder",
+        "imigracao",
+        "controle"
+      ],
+      "sourceIds": [
+        "emergency",
+        "vaccination",
+        "drugs",
+        "integration",
+        "ecb"
+      ]
+    },
+    {
+      "comparedWith": "malcolm-turnbull",
+      "answersSha256": "85555aa8f5b2f334f92cb34410d0fbb76a6fc44d09fcbc7c0ab1750616a9b1eb",
+      "neighborVectorSha256": "ae6dd28d86525d10b0a8db27f4b5b238010637096edb4b5bea5ed5fdc8b1cf2c",
+      "reason": "95.8% compatibility reflects elected federal government and open-market institutions. Merkel’s diplomatic priorities and nuclear phase-out are preserved alongside NATO membership; Turnbull’s saved vector is more military-oriented. Merkel has a stronger public-service orientation and more traditional marriage/religious and bioethical answers, grounded in her own 2017 marriage statement and PID foreword. Their similar institutional outlook does not erase these differences.",
+      "differingAxes": [
+        "diplomacia",
+        "economia",
+        "moral",
+        "religiao",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "security",
+        "programme",
+        "marriage",
+        "faith",
+        "pid"
+      ]
+    },
+    {
+      "comparedWith": "paul-keating",
+      "answersSha256": "85555aa8f5b2f334f92cb34410d0fbb76a6fc44d09fcbc7c0ab1750616a9b1eb",
+      "neighborVectorSha256": "dd7db4646988ca4bbc602a50d780af22757ffb10b68ca8746a39ec4bd53a9d7e",
+      "reason": "95.4% compatibility reflects social-market and trade-oriented positions. Merkel’s federalism, pandemic security measures, cultural integration expectations and NATO/European leadership record differ from the existing Keating reconstruction. The saved vectors materially differ on those axes, despite coinciding on aggregate economic ownership; equal values on one axis are not an identical twelve-axis profile.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "imigracao",
+        "intervencao",
+        "comercio"
+      ],
+      "sourceIds": [
+        "federalism",
+        "emergency",
+        "integration",
+        "security",
+        "trade"
+      ]
+    }
+  ],
+  "validationReview": {
+    "neutralReview": "26/240 neutral answers (10.8%); no axis at the 25% warning level. Substantive tensions behind neutral answers are recorded in uncertainties.",
+    "calibration": "Federalism 60.5 and democracy 84.7 reflect institutional commitments. Security 59.1 includes restrictions with due-process limits. Economics 53.2 reflects mixed services and ownership; market control 43.8 preserves competition and central-bank independence. Morality 52.7 retains equality and same-sex adoption alongside a traditional personal marriage view. Technology 48.8 balances research with nuclear and bioethical limits. No score was chosen as a target."
+  }
+}

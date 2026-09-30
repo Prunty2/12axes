@@ -2552,5 +2552,11 @@
     "name": "Lyndon B. Johnson",
     "role": "Former US president",
     "description": "US president from 1963 to 1969. His Great Society expanded civil rights, education and public health insurance through Medicare and Medicaid. Johnson combined a regulated private economy with military escalation in Vietnam."
+  },
+  {
+    "id": "angela-merkel",
+    "name": "Angela Merkel",
+    "role": "Former German chancellor",
+    "description": "German chancellor from 2005 to 2021. A Christian Democrat, she combined a social market economy and fiscal restraint with European integration, refugee reception and the nuclear phase-out."
   }
 ]

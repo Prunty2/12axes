@@ -26,22 +26,23 @@
     "david-lloyd-george",
     "hillary-clinton",
     "jimmy-carter",
-    "lyndon-b-johnson"
+    "lyndon-b-johnson",
+    "angela-merkel"
   ],
   "candidateCount": 31,
-  "pendingCount": 7,
+  "pendingCount": 6,
   "skippedCount": 0,
   "verification": {
-    "individualAuditValidators": "Passed for all twenty-four against the current catalogue. Johnson–Lloyd George (96.5%) and Johnson–Truman (95.6%) have evidence-linked fingerprinted reviews. Earlier reciprocal reviews remain valid. No answers changed to manufacture distance.",
-    "archiveAndMetadataIntegrity": "verify_expansion.py passed: 24 added, 7 pending, 31 planned, 410 total. Saved vectors equal recomputation from all 240 answers plus five archetype answers.",
-    "backendFullSuite": "145 tests passed, zero failures, errors or skips.",
-    "backendUpdatedIntegration": "ExpandedPersonalityTest: 24 cases passed; each submits all 240 archived answers plus five archetype answers in Portuguese and English and receives the matching person at 100%.",
-    "frontend": "21 tests passed before the Rudd and later data-only additions; latest production build generated 1596 pages including PT/EN pages for all twenty-four additions.",
+    "individualAuditValidators": "Passed for all twenty-five against the current catalogue. Merkel–Carter (97.0%) has reciprocal evidence-linked fingerprinted reviews; Merkel–Turnbull (95.8%) and Merkel–Keating (95.4%) reviewed. Earlier reviews remain valid. No answers changed to manufacture distance.",
+    "archiveAndMetadataIntegrity": "verify_expansion.py passed: 25 added, 6 pending, 31 planned, 411 total. Saved vectors equal recomputation from all 240 answers plus five archetype answers.",
+    "backendFullSuite": "146 tests passed, zero failures, errors or skips.",
+    "backendUpdatedIntegration": "ExpandedPersonalityTest: 25 cases passed; each submits all 240 archived answers plus five archetype answers in Portuguese and English and receives the matching person at 100%.",
+    "frontend": "21 tests passed before the Rudd and later data-only additions; latest production build generated 1598 pages including PT/EN pages for all twenty-five additions.",
     "similarityReviewTests": "6 tests passed, including stale review, exact duplicate, missing evidence and catalogue isolation checks.",
-    "visual": "All twenty-four downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee, Johnson, Starmer, Farage, Lowe, Harris, Lloyd George, Clinton, Carter and Lyndon B. Johnson; personality comparison tabs inspected for those except Hanson and Taylor. Quiz submission verified through backend integration tests, not browser submission.",
+    "visual": "All twenty-five downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee, Johnson, Starmer, Farage, Lowe, Harris, Lloyd George, Clinton, Carter, Lyndon B. Johnson and Merkel; personality comparison tabs inspected for those except Hanson and Taylor. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Complete seven pending profiles: Mark Carney, Angela Merkel, Olaf Scholz, Helmut Kohl, Lech Wałęsa, David Ben-Gurion and Golda Meir. Then run final checks and submit and attach a draft PR. Twenty-four additions are complete. Existing figures must not be duplicated. This checkpoint does not prove completion.",
+  "remaining": "Complete six pending profiles: Mark Carney, Olaf Scholz, Helmut Kohl, Lech Wałęsa, David Ben-Gurion and Golda Meir. Then run final checks and submit and attach a draft PR. Twenty-five additions are complete. Existing figures must not be duplicated. This checkpoint does not prove completion.",
   "scopeRevision": {
     "date": "2026-09-30",
     "previousCandidateCount": 247,

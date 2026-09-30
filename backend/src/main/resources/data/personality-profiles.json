@@ -6968,5 +6968,22 @@
       "moral": 37.1,
       "tecnologia": 59.5
     }
+  },
+  {
+    "personalityId": "angela-merkel",
+    "vector": {
+      "estrutura": 60.5,
+      "representacao": 84.7,
+      "poder": 59.1,
+      "imigracao": 43.3,
+      "diplomacia": 33.6,
+      "intervencao": 36.3,
+      "economia": 53.2,
+      "controle": 43.8,
+      "comercio": 28.2,
+      "religiao": 42.5,
+      "moral": 52.7,
+      "tecnologia": 48.8
+    }
   }
 ]

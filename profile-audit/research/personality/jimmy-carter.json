@@ -377,6 +377,24 @@
         "energy",
         "biotech"
       ]
+    },
+    {
+      "comparedWith": "angela-merkel",
+      "answersSha256": "4d20754fb821106af656e81c64c8016d74b7899e5074de309908e3fd953d4f5f",
+      "neighborVectorSha256": "458e6a64ecca5645ec56676e354d5b89cb7e056d3321cb7a437556ad78e32e01",
+      "reason": "97.0% compatibility reflects shared Christian ethics, democratic institutions, social provision and diplomacy. Carter’s later opposition to coercive security measures and support for drug-policy reform make the archived security answers more liberty-oriented than Merkel’s pandemic and prohibition positions. Immigration and economic coordination also differ. The Carter sources and period were assessed independently; no archived answers were changed in response to the new neighbour.",
+      "differingAxes": [
+        "poder",
+        "imigracao",
+        "controle"
+      ],
+      "sourceIds": [
+        "civil-liberties",
+        "drugs",
+        "immigration",
+        "prices",
+        "credit"
+      ]
     }
   ]
 }

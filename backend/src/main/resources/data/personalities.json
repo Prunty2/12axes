@@ -4918,5 +4918,17 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:President_Lyndon_B._Johnson,_White_House_color_portrait.jpg",
     "imageNote": "Retrato de Lyndon B. Johnson via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "angela-merkel",
+    "name": "Angela Merkel",
+    "role": "Ex-chanceler da Alemanha",
+    "category": "politico",
+    "lifespan": "1954–",
+    "description": "Chanceler alemã de 2005 a 2021. Democrata-cristã, combinou economia social de mercado e disciplina fiscal com integração europeia, acolhimento de refugiados e saída da energia nuclear.",
+    "imagePath": "/personalities/portraits/angela-merkel.jpg",
+    "imageSourceName": "Armin Linnartz / Wikimedia Commons · CC BY-SA 3.0 DE",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_Juli_2010_-_3zu4.jpg",
+    "imageNote": "Foto de Armin Linnartz, julho de 2010. Versão da Wikimedia Commons redimensionada e comprimida; CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)."
   }
 ]
