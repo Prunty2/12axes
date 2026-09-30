@@ -2528,5 +2528,11 @@
     "name": "Kamala Harris",
     "role": "Former US vice president",
     "description": "US vice president from 2021 to 2025, Harris advocates reproductive rights, economic regulation and social protection alongside private enterprise, border enforcement and US-led military alliances."
+  },
+  {
+    "id": "david-lloyd-george",
+    "name": "David Lloyd George",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 1916 to 1922, Lloyd George expanded social insurance and wealth taxation, combining reforming liberalism, wartime industrial mobilisation and imperial power with negotiated peace and Irish self-government."
   }
 ]

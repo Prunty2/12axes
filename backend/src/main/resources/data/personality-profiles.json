@@ -6900,5 +6900,22 @@
       "moral": 82.4,
       "tecnologia": 57.1
     }
+  },
+  {
+    "personalityId": "david-lloyd-george",
+    "vector": {
+      "estrutura": 41.4,
+      "representacao": 56.1,
+      "poder": 73.4,
+      "imigracao": 55.0,
+      "diplomacia": 69.5,
+      "intervencao": 11.4,
+      "economia": 65.1,
+      "controle": 71.1,
+      "comercio": 41.3,
+      "religiao": 39.3,
+      "moral": 27.2,
+      "tecnologia": 67.7
+    }
   }
 ]

@@ -4870,5 +4870,17 @@
     "imageSourceName": "Lawrence Jackson / White House, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait_(close_cropped).jpg",
     "imageNote": "Retrato oficial de 2021 por Lawrence Jackson / Casa Branca. Domínio público (governo dos EUA). Recorte do Commons redimensionado e comprimido."
+  },
+  {
+    "id": "david-lloyd-george",
+    "name": "David Lloyd George",
+    "role": "Ex-primeiro-ministro britânico",
+    "category": "politico",
+    "lifespan": "1863–1945",
+    "description": "Primeiro-ministro britânico de 1916 a 1922, ampliou seguros sociais e tributação da riqueza. Combinou liberalismo reformista, mobilização industrial de guerra e defesa imperial com negociações de paz e autonomia irlandesa.",
+    "imagePath": "/personalities/portraits/david-lloyd-george.jpg",
+    "imageSourceName": "Olive Edis / National Portrait Gallery, via Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:DavidLloydGeorge.jpg",
+    "imageNote": "Fotografia de 1917 por Olive Edis, National Portrait Gallery. Domínio público conforme Wikimedia Commons. Redimensionada e comprimida."
   }
 ]

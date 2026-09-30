@@ -1,0 +1,244 @@
+{
+  "id": "david-lloyd-george",
+  "country": "United Kingdom",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Reforming minister and prime minister, 1906–1922, with the 1929 public-works programme and explicitly dated earlier/later context.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "UK Government: David Lloyd George biography",
+      "url": "https://www.gov.uk/government/history/past-prime-ministers/david-lloyd-george",
+      "factDate": "1863–1945; premiership 1916–1922",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "career",
+      "title": "Journal of Liberal History: Lloyd George political career",
+      "url": "https://liberalhistory.org.uk/history/lloyd-george-david-earl-lloyd-george-and-viscount-gwynedd/",
+      "factDate": "Historical account of 1890–1945",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "cabinet",
+      "title": "Kenneth O Morgan: Number 10 under Lloyd George",
+      "url": "https://history.blog.gov.uk/2012/05/01/number-10-under-lloyd-george-1916-1922/",
+      "factDate": "Published 2012-05-01; events 1916–1922",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "wales",
+      "title": "Ian Machin: Nonconformity and radicalism, c.1890–1906",
+      "url": "https://liberalhistory.org.uk/wp-content/uploads/2014/10/77_Machin_LG_nonconformity_and_radicalism_1890-1906.pdf",
+      "factDate": "Journal of Liberal History 77, winter 2012–2013, pages 12–18",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "The Nonconformist Mind of David Lloyd George",
+      "url": "https://liberalhistory.org.uk/wp-content/uploads/2017/09/96-Autumn-2017-3.pdf",
+      "factDate": "Journal of Liberal History 96, autumn 2017; especially pages 20–21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "franchise",
+      "title": "Commons Library: 1918 franchise extension",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-11777/",
+      "factDate": "Published 2018-02-08; 1918 and 1928 franchise reforms distinguished",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "munitions",
+      "title": "UK Parliament: Munitions of War Act 1915",
+      "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/parliament-and-the-first-world-war/legislation-and-acts-of-war/kdjgh/",
+      "factDate": "1915–1916 legislation; Lloyd George statement 1915-10-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "munitions-speech",
+      "title": "Hansard: Lloyd George on industrial mobilisation",
+      "url": "https://hansard.parliament.uk/Commons/1915-06-23/debates/fc9018e4-f04d-4c11-b207-7b0e7ca083d3/StatementByMrLloydGeorge",
+      "factDate": "1915-06-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ireland",
+      "title": "National Army Museum: Irish War of Independence",
+      "url": "https://www.nam.ac.uk/explore/irish-war-independence",
+      "factDate": "1919–1921 conflict and settlement",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "treaty",
+      "title": "Arthur Griffith to Eamon de Valera: treaty negotiations",
+      "url": "https://www.difp.ie/volume-1/1921/anglo-irish-treaty/202/",
+      "factDate": "1921-11-23; contemporary account, especially free trade and Ulster",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "aliens",
+      "title": "Aliens Restriction (Amendment) Act 1919, original text",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo5/9-10/92/enacted",
+      "factDate": "1919-12-23; coalition legislation, not a personal speech",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Firearms Act 1920, original text",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo5/10-11/43/enacted",
+      "factDate": "1920-08-16; coalition legislation, including police certificates and appeals",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "works",
+      "title": "Journal of Liberal History: 1929 general election programme",
+      "url": "https://liberalhistory.org.uk/history/the-1929-general-election/",
+      "factDate": "1929 election and 1929-03-01 programme",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "keynes",
+      "title": "Keynes and Henderson: Can Lloyd George Do It? programme of expansion",
+      "url": "https://www.economicsnetwork.ac.uk/archive/keynes_persuasion/A_Programme_of_Expansion.htm",
+      "factDate": "1929 contemporary advocacy of the public-works programme",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "trade",
+      "title": "Hansard: Safeguarding of Industries debate",
+      "url": "https://hansard.parliament.uk/Commons/1925-02-16/debates/72532988-3e45-49e8-9a05-35dc45c303a6/SafeguardingOfIndustries",
+      "factDate": "1925-02-16 debate recalling the 1921 scheme; later speakers distinguished from Lloyd George",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "wales",
+        "cabinet",
+        "treaty",
+        "bio"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "franchise",
+        "bio",
+        "cabinet"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "munitions",
+        "munitions-speech",
+        "ireland",
+        "guns",
+        "aliens"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "wales",
+        "aliens",
+        "treaty"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "bio",
+        "career",
+        "munitions-speech",
+        "cabinet"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "cabinet",
+        "ireland",
+        "treaty",
+        "bio"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "bio",
+        "career",
+        "munitions",
+        "works"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "career",
+        "munitions-speech",
+        "works",
+        "keynes"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "treaty",
+        "trade",
+        "career"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "wales"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "franchise",
+        "munitions",
+        "wales",
+        "faith"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "munitions-speech",
+        "works",
+        "keynes",
+        "wales"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Core profile: reforming minister, wartime premier and Liberal programme-builder, 1906–1929. Earlier Welsh causes provide context. The 1936 favourable impression of Hitler and later alarm are recorded in the career source; this profile does not turn that episode into a claim of lifelong fascism or silently present it as a 1916 policy.",
+    "All answers are editorial historical simulations. Brazil-specific institutions map to British institutions and imperial/devolution disputes; modern sexuality, drugs, surveillance, biotechnology and climate questions necessarily require analogy. These are not newly discovered personal statements.",
+    "Welsh home rule and negotiated Irish dominion status coexist with central war administration. Neutral police and indigenous-autonomy answers preserve local administration and negotiated self-rule alongside imperial security. No support for unconditional colonial independence or a written federal constitution is asserted.",
+    "The 1918 franchise reform was substantial but not equal adult suffrage; 1928 reform was under Baldwin. Neutral voting, opposition and election-frequency answers retain period restrictions and wartime exception alongside Lloyd George’s parliamentary legitimacy. His opposition to hereditary obstruction is not support for judicial supremacy over Parliament.",
+    "Security answers reflect documented wartime labour controls, Irish coercion and the coalition’s laws. Modern digital monitoring is an analogy to emergency investigative powers. The firearms-neutral answer reflects licensed possession rather than a general right or total prohibition; the 1920 Act retained an appeal against police refusal. Offensive-speech neutrality balances Liberal debate with wartime censorship.",
+    "Public-health compulsion, death penalty, assisted dying and recreational-drug answers use the period’s paternalistic legal framework, not an invented personal declaration. Harsh Irish security policy is not described as proof that every official abuse was personally ordered by Lloyd George.",
+    "The 1919 Aliens Restriction Act extended emergency controls into peacetime and restricted some occupations and agitation. This is evidence about his coalition’s record, not a personal quotation. The earlier 1905 procedural interjection alone was insufficient to establish a modern immigration platform. Neutral cultural-expulsion and refugee answers retain liberal tolerance versus security and national membership.",
+    "Military-technology and nuclear answers are counterfactual analogies from industrial mobilisation and strategic independence; nuclear weapons did not exist during his premiership. International-war-crimes neutrality reflects accountability for enemies alongside great-power and imperial discretion. The League of Nations does not make him a pacifist.",
+    "Strategic ownership, healthcare and public-service contracting neutrals describe mixed provision. National Insurance was not a later universal NHS. Agrarian reform is grounded in land campaigns and settlement policy; neither this nor land taxation implies collectivisation.",
+    "The 1929 public-works pledge qualifies the earlier retrenchment and orthodox monetary restoration policy. Neutral central-bank, tax and wage-limit answers preserve this tension rather than claiming a modern inflation-targeting mandate. Keynes and Henderson’s cost and employment estimates are advocacy, not realised results.",
+    "Free trade admits selective wartime and strategic exceptions. Neutral blanket import restrictions, broad industrial protection and strategic foreign ownership reflect those competing principles. Chinese electric-vehicle tariffs are a modern analogy, not a historic position.",
+    "Disestablishment is not atheism. Neutral faith-as-necessary and exclusively secular political-decision answers reflect personal doubt, religiously informed ethics and opposition to denominational privilege. Family and sexual-policy inferences are kept distinct from private relationships.",
+    "Support for some women’s rights does not establish present-day social progressivism. The neutral domestic-role answer balances wartime women’s employment and political participation against contemporary household conventions. Race-quota answers are cautious analogies to individual civic equality and opposition to legal privilege, not proof of contemporary anti-racist policy or equal imperial citizenship.",
+    "Urban/rural preference, implants and gene editing remain neutral where modernization and bodily or community limits conflict. Medical treatment, industrial technology, agricultural productivity and space exploration are cautious extrapolations; no specific stance on modern GM crops, climate policy or laboratory meat is claimed."
+  ],
+  "distinctions": [
+    "Churchill overlaps in British wartime leadership but Lloyd George’s Welsh nonconformity, land reform and social-insurance programme require independent answers.",
+    "Attlee shares social protection and state capacity, but Lloyd George did not adopt Labour’s broad postwar nationalisation or NHS model.",
+    "Keynes overlaps in public-works advocacy but Lloyd George exercised wartime coercion and imperial statecraft; sharing an economic proposal does not imply matching all political axes."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:DavidLloydGeorge.jpg",
+    "author": "Olive Edis / National Portrait Gallery",
+    "license": "Public domain: author died 1955; photograph published 1917",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/DavidLloydGeorge.jpg",
+    "date": "1917",
+    "note": "Original historical photograph resized and compressed; no colourisation or facial alteration.",
+    "visuallyChecked": true
+  },
+  "validationReview": {
+    "review": "Nearest profiles are Theodore Roosevelt (93.8%) and Franklin Roosevelt (93.7%), consistent with reforming capitalism, national power and substantial state capacity. Lloyd George’s nonconformity, Welsh devolution, negotiated Irish settlement and specific war mobilisation remain distinct. No blocking overlap and no answers adjusted to target a match.",
+    "neutralReview": "30/240 answers are neutral (12.5%). The five economic neutrals distinguish mixed provision and reform from uniform public ownership: strategic enterprises, civil-service tenure, healthcare, public-service priority and competitive contracting. All other neutral tensions are explained in uncertainties.",
+    "historicalCalibration": "Representation 56.1 preserves elected parliamentary government alongside wartime concentration and the period’s restricted franchise. Planning 71.1 includes documented wartime direction and 1929 public works; it does not label Lloyd George a collectivist. Modern hypotheticals are inferences, not historical declarations."
+  }
+}
