@@ -30,6 +30,7 @@ import os
 import sys
 import collections
 import importlib.util
+from similarity_review import reviewed_neighbor
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(BASE, "..", "backend", "src", "main", "resources", "data")
@@ -284,11 +285,17 @@ def main():
     for s, k in sim:
         flag = ""
         if s >= DUP_BLOCK:
-            flag = "  <<< BLOQUEIA"
-            errors.append(
-                f"[CONTEUDO] {s:.1f}% identico a '{k}' - perfil redundante, "
-                f"nao acrescenta nada ao catalogo"
-            )
+            review = reviewed_neighbor(catalog, pid, k, data, vec, same[k])
+            if review:
+                flag = "  <<< proximidade revisada"
+                warnings.append(f"[CONTEUDO] {s:.1f}% proximo de '{k}'; revisao: {review}")
+            else:
+                flag = "  <<< BLOQUEIA"
+                errors.append(
+                    f"[CONTEUDO] {s:.1f}% proximo de '{k}' - confira possivel duplicata. "
+                    "Personalidades distintas exigem revisao documentada em research/personality; "
+                    "vetores identicos continuam bloqueados."
+                )
         elif s >= DUP_WARN:
             flag = "  <<< aviso"
             warnings.append(f"[CONTEUDO] {s:.1f}% proximo de '{k}'")

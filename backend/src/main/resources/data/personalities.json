@@ -4630,5 +4630,41 @@
     "imageSourceName": "Wikimedia Commons / Catedral de Sevilla",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_San_Fernando,_rey_de_Castilla_y_de_Le%C3%B3n_(Catedral_de_Sevilla).jpg",
     "imageNote": "Pintura anônima de cerca de 1639, posterior à vida de Fernando III; não é um retrato contemporâneo."
+  },
+  {
+    "id": "john-howard",
+    "name": "John Howard",
+    "role": "Ex-primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1939–",
+    "description": "Primeiro-ministro australiano de 1996 a 2007, Howard combinou privatizações e reforma trabalhista com conservadorismo social, controle de armas, fronteiras rigorosas e apoio militar aos Estados Unidos.",
+    "imagePath": "/personalities/portraits/john-howard.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/John_Howard",
+    "imageNote": "Retrato de John Howard via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "robert-menzies",
+    "name": "Robert Menzies",
+    "role": "Ex-primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1894–1978",
+    "description": "Primeiro-ministro australiano e fundador do Partido Liberal, Menzies defendeu iniciativa privada, monarquia e anticomunismo, mantendo proteção industrial e ampliando universidades; apoiou a política da Austrália Branca e a Guerra do Vietnã.",
+    "imagePath": "/personalities/portraits/robert-menzies.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Robert_Menzies",
+    "imageNote": "Retrato de Robert Menzies via Wikipédia/Wikimedia Commons."
+  },
+  {
+    "id": "gough-whitlam",
+    "name": "Gough Whitlam",
+    "role": "Ex-primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1916–2014",
+    "description": "Primeiro-ministro australiano de 1972 a 1975, Whitlam criou o Medibank, aboliu taxas universitárias e o recrutamento militar, promoveu direitos indígenas e igualdade racial e reduziu tarifas, ampliando a atuação federal.",
+    "imagePath": "/personalities/portraits/gough-whitlam.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://en.wikipedia.org/wiki/Gough_Whitlam",
+    "imageNote": "Retrato de Gough Whitlam via Wikipédia/Wikimedia Commons."
   }
 ]

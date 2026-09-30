@@ -6560,5 +6560,56 @@
       "moral": 11.3,
       "tecnologia": 33.3
     }
+  },
+  {
+    "personalityId": "john-howard",
+    "vector": {
+      "estrutura": 39.0,
+      "representacao": 77.5,
+      "poder": 66.3,
+      "imigracao": 54.0,
+      "diplomacia": 63.6,
+      "intervencao": 22.1,
+      "economia": 31.8,
+      "controle": 27.1,
+      "comercio": 28.2,
+      "religiao": 36.5,
+      "moral": 27.7,
+      "tecnologia": 57.0
+    }
+  },
+  {
+    "personalityId": "robert-menzies",
+    "vector": {
+      "estrutura": 53.3,
+      "representacao": 71.6,
+      "poder": 72.2,
+      "imigracao": 86.2,
+      "diplomacia": 71.9,
+      "intervencao": 19.8,
+      "economia": 47.2,
+      "controle": 65.2,
+      "comercio": 52.0,
+      "religiao": 24.6,
+      "moral": 17.0,
+      "tecnologia": 57.0
+    }
+  },
+  {
+    "personalityId": "gough-whitlam",
+    "vector": {
+      "estrutura": 33.1,
+      "representacao": 87.0,
+      "poder": 34.1,
+      "imigracao": 23.6,
+      "diplomacia": 30.0,
+      "intervencao": 48.2,
+      "economia": 77.4,
+      "controle": 79.3,
+      "comercio": 36.0,
+      "religiao": 69.0,
+      "moral": 77.6,
+      "tecnologia": 46.4
+    }
   }
 ]

@@ -1,0 +1,175 @@
+{
+  "id": "robert-menzies",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Prime ministerial record, principally 1949–1966, with constitutional philosophy from contemporary speeches",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "naa",
+      "title": "National Archives: Menzies during office",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/robert-menzies/during-office",
+      "factDate": "1939–1941 and 1949–1966; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nma",
+      "title": "National Museum: Robert Menzies",
+      "url": "https://www.nma.gov.au/explore/features/prime-ministers/robert-menzies",
+      "factDate": "career retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "democracy",
+      "title": "Museum of Australian Democracy: Robert Gordon Menzies",
+      "url": "https://explore.moadoph.gov.au/people/robert-gordon-menzies.html",
+      "factDate": "1950–1951 and 1964–1965",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "migration",
+      "title": "National Museum: Ending White Australia",
+      "url": "https://www.nma.gov.au/defining-moments/resources/end-of-white-australia-policy",
+      "factDate": "migration reforms through 1973",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "economy",
+      "title": "Menzies Research Centre: Wealth of the Nation",
+      "url": "https://www.menziesrc.org/news-feed/wealth-of-the-nation",
+      "factDate": "2020 retrospective; party-affiliated interpretation",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "manifesto",
+      "title": "Museum of Australian Democracy: Menzies 1958 election speech",
+      "url": "https://electionspeeches.moadoph.gov.au/speeches/1958-robert-menzies",
+      "factDate": "1958",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "schools",
+      "title": "National Museum: Aid for non-government schools",
+      "url": "https://www.nma.gov.au/defining-moments/resources/aid-for-non-government-schools",
+      "factDate": "1963–1964",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "Robert Menzies Institute: Goulburn Catholic School Strike",
+      "url": "https://www.robertmenziesinstitute.org.au/on-this-day/goulburn-catholic-school-strike-3/",
+      "factDate": "1943 speech and 1963 policy; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "federalism",
+      "title": "Menzies address at Administrative Staff College",
+      "url": "https://pmtranscripts.pmc.gov.au/sites/default/files/original/00000903_0.pdf",
+      "factDate": "1964-03-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "family",
+      "title": "Robert Menzies Institute: Marriage and the Family in Australia",
+      "url": "https://www.robertmenziesinstitute.org.au/book-of-the-week/week-128-marriage-and-the-family-in-australia/",
+      "factDate": "historical book and Menzies family philosophy",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nuclear",
+      "title": "ANSTO: 65 years since the opening of HIFAR",
+      "url": "https://www.ansto.gov.au/news/today-we-celebrate-65-years-since-official-opening-of-australia%E2%80%99s-first-nuclear-research",
+      "factDate": "1958-04-18; 2023 retrospective",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "federalism",
+        "manifesto"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "democracy",
+        "nma"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "democracy",
+        "naa"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "migration",
+        "naa"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "nma",
+        "democracy"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "naa",
+        "nma"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "manifesto",
+        "naa"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "economy",
+        "manifesto"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "economy",
+        "naa"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "schools"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "family",
+        "manifesto"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "nuclear",
+        "schools"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Digital surveillance, cryptocurrency, gene editing and modern gender terminology postdate this record; the audit infers from documented principles rather than claiming direct positions.",
+    "Menzies changed policy over a long career; the postwar premiership is the principal comparison period.",
+    "The Menzies Research Centre and Institute offer sympathetic interpretations; facts were cross-checked against public museums, archives and original speeches."
+  ],
+  "distinctions": [
+    "Unlike later deregulating Liberal governments, retained tariff protection and wage arbitration.",
+    "Unlike a dictatorship, accepted courts and electoral procedures even while seeking to outlaw communism."
+  ],
+  "portrait": {
+    "article": "https://en.wikipedia.org/wiki/Robert_Menzies",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Portrait_Menzies_1950s.jpg/330px-Portrait_Menzies_1950s.jpg",
+    "descriptionPage": "https://commons.wikimedia.org/wiki/File:Portrait_Menzies_1950s.jpg",
+    "visuallyChecked": true
+  }
+}

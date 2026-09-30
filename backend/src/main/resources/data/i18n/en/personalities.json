@@ -2408,5 +2408,23 @@
     "role": "King of Castile and León",
     "lifespan": "c. 1201–1252",
     "description": "King of Castile from 1217 and León from 1230, he consolidated the union of the crowns and conquered Córdoba and Seville. He ruled as a medieval Catholic monarch and promoted legal and administrative organization in conquered territories."
+  },
+  {
+    "id": "john-howard",
+    "name": "John Howard",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister from 1996 to 2007, Howard combined privatisation and labour reform with social conservatism, gun controls, strict border policies and military support for the United States."
+  },
+  {
+    "id": "robert-menzies",
+    "name": "Robert Menzies",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister and Liberal Party founder, Menzies championed private enterprise, monarchy and anti-communism while retaining industrial protection and expanding universities; he backed White Australia and the Vietnam War."
+  },
+  {
+    "id": "gough-whitlam",
+    "name": "Gough Whitlam",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister from 1972 to 1975, Whitlam introduced Medibank, abolished university fees and conscription, advanced Indigenous rights and racial equality, and cut tariffs while expanding federal responsibilities."
   }
 ]
