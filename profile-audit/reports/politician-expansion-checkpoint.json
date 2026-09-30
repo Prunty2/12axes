@@ -22,8 +22,8 @@
     "keir-starmer",
     "nigel-farage"
   ],
-  "candidateCount": 68,
-  "pendingCount": 50,
+  "candidateCount": 69,
+  "pendingCount": 51,
   "skippedCount": 0,
   "verification": {
     "individualAuditValidators": "Passed for all eighteen against the current catalogue. Farage similarity to Taylor (96.0%), Abbott (95.4%) and Merz (95.4%) reviewed against constitutional, immigration, trade, religious and technology evidence. No answers changed to manufacture distance. Existing documented high-similarity reviews remain valid.",
@@ -35,11 +35,22 @@
     "visual": "All eighteen downloaded and compressed portraits inspected. Generated English profile pages inspected for Howard, Albanese, Hanson, Taylor, Hawke, Keating, Rudd, Gillard, Abbott, Turnbull, Morrison, Thatcher, Attlee, Johnson, Starmer and Farage; personality comparison tabs inspected for those except Hanson and Taylor. Quiz submission verified through backend integration tests, not browser submission.",
     "preservation": "Existing personality metadata and vectors match base a1dc5b4 exactly."
   },
-  "remaining": "Research and add or document evidence-based skips for the remaining 50 candidates in the reduced 68-person scope; run final checks and submit and attach a draft PR. The 179 candidates excluded by the scope reduction require no further work. All thirteen requested Australians and the five selected UK additions are complete. This checkpoint does not prove completion.",
+  "remaining": "Research and add or document evidence-based skips for the remaining 51 candidates in the 69-person scope, including the explicitly requested Rupert Lowe; run final checks and submit and attach a draft PR. The 179 candidates excluded by the scope reduction require no further work. All thirteen requested Australians and the original five selected UK additions are complete; Lowe is pending. This checkpoint does not prove completion.",
   "scopeRevision": {
     "date": "2026-09-30",
     "previousCandidateCount": 247,
     "removedFromScopeCount": 179,
     "reason": "User requested only the most notable people per country. All completed additions and thirteen required Australians retained."
-  }
+  },
+  "scopeAmendments": [
+    {
+      "date": "2026-09-30",
+      "userRequest": "Send me your full list. Also add Rupert Lowe.",
+      "addedIds": [
+        "rupert-lowe"
+      ],
+      "previousCandidateCount": 68,
+      "candidateCount": 69
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T12:56:32Z",
+  "lastUpdated": "2026-09-30T12:59:01Z",
   "personality": {
     "totalProfiles": 404,
     "pending": [],
@@ -413,7 +413,7 @@
     "expansion": {
       "startedOn": "2026-09-30",
       "baseCommit": "a1dc5b4",
-      "scope": "Most notable current and historical politicians across the requested countries, reduced at the user's request on 2026-09-30. Retain all thirteen explicitly requested Australians and all completed additions; select four or five additions each for the UK, US, France, Germany and Canada, and one or two for each other country, accounting for notable figures already in the catalogue. Existing profiles are retained, not duplicated. Candidates without adequate evidence will be recorded as skipped.",
+      "scope": "Most notable current and historical politicians across the requested countries, reduced at the user's request on 2026-09-30. Retain all thirteen explicitly requested Australians and all completed additions; select four or five additions each for the UK, US, France, Germany and Canada, and one or two for each other country, accounting for notable figures already in the catalogue. Existing profiles are retained, not duplicated. Candidates without adequate evidence will be recorded as skipped. Rupert Lowe is an explicit user-requested addition to the UK shortlist, bringing the total to 69 candidates.",
       "requiredAustralianIds": [
         "anthony-albanese",
         "pauline-hanson",
@@ -538,6 +538,12 @@
           "name": "Nigel Farage",
           "country": "United Kingdom",
           "status": "added"
+        },
+        {
+          "id": "rupert-lowe",
+          "name": "Rupert Lowe",
+          "country": "United Kingdom",
+          "status": "pending"
         },
         {
           "id": "kamala-harris",
@@ -1927,7 +1933,18 @@
           }
         ],
         "exclusionNote": "These candidates were removed to narrow the workload at the user's request. Exclusion is not an evidence-quality finding and does not count as a researched skip."
-      }
+      },
+      "scopeAmendments": [
+        {
+          "date": "2026-09-30",
+          "userRequest": "Send me your full list. Also add Rupert Lowe.",
+          "addedIds": [
+            "rupert-lowe"
+          ],
+          "previousCandidateCount": 68,
+          "candidateCount": 69
+        }
+      ]
     }
   },
   "ideology": {
