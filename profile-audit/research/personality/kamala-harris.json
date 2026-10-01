@@ -1,0 +1,392 @@
+{
+  "id": "kamala-harris",
+  "country": "United States",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "2021–2025 vice presidency and 2024 presidential platform; latest public remarks checked through September 2026.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "National Archives: Harris vice presidential records biography",
+      "url": "https://www.archives.gov/presidential-records/vice-presidential-records/selected-vice-presidential-records/harris-records",
+      "factDate": "1964 birth; 2021–2025 vice presidency",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "current",
+      "title": "Harris remarks campaigning for Abdul El-Sayed",
+      "url": "https://www.realclearpolitics.com/video/2026/09/22/kamala_harris_campaigns_for_abdul_el-sayed_the_senate_should_be_a_stopgap_on_the_abuses_of_this_administration.html",
+      "factDate": "2026-09-22",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "promises",
+      "title": "PolitiFact: Harris 2024 campaign promises",
+      "url": "https://politifact.com/article/2024/sep/30/kamala-harris-2024-campaign-promises-here-are-her/",
+      "factDate": "2024-09-30, updated 2024-10-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "economy",
+      "title": "Harris-Walz economic opportunity policy book",
+      "url": "https://www.kamalaharris.com/wp-content/uploads/2024/09/Policy-Book-Economic-Opportunity.pdf",
+      "factDate": "2024-09; campaign proposals, not independently verified outcome claims",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "changes",
+      "title": "BBC: policy positions and changes from the 2019 campaign",
+      "url": "https://feeds.bbci.co.uk/news/articles/cx924r4d5yno",
+      "factDate": "2024 campaign",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tribal",
+      "title": "Harris remarks at the White House Tribal Nations Summit",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-white-house-tribal-nations-summit-0",
+      "factDate": "2023-12-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "concession",
+      "title": "Harris concession speech transcript",
+      "url": "https://time.com/7173617/kamala-harris-concession-speech-full-transcript/",
+      "factDate": "2024-11-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "surveillance",
+      "title": "ACLU: Harris surveillance record",
+      "url": "https://www.aclu.org/harris-on-surveillance",
+      "factDate": "2024 analysis of 2018 Senate vote and subsequent administration; advocacy distinguished from record",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "justice",
+      "title": "ACLU: Harris criminal legal record",
+      "url": "https://www.aclu.org/harris-on-the-criminal-legal-system",
+      "factDate": "2024 analysis, including 2020 policing legislation; advocacy distinguished from record",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "AP: Harris gun ownership and restrictions",
+      "url": "https://apnews.com/article/87cd75cfa0d82b0e2b026c69278ff912",
+      "factDate": "2024-09-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sexwork",
+      "title": "CNN town hall transcript: Harris distinguishes sex workers from buyers and traffickers",
+      "url": "https://transcripts.cnn.com/show/se/date/2019-04-22/segment/04",
+      "factDate": "2019-04-22; historical context, not assumed to be a new 2024 pledge",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sexwork-update",
+      "title": "Axios: campaign declines to clarify sex-work position",
+      "url": "https://www.axios.com/2024/09/24/harris-decriminalize-prostitution-election",
+      "factDate": "2024-09-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "AP: Harris Baptist faith and interfaith family",
+      "url": "https://kesq.com/news/2024/07/25/kamala-harris-a-baptist-with-a-jewish-husband-and-a-faith-that-traces-back-to-mlk-and-gandhi/",
+      "factDate": "2024-07-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ukraine",
+      "title": "Harris remarks before meeting President Zelenskyy in Munich",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-prior-meeting-with-president-volodymyr-zelenskyy-ukraine-0",
+      "factDate": "2024-02-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nato",
+      "title": "AP: Harris rejects isolationism and backs NATO at Munich",
+      "url": "https://apnews.com/article/89e4138d0addbaac8a3869b7165ab50c",
+      "factDate": "2024-02-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gaza",
+      "title": "Harris remarks on Israel, Hamas and Palestinian self-determination",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-conflict-between-israel-and-hamas-dubai-united-arab",
+      "factDate": "2023-12-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "fed",
+      "title": "TIME: Harris statement defending Federal Reserve independence",
+      "url": "https://time.com/7010213/donald-trump-federal-reserve-politics/",
+      "factDate": "Harris statement 2024-08-10",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ai",
+      "title": "Harris London speech on artificial intelligence",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-future-artificial-intelligence-london-united-kingdom",
+      "factDate": "2023-11-01",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "space",
+      "title": "Office of Space Commerce: Harris chairs National Space Council",
+      "url": "https://space.commerce.gov/vice-president-harris-convenes-third-national-space-council-meeting/",
+      "factDate": "2023-12-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ivf",
+      "title": "Harris statement on nationwide IVF protections",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-vice-president-senate-republicans-vote-once-again-block-nationwide",
+      "factDate": "2024-09-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "clinton-cfr",
+      "title": "Clinton speech and questions at the Council on Foreign Relations",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-and-question-and-answer-session-the-council-foreign-relations-new-york-city",
+      "factDate": "2015-11-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "clinton-faith",
+      "title": "TIME: Clinton explains her Christian faith and its role in politics",
+      "url": "https://time.com/4193231/hillary-clinton-faith-christianity-iowa/",
+      "factDate": "2016-01-25 remarks; published January 26",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "carney-investment",
+      "title": "Carney addresses the Canada Investment Summit",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2026/09/15/prime-minister-carney-delivers-opening-remarks-canada-investment-summit",
+      "factDate": "2026-09-15; includes prospective concessions and investment targets",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "carney-projects",
+      "title": "Carney statement on Commons passage of Bill C-5",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2025/06/20/prime-minister-carney-delivers-remarks-following-passage-one-canadian",
+      "factDate": "2025-06-20",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "carney-projects-criticism",
+      "title": "BC Assembly of First Nations criticism of C-5",
+      "url": "https://www.bcafn.ca/news/federal-government-rushes-bill-c-5-through-parliament-violating-first-nations-rights-its-own",
+      "factDate": "2025-06-18; rights holders dispute consultation and executive powers",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "carney-nato",
+      "title": "Carney NATO defence partnerships",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/07/08/prime-minister-carney-secures-new-defence-partnerships-2026-nato",
+      "factDate": "2026-07-08; future spending targets are commitments, not realised expenditure",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "carney-un",
+      "title": "Carney UN General Assembly priorities",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/23/prime-minister-carney-advances-collective-security-climate-and-peace-priorities",
+      "factDate": "2026-09-23",
+      "accessedOn": "2026-10-01"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "tribal",
+        "promises",
+        "economy"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "concession",
+        "promises",
+        "current"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "surveillance",
+        "justice",
+        "guns",
+        "promises",
+        "sexwork",
+        "ai"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "changes",
+        "promises",
+        "tribal",
+        "sexwork"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "ukraine",
+        "nato",
+        "gaza",
+        "ai"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "ukraine",
+        "nato",
+        "gaza"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "economy",
+        "promises",
+        "changes",
+        "current"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "economy",
+        "promises",
+        "fed"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "economy",
+        "changes",
+        "promises"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "tribal",
+        "promises"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "promises",
+        "ivf",
+        "current",
+        "sexwork",
+        "sexwork-update",
+        "faith"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "ai",
+        "space",
+        "economy",
+        "changes",
+        "ivf",
+        "tribal"
+      ]
+    }
+  },
+  "uncertainties": [
+    "This profile prioritises the 2021–2025 vice presidency and 2024 platform, checked against September 2026 public remarks. Earlier Senate and prosecutor records provide dated context. Answers are editorial simulations, not a questionnaire completed by Harris; campaign projections and partisan claims are not adopted as established outcomes.",
+    "Federal civil-rights floors coexist with state administration and tribal sovereignty. Uniform curriculum and labour-law neutrality reflect national guarantees versus local implementation and stronger state protections. Secession, tax allocation and regional constitutions are constitutional analogies, not a Harris reform blueprint.",
+    "Support for election integrity and the 2024 concession anchors democratic answers. Recall and referendum answers are cautious inferences from representative accountability and constitutional rights; opposition to a particular recall is not opposition to the mechanism.",
+    "Surveillance means targeted lawful investigation, not blanket warrantless monitoring. Neutral phone-unlocking and disinformation answers reflect investigative and harm-prevention powers constrained by privacy and speech. Facial-recognition neutrality reflects potential public-safety applications versus documented bias concerns. The ACLU recommendations on its pages are not attributed to Harris as adopted policies.",
+    "The death-penalty answer reflects personal opposition tempered by her previous defence of California law as attorney general. Voluntary assisted dying and general emergency-health powers are autonomy/public-health inferences, not a newly verified personal policy pledge. Cannabis legalisation is not legalisation of all drugs; the combined consensual-conduct question remains neutral because it bundles materially different activities.",
+    "Cultural pluralism is separated from her later support for border enforcement. Neutrality on mandatory language plus cultural adoption reflects support for civic integration while rejecting compulsory cultural erasure. No open-borders stance is inferred from her immigrant family background.",
+    "Foreign-policy answers map Brazil-specific hypotheticals to US security. Nuclear retention concerns the existing US deterrent rather than proliferation by every country. International-court neutrality reflects rule-based accountability versus sovereignty and alliance constraints, not a claim that Harris endorsed every ICC proceeding.",
+    "Ownership neutrality on strategic enterprises, undervalued privatisations, healthcare and competing public-service contractors reflects a mixed public-private economy. Her 2024 ACA platform supersedes treating the 2019 Medicare for All proposal as current. Income support does not imply an unconditional universal income pledge; agrarian reform is mapped to American land ownership rather than imported Brazilian policy.",
+    "The emergency price-gouging proposal is not a blanket price freeze. Neutral tax and rent-freeze answers reflect targeted small-business relief alongside higher top-end taxes, and tenant protection alongside housing supply. Federal Reserve independence is explicit; cryptocurrency and exchange-rate answers infer regulated financial markets, not monetary abolition.",
+    "Trade answers distinguish strategic domestic production from general import barriers. The Chinese-car tariff and strategic-ownership questions are selective industrial-policy analogies; no standalone personal tariff schedule or categorical foreign-ownership ban is claimed.",
+    "Baptist faith is not inferred to mean religious establishment, or progressivism to mean atheism. Neutral public-symbol, church-tax and religion-in-policy answers reflect pluralism, protected worship and faith-informed social action within secular constitutional government.",
+    "The 2019 sex-work interview opposed criminalising workers but focused enforcement on buyers and traffickers; the campaign did not clarify its stance to Axios in September 2024. Moral neutrality on recognising prostitution as ordinary work preserves this tension. Polyamory, neutral language, nudity, dietary ethics and parental authority are cautious equality/autonomy analogies, not invented manifesto promises.",
+    "Neutral technology answers balance urban and rural opportunity, conservation and clean innovation, environmental and space investment, and therapeutic benefit versus enhancement risks. Genetic enhancement, laboratory meat and brain implants are explicit modern inferences. Support for IVF and medical research is not endorsement of unrestricted embryo editing."
+  ],
+  "distinctions": [
+    "Biden and Obama are likely neighbours through regulated markets, civil rights and US alliances; Harris is assessed independently, including her prosecutorial background, surveillance safeguards and current cannabis policy.",
+    "Trudeau shares cultural liberalism but operates in a different federal and security context; Harris retains the US nuclear deterrent and extensive global military commitments.",
+    "Sanders differs on ownership, healthcare and the extent of economic restructuring; Harris’s 2024 private-insurance and private-enterprise platform must not be replaced by her 2019 primary platform."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait_(close_cropped).jpg",
+    "author": "Lawrence Jackson / White House",
+    "license": "Public domain, US federal government work",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-POTUS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kamala_Harris_Vice_Presidential_Portrait_%28close_cropped%29.jpg",
+    "date": "2021-03; Commons existing close crop",
+    "note": "Official vice presidential portrait, existing Commons crop resized to 480px wide and compressed; no facial alteration.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "keir-starmer",
+      "answersSha256": "c64d27380587c219e18d795a675a0e7dbfb8806d00a2adc9c796abdf8dd10009",
+      "neighborVectorSha256": "f207d3729824676406d8c2d320c609005cf82316a65087d18dbe166ec33208b9",
+      "reason": "The shared democratic, regulated-market and alliance outlook produces 97.0% compatibility, not identical positions. Harris differs on civil liberties (47.2 versus 61.5), cultural assimilation (28.3 versus 43.8), federal structure (55.7 versus 47.4) and moral progressivism (82.4 versus 72.9). Her cannabis and surveillance record, tribal-sovereignty commitments and reproductive-rights agenda support an independently assessed profile. No answers were changed to manufacture distance.",
+      "differingAxes": [
+        "poder",
+        "imigracao",
+        "estrutura",
+        "moral"
+      ],
+      "sourceIds": [
+        "surveillance",
+        "promises",
+        "tribal",
+        "ivf"
+      ]
+    },
+    {
+      "comparedWith": "hillary-clinton",
+      "answersSha256": "c64d27380587c219e18d795a675a0e7dbfb8806d00a2adc9c796abdf8dd10009",
+      "neighborVectorSha256": "a1db3680cb913c943a55630c574cbed85167576c40135efb20ee94c9e6ad1ee7",
+      "reason": "98.8% overlap is a real consequence of shared Democratic commitments, with independent answers and different periods. Harris is less assertive externally (21.0 versus 12.6), more secular on the quiz (53.6 versus 41.7), and more socially progressive (82.4 versus 76.4). Harris’s 2024 reproductive/cannabis platform and Baptist/interfaith context differ from Clinton’s 2015 Syrian no-fly-zone proposal and explicit Methodist social-service framing. Neither biography nor vector is duplicated; archived answers are unchanged.",
+      "differingAxes": [
+        "intervencao",
+        "religiao",
+        "moral"
+      ],
+      "sourceIds": [
+        "promises",
+        "faith",
+        "gaza",
+        "clinton-cfr",
+        "clinton-faith"
+      ]
+    },
+    {
+      "comparedWith": "mark-carney",
+      "answersSha256": "c64d27380587c219e18d795a675a0e7dbfb8806d00a2adc9c796abdf8dd10009",
+      "neighborVectorSha256": "5045c0d1264cac82a7f7e831770bd4ddef404898fae6bf507647d75fc685531b",
+      "reason": "Both are democratic regulated-market liberals with civil-rights commitments. Carney’s investment incentives and market-oriented project approvals yield less economic direction than Harris’s economic programme. His C-5 executive powers and disputed consultation also qualify the representation answers. His Canadian collective-security role differs from Harris’s commitment to US global military leadership; the resulting defence and intervention axes differ. Preserve independently researched proximity rather than adjusting answers to manufacture separation.",
+      "differingAxes": [
+        "controle",
+        "representacao",
+        "diplomacia",
+        "intervencao"
+      ],
+      "sourceIds": [
+        "economy",
+        "tribal",
+        "concession",
+        "nato",
+        "ukraine",
+        "carney-investment",
+        "carney-projects",
+        "carney-projects-criticism",
+        "carney-nato",
+        "carney-un"
+      ]
+    }
+  ],
+  "validationReview": {
+    "review": "Biden at 95.0% is an expected neighbour given the shared administration; differences include a more strongly liberal cultural simulation and the different sampled career periods. Gillard at 94.5% shares welfare and democratic institutions but differs particularly on trade and personal faith. These comparisons do not establish identity or justify copying their answers.",
+    "neutralReview": "24 of 240 answers are neutral (10%). Technology has five (25%), each representing documented competing principles: urban/rural opportunity, conservation/innovation, environmental/space investment and therapeutic/enhancement limits. Other neutral answers preserve mixed-economy, procedural-liberty and religious-pluralism tensions described in uncertainties."
+  }
+}

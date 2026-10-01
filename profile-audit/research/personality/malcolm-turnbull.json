@@ -1,0 +1,242 @@
+{
+  "id": "malcolm-turnbull",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Political career and published positions through September 2026; prime minister 2015–2018.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "naa",
+      "title": "National Archives: Malcolm Turnbull",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/malcolm-turnbull",
+      "factDate": "1954–2018",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "federalism",
+      "title": "State income-tax powers and federal accountability",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-40265",
+      "factDate": "2016-03-31",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "federalism-outcome",
+      "title": "COAG: no consensus on state income-tax proposal",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-40268",
+      "factDate": "2016-04-01",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith-democracy",
+      "title": "The Politics of Love, McCosker Oration",
+      "url": "https://www.malcolmturnbull.com.au/media/the-politics-of-love-mccosker-oration-australian-parliament-house",
+      "factDate": "2026-08-12",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "aukus",
+      "title": "Submission to the AUKUS public inquiry",
+      "url": "https://www.malcolmturnbull.com.au/media/submission-to-the-aukus-public-inquiry",
+      "factDate": "2026-08-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "energy-trade",
+      "title": "BNEF Summit New York 2026",
+      "url": "https://www.malcolmturnbull.com.au/media/bnef-summit-new-york-2026-22-april-2026",
+      "factDate": "2026-04-22",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "snowy",
+      "title": "Historic Snowy deal",
+      "url": "https://www.malcolmturnbull.com.au/media/historic-snowy-deal",
+      "factDate": "2018-03-02",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tax",
+      "title": "Press conference with Finance Minister Mathias Cormann",
+      "url": "https://www.malcolmturnbull.com.au/media/press-conference-with-the-minister-for-finance-senator-the-hon-mathias-corm",
+      "factDate": "2018-08-22; published 2018-08-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "security",
+      "title": "National Security Statement",
+      "url": "https://www.malcolmturnbull.com.au/media/national-security-statement-tuesday-13-june-2017",
+      "factDate": "2017-06-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Radio interview: gun control and terrorism laws",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-41221",
+      "factDate": "2017-10-04",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "death-penalty",
+      "title": "Lateline: Turnbull and Garrett on Nguyen appeals",
+      "url": "https://www.abc.net.au/lateline/archive/articles/2005/11/25/s1517206.htm",
+      "factDate": "2005-11-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "euthanasia",
+      "title": "AAP: Euthanasia laws pass Victorian lower house",
+      "url": "https://www.perthnow.com.au/wa/euthanasia-laws-pass-vic-lower-house-ng-65e4aabe154f869dd18dcf84102228ae",
+      "factDate": "2017-10-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "marriage",
+      "title": "Introduction of the Plebiscite (Same-Sex Marriage) Bill",
+      "url": "https://www.malcolmturnbull.com.au/media/speech-introduction-of-the-plebiscite-same-sex-marriage-bill-2016",
+      "factDate": "2016-09-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "abortion",
+      "title": "Turnbull talks abortion at Christian conference",
+      "url": "https://www.abc.net.au/news/2008-11-08/turnbull-talks-abortion-at-christian-conference/198912",
+      "factDate": "2008-11-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "biotech",
+      "title": "House debate: embryo research amendment; Turnbull speech at 9:03 pm",
+      "url": "https://www.openaustralia.org.au/debate/?id=2006-12-05.54.2",
+      "factDate": "2006-12-05",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "voice",
+      "title": "I will be voting yes to establish an Indigenous voice to parliament",
+      "url": "https://www.malcolmturnbull.com.au/media/i-will-be-voting-yes-to-establish-an-indigenous-voice-to-parliament",
+      "factDate": "2022-08-16",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "federalism",
+        "federalism-outcome"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "naa",
+        "faith-democracy",
+        "marriage",
+        "aukus",
+        "voice"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "security",
+        "guns",
+        "death-penalty",
+        "euthanasia",
+        "faith-democracy"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "faith-democracy",
+        "security"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "aukus",
+        "energy-trade",
+        "security"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "aukus",
+        "energy-trade",
+        "security"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "snowy",
+        "tax",
+        "faith-democracy",
+        "death-penalty"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "tax",
+        "snowy",
+        "energy-trade"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "energy-trade",
+        "aukus",
+        "security"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith-democracy",
+        "marriage",
+        "abortion"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "marriage",
+        "abortion",
+        "faith-democracy",
+        "voice"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "energy-trade",
+        "biotech",
+        "faith-democracy",
+        "aukus"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Answers are editorial inferences from evidence, not a questionnaire completed by Turnbull. Brazilian examples are interpreted analogously for Australia.",
+    "The state income-tax proposal was not implemented: COAG did not reach consensus. Support for decentralisation is bounded by common standards and a permanent federation.",
+    "His 2008 opposition to same-sex marriage was superseded by his explicit 2016 support. The earlier article supplies abortion and faith evidence, not his later marriage position.",
+    "His 2017 reservations about the Victorian assisted-dying model support qualified disagreement, not a claim that he opposed every possible future model or could override Victorian legislation.",
+    "The 2005 Lateline exchange establishes opposition to executions and support for clemency; it is older evidence, not a new 2026 pronouncement.",
+    "The 2026 AUKUS submission criticises procurement dependence while supporting the US alliance and an alternative French nuclear-powered submarine acquisition. Nuclear propulsion is distinct from nuclear weapons. Claimed costs and delivery forecasts are not independently verified outcomes.",
+    "The Snowy source records an agreement to acquire the remaining state shares, not completed construction of Snowy 2.0. Public strategic ownership does not imply general nationalisation.",
+    "The 2018 tax press conference differentiates enacted small-business reductions from blocked large-company reductions. Only Turnbull’s own remarks are used for his personal position.",
+    "The security statement supports lawful investigative powers and controlled borders, not limitless surveillance, indefinite imprisonment without review or ethnic exclusions.",
+    "Medical research support in the 2006 speech is specific to regulated embryo research with reproductive cloning still banned. Answers on neural enhancement, cultivated meat, automation and space are cautious inferences, not claimed endorsements.",
+    "Neutral answers flag uncertain or mixed preferences, including universal recall, blanket vaccine compulsion, account removal for misinformation, cryptocurrencies, polyamory and urban versus rural living. No scores were selected in advance.",
+    "The 2022 Voice endorsement supersedes his government’s 2017 rejection. His acceptance of a targeted representative remedy for dispossession supports qualified affirmative-action answers by analogy, not a claim he endorsed Brazilian university or employment quotas. His preference for trying institutions before constitutional entrenchment and respect for family continuity support cautious, gradual change; this does not imply opposition to marriage equality."
+  ],
+  "distinctions": [
+    "Unlike Abbott and Howard, Turnbull expressly supported marriage equality, republicanism and regulated embryo research; his Catholic faith should not be replaced with an assumed atheist position.",
+    "Unlike an unrestricted libertarian profile, he supports gun restrictions, investigative security powers, a public safety net and strategic public ownership.",
+    "His recent AUKUS criticism should not be copied from isolationism: he supports alliances and defence investment while seeking independent Australian decisions.",
+    "Draft review: six social answers remain neutral for insufficient or mixed evidence. The first draft exceeded the neutral-answer limit; additional primary evidence about Indigenous representation resolved two answers, while his explicit institutional caution informs gradual cultural change. No target vector or neighbour distance was used.",
+    "Similarity warnings reviewed after scoring: Gillard 95.8%, Clinton 95.3%, Rasmussen 94.4%. Against Gillard, Turnbull is more decentralised, less oriented to public ownership and planning, and more religious. Against Clinton, stronger security and defence answers coexist with more socially progressive answers. Against Rasmussen, multiculturalism and faith produce material differences. All vectors remain distinct; no review threshold was bypassed."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Malcolm_Turnbull_Portrait.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Malcolm_Turnbull_Portrait.jpg",
+    "author": "Commonwealth of Australia; photo credit Tim Bauer in file metadata",
+    "license": "CC BY 3.0 AU",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/au/",
+    "note": "Official portrait published in 2015; resized and compressed. Embedded capture metadata differs from the publication date, so no exact capture date is asserted.",
+    "visuallyChecked": true
+  }
+}

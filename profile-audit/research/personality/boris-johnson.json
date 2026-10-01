@@ -1,0 +1,370 @@
+{
+  "id": "boris-johnson",
+  "country": "United Kingdom",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Primarily 2019–2022 premiership; earlier religious context and explicitly dated 2023 accountability finding and 2026 Ukraine update.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "devolution",
+      "title": "Johnson: Levelling Up speech",
+      "url": "https://www.gov.uk/government/speeches/the-prime-ministers-levelling-up-speech-15-july-2021",
+      "factDate": "2021-07-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "union",
+      "title": "Johnson letter refusing a second Scottish referendum",
+      "url": "https://www.gov.uk/government/publications/letter-from-pm-boris-johnson-to-scottish-first-minister-nicola-sturgeon-14-january-2020",
+      "factDate": "2020-01-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "entry",
+      "title": "Johnson first speech as prime minister",
+      "url": "https://www.gov.uk/government/speeches/boris-johnsons-first-speech-as-prime-minister-24-july-2019",
+      "factDate": "2019-07-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "prorogation",
+      "title": "Supreme Court: Miller and Cherry, UKSC 41",
+      "url": "https://supremecourt.uk/uploads/uksc_2019_0192_judgment_6862a98b60.pdf",
+      "factDate": "2019-09-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "privileges",
+      "title": "Commons Privileges Committee: final report summary",
+      "url": "https://publications.parliament.uk/pa/cm5803/cmselect/cmprivi/564/summary.html",
+      "factDate": "2023-06-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "resignation",
+      "title": "Johnson statement announcing resignation as party leader",
+      "url": "https://www.gov.uk/government/speeches/prime-minister-boris-johnsons-statement-in-downing-street-7-july-2022",
+      "factDate": "2022-07-07",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "crime",
+      "title": "Government Beating Crime Plan announcement",
+      "url": "https://www.gov.uk/government/news/crime-plan-to-protect-victims-and-make-streets-safer",
+      "factDate": "2021-07-27",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "lockdown",
+      "title": "Johnson stay-at-home address",
+      "url": "https://www.gov.uk/government/speeches/pm-address-to-the-nation-on-coronavirus-23-march-2020",
+      "factDate": "2020-03-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "covidpass",
+      "title": "Johnson: Plan B statement",
+      "url": "https://www.gov.uk/government/speeches/pm-opening-statement-at-covid-19-press-conference-8-december-2021",
+      "factDate": "2021-12-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "points",
+      "title": "Home Office: points-based immigration policy statement",
+      "url": "https://www.gov.uk/government/publications/the-uks-points-based-immigration-system-policy-statement",
+      "factDate": "2020-02-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "rwanda",
+      "title": "Johnson speech announcing Rwanda migration policy",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-on-action-to-tackle-illegal-migration-14-april-2022",
+      "factDate": "2022-04-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nuclear",
+      "title": "Defence Nuclear Organisation: 2021 Integrated Review nuclear deterrent",
+      "url": "https://www.gov.uk/guidance/integrated-review-of-security-defence-development-and-foreign-policy-2021-nuclear-deterrent",
+      "factDate": "2021-03-17; explanatory page updated 2023-03-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "munich",
+      "title": "Johnson: Munich Security Conference speech",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-at-the-munich-security-conference-19-february-2022",
+      "factDate": "2022-02-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ukraine",
+      "title": "Johnson address to the Ukrainian Parliament",
+      "url": "https://www.gov.uk/government/speeches/prime-minister-boris-johnsons-address-to-the-ukrainian-parliament-3-may-2022",
+      "factDate": "2022-05-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ukraine2026",
+      "title": "AP: Johnson urges immediate noncombat deployment to Ukraine",
+      "url": "https://apnews.com/article/boris-johnson-ukraine-russia-war-uk-troops-5081f86f749c885205e0f723f2490703",
+      "factDate": "2026-02-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "dudley",
+      "title": "Johnson economy speech in Dudley",
+      "url": "https://www.gov.uk/government/speeches/pm-economy-speech-30-june-2020",
+      "factDate": "2020-06-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "health",
+      "title": "Johnson statement on health and social care levy",
+      "url": "https://www.gov.uk/government/speeches/pm-statement-at-press-conference-on-health-and-social-care-7-september-2021",
+      "factDate": "2021-09-07",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "housing",
+      "title": "Johnson housing and economic reform speech",
+      "url": "https://www.gov.uk/government/speeches/prime-ministers-housing-speech-9-june-2022",
+      "factDate": "2022-06-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "broadcasting",
+      "title": "House of Lords Library: public service broadcasting and proposed Channel 4 sale",
+      "url": "https://lordslibrary.parliament.uk/future-of-public-service-broadcasting/",
+      "factDate": "2022-10-31; covers 2022-04-28 white paper",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "trade",
+      "title": "Johnson Greenwich free-trade speech",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-in-greenwich-3-february-2020",
+      "factDate": "2020-02-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "steel",
+      "title": "Trade Secretary statement extending steel safeguards",
+      "url": "https://www.gov.uk/government/speeches/uk-steel-safeguard-international-trade-secretarys-statement-29-june-2022",
+      "factDate": "2022-06-29",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "High Profiles: Roy McCloughry and Simon Parke interviews with Boris Johnson",
+      "url": "https://highprofiles.info/interview/boris-johnson/",
+      "factDate": "2004-08-09 and September 2004; earlier personal context",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "christmas",
+      "title": "Johnson Christmas message",
+      "url": "https://www.gov.uk/government/speeches/prime-minister-boris-johnsons-christmas-message-24-december-2019",
+      "factDate": "2019-12-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "pride",
+      "title": "Downing Street Pride reception and Johnson remarks",
+      "url": "https://www.gov.uk/government/news/celebrating-pride-month-june-2021",
+      "factDate": "2021-06-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "abortion",
+      "title": "Reuters: Johnson supports abortion choice following US ruling",
+      "url": "https://www.euronews.com/2022/06/25/uk-usa-abortion-britain",
+      "factDate": "2022-06-24; published 2022-06-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sport",
+      "title": "PA / Independent: Johnson on transgender athletes and sex distinctions",
+      "url": "https://www.the-independent.com/news/uk/boris-johnson-trans-swimming-ban-b2110030.html",
+      "factDate": "2022-06-27",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "green",
+      "title": "Government ten-point green industrial plan",
+      "url": "https://www.gov.uk/government/publications/the-ten-point-plan-for-a-green-industrial-revolution",
+      "factDate": "2020-11-18",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "un-tech",
+      "title": "Johnson UN General Assembly speech on responsible technology",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-to-the-un-general-assembly-24-september-2019",
+      "factDate": "2019-09-24",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "devolution",
+        "union"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "entry",
+        "prorogation",
+        "privileges",
+        "resignation"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "crime",
+        "lockdown",
+        "covidpass",
+        "un-tech"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "points",
+        "rwanda"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "nuclear",
+        "munich",
+        "ukraine"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "trade",
+        "munich",
+        "ukraine",
+        "ukraine2026",
+        "steel"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "dudley",
+        "health",
+        "housing",
+        "broadcasting"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "dudley",
+        "health",
+        "housing",
+        "green"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "steel",
+        "housing"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "christmas",
+        "pride"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "pride",
+        "abortion",
+        "sport",
+        "faith",
+        "christmas"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "green",
+        "un-tech",
+        "entry",
+        "housing"
+      ]
+    }
+  },
+  "uncertainties": [
+    "The core period is the 2019–2022 premiership. Earlier faith remarks are dated background; the 2023 parliamentary finding assesses that premiership, and the February 2026 Ukraine proposal is an explicitly dated later update. This is not a claim that every later policy opinion is known.",
+    "All 240 answers are editorial inferences from a political record, not personal questionnaire responses. Lesser-documented questions such as municipal fiscal rules, indigenous self-government, cryptocurrency competition, assisted dying, pornography and reproductive enhancement should not be read as verified Johnson quotations.",
+    "Prorogation and misleading-Parliament findings qualify democratic-accountability judgments. They do not establish advocacy of one-party rule, abolition of elections or denial of opposition speech. UK parliamentary sovereignty also differs from the Brazilian constitutional-court premise.",
+    "The Rwanda source documents an announced policy and its author’s claims, not proof that removals occurred under Johnson or that the scheme was legally safe. Border restriction does not prove opposition to lawful immigration or cultural diversity.",
+    "COVID restrictions and venue passes are not equivalent to a universal vaccination mandate; the December 2021 statement allowed a negative test for entry. The vaccine answer is mixed, while the emergency movement-control answer reflects actual policy.",
+    "Public NHS support, private water/other provision and selective privatization create mixed answers on bundled public-service questions. The June 2022 housing and tax proposals are intentions, not assumed completed reforms.",
+    "Trade answers balance broad liberalisation with steel safeguards and domestic agriculture; hypothetical Chinese EV, chip and medicine protection extrapolates from selective strategic protection, not a documented tariff proposal for each product.",
+    "Individual respect for gender identity is distinguished from Johnson’s exclusions based on sex in sport. No specific personal stance is asserted on polyamory, sex-work recognition or compulsory meat reduction; mixed answers reflect the tension between private choice, custom and regulation.",
+    "Biotechnology and AI enthusiasm is bounded by his explicit concern about ethics and surveillance. Neutral answers on invasive enhancement, brain implants, genetic intelligence enhancement and replacing livestock reflect the competing innovation and precaution principles in those bundled hypotheticals.",
+    "Portrait metadata on Commons supplies conflicting precise dates (August versus September 2019); the catalogue attributes the official 2019 portrait without choosing an unsupported day."
+  ],
+  "distinctions": [
+    "Unlike a generic free-market conservative, Johnson backed public infrastructure and health funding, a tax increase and selective industrial protection.",
+    "Unlike isolationist Brexit supporters, he backed NATO, military assistance and later a noncombat deployment to Ukraine.",
+    "Compared with culturally traditional conservatives such as Thatcher or Abbott, abortion choice and LGBT rights matter; compared with socially liberal market conservatives such as Turnbull, Brexit sovereignty and institutional conflicts are relevant. No neighbouring answer sets were used."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait.jpg",
+    "author": "Ben Shread / Cabinet Office, Crown copyright",
+    "license": "Open Government Licence v3.0",
+    "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Boris_Johnson_official_portrait.jpg",
+    "date": "2019",
+    "note": "Official Cabinet Office portrait. Contains public sector information licensed under the Open Government Licence v3.0. Resized/compressed for the site; no face alteration.",
+    "visuallyChecked": true
+  },
+  "validationReview": {
+    "date": "2026-09-30",
+    "neutralAnswers": 14,
+    "technologyNeutralAnswers": 5,
+    "notes": "Validator warnings reviewed: five mixed technology answers balance innovation with safeguards, rather than asserting specific enhancement policies. Closest people remain below the 95% review threshold: Turnbull 94.8%, Morrison 94.5%, Blair 94.3%. Brexit sovereignty and institutional conflicts, public NHS funding and selective protection, and abortion/LGBT positions distinguish this independently answered profile. No answer changes were made to manipulate similarity.",
+    "computedMatches": {
+      "personalities": [
+        {
+          "id": "malcolm-turnbull",
+          "compatibility": 94.8
+        },
+        {
+          "id": "scott-morrison",
+          "compatibility": 94.5
+        }
+      ],
+      "ideologies": [
+        {
+          "id": "atlantismo",
+          "compatibility": 95.7
+        },
+        {
+          "id": "terceira-via",
+          "compatibility": 91.7
+        }
+      ],
+      "countries": [
+        {
+          "id": "reino-unido",
+          "compatibility": 98.3
+        },
+        {
+          "id": "eua-washington-dc",
+          "compatibility": 96.4
+        }
+      ]
+    },
+    "archetype": {
+      "sociedade": "C",
+      "poder": "C",
+      "economia": "C",
+      "mundo": "B",
+      "tecnologia": "D"
+    }
+  }
+}

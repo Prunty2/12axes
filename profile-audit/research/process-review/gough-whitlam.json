@@ -1,0 +1,359 @@
+{
+  "id": "gough-whitlam",
+  "sources": [
+    {
+      "id": "s1",
+      "title": "National Museum of Australia: Gough Whitlam",
+      "url": "https://www.nma.gov.au/explore/features/prime-ministers/gough-whitlam",
+      "date": "Historical events 1972–1975; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "Premiership 5 December 1972–11 November 1975; ended conscription, established Medibank and new federal departments, advanced Indigenous land rights, free tertiary education and no-fault divorce. Regional growth centres accompanied federal expansion."
+    },
+    {
+      "id": "s2",
+      "title": "Gough Whitlam 1972 election policy speech, Museum of Australian Democracy",
+      "url": "https://www.moadoph.gov.au/explore/democracy/election-speeches/gough-whitlam-1972",
+      "date": "1972-11-13",
+      "accessed": "2026-10-01",
+      "evidence": "National service expansion, national government engagement in cities and regional development, and educational opportunity. Foreign policy commitments included national security, a secure independent Papua New Guinea, closer Indonesian relations and regional peace; international obligations accompanied national interests."
+    },
+    {
+      "id": "s3",
+      "title": "Whitlam Institute: Education",
+      "url": "https://www.whitlam.org/whitlam-legacy-education",
+      "date": "Events 1973–1974; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "1973 Schools Commission and needs-based funding covered government and non-government schools, including Catholic schools. Tertiary fees abolished from January 1974. The policy addressed unequal resources rather than suppressing religious schooling."
+    },
+    {
+      "id": "s4",
+      "title": "Australian Parliament: prices and incomes referendum history",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees/Reports/laca/ancon/part2o",
+      "date": "1973-12-08 referendum; historical report undated",
+      "accessed": "2026-10-01",
+      "evidence": "Whitlam sought constitutional powers for federal control of prices and incomes to fight inflation. Both proposals failed; government argued that fragmented state powers impeded action and proposed incomes adjustments rather than unemployment as the instrument of adjustment."
+    },
+    {
+      "id": "s5",
+      "title": "Museum of Australian Democracy: Gough Whitlam milestones",
+      "url": "https://primeministers.moadoph.gov.au/prime-ministers/gough-whitlam",
+      "date": "Events 1972–1975; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "Voting age lowered to 18 in 1973; federal legal aid established in 1973; Commonwealth death penalty abolished in 1973. Whitlam used a constitutional joint sitting after the 1974 election to pass blocked laws."
+    },
+    {
+      "id": "s6",
+      "title": "Whitlam Institute: A Multicultural Australia",
+      "url": "https://www.whitlam.org/whitlam-legacy-a-multicultural-australia",
+      "date": "Events 1973–1975; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "Equalised citizenship conditions and supported migrant translation services, multicultural radio and recognition of different cultures; Racial Discrimination Act 1975. Multicultural national identity did not entail abolishing border selection."
+    },
+    {
+      "id": "s7",
+      "title": "DFAT: record of meeting between Whitlam and Soeharto",
+      "url": "https://www.dfat.gov.au/about-us/publications/historical-documents/Pages/volume-20/26-record-of-meeting-between-whitlam-and-soeharto",
+      "date": "1974-09-06",
+      "accessed": "2026-10-01",
+      "evidence": "Whitlam said Portuguese Timor should join Indonesia, subject to properly expressed popular wishes, and regarded independent Timor as economically unviable and regionally destabilising. This primary record exposes a tension between self-determination and Australian regional-security interests."
+    },
+    {
+      "id": "s8",
+      "title": "Whitlam and Cairns: tariff reduction statement",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-2971",
+      "date": "1973-07-18",
+      "accessed": "2026-10-01",
+      "evidence": "Primary announcement of the across-the-board tariff reduction; lower import barriers were intended to restrain inflation and improve resource allocation."
+    },
+    {
+      "id": "s9",
+      "title": "Industry Commission: manufacturing industry assistance history",
+      "url": "https://assets.pc.gov.au/2025-05/96-01.pdf",
+      "date": "1996 report describing 1973–1974",
+      "accessed": "2026-10-01",
+      "evidence": "Confirms the 25% tariff reduction in 1973 but also import quotas for sensitive industries in 1974; motor vehicles and textiles/clothing/footwear retained important protection. Therefore tariff reform is not evidence of unrestricted free trade."
+    },
+    {
+      "id": "s10",
+      "title": "Whitlam: Government and Business",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-3190",
+      "date": "1974-03-14",
+      "accessed": "2026-10-01",
+      "evidence": "Defended productive private enterprise in a mixed economy, public-private cooperation and regulated competition, including use of money markets. Praised science and automation while raising resource depletion and social adjustment. Favoured welfare and business regulation over general nationalisation."
+    },
+    {
+      "id": "s11",
+      "title": "Whitlam Institute: The Economy and Employment",
+      "url": "https://www.whitlam.org/whitlam-legacy-economy-and-employment",
+      "date": "Events 1973–1975; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "Industries Assistance Commission scrutinised assistance; Trade Practices Act protected competition and consumers; 1974 regional jobs scheme financed community projects. Foreign investment scrutiny in 1975 sought to protect national interests rather than prohibit all foreign capital."
+    },
+    {
+      "id": "s12",
+      "title": "Whitlam Institute: Environment",
+      "url": "https://www.whitlam.org/whitlam-legacy-environment",
+      "date": "Events 1973–1975; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "Federal offshore powers used against Great Barrier Reef drilling; environmental impact assessment law in 1974 and Great Barrier Reef Marine Park in 1975. Ratified World Heritage Convention in August 1974 and supported international wildlife protection."
+    },
+    {
+      "id": "s13",
+      "title": "Whitlam Institute: Womens Rights",
+      "url": "https://www.whitlam.org/whitlam-legacy-womens-rights",
+      "date": "Events 1972–1975; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "Pursued equal pay, single mothers benefit, paid maternity leave for Commonwealth employees and funding for refuges and health centres; removed tax on oral contraception, included it in pharmaceutical benefits and appointed Elizabeth Reid in 1973."
+    },
+    {
+      "id": "s14",
+      "title": "Whitlam: Political activity by Vietnamese refugees",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-3855",
+      "date": "1975-08-21",
+      "accessed": "2026-10-01",
+      "evidence": "Defended political-activity undertakings imposed on nine specially admitted Vietnamese refugees to discourage overseas regime overthrow and community strife, but affirmed that Australian citizens could not be bound by them. A concrete qualification to his civil-libertarian and multicultural record."
+    },
+    {
+      "id": "s15",
+      "title": "Whitlam: Entry of further group of Vietnamese refugees",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-3838",
+      "date": "1975-08-06",
+      "accessed": "2026-10-01",
+      "evidence": "Announced admission of approximately 300 refugees in addition to a selected group of 200 in June. Demonstrates selected humanitarian admission rather than either blanket exclusion or open borders."
+    },
+    {
+      "id": "s16",
+      "title": "Australian Parliament: Whitlam parliamentary handbook bibliography",
+      "url": "https://handbook.aph.gov.au/parliamentarians/6U4",
+      "date": "Book first published 1985; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "Lists The Whitlam Government, 1972–1975, Viking, Ringwood, 1985 among Whitlams publications."
+    },
+    {
+      "id": "s17",
+      "title": "Open Library: The Whitlam government, 1972-1975",
+      "url": "https://openlibrary.org/books/OL2757072M/The_Whitlam_government_1972-1975",
+      "date": "1985 first edition; catalogue updated 2024-01-24",
+      "accessed": "2026-10-01",
+      "evidence": "Author Edward Gough Whitlam; Viking 1985 English-language edition, ISBN 0670802875; subjects politics and government. Self-authored political account rather than a third-party biography."
+    },
+    {
+      "id": "s18",
+      "title": "Australian Dictionary of Biography: Gough Whitlam",
+      "url": "https://adbonline.anu.edu.au/biography/whitlam-gough-18730",
+      "date": "2022 biography; describes 1985 publication",
+      "accessed": "2026-10-01",
+      "evidence": "Describes The Whitlam Government 1972–1975 (1985) as Whitlams detailed compendium of his government; distinguishes it from his dismissal-focused The Truth of the Matter (1979)."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "Federal health, education and urban responsibilities expanded during 1972–1975.",
+        "1973 price/income proposals sought central powers; regional centres and local projects also mattered."
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s4",
+        "s11"
+      ],
+      "tension": "National equality of services and redistribution coexist with local participation and Indigenous rights; constitutional supremacy is not a personal presidential veto."
+    },
+    "representacao": {
+      "facts": [
+        "Lowered franchise age in 1973 and acted through parliamentary elections, constitutional referendums and the 1974 joint sitting."
+      ],
+      "sources": [
+        "s5",
+        "s4"
+      ],
+      "tension": "Assertive executive leadership and impatience with obstruction do not imply rule without elections; parliamentary representation is not leaderless assembly rule."
+    },
+    "poder": {
+      "facts": [
+        "1973 death-penalty abolition and legal aid support procedural rights.",
+        "August 1975 refugee undertakings reveal restrictions justified by public order."
+      ],
+      "sources": [
+        "s5",
+        "s14"
+      ],
+      "tension": "Civil rights coexist with public-health and public-order regulation; not categorical libertarianism or unrestricted drug/gun access."
+    },
+    "imigracao": {
+      "facts": [
+        "Equal citizenship, translation and multicultural radio supported cultural pluralism.",
+        "Selected Vietnamese refugee admissions occurred in 1975 alongside restrictions on some political activity."
+      ],
+      "sources": [
+        "s6",
+        "s14",
+        "s15"
+      ],
+      "tension": "Multicultural Australian nationhood is compatible with English learning, managed admission and community cohesion; it is not borderlessness."
+    },
+    "diplomacia": {
+      "facts": [
+        "Ended conscription and Vietnam involvement, recognised China and prioritised diplomacy.",
+        "1972 speech retained national-security commitments."
+      ],
+      "sources": [
+        "s1",
+        "s2"
+      ],
+      "tension": "Anti-conscription and diplomacy do not mean abolishing armed forces or refusing defensive capabilities."
+    },
+    "intervencao": {
+      "facts": [
+        "1974 Timor conversation preferred Indonesian integration while formally requiring consent.",
+        "1975 opposed using Australian territory for refugee efforts to overthrow foreign governments."
+      ],
+      "sources": [
+        "s7",
+        "s14",
+        "s2"
+      ],
+      "tension": "Regional stability and national interests qualified universal self-determination; neither military expansionism nor absolute non-intervention captures this."
+    },
+    "economia": {
+      "facts": [
+        "Medibank and free tertiary education expanded public provision.",
+        "1974 speech positively endorsed private enterprise and mixed-economy collaboration."
+      ],
+      "sources": [
+        "s1",
+        "s3",
+        "s10"
+      ],
+      "tension": "Universal services and strategic public institutions do not imply expropriating all enterprises or revolutionary worker ownership."
+    },
+    "controle": {
+      "facts": [
+        "1973 sought federal price and income powers; regional jobs support followed recession.",
+        "Competition law and money-market mechanisms accompanied regulation."
+      ],
+      "sources": [
+        "s4",
+        "s10",
+        "s11"
+      ],
+      "tension": "State economic management and redistribution coexist with market allocation; not a fully planned economy."
+    },
+    "comercio": {
+      "facts": [
+        "July 1973 broad tariff reduction promoted competition.",
+        "1974 sensitive-industry quotas and 1975 foreign-takeover scrutiny qualified openness."
+      ],
+      "sources": [
+        "s8",
+        "s9",
+        "s11"
+      ],
+      "tension": "Lower consumer prices and economic integration coexist with strategic national ownership and selective employment protection."
+    },
+    "religiao": {
+      "facts": [
+        "Needs-based school aid included Catholic and other non-government schools in 1973.",
+        "Policy and family-law reform used secular public principles."
+      ],
+      "sources": [
+        "s3",
+        "s1"
+      ],
+      "tension": "Secular governance does not require suppressing religious education, holidays or voluntary religious communities."
+    },
+    "moral": {
+      "facts": [
+        "Contraceptive access, equal pay, single mothers benefits and womens services challenged gender hierarchy.",
+        "1975 no-fault divorce modernised marriage law."
+      ],
+      "sources": [
+        "s13",
+        "s1"
+      ],
+      "tension": "1970s equality reforms cannot be automatically equated with every present-day gender or family proposal; modern items are explicit bounded inferences."
+    },
+    "tecnologia": {
+      "facts": [
+        "1974 speech welcomed productive technology and automation but warned of depletion and adjustment.",
+        "1974–1975 impact assessments and reef protection set environmental limits."
+      ],
+      "sources": [
+        "s10",
+        "s12"
+      ],
+      "tension": "Technology optimism is moderated by preservation and public regulation; therapeutic innovation and elective human enhancement are distinguishable."
+    }
+  },
+  "limitations": [
+    "Historical model fixed to the 1972–1975 premiership, with the 1972 campaign as immediate policy context. Later private views are not imported.",
+    "Brazil-specific institutions and cases are interpreted by their underlying political principle in Australian context, not as claims that Whitlam addressed Brazil.",
+    "AI, facial recognition, cryptocurrency, gene editing, gender-neutral language, same-sex adoption and euthanasia lack directly verified period-specific positions here. Answers are modest-strength analogical judgements grounded in the documented civic, medical, regulatory and environmental principles, not fabricated statements.",
+    "The Whitlam Institute is a legacy institution; its favourable summaries are cross-checked against independently maintained museum, parliamentary, archival and regulatory sources and primary statements.",
+    "Book search included English title/author/year and Portuguese/Brazilian translation queries. No Brazilian edition was verified; original English title is retained in both language fields. This does not prove no translation exists."
+  ],
+  "recommendedMetadata": {
+    "changesNeeded": false,
+    "reason": "PT and EN names, roles and descriptions accurately identify the historical premiership and verified major reforms; coordinator notified before answering."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored detailed political-government account; selected as the most directly relevant comprehensive statement for the premiership model. No existing books.json entry found. No verified Brazilian translation.",
+    "book": {
+      "personalityId": "gough-whitlam",
+      "title": {
+        "pt": "The Whitlam Government 1972–1975",
+        "en": "The Whitlam Government 1972–1975"
+      },
+      "year": 1985,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "s16",
+      "s17",
+      "s18"
+    ]
+  },
+  "processNotes": [
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, README.md and new-personality SKILL.md and assigned saved prompt.",
+    "No prior answer archives, profile vectors, score reports or similarity reviews were read.",
+    "Likely qualitative neighbours: Hawke, Keating and parliamentary social democrats; distinctions: major public-service creation before later market reforms, tariff reform with selective protection, religious-school funding, and Indonesian regional accommodation. No score targets or compatibility tuning.",
+    "Prompt uses verbatim README methodology and questions-template.txt plus a freshly generated archetype block.",
+    "Only assigned prompt, staged answers and research file are written; coordinator handles integration and suites.",
+    "240 responses selected independently in shuffled question order; no vectors computed or consulted before writing. Archetype economy C follows explicit mixed private enterprise endorsement; technology C follows development with preservation.",
+    "Final integrity check: exact README METODOLOGIA block present verbatim; exact questions-template.txt present once; prompt ends with freshly regenerated profile_vector.py --prompt-block; exactly 240 answers. Original validator reports duplicate blockers; no post-validation answer changes."
+  ],
+  "neutralCounts": {
+    "perAxis": {
+      "estrutura": 0,
+      "representacao": 0,
+      "poder": 1,
+      "imigracao": 1,
+      "diplomacia": 0,
+      "intervencao": 1,
+      "economia": 0,
+      "controle": 0,
+      "comercio": 1,
+      "religiao": 1,
+      "moral": 2,
+      "tecnologia": 3
+    },
+    "total": 10,
+    "totalQuestions": 240,
+    "percent": 4.167
+  },
+  "hashes": {
+    "promptSha256": "44fda899c528038107d137e9111544425ba67457b8ca3bad7b33bf77c4844037",
+    "answersSha256": "d75e91c0ecdf9e1cacb10ab3f395bc36cac2512023cf755244145770d0263bfc"
+  },
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality gough-whitlam",
+    "exitCode": 1,
+    "stdout": "validando personality:gough-whitlam\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/gough-whitlam.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo C · tecnologia C\n[NEUTROS] total 10/240 = 4.2%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         39.0  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             44.9  liberdade civil <-> ordem/vigilancia\n  imigracao         30.7  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        28.8  pacifista <-> militarista\n  intervencao       54.1  nacionalista assertivo <-> nao-intervencionista\n  economia          77.0  privado/mercado <-> publico/coletivo\n  controle          72.3  livre mercado <-> planejamento\n  comercio          46.0  livre comercio/globalista <-> protecionista\n  religiao          66.7  religioso <-> irreligioso/secular\n  moral             74.0  tradicionalista <-> progressista\n  tecnologia        54.8  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         39.0   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             44.9   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         30.7   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        28.8   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       54.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          77.0   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          72.3   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          46.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          66.7   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             74.0   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        54.8   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.2%  pedro-sanchez  <<< BLOQUEIA\n   97.0%  john-rawls  <<< BLOQUEIA\n   97.0%  br-ambedkar  <<< BLOQUEIA\n\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.2% identico a 'pedro-sanchez' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.0% identico a 'john-rawls' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.0% identico a 'br-ambedkar' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": ""
+  }
+}

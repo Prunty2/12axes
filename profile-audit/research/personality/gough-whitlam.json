@@ -1,0 +1,185 @@
+{
+  "id": "gough-whitlam",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Prime ministerial record, 1972–1975",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "naa",
+      "title": "National Archives: Gough Whitlam during office",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/gough-whitlam/during-office",
+      "factDate": "1972–1975; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nma",
+      "title": "National Museum: Gough Whitlam",
+      "url": "https://www.nma.gov.au/explore/features/prime-ministers/gough-whitlam",
+      "factDate": "1972–1975; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "biography",
+      "title": "Australian Dictionary of Biography: Gough Whitlam",
+      "url": "https://adb.anu.edu.au/biography/whitlam-gough-18730",
+      "factDate": "2023 biography",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "rights",
+      "title": "Whitlam Institute: Human Rights",
+      "url": "https://www.whitlam.org/whitlam-legacy-human-rights",
+      "factDate": "1973–1975 reforms; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "cities",
+      "title": "Whitlam Institute: Cities and Suburbs",
+      "url": "https://www.whitlam.org/whitlam-legacy-cities-and-suburbs",
+      "factDate": "1972–1975 reforms; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "trade",
+      "title": "Whitlam Institute: The Economy and Employment",
+      "url": "https://www.whitlam.org/whitlam-legacy-economy-and-employment",
+      "factDate": "1973 tariff reduction and economic record",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "prices",
+      "title": "Parliament: Prices and Incomes referendums",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees/Reports/laca/ancon/part2o",
+      "factDate": "1973-12-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "migration",
+      "title": "Whitlam Institute: A Multicultural Australia",
+      "url": "https://www.whitlam.org/whitlam-legacy-a-multicultural-australia",
+      "factDate": "1973–1975 policies; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "timor",
+      "title": "DFAT: Letter from Whitlam to Soeharto",
+      "url": "https://www.dfat.gov.au/about-us/publications/historical-documents/Pages/volume-20/98-letter-from-whitlam-to-soeharto",
+      "factDate": "1975-02-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "environment",
+      "title": "Whitlam Institute: The Environment",
+      "url": "https://www.whitlam.org/whitlam-legacy-environment",
+      "factDate": "1974 environmental legislation; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "religion",
+      "title": "Antony Whitlam: Tribute to Gough Whitlam",
+      "url": "https://johnmenadue.com/post/2014/11/antony-whitlam-tribute-to-gough-whitlam/",
+      "factDate": "2014-11 family testimony",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "manifesto",
+      "title": "Museum of Australian Democracy: Whitlam election speech",
+      "url": "https://www.moadoph.gov.au/explore/democracy/election-speeches/gough-whitlam-1972",
+      "factDate": "1972",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "cities",
+        "prices",
+        "naa"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "biography",
+        "nma",
+        "manifesto"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "rights",
+        "biography"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "migration",
+        "manifesto"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "nma",
+        "naa"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "timor",
+        "manifesto"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "nma",
+        "trade"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "prices",
+        "biography"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "religion",
+        "biography"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "biography",
+        "rights"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "environment",
+        "cities",
+        "nma"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Modern digital rights, gene editing, cryptocurrency and some gender-policy questions are extrapolations from documented legal and reform principles.",
+    "The East Timor record prevents treating withdrawal from Vietnam as categorical non-interventionism.",
+    "Whitlam Institute material is a sympathetic legacy account; core reforms were checked against the National Archives, National Museum, Parliament, DFAT and the Australian Dictionary of Biography."
+  ],
+  "distinctions": [
+    "Public services and wage/price intervention coexist with tariff liberalisation.",
+    "Regional funding and local participation coexist with stronger Commonwealth powers.",
+    "Secular personal outlook coexists with support for religious schools and pluralism."
+  ],
+  "portrait": {
+    "article": "https://en.wikipedia.org/wiki/Gough_Whitlam",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Gough_Whitlam_at_the_Lodge_1974.jpg/330px-Gough_Whitlam_at_the_Lodge_1974.jpg",
+    "descriptionPage": "https://commons.wikimedia.org/wiki/File:Gough_Whitlam_at_the_Lodge_1974.jpg",
+    "visuallyChecked": true
+  }
+}

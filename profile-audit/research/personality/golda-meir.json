@@ -1,0 +1,239 @@
+{
+  "id": "golda-meir",
+  "country": "Israel",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Premiership, 1969–1974, informed by earlier labour and foreign-ministry service.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Encyclopedia.com: Golda Meir",
+      "url": "https://www.encyclopedia.com/people/history/israeli-history-biographies/golda-meir",
+      "factDate": "1898–1978; historical biography",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "labour",
+      "title": "National Library of Israel: first maternity grant",
+      "url": "https://www.nli.org.il/en/education/teaching-resources/primary-sources/nnl_edu997013134914705171",
+      "factDate": "1954; contemporary photograph and historical context",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "insurance",
+      "title": "Israel Film Archive: maternity grants under National Insurance",
+      "url": "https://jfc.org.il/en/news_journal/27682-2/119604-2/",
+      "factDate": "1954 newsreel",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "programme",
+      "title": "Statement to the Knesset by Prime Minister Meir",
+      "url": "https://www.gov.il/en/pages/26-statement-to-the-knesset-by-pm-meir-10-march-1974",
+      "factDate": "1974-03-10; government formation and peace policy",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "speech",
+      "title": "Meir: For the Attainment of Peace",
+      "url": "https://openbooks.library.umass.edu/giftsofspeech/chapter/golda-meir-for-the-attainment-of-peace-1970/",
+      "factDate": "1970-05-26; indexed speech excerpts on security and external accounts",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "war",
+      "title": "US Office of the Historian: the 1973 Arab-Israeli War",
+      "url": "https://history.state.gov/milestones/1969-1976/arab-israeli-war-1973",
+      "factDate": "1973; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "negotiation",
+      "title": "US Office of the Historian: shuttle diplomacy",
+      "url": "https://history.state.gov/milestones/1969-1976/shuttle-diplomacy",
+      "factDate": "January and May 1974 agreements; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "covert",
+      "title": "Alexander Calahan: Israeli counterterrorism after Munich",
+      "url": "https://irp.fas.org/eprint/calahan.htm",
+      "factDate": "1995 study of 1972–1973 operations",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "inquiry",
+      "title": "Israel State Archives: the Koppel Committee",
+      "url": "https://catalog.archives.gov.il/site/en/chapter/israeli-enquiry-koppel-committee-report-gss-arrangements-regarding-security-abroad-not-keep-changing-needs/",
+      "factDate": "September 1972; retrospective archive publication",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "poverty",
+      "title": "JTA: disagreement over response to the Black Panthers",
+      "url": "https://www.jta.org/archive/kollek-charges-mrs-meir-pincus-appeasing-black-panthers",
+      "factDate": "1971-06-28",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "religion",
+      "title": "Civil marriage and Meir’s opposition to changing the status quo",
+      "url": "https://jewishaction.com/letters/another-look-pluralism-debate-synagogue-state-israel/",
+      "factDate": "Retrospective discussion; institutionally Orthodox perspective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "women",
+      "title": "Pnina Lahav interview on Meir’s career and family values",
+      "url": "https://www.timesofisrael.com/biography-revisits-the-life-of-golda-meir-the-anti-feminist-feminist-leader/amp/",
+      "factDate": "2022-09-07; retrospective, including 1972 Fallaci interview",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "development",
+      "title": "MASHAV: origins of development cooperation",
+      "url": "https://mashav.mfa.gov.il/about-us",
+      "factDate": "1958 foundation; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "science",
+      "title": "Ephraim Katzir: My Contributions to Science and Society",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0021925820658161",
+      "factDate": "2005; personal account of Meir’s 1973 approach",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "economy",
+      "title": "Golda Meir political biography, open Library of Congress copy",
+      "url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/66/78/09/2019667809/2019667809.pdf",
+      "factDate": "Retrospective; 1967–1970 labour-government-employer coordination",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "penalty",
+      "title": "UN Yearbook of Human Rights: Israel",
+      "url": "https://digitallibrary.un.org/record/630868/files/E_CN.4_1300-EN.pdf",
+      "factDate": "Retrospective legal account of the 1954 abolition for ordinary murder",
+      "accessedOn": "2026-10-01"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "bio",
+        "labour",
+        "programme"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "programme",
+        "inquiry",
+        "bio"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "covert",
+        "inquiry",
+        "penalty",
+        "poverty"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "bio",
+        "speech",
+        "programme"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "war",
+        "negotiation",
+        "covert",
+        "programme"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "covert",
+        "negotiation",
+        "development",
+        "programme"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "bio",
+        "labour",
+        "insurance",
+        "economy"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "economy",
+        "speech",
+        "labour"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "speech",
+        "economy",
+        "development"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "religion",
+        "bio",
+        "programme"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "women",
+        "labour",
+        "religion"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "development",
+        "science",
+        "labour"
+      ]
+    }
+  },
+  "uncertainties": [
+    "The profile focuses on her 1969–1974 premiership, with the earlier labour and foreign-ministry record as established principles. It does not apply the policies of current Israeli governments to her. Indexed excerpts were used where full government or speech pages were inaccessible; no inaccessible passage is presented as read.",
+    "Central coordination of social services and national security does not erase municipal administration or cooperative settlements. Neutral local education concerns practical delivery, not separate state constitutions. Indigenous-territory questions are analogies to national legal authority, not claims about a Brazilian policy.",
+    "Her parliamentary leadership and inquiry commissions distinguish strong government from rule without elections. Criticism of her handling of the 1973 warning signs remains relevant; democratic answers are not an assertion that her administration never failed or restricted dissent.",
+    "Covert counterterrorism and security restrictions support a security-leaning profile. Digital monitoring, facial recognition, compelled access and online takedowns are hypothetical applications, not policies she literally proposed. Courtroom presumption of innocence is distinguished from security detention. Firearms answers reflect licensed defence alongside controls.",
+    "The post-Munich covert campaign included grave errors, including the killing of an uninvolved man in Lillehammer; its use as evidence is descriptive, not approval. Public-health and drug answers extrapolate the period’s state-centred welfare and public-order outlook. Opposition to an ordinary-crime death penalty does not contradict exceptional security practices.",
+    "Jewish immigration and cultural absorption cannot be equated with unlimited global migration or endorsement of Palestinian return. Her opposition to a separate Palestinian national claim is not adopted as historical fact here. Cultural room for diverse Jewish origins coexists with Hebrew integration and preservation of a Jewish national state; neutral bilingualism reflects that tension.",
+    "Military support is qualified by the decision against a pre-emptive strike in October 1973 and acceptance of the 1974 Egyptian and Syrian disengagement agreements. Neutral preventive strikes balance deterrence and diplomatic legitimacy. Nuclear answers describe strategic self-reliance under opacity, not an assertion that she publicly declared an arsenal. International-war-crimes jurisdiction is a qualified inference, not a documented vote.",
+    "Foreign projection includes counterterrorism and national interests but also development cooperation and negotiated agreements. Neutral foreign bases distinguishes temporary allied arrangements from permanent regional domination.",
+    "Economic answers preserve public welfare, organised labour and cooperative institutions together with private producers. Worker ownership is favoured as a model, not imposed on every enterprise. Land reform is an analogy to collective settlement and public development, not an endorsement of dispossession. Neutral inheritance balances family continuity and redistributive taxation.",
+    "Coordination between unions, employers and government is not total command planning. Neutral market wages and central-bank independence preserve bargaining and monetary institutions within a directed economy. Crypto questions extrapolate a preference for regulated public money. Trade policy seeks external capital and essential imports while preserving strategic capacity.",
+    "Religious compromises and civil-marriage opposition should not be mistaken for personal theological fervour. Neutral religious-law and taxation answers express accommodation; democratic civil authority remains distinct from a theocracy. The religious source’s Orthodox institutional standpoint is explicit.",
+    "Support for women’s public roles, paid maternity benefits and traditional family ideals coexist with hostility to parts of 1970s feminism. The biographer’s speculation about unexpressed motives is not treated as fact. Abortion is a qualified personal-choice inference, not a claimed legislative programme. Modern gender, adoption and language questions are period-based simulations; neutral affection, nudity, animal ethics and quotas balance social restraint and equality.",
+    "MASHAV’s founding record supports technological development and knowledge-sharing. Current MASHAV programmes are not automatically attributed to her. AI, genetic enhancement, chips and cultivated meat are hypothetical; neutral invasive enhancement and embryo-treatment questions balance medical benefit and caution. A rural/urban preference is not needed to support development."
+  ],
+  "distinctions": [
+    "Potential neighbours include Labour Zionists and security-focused social democrats. Preserve maternity and social insurance, pragmatic religious compromise, military deterrence and negotiated disengagement; do not infer a contemporary progressive platform from her sex or party alone.",
+    "Manual similarity review before archive: Pericles 96.8%, Theodore Roosevelt 95.4%, Franklin Roosevelt 95.1%. The shared direction is elected national leadership, public investment and security. Meir’s Jewish immigration and religious-marriage compromise, labour welfare and 1974 disengagement negotiations distinguish the record. These are different periods and institutions, not claims of identical policy. The five neutral moral answers reflect explicit tensions in family tradition, personal choice and equality; no answer was adjusted to manufacture distance."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Golda_Meir_03265u-2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Golda_Meir_03265u-2.jpg",
+    "author": "Marion S. Trikosko; Commons version by Talmoryair",
+    "license": "Public domain, US News & World Report collection gift to Library of Congress",
+    "date": "1973-03-01",
+    "note": "Existing Commons version resized and recompressed from 321 KB to 24 KB.",
+    "visuallyChecked": true
+  }
+}

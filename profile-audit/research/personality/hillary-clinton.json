@@ -1,0 +1,367 @@
+{
+  "id": "hillary-clinton",
+  "country": "United States",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "2015–2016 presidential campaign, informed by her 2009–2013 diplomatic record; earlier positions dated explicitly and later public remarks checked through September 2026.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "State Department: Hillary Rodham Clinton, 67th secretary of state",
+      "url": "https://2009-2017.state.gov/secretary/20092013clinton/index.htm",
+      "factDate": "2009-01-21–2013-02-01",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "votes",
+      "title": "Clinton campaign: voting rights",
+      "url": "https://www.hillaryclinton.com/issues/voting-rights/",
+      "factDate": "2016 campaign, archived by her office",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tribal",
+      "title": "Clinton campaign: Native American agenda and tribal sovereignty",
+      "url": "https://www.presidency.ucsb.edu/documents/hillary-clinton-campaign-press-release-hillary-clintons-native-american-agenda-provide",
+      "factDate": "2007-11-06; historical evidence of her own position",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "justice",
+      "title": "Clinton campaign: criminal justice reform",
+      "url": "https://www.hillaryclinton.com/issues/criminal-justice-reform/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "townhall-march",
+      "title": "CNN town hall transcript: limited federal death penalty, fracking and constitutional policing",
+      "url": "https://cnnpressroom.blogs.cnn.com/2016/03/13/full-rush-transcript-hillary-clinton-partcnn-tv-one-democratic-presidential-town-hall/amp/",
+      "factDate": "2016-03-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "townhall-february",
+      "title": "CNN town hall transcript: assisted dying, volunteer military, Iraq vote and constitutional rights",
+      "url": "https://cnnpressroom.blogs.cnn.com/2016/02/04/rush-transcript-hillary-clinton-cnn-democratic-presidential-town-hall/",
+      "factDate": "2016-02-03; transcript published February 4",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Clinton campaign: gun violence prevention",
+      "url": "https://www.hillaryclinton.com/issues/gun-violence-prevention/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "immigration",
+      "title": "Clinton campaign: immigration reform",
+      "url": "https://www.hillaryclinton.com/issues/immigration-reform/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "security",
+      "title": "Clinton campaign: national security",
+      "url": "https://www.hillaryclinton.com/issues/national-security/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "military",
+      "title": "Clinton campaign: military and defense",
+      "url": "https://www.hillaryclinton.com/issues/military-and-defense/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "cfr",
+      "title": "Clinton speech and questions at the Council on Foreign Relations",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-and-question-and-answer-session-the-council-foreign-relations-new-york-city",
+      "factDate": "2015-11-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "health",
+      "title": "Clinton campaign: health care, ACA and a public option",
+      "url": "https://www.hillaryclinton.com/issues/health-care/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "small-business",
+      "title": "Clinton campaign: small business tax relief, finance and licensing reform",
+      "url": "https://www.hillaryclinton.com/issues/small-business/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tax",
+      "title": "Clinton campaign: a fair tax system",
+      "url": "https://www.hillaryclinton.com/issues/a-fair-tax-system/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "finance",
+      "title": "Clinton campaign: Wall Street reform",
+      "url": "https://www.hillaryclinton.com/issues/wall-street/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "fed",
+      "title": "Reuters: Clinton criticizes political pressure on the Federal Reserve",
+      "url": "https://finance.yahoo.com/news/clinton-slams-trump-commenting-fed-174821282.html",
+      "factDate": "2016-09-06; indexed Reuters report available, direct page retrieval rate-limited",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "manufacturing",
+      "title": "Clinton campaign: manufacturing, Buy American and TPP rejection",
+      "url": "https://www.hillaryclinton.com/issues/manufacturing/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "trade",
+      "title": "Clinton campaign statement on the Democratic trade amendment",
+      "url": "https://www.presidency.ucsb.edu/documents/hillary-clinton-campaign-press-release-statement-from-senior-policy-advisor-maya-harris-0",
+      "factDate": "2016-07-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "TIME: Clinton explains her Christian faith and its role in politics",
+      "url": "https://time.com/4193231/hillary-clinton-faith-christianity-iowa/",
+      "factDate": "2016-01-25 remarks; published January 26",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "women",
+      "title": "Clinton campaign: women’s rights and reproductive health",
+      "url": "https://www.hillaryclinton.com/issues/womens-rights-and-opportunity/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "lgbt",
+      "title": "Clinton campaign: LGBT equality, adoption and gender identity",
+      "url": "https://www.hillaryclinton.com/issues/lgbt-equality/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "racial",
+      "title": "Clinton campaign: racial justice",
+      "url": "https://www.hillaryclinton.com/issues/racial-justice/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "climate",
+      "title": "Clinton campaign: climate change and conservation",
+      "url": "https://www.hillaryclinton.com/issues/climate/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "technology",
+      "title": "Clinton campaign: technology and innovation",
+      "url": "https://www.hillaryclinton.com/issues/technology-and-innovation/",
+      "factDate": "2016",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "science",
+      "title": "ScienceDebate candidate responses reproduced by the American Chemical Society",
+      "url": "https://cen.acs.org/articles/94/web/2016/09/Trump-Clinton-Stein-answer-20.html",
+      "factDate": "2016-09-13; use Clinton’s responses, not those of the other candidates",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "biotech",
+      "title": "ISAAA: Clinton’s BIO convention remarks on genetically modified crops",
+      "url": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=12481",
+      "factDate": "2014-06 remarks; published 2014-07-02; industry-oriented report",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "current",
+      "title": "Washington Post interview: Clinton criticizes excluding news outlets from the White House",
+      "url": "https://www.washingtonpost.com/business/2026/09/23/hillary-clinton-says-trumps-media-ban-is-deeply-disturbing/",
+      "factDate": "2026-09-23; limited accessible excerpt",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "votes",
+        "tribal",
+        "justice",
+        "townhall-march",
+        "health"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "votes",
+        "townhall-february",
+        "current"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "justice",
+        "townhall-march",
+        "townhall-february",
+        "guns",
+        "cfr",
+        "science"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "immigration",
+        "cfr"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "security",
+        "military",
+        "cfr",
+        "townhall-february"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "security",
+        "cfr"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "health",
+        "small-business",
+        "tax",
+        "finance",
+        "justice",
+        "women"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "tax",
+        "small-business",
+        "finance",
+        "fed",
+        "manufacturing",
+        "women",
+        "health"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "manufacturing",
+        "trade",
+        "small-business",
+        "security"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "women",
+        "lgbt",
+        "cfr",
+        "townhall-february"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "women",
+        "lgbt",
+        "racial",
+        "security",
+        "faith"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "science",
+        "biotech",
+        "technology",
+        "climate"
+      ]
+    }
+  },
+  "uncertainties": [
+    "This is an editorial reconstruction centred on the 2015–2016 campaign and the 2009–2013 diplomatic record, not a survey she completed or a claim that all positions remained unchanged. A September 2026 press-freedom interview was checked; it is not a replacement comprehensive platform.",
+    "Campaign pages are evidence of her proposals, not independent proof of their claimed achievements. CNN town-hall transcripts, Reuters reporting and TIME faith reporting provide independent cross-checks. The Reuters Fed article was available as an indexed report; its direct page returned a rate limit.",
+    "Federalism is assessed through national voting/health standards, local policing, state cannabis experiments and a dated 2007 tribal pledge. None implies that a president can override courts or all state laws. State secession, uniform curricula and allocation of tax revenue are constitutional-policy inferences.",
+    "The immigration axis concerns cultural pluralism, not simply border numbers. Her platform combines English-language integration and security vetting with citizenship and rejection of religious exclusion; it does not promise unconditional open borders.",
+    "The March 2016 death-penalty answer retains a narrow federal exception for mass terrorism while criticizing state capital punishment. D on the broader rape/murder question is not a claim that she supported total abolition. The February assisted-dying answer explicitly weighs autonomy, faith and coercion, justifying N.",
+    "Digital monitoring, compelled phone access, financial tracing and facial recognition involve inference from her counterterrorism/privacy balancing and constitutional policing. A call for cooperation over encryption is not proof that she endorsed every technical backdoor. N on blanket consensual-conduct legalization reflects cannabis leniency alongside continued drug and exploitation controls.",
+    "Iraq authorization was a Senate vote, later acknowledged as a mistake; Libya and Syrian no-fly proposals show willingness to intervene but not endorsement of unlimited occupation. The nuclear-arms item is interpreted as retaining the existing US deterrent, not supporting proliferation to every country. International-court and treaty hypotheticals are inferences from allied multilateralism.",
+    "Public health coverage is not equivalent to nationalizing all providers or insurers. N on private health predominance reflects her combined ACA private-insurance system and public-option/Medicare expansion. Other ownership neutrals distinguish public obligations from private provision and reject treating every strategic firm or privatization as equivalent.",
+    "The 2016 TPP rejection supersedes her earlier enthusiasm for the emerging agreement in this profile. Selective trade enforcement, Buy American and global commercial participation are represented together, not flattened into autarky or unrestricted free trade.",
+    "Faith is distinct from church control of law: her Methodist service ethic coexists with reproductive and LGBT rights. Modern questions about polyamory, prostitution, gender-neutral language, nudity and parental authority are cautious inferences rather than attributed quotations; cultural liberalism does not establish support for every permissive policy.",
+    "ScienceDebate answers support nuclear energy, NASA and science funding; 2014 BIO remarks support proven GM crops. Brain implants, embryo enhancement and cultured meat were not explicit platform pledges. N on combined genetic disease prevention/intelligence enhancement and body interventions reflects research benefits versus ethical safeguards; city/rural and space/environment comparisons balance affirmative commitments to both. These are six technology neutrals (30%), reviewed individually rather than used to represent missing research."
+  ],
+  "distinctions": [
+    "Obama, Biden and Harris are likely neighbours on civil rights and regulated markets; assess independently her Syrian no-fly proposal, narrow federal death-penalty exception and 2016 trade conditions.",
+    "Sanders shares social protections but differs on ownership, private insurance, the scope of structural economic change and military intervention.",
+    "Her Methodist convictions should not be replaced with secular atheism merely because her social platform is progressive."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg",
+    "author": "United States Department of State",
+    "license": "Public domain, US federal government work",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-DOS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg",
+    "date": "2009-01-27",
+    "note": "Existing Commons crop of official portrait; resized to 480px and compressed from about 4 MB to 23 KB, with no facial alteration.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "kamala-harris",
+      "answersSha256": "60ba2f10d8ce45af80b09c8d247b7993a809f265eb71a84c7f7f9465834a9506",
+      "neighborVectorSha256": "2de4ab24692695313dcb7ac7be4b852ff83967110b8e61bb5f13bcfbdabdb84f",
+      "reason": "98.8% compatibility reflects two Democratic presidential platforms, not identical vectors. Clinton is more assertive abroad (intervencao 12.6 versus 21.0; diplomacia 62.4 versus 57.6), more explicitly religious (religiao 41.7 versus 53.6) and less socially permissive overall (moral 76.4 versus 82.4). Her Syrian no-fly-zone and special-operations proposals, Methodist service ethic and narrower cannabis/death-penalty reforms distinguish this period from Harris’s 2024 record. Similarity is acceptable for these distinct public figures; no answers were altered to reduce it.",
+      "differingAxes": [
+        "intervencao",
+        "diplomacia",
+        "religiao",
+        "moral"
+      ],
+      "sourceIds": [
+        "cfr",
+        "faith",
+        "justice",
+        "townhall-march"
+      ]
+    },
+    {
+      "comparedWith": "keir-starmer",
+      "answersSha256": "60ba2f10d8ce45af80b09c8d247b7993a809f265eb71a84c7f7f9465834a9506",
+      "neighborVectorSha256": "f207d3729824676406d8c2d320c609005cf82316a65087d18dbe166ec33208b9",
+      "reason": "96.0% compatibility comes from electoral democracy, regulated markets and allied defence. Clinton differs on security (poder 50.8 versus 61.5), cultural assimilation (imigracao 29.5 versus 43.8), federal structure (54.5 versus 47.4), faith and diplomatic period. Her citizenship/integration proposals, constitutional policing and federal/state division support these independently assessed differences. This is not a cloned answer set.",
+      "differingAxes": [
+        "poder",
+        "imigracao",
+        "estrutura"
+      ],
+      "sourceIds": [
+        "immigration",
+        "justice",
+        "tribal",
+        "votes"
+      ]
+    }
+  ],
+  "neighborReviewNote": "Kevin Rudd (94.1%) shares regulated markets and a Christian social ethic, but his Australian federal and regional-security context differs from Clinton’s US military leadership and 2016 trade platform. No blocking overlap; no answers adjusted."
+}

@@ -1,0 +1,331 @@
+{
+  "id": "bob-hawke",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Premiership 1983–1991, interpreted alongside explicitly identified later public positions through 2017.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "naa-life",
+      "title": "National Archives: Robert Hawke, life and service",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/robert-hawke",
+      "factDate": "1929–2019; premiership 1983–1991",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "naa-office",
+      "title": "National Archives: Hawke during office, electoral reforms, Medicare, environment and rights",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/robert-hawke/during-office",
+      "factDate": "1983–1991",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "boyer",
+      "title": "ABC: 1979 Boyer proposals, local government and parliamentary accountability",
+      "url": "https://www.abc.net.au/news/2019-06-14/bob-hawke-1979-boyer-lecture-recommended-abolishing-the-states/11203734",
+      "factDate": "1979; reported 2019-06-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "woodford",
+      "title": "ABC: Hawke advocates nuclear power, waste storage and abolition of state governments",
+      "url": "https://www.abc.net.au/news/2016-12-28/we-must-embrace-nuclear-power-bob-hawke-divides-audience/8151346",
+      "factDate": "2016-12-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Hawke: gun-control agreement with states",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7266",
+      "factDate": "1987-12-22",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "federal-limits",
+      "title": "Hawke and Kerin: gun control must respect constitutional state responsibilities",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-8327",
+      "factDate": "1991-08-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "drugs",
+      "title": "Hawke: National Campaign Against Drug Abuse, treatment and judicial warrants",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-6613",
+      "factDate": "1985-04-02",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "capital-punishment",
+      "title": "Hawke: explicit opposition to capital punishment and respect for foreign jurisdiction",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-6962",
+      "factDate": "1986-06-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "australia-card",
+      "title": "Hawke: Australia Card and proposed privacy safeguards",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7223",
+      "factDate": "1987-09-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "assisted-dying",
+      "title": "ABC RN: former prime minister calls for euthanasia reform",
+      "url": "https://www.abc.net.au/listen/programs/radionational-breakfast/former-prime-minister-bob-hawke-calls-for/7325242",
+      "factDate": "2016-04-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "multicultural",
+      "title": "Hawke: National Agenda for a Multicultural Australia launch",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7690",
+      "factDate": "1989-07-26",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tiananmen",
+      "title": "Hawke: temporary permits and protection for Chinese nationals",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7641",
+      "factDate": "1989-06-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "foreign-policy",
+      "title": "Bob Hawke Prime Ministerial Library: foreign relations and anti-apartheid sanctions",
+      "url": "https://bhpml.omeka.net/exhibits/show/hawkephotographs/foreignrelations",
+      "factDate": "1983–1991",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "un",
+      "title": "DFAT: Australia and the UN, naval commitment enforcing sanctions on Iraq",
+      "url": "https://www.dfat.gov.au/about-us/publications/Pages/australia-and-the-united-nations",
+      "factDate": "1990–1991; published 2011",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "anu-biography",
+      "title": "ANU Labour Australia: Hawke, US alliance, arms control and Cambodia",
+      "url": "https://labouraustralia.anu.edu.au/biography/hawke-robert-james-bob-29671",
+      "factDate": "1929–2019; published 2019",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "privatisation",
+      "title": "Reserve Bank: first Commonwealth Bank tranche and privatisation chronology",
+      "url": "https://www.rba.gov.au/publications/bulletin/1997/dec/2.html",
+      "factDate": "1991; published 1997-12",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "steel",
+      "title": "Hawke: finance deregulation, wage accord, Medicare and trade competition",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-8159",
+      "factDate": "1990-10-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tariff-transition",
+      "title": "Hawke: reducing tariffs with adjustment for workers and industry",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-6939",
+      "factDate": "1986-05-31",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith-economy",
+      "title": "Hawke interview: capital-gains tax, wage coordination, environment, agnosticism and Christian ethics",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7983",
+      "factDate": "1990-03-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "marriage",
+      "title": "Star Observer: Hawke publicly votes yes for marriage equality",
+      "url": "https://www.starobserver.com.au/news/former-prime-minister-bob-hawke-votes-yes-marriage/162212",
+      "factDate": "2017-09-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "abortion",
+      "title": "ABC interview: Hawke discusses the difficult but justified decision to terminate a pregnancy",
+      "url": "https://www.abc.net.au/news/2014-11-11/just-call-me-bob/5869580",
+      "factDate": "2014-11-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "science",
+      "title": "Hawke and Barry Jones: science funding and cooperation between researchers and industry",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7591",
+      "factDate": "1989-05-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-health",
+      "title": "Gillard: national health standards, shared funding and local hospital control",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17661",
+      "factDate": "2011-02-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-euthanasia",
+      "title": "Gillard: reservations about safeguards in assisted dying",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17746",
+      "factDate": "2011-03-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-asylum",
+      "title": "Gillard government: memorandum on offshore asylum processing in Nauru",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18767",
+      "factDate": "2012-08-29",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "boyer",
+        "woodford",
+        "federal-limits",
+        "naa-office"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "naa-office",
+        "boyer"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "guns",
+        "drugs",
+        "capital-punishment",
+        "australia-card",
+        "assisted-dying"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "multicultural",
+        "tiananmen",
+        "anu-biography"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "un",
+        "foreign-policy",
+        "anu-biography"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "un",
+        "foreign-policy",
+        "capital-punishment",
+        "anu-biography"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "naa-office",
+        "privatisation",
+        "steel"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "steel",
+        "faith-economy",
+        "tariff-transition"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "steel",
+        "tariff-transition",
+        "naa-office"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith-economy",
+        "multicultural"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "naa-office",
+        "marriage",
+        "abortion",
+        "boyer"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "science",
+        "woodford",
+        "naa-office",
+        "boyer"
+      ]
+    }
+  },
+  "uncertainties": [
+    "This is a career profile, not a frozen 1991 snapshot: marriage equality (2017), voluntary assisted dying (2016), and nuclear advocacy (2016) are later positions.",
+    "The 1979 proposal to abolish states was repeated in 2016; his constitutional respect and cooperative federalism in office describe implementation constraints, not abandonment of that preference.",
+    "Agnosticism is explicitly distinguished from atheism and from hostility to Christian ethics.",
+    "Harm minimisation and treatment do not establish endorsement of unrestricted adult drug legalisation; mixed bundled statements are treated cautiously.",
+    "No direct positions established for cryptocurrency, facial recognition, modern gender terminology, cultured meat or enhancement implants. These are bounded simulations from documented civil-liberties, equality and research principles, not claimed quotations.",
+    "His personal abortion account supports moral permissibility in some circumstances, not an inferred universal gestational policy.",
+    "The National Archives page mistakenly labels the external-affairs power as section 52; no section number from that page is repeated in the profile."
+  ],
+  "distinctions": [
+    "Unlike a generic collectivist Labour profile, Hawke supported a floating currency, competition and partial bank privatisation.",
+    "Unlike a laissez-faire liberal, Hawke retained Medicare, collective wage coordination and a social safety net.",
+    "Unlike an isolationist or absolute pacifist, he backed the US alliance and UN-authorised force against Iraq; unlike a militarist, he pursued arms control and negotiated settlements.",
+    "The coexistence of conservation and later nuclear support is retained rather than treating environmental concern as rejection of technology."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Bob_Hawke-1983.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bob_Hawke-1983.jpg",
+    "localPath": "frontend/public/personalities/portraits/bob-hawke.jpg",
+    "note": "Real 1983 portrait; optimized and visually inspected.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "barack-obama",
+      "answersSha256": "199242877e13b0484a4d55bcc5d437c0b3ea0306ae7ae5ce44d06a1ad0204340",
+      "neighborVectorSha256": "a95f90d58016c7bd5d7ab587559ba59aaec4fb52100d86a2c7f58166d6724245",
+      "reason": "Both models describe democratic mixed economies and multicultural societies. Hawke differs from the existing Obama vector on estrutura (27.1 vs 40.0), reflecting his explicit proposal to abolish states but strengthen local government; controle (49.7 vs 63.7) and comercio (19.9 vs 28.7) reflect finance deregulation and tariff reductions alongside wage coordination. These are model distinctions supported by Hawke-specific sources, not claims of measured historical distances. The independently authored answers were retained without changes to reduce similarity.",
+      "differingAxes": [
+        "estrutura",
+        "controle",
+        "comercio"
+      ],
+      "sourceIds": [
+        "boyer",
+        "woodford",
+        "steel",
+        "tariff-transition"
+      ]
+    },
+    {
+      "comparedWith": "julia-gillard",
+      "answersSha256": "199242877e13b0484a4d55bcc5d437c0b3ea0306ae7ae5ce44d06a1ad0204340",
+      "neighborVectorSha256": "c2a470d4881b47fae708eb58d97a0b16fd04300bea9e233f20832b71076c747a",
+      "reason": "The new Gillard profile is another democratic Labor reformer, but preserves states and local hospital management, records assisted-dying reservations and offshore asylum processing. These distinguish her from Hawke's state-abolition proposal, later assisted-dying support and multicultural record: estrutura 27.1 versus 42.6, poder 50.8 versus 59.1 and imigracao 26.0 versus 37.9. Scores aggregate many hypothetical questions and are not historical measurements. Existing Hawke answers are unchanged.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "imigracao"
+      ],
+      "sourceIds": [
+        "gillard-health",
+        "gillard-euthanasia",
+        "gillard-asylum"
+      ]
+    }
+  ]
+}

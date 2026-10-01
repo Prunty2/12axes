@@ -1,0 +1,327 @@
+{
+  "id": "rupert-lowe",
+  "country": "United Kingdom",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "MP and Restore Britain leader, 2024–30 September 2026; dated earlier context.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "parliament",
+      "title": "UK Parliament: Rupert Lowe career",
+      "url": "https://members.parliament.uk/member/5158/career",
+      "factDate": "2024–2026; accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "devolution",
+      "title": "Public Accounts Committee: Lowe on devolved power and accountability",
+      "url": "https://committees.parliament.uk/oralevidence/18074/html/",
+      "factDate": "2026-09-07, questions 97–103",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "policing",
+      "title": "Restore Britain: policing policy paper summary",
+      "url": "https://www.restorebritain.org.uk/policing_policy_paper",
+      "factDate": "2026-07-01",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "elections",
+      "title": "Restore Britain: election integrity objectives",
+      "url": "https://www.restorebritain.org.uk/election_integrity",
+      "factDate": "2026-02-13; current page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "liberties",
+      "title": "Restore Britain: civil liberties objectives",
+      "url": "https://www.restorebritain.org.uk/restore_civil_liberties",
+      "factDate": "2026-02-13; current page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "law",
+      "title": "Restore Britain: law, order and criminal justice objectives",
+      "url": "https://www.restorebritain.org.uk/law_order_criminal_justice",
+      "factDate": "2026-02-13; current page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Hansard: Lowe speech in firearms licensing debate",
+      "url": "https://hansard.parliament.uk/commons/2026-02-23/debates/7FA45CF2-9295-474B-9597-FA185FE366AF/FirearmsLicensing",
+      "factDate": "2026-02-23, 5:48pm",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "immigration",
+      "title": "Restore Britain: immigration and border control objectives",
+      "url": "https://www.restorebritain.org.uk/immigration_border_control",
+      "factDate": "2026-02-13; current page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "belonging",
+      "title": "Rupert Lowe: Restore Britain philosophy of national belonging",
+      "url": "https://www.restorebritain.org.uk/restore_britain_s_philosophy_of_national_belonging",
+      "factDate": "2026-09-02; linked 13-page statement read",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "foreign",
+      "title": "Restore Britain: foreign policy objectives",
+      "url": "https://www.restorebritain.org.uk/foreign_policy",
+      "factDate": "2026-02-13; current page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ukraine",
+      "title": "Lowe parliamentary question: Commons approval before deployment to Ukraine",
+      "url": "https://qna.files.parliament.uk/qnadailyreports/Written-Questions-Answers-Statements-Daily-Report-Commons-2025-05-14.pdf",
+      "factDate": "2025-05-14 answer to question 50305",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "economy",
+      "title": "Restore Britain: economy and taxation objectives",
+      "url": "https://www.restorebritain.org.uk/economy_taxation",
+      "factDate": "2026-02-13; current page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "wealth",
+      "title": "Restore Britain: The Wealth of Our Nation",
+      "url": "https://www.restorebritain.org.uk/the_wealth_of_our_nation",
+      "factDate": "2026-08-03; linked economic paper read, especially monetary policy and healthcare",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "qe",
+      "title": "Hansard: Lowe proposes restriction of quantitative easing",
+      "url": "https://hansard.parliament.uk/commons/2025-01-08/debates/8B7172B2-ADDA-4448-B830-D96FAF3FAD5E/QuantitativeEasing(Prohibition)",
+      "factDate": "2025-01-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "trade",
+      "title": "Lowe post and Commons video calling for Commonwealth free trade agreement",
+      "url": "https://www.linkedin.com/posts/rupert-lowe-mp-88774142_my-question-in-the-house-of-commons-this-activity-7256745410155659264-7G55",
+      "factDate": "Commons question 2024-10-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "environment",
+      "title": "Restore Britain: environment and infrastructure objectives",
+      "url": "https://www.restorebritain.org.uk/environment_infrastructure",
+      "factDate": "2026-02-13; current page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "energy",
+      "title": "Restore Britain: energy strategy summary and Lowe statement",
+      "url": "https://www.restorebritain.org.uk/energy_policy_paper",
+      "factDate": "2026-05-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "culture",
+      "title": "Restore Britain: social and cultural objectives",
+      "url": "https://www.restorebritain.org.uk/cultural_identity_social_issues",
+      "factDate": "2026-02-13; current page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "education",
+      "title": "Restore Britain: education objectives",
+      "url": "https://www.restorebritain.org.uk/education",
+      "factDate": "2026-02-13; current page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "health",
+      "title": "Restore Britain: healthcare objectives",
+      "url": "https://www.restorebritain.org.uk/healthcare",
+      "factDate": "2026-02-13; current page accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "euronews",
+      "title": "Euronews: Lowe conditions for alliance with Farage",
+      "url": "https://www.euronews.com/2026/08/02/rupert-lowe-offers-alliance-with-nigel-farage-to-unite-britains-hard-right",
+      "factDate": "2026-08-02",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "archive",
+      "title": "Spectator Australia: Lowe 1997 election leaflet",
+      "url": "https://www.spectator.com.au/2025/02/from-the-archives-rupert-lowes-first-fight-for-freedom/",
+      "factDate": "2025-02-27, reproducing 1997 material",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "Catholic Herald: assessment of Restore Britain Christian platform",
+      "url": "https://thecatholicherald.com/article/why-some-catholics-will-look-to-restore-britain",
+      "factDate": "2026; accessed 2026-09-30; opinion, used only to cross-check stated platform",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "devolution",
+        "policing",
+        "wealth",
+        "education",
+        "belonging"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "elections",
+        "devolution",
+        "ukraine",
+        "euronews",
+        "archive",
+        "liberties"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "guns",
+        "liberties",
+        "law",
+        "policing",
+        "culture"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "immigration",
+        "belonging",
+        "euronews"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "foreign",
+        "ukraine",
+        "energy"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "foreign",
+        "ukraine",
+        "immigration"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "wealth",
+        "economy",
+        "health",
+        "policing",
+        "environment"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "wealth",
+        "economy",
+        "qe",
+        "energy",
+        "liberties"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "archive",
+        "environment",
+        "economy",
+        "wealth"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "culture",
+        "faith",
+        "belonging"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "culture",
+        "education",
+        "liberties",
+        "faith"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "energy",
+        "environment",
+        "liberties",
+        "guns",
+        "health"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Profile covers Lowe’s 2024–September 2026 parliamentary period and Restore Britain leadership, with explicitly dated earlier context. The 240 answers are editorial simulations, not answers supplied by Lowe. Party material records proposals rather than enacted measures or independently verified outcomes.",
+    "Devolution evidence supports shifting decisions locally with financial accountability and parliamentary scrutiny. It does not establish support for sovereign regional constitutions or secession. The neutral national-health-direction answer reflects national entitlement alongside decentralised management.",
+    "Foreign-citizen voting restrictions are not treated as disenfranchisement of otherwise eligible British citizens. Support for parliamentary sovereignty is distinguished from unconstrained executive power. Constitutional-court and recall answers are analogies; no specific personal UK constitutional blueprint is claimed.",
+    "Security neutrality on phone unlocking, preventive detention and facial recognition reflects tensions between civil-liberty commitments and targeted law enforcement. Support for taxi CCTV does not establish support for universal facial recognition. Drug-policy answers are conservative inferences from law-and-order principles, not a documented manifesto commitment to every hypothetical.",
+    "The national-belonging paper asserts equal legal citizenship while favouring ancestral continuity and potentially differentiated public policy. This tension is retained; its claims about demographic replacement are not adopted as objective facts. Assimilation scores cannot fully represent that distinction.",
+    "Brazil-specific foreign-policy questions are mapped to British security and influence. Nuclear answers concern an existing UK deterrent, not universal nuclear proliferation. Parliamentary questions about Ukraine show a demand for debate and attention to escalation, not blanket opposition to every overseas deployment.",
+    "The August economic paper protects free care for citizens, encourages private spending and expressly allows effective state provision; the neutral mainly-private-healthcare answer reflects that mixed approach. Cutting welfare is not abolition of protection for the genuinely vulnerable. Fiscal estimates are the party’s own forecasts.",
+    "The monetary proposals require political authorisation for exceptional expansion and retain a central bank. Earlier anti-QE advocacy is not an abolition pledge. Cryptocurrency competition is an inference from monetary freedom and opposition to state digital surveillance, not a specific adopted Bitcoin policy.",
+    "Trade neutrality on Chinese-car tariffs and blanket import restrictions reflects competing national-resilience and free-trade principles. Opposition to foreign energy ownership is not a prohibition of all inward investment. A search result about parliamentary trade evidence concerned Sam Lowe, not Rupert Lowe, and was excluded.",
+    "Christian public identity is not evidence of Lowe’s private religious observance. Family-model and marriage answers are cautious ideological inferences, not a verified promise to repeal same-sex marriage. Early-abortion neutrality reflects liberty and protection-of-life tensions; opposition to late-abortion decriminalisation does not establish a total abortion ban.",
+    "The party’s abortion-up-to-birth wording is advocacy and is not used as a legal description of clinical gestational limits. The cultural programme is assessed as policy advocacy, not scientific validation of every assertion in it.",
+    "Biotechnology, brain implants, embryo enhancement, space and laboratory meat answers are analogies from rural stewardship, medical autonomy and industrial development. Neutral biotechnology answers represent competing therapeutic benefit and biological-limit principles, rather than an invented personal statement.",
+    "The July policing proposals support independent constables and democratic scrutiny. Free-speech commitments are qualified by the education objective’s proposed removal of supposedly anti-British courses and staff and by restrictions on extremist organisations."
+  ],
+  "distinctions": [
+    "Farage is a likely neighbour, but Lowe endorses capital punishment, tighter naturalisation, legal gun ownership and deeper spending cuts; these require distinct answers.",
+    "Thatcher shares market and sovereignty themes but differs in period, public-religion framing and contemporary migration proposals.",
+    "Hanson shares restrictive migration and criminal-justice themes, but Commonwealth trade advocacy, British monetary policy and UK devolution are assessed independently."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Rupert_Lowe_MP_crop_2.jpg",
+    "author": "©House of Commons / Laurie Noble",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Official_portrait_of_Rupert_Lowe_MP_crop_2.jpg",
+    "date": "2024-07-10",
+    "note": "Official Commons portrait, existing Commons crop resized and compressed; no facial alteration.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "nigel-farage",
+      "answersSha256": "f05ab3403522ec27a6a14db95dbcfccb187a92639e6dc3a2c1383ea567275e9b",
+      "neighborVectorSha256": "9ba6c56899722745df7bf457afb9f2657af7e1d92859112bf984cc5f39d25883",
+      "reason": "Distinct people with overlapping national-conservative programmes. Lowe supports capital punishment and legal gun ownership, while Farage opposes capital punishment. Lowe is more restrictive on citizenship, more explicit about Christian public identity and less accepting of state digital surveillance. His recent economic paper proposes stricter spending discipline and central-bank accountability; his industrial programme accepts automation. These differences produce distinct vectors across all twelve axes. Similarity is retained without altering answers to create distance.",
+      "differingAxes": [
+        "poder",
+        "imigracao",
+        "controle",
+        "religiao",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "guns",
+        "law",
+        "liberties",
+        "belonging",
+        "wealth",
+        "culture",
+        "energy"
+      ]
+    }
+  ],
+  "validationReview": "Reviewed 96.4% similarity to Tony Abbott and 95.4% to Flavio Bolsonaro. Shared conservative, market and national-identity positions are expected. Lowe has a distinct parliamentary/devolution context, monetary policy, gun-ownership policy, religious programme and technology evidence. Technology neutrals identify explicit value tensions rather than claims of personal answers to undocumented hypotheticals."
+}

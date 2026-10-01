@@ -1,0 +1,356 @@
+{
+  "id": "david-lloyd-george",
+  "profilePeriod": "Reforming minister and prime minister, 1906–1922, with the 1929 public-works programme and explicitly dated earlier/later context.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "UK Government: David Lloyd George",
+      "url": "https://www.gov.uk/government/history/past-prime-ministers/david-lloyd-george",
+      "date": "undated; events 1906–1922",
+      "accessed": "2026-10-01",
+      "evidence": "Chancellor promoted pensions and land taxation; wartime industrial mobilisation and executive centralisation; elected coalition in 1918, Versailles in 1919, Irish settlement and resignation after coalition broke in 1922."
+    },
+    {
+      "id": "S2",
+      "title": "National Library of Wales: People’s Budget and Welfare State",
+      "url": "https://www.library.wales/discover-learn/digital-exhibitions/david-lloyd-george/the-life-and-work-of-david-lloyd-george/the-peoples-budget-and-the-welfare-state",
+      "date": "undated; 1908–1911",
+      "accessed": "2026-10-01",
+      "evidence": "State pensions, 1909 redistributive budget and 1911 National Insurance legislation establish social protection, rather than replacement of the entire private economy."
+    },
+    {
+      "id": "S3",
+      "title": "National Library of Wales: David Lloyd George papers",
+      "url": "https://www.library.wales/welshpoliticalarchive/david-lloyd-george",
+      "date": "undated; career 1890–1922",
+      "accessed": "2026-10-01",
+      "evidence": "Archival institutional biography records early Welsh Home Rule and disestablishment campaigning, pensions, insurance and coalition government."
+    },
+    {
+      "id": "S4",
+      "title": "Commons Library: 1918 centenary",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-11777/",
+      "date": "2018; event 1918",
+      "accessed": "2026-10-01",
+      "evidence": "Representation of the People Act expanded voting to all men and some women; unequal female age/property qualifications remained until 1928."
+    },
+    {
+      "id": "S5",
+      "title": "National Army Museum: Irish War of Independence",
+      "url": "https://www.nam.ac.uk/explore/irish-war-independence",
+      "date": "undated; events 1919–1922",
+      "accessed": "2026-10-01",
+      "evidence": "British government used expanded police, Black and Tans, Auxiliaries, martial law and official reprisals; 1921 truce/treaty led to self-government and partition, not immediate full republican independence."
+    },
+    {
+      "id": "S6",
+      "title": "Hansard: Ex-Enemy Aliens",
+      "url": "https://hansard.parliament.uk/Commons/1920-08-05/debates/28a79fad-a0e0-4b4b-b377-5b3ae100973f/Ex-EnemyAliens",
+      "date": "1920-08-05",
+      "accessed": "2026-10-01",
+      "evidence": "Home Secretary Shortt described very restricted admission of former enemy nationals, exceptions for British-born wives and children, short stays and refusal of residence to deported enemy aliens. This is coalition policy, not a personal speech by Lloyd George."
+    },
+    {
+      "id": "S7",
+      "title": "Hansard: Munitions statement by Lloyd George",
+      "url": "https://hansard.parliament.uk/Commons/1915-12-20/debates/d3f66a1b-e83c-4511-a2fc-adbe182d30a8/STATEMENTBYMRLLOYDGEORGE",
+      "date": "1915-12-20",
+      "accessed": "2026-10-01",
+      "evidence": "Lloyd George described systematic machinery censuses, expansion of shell output and lower manufacturing costs: concrete support for industrial technology, state coordination and private contracting."
+    },
+    {
+      "id": "S8",
+      "title": "Liberal History: Lloyd George biography",
+      "url": "https://liberalhistory.org.uk/history/lloyd-george-david-earl-lloyd-george-and-viscount-gwynedd/",
+      "date": "undated; events 1911–1931",
+      "accessed": "2026-10-01",
+      "evidence": "1911 Agadir warning rejected peace at any price when British vital interests were threatened; 1923 reunification of Liberals against tariffs; later criticism of unemployment policy timidity."
+    },
+    {
+      "id": "S9",
+      "title": "Hansard: Safeguarding of Industries",
+      "url": "https://hansard.parliament.uk/Commons/1925-02-16/debates/72532988-3e45-49e8-9a05-35dc45c303a6/SafeguardingOfIndustries",
+      "date": "1925-02-16",
+      "accessed": "2026-10-01",
+      "evidence": "Lloyd George defended the established free-trade basis of British shipping, cotton, machinery and banking and opposed new tariff proposals. Opponents identified tension with his own 1921 strategic safeguarding legislation."
+    },
+    {
+      "id": "S10",
+      "title": "Church in Wales: Disestablishment history",
+      "url": "https://www.churchinwales.org.uk/en/translations/page/3611/",
+      "date": "undated; events 1912–1914",
+      "accessed": "2026-10-01",
+      "evidence": "Institutional church account describes Lloyd George’s nonconformist campaign for disestablishment, with disagreement over disendowment even among dissenters."
+    },
+    {
+      "id": "S11",
+      "title": "G. I. T. Machin: Nonconformity and Radicalism",
+      "url": "https://liberalhistory.org.uk/wp-content/uploads/2014/10/77_Machin_LG_nonconformity_and_radicalism_1890-1906.pdf",
+      "date": "2012–2013; historical context 1890–1906",
+      "accessed": "2026-10-01",
+      "evidence": "Documented causes include temperance, religious equality in burials, undenominational education, opposition to tithes and state church privilege. Religious reform does not imply hostility to religion."
+    },
+    {
+      "id": "S12",
+      "title": "National Library of Wales: Votes for Women",
+      "url": "https://www.library.wales/discover-learn/digital-exhibitions/david-lloyd-george/the-life-and-work-of-david-lloyd-george/votes-for-women",
+      "date": "undated; events through 1918",
+      "accessed": "2026-10-01",
+      "evidence": "Early support for women’s suffrage coexisted with rejection of the 1910 limited franchise proposal as favouring Conservatives. Supports reforming politics but does not establish modern sexual-identity positions."
+    },
+    {
+      "id": "S13",
+      "title": "We Can Conquer Unemployment: original book record/preview",
+      "url": "https://books.google.com/books/about/We_Can_Conquer_Unemployment.html?id=_YEEAAAAMAAJ",
+      "date": "1929",
+      "accessed": "2026-10-01",
+      "evidence": "Book credited to David Lloyd George and Liberal Party; programme includes roads, bridges, housing, telephone development and land drainage, demonstrating practical infrastructure modernisation."
+    },
+    {
+      "id": "S14",
+      "title": "Peter Sloman: Can we conquer unemployment?",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2281.12064",
+      "date": "2014-04-13; policy 1929",
+      "accessed": "2026-10-01",
+      "evidence": "Research abstract identifies Lloyd George’s pledge for loan-financed public works in 1929 and later Liberal involvement in the orthodox National Government. The abstract alone was used."
+    },
+    {
+      "id": "S15",
+      "title": "National Library of Ireland: War memoirs bibliographic record",
+      "url": "https://catalogue.nli.ie/Record/vtls000401938",
+      "date": "1933–1936",
+      "accessed": "2026-10-01",
+      "evidence": "Six-volume War memoirs of David Lloyd George, main creator David Lloyd George, London I. Nicholson & Watson, first publication starting 1933; political and wartime leadership memoir."
+    },
+    {
+      "id": "S16",
+      "title": "Hansard: Firearms Bill",
+      "url": "https://hansard.parliament.uk/commons/1920-06-08/debates/75e23694-08f0-49d1-9c38-4c87ec8ff258/FIREARMSBILL%28LORDS%29",
+      "date": "1920-06-08",
+      "accessed": "2026-10-01",
+      "evidence": "Government firearms bill imposed police certificates, good reason and suitability conditions. This is administration-level evidence of regulation, not a personal statement by Lloyd George."
+    },
+    {
+      "id": "S17",
+      "title": "National Library of Wales: letter to William George",
+      "url": "https://www.library.wales/fileadmin/docs_gwefan/new_structure/catalogues/about_our_collections/archives/welsh_pol_archive/newsletter/english/cylch_awg_9.pdf",
+      "date": "letter 1914-08-25; archive newsletter undated",
+      "accessed": "2026-10-01",
+      "evidence": "His letter describes reluctant entry into war because of Belgium, followed by determination to fight through. This qualifies both absolute pacifist and unconditional militarist readings."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "Early Welsh Home Rule campaign; 1920 Irish devolved structures and 1921 negotiated dominion self-government.",
+        "1908–1911 national welfare funding and wartime coordination used central capacity."
+      ],
+      "sources": [
+        "S3",
+        "S5",
+        "S2",
+        "S1"
+      ],
+      "tension": "Territorial self-government subject to imperial framework and central fiscal/social responsibilities; no unlimited unilateral secession principle."
+    },
+    "representacao": {
+      "facts": [
+        "1911 weakening of hereditary Lords veto and 1918 franchise expansion.",
+        "1916–1922 executive centralisation operated inside parliamentary coalition; resignation when coalition support ended."
+      ],
+      "sources": [
+        "S1",
+        "S4"
+      ],
+      "tension": "Broad male franchise and partial female suffrage coexist with executive pragmatism and parliamentary, rather than direct-assembly, democracy."
+    },
+    "poder": {
+      "facts": [
+        "1919–1921 coercion in Ireland included martial law, arrests and reprisals.",
+        "1920 government firearms licensing required police approval."
+      ],
+      "sources": [
+        "S5",
+        "S16"
+      ],
+      "tension": "Liberal legal tradition and ordinary parliamentary opposition survived; emergency coercion cannot be treated as uniformly libertarian or totalitarian."
+    },
+    "imigracao": {
+      "facts": [
+        "1920 government severely restricted ex-enemy aliens, with specified family exceptions.",
+        "Welsh language/national distinctiveness and religious minority equality were central earlier causes."
+      ],
+      "sources": [
+        "S6",
+        "S3",
+        "S11"
+      ],
+      "tension": "Border control and national loyalty coexist with internal cultural pluralism; immigration law is not direct evidence of a demand to erase all minority customs."
+    },
+    "diplomacia": {
+      "facts": [
+        "1914 personal letter justified entering war for Belgium; 1915 munitions expansion followed.",
+        "1919 Versailles/League settlement and 1921 Irish negotiation coexisted with military threats."
+      ],
+      "sources": [
+        "S17",
+        "S7",
+        "S1",
+        "S5"
+      ],
+      "tension": "Negotiation and force both legitimate; no peace at any price and no permanent-war ideology."
+    },
+    "intervencao": {
+      "facts": [
+        "Agadir speech in 1911 asserted British vital interests.",
+        "1919 peace settlement and 1922 Turkish crisis show imperial projection, while Irish treaty accepted compromise."
+      ],
+      "sources": [
+        "S8",
+        "S1",
+        "S5"
+      ],
+      "tension": "International institutions did not erase empire, strategic bases or national interest; not an isolationist."
+    },
+    "economia": {
+      "facts": [
+        "Pensions and insurance (1908–1911), redistributive taxation and land reform.",
+        "1915 industrial policy used both state coordination and private producers."
+      ],
+      "sources": [
+        "S2",
+        "S3",
+        "S7"
+      ],
+      "tension": "Social liberal mixed economy: rejects both laissez-faire abandonment and general abolition of owners."
+    },
+    "controle": {
+      "facts": [
+        "1909 wealth/land taxation and 1915 organised industrial mobilisation.",
+        "1929 loan-financed infrastructure programme to reduce unemployment."
+      ],
+      "sources": [
+        "S2",
+        "S7",
+        "S13",
+        "S14"
+      ],
+      "tension": "Supports intervention for welfare and investment, not universal state planning of every economic decision."
+    },
+    "comercio": {
+      "facts": [
+        "1925 explicit defence of free trade and criticism of tariff expansion.",
+        "1921 safeguarding policy created narrow strategic exceptions, identified in debate."
+      ],
+      "sources": [
+        "S9",
+        "S8"
+      ],
+      "tension": "Generally free trading but not indifferent to strategic industrial resilience or emergency security."
+    },
+    "religiao": {
+      "facts": [
+        "Nonconformist disestablishment campaign and undenominational education; religious equality.",
+        "Earlier temperance and Free Church activism show a positive religious social inheritance."
+      ],
+      "sources": [
+        "S10",
+        "S11"
+      ],
+      "tension": "Rejects established-church privilege without identifying secular government with abolition of religion."
+    },
+    "moral": {
+      "facts": [
+        "Women’s suffrage support from early career, 1910 tactical rejection, partial enfranchisement in 1918.",
+        "Temperance and nonconformist reforming public morality were documented earlier influences."
+      ],
+      "sources": [
+        "S12",
+        "S4",
+        "S11"
+      ],
+      "tension": "Women’s public participation challenges rigid domestic roles; does not establish modern LGBT, abortion or gender-language positions. Such answers are cautious historical extrapolation, never direct attribution."
+    },
+    "tecnologia": {
+      "facts": [
+        "1915 machinery census, organised production and technical efficiency.",
+        "1929 roads, telephones, housing and land drainage investment."
+      ],
+      "sources": [
+        "S7",
+        "S13"
+      ],
+      "tension": "Industrial modernisation with employment/social aims is not unlimited transhumanism; genetic engineering, climate and AI questions require analogy."
+    }
+  },
+  "limitations": [
+    "Modern Brazilian institutions and technologies are interpreted by historical functional analogy, not represented as literal statements.",
+    "Moral/biotechnology items have less direct evidence than economy, war, religion and constitutional practice. Absence of a statement is not used to justify N.",
+    "Government policies are distinguished from personal quotations, especially aliens and firearms rules.",
+    "Book translation searches for Lloyd George / Memórias de guerra / editora did not verify a Brazilian published edition. Original title retained; this is not proof no translation exists.",
+    "The saved historical period is retained; later private opinions are not substituted for 1906–1922 government practice."
+  ],
+  "recommendedMetadata": {
+    "status": "unchanged",
+    "reason": "Existing PT/EN metadata accurately captures welfare reform, wartime mobilisation, imperial power and negotiated Irish self-government; reported to coordinator before answers."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political and wartime leadership memoir; the major six-volume account is a stronger representative work than the shorter jointly credited 1929 election programme. First volume 1933; no verified Brazilian title found.",
+    "book": {
+      "personalityId": "david-lloyd-george",
+      "title": {
+        "pt": "War Memoirs of David Lloyd George",
+        "en": "War Memoirs of David Lloyd George"
+      },
+      "year": 1933,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "S15",
+      "S13"
+    ]
+  },
+  "processNotes": [
+    "One independent review by the assigned agent; no previous answers, stored vectors, similarity reports or numerical targets read.",
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, new-personality skill, README.md and own saved prompt; extracted only profilePeriod/source URLs from prior research.",
+    "Research and metadata assessment completed before question answers.",
+    "Likely conceptual neighbours identified before answering: Churchill shares wartime empire but differs on Welsh devolution and redistributive/free-trade emphasis; Keynes shares public works but not elected imperial command; Asquith shares liberal reforms but differs in executive/mobilisation leadership. No neighbour answers were inspected.",
+    "Dedicated weak-axis searches addressed religion, moral, immigration and technology.",
+    "N is reserved for genuine balancing tension; answers will be chosen independently by question meaning.",
+    "Answers chosen independently once, from each question and evidence; no adjustment for similarity. Archetypes chosen by text: F/C/C/B/D. Neutral items mark actual competing commitments, not missing contemporary statements.",
+    "Verified saved prompt includes exact questions-template.txt and freshly generated archetype block; original README methodology retained verbatim.",
+    "Original validation exited 1: blocking duplicate check 98.1% with lyndon-b-johnson and nonblocking warning 95.3% with harry-truman. No merge or answer revision followed; coordinator informed. Strict final compliance is not claimed while blocker remains."
+  ],
+  "neutralCount": {
+    "total": 17,
+    "totalAnswers": 240,
+    "perAxis": {
+      "estrutura": 1,
+      "representacao": 2,
+      "poder": 0,
+      "imigracao": 2,
+      "diplomacia": 1,
+      "intervencao": 1,
+      "economia": 2,
+      "controle": 0,
+      "comercio": 2,
+      "religiao": 2,
+      "moral": 1,
+      "tecnologia": 3
+    }
+  },
+  "hashes": {
+    "promptSha256": "e812bae9da3f83fbcb4ccc6d407a7bbe19f5bff4b5c94eaedd72435c426ba7c4",
+    "answersSha256": "c43d8cc714a5b78d6e720c126aea40287b568c942ef6f97538f945ee51daa9d0"
+  },
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality david-lloyd-george",
+    "exitCode": 1,
+    "stdout": "validando personality:david-lloyd-george\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/david-lloyd-george.json\n\n[ARQUETIPO] sociedade F · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 17/240 = 7.1%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         53.3  centralizado/unitario <-> descentralizado/federal\n  representacao     68.0  autocracia <-> democracia\n  poder             68.7  liberdade civil <-> ordem/vigilancia\n  imigracao         47.9  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        61.2  pacifista <-> militarista\n  intervencao       22.1  nacionalista assertivo <-> nao-intervencionista\n  economia          58.0  privado/mercado <-> publico/coletivo\n  controle          70.0  livre mercado <-> planejamento\n  comercio          28.2  livre comercio/globalista <-> protecionista\n  religiao          44.0  religioso <-> irreligioso/secular\n  moral             30.8  tradicionalista <-> progressista\n  tecnologia        64.1  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         53.3   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     68.0   | Kim Jong Un=6 .. José Mujica=86\n  poder             68.7   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         47.9   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        61.2   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       22.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          58.0   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          70.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          28.2   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          44.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             30.8   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        64.1   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.1%  lyndon-b-johnson  <<< BLOQUEIA\n   95.3%  harry-truman  <<< aviso\n   92.4%  scott-morrison\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.3% proximo de 'harry-truman'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.1% identico a 'lyndon-b-johnson' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": ""
+  }
+}

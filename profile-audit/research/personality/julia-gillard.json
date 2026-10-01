@@ -1,0 +1,421 @@
+{
+  "id": "julia-gillard",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Career emphasis on deputy premiership 2007–2010 and premiership 2010–2013, with explicitly dated later positions on marriage equality and education through October 2025; sources checked September 2026.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "naa-life",
+      "title": "National Archives: Julia Gillard biography",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/julia-gillard",
+      "factDate": "1961–; premiership 2010–2013",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "naa-office",
+      "title": "National Archives: Gillard in office, minority government, carbon pricing, NBN, NDIS and education",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/julia-gillard/during-office",
+      "factDate": "2010–2013",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "health",
+      "title": "Gillard: national health standards, shared funding and local hospital control",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17661",
+      "factDate": "2011-02-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "economy",
+      "title": "Gillard: market design, public and private providers, national standards and independent Reserve Bank",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17445",
+      "factDate": "2010-07-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "democracy-marriage",
+      "title": "Gillard: Michael Kirby Oration, parliamentary democracy and support for same-sex marriage",
+      "url": "https://content.vu.edu.au/sites/default/files/hon-julia-gillard-oration-transcript.pdf",
+      "factDate": "2015-08-26",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "equality-2025",
+      "title": "Gillard: University of Sydney address on education, authoritarianism and diversity",
+      "url": "https://www.sydney.edu.au/content/dam/corporate/images/news-and-opinion/news/2025/october/julia-gillard-occasional-address.pdf",
+      "factDate": "2025-10-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "death-penalty",
+      "title": "Gillard: opposition to death penalty and workplace agreements",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-15713",
+      "factDate": "2008-01-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Gillard: interview supporting Australian firearms restrictions",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-19000",
+      "factDate": "2013-01-18",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "drugs",
+      "title": "ABC: Gillard rejects decriminalisation while supporting addiction treatment",
+      "url": "https://www.abc.net.au/news/2012-04-03/eminent-group-calls-for-end-to-drug-prohibition/3928706",
+      "factDate": "2012-04-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "euthanasia",
+      "title": "Gillard: reservations about safeguards in assisted dying",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17746",
+      "factDate": "2011-03-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "filter",
+      "title": "ABC: proposed mandatory internet filter abandoned in favour of narrower blocking",
+      "url": "https://www.abc.net.au/news/2012-11-09/government-abandons-plans-for-internet-filter/4362354",
+      "factDate": "2012-11-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "security",
+      "title": "Gillard: National Security Strategy, defence, diplomacy, intelligence and rights",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-19005",
+      "factDate": "2013-01-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "multicultural",
+      "title": "Gillard: Australian Multicultural Council lecture",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18809",
+      "factDate": "2012-09-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "asylum",
+      "title": "Gillard government: memorandum on offshore asylum processing in Nauru",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18767",
+      "factDate": "2012-08-29",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "marines",
+      "title": "Gillard government: first US Marine rotational deployment to northern Australia",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18484",
+      "factDate": "2012-04-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "ndis",
+      "title": "Gillard government: NDIS design, insurance and individualised choice",
+      "url": "https://formerministers.dss.gov.au/11961/designing-a-national-disability-insurance-scheme/",
+      "factDate": "2011-12-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "trade",
+      "title": "Gillard: TPP negotiations and eliminating tariffs",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18268",
+      "factDate": "2011-11-12",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "industry",
+      "title": "Gillard: steel tariffs rejected, Australian procurement and manufacturing support",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18092",
+      "factDate": "2011-08-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "SBS interview: Gillard describes her atheism",
+      "url": "https://www.sbs.com.au/news/article/julia-gillard-talks-gay-marriage-kevin-rudd-and-that-speech-in-exclusive-interview/ov0tzr4gd",
+      "factDate": "2014-09-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "schools",
+      "title": "Gillard: parental choice in religious schools and shared curriculum",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-15716",
+      "factDate": "2008-01-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "chaplains",
+      "title": "ABC: Gillard government allowed secular welfare workers alongside chaplains",
+      "url": "https://www.abc.net.au/news/2014-08-29/sa-act-reject-government-offer-to-fund-chaplaincy-program/5707430",
+      "factDate": "2011 policy described 2014-08-29",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "health-rights",
+      "title": "Gillard: AMA speech on reproductive choice, public health and Indigenous services",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18755",
+      "factDate": "2012-08-22",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "lgbti",
+      "title": "Dreyfus and Wong: Gillard government anti-discrimination proposal",
+      "url": "https://markdreyfus.com/media/media-releases/new-anti-discrimination-laws-to-cover-sexual-orientation-gender-identity-and-intersex-status-mark-dreyfus-qc-mp/",
+      "factDate": "2013-03-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nuclear",
+      "title": "Gillard: safeguarded uranium exports to India, but no domestic nuclear power",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18271",
+      "factDate": "2011-11-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "biotech",
+      "title": "ABC: Gillard distinguishes therapeutic research from reproductive cloning",
+      "url": "https://www.abc.net.au/news/2006-08-20/abbott-remains-unconvinced-of-stem-cell-benefits/1243164",
+      "factDate": "2006-08-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "hawke-structure",
+      "title": "ABC: Hawke advocates abolition of states and nuclear power",
+      "url": "https://www.abc.net.au/news/2016-12-28/we-must-embrace-nuclear-power-bob-hawke-divides-audience/8151346",
+      "factDate": "2016-12-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "hawke-euthanasia",
+      "title": "ABC: Hawke calls for assisted-dying reform",
+      "url": "https://www.abc.net.au/listen/programs/radionational-breakfast/former-prime-minister-bob-hawke-calls-for/7325242",
+      "factDate": "2016-04-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "albanese-faith",
+      "title": "Albanese: Catholic upbringing and public life, Squiz interview",
+      "url": "https://www.pm.gov.au/media/podcast-interview-squiz",
+      "factDate": "2025-01-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "scholz-federalism",
+      "title": "Inaugural Bundesrat address",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/antrittsrede-von-bundeskanzler-olaf-scholz-2005572",
+      "factDate": "2022-02-11",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-cannabis",
+      "title": "Health Ministry account of the Cannabis Act",
+      "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/bt-beschliesst-kontrollierte-abgabe-von-cannabis-zu-konsumzwecken-pm-23-02-2024",
+      "factDate": "2024-02-23; regulated adult possession and cultivation, not unrestricted drug sales",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-uniper",
+      "title": "Uniper shareholder structure and rescue history",
+      "url": "https://www.uniper.energy/de/investoren/aktie/aktionaersstruktur",
+      "factDate": "September–December 2022 rescue; shareholding snapshot 2024-02-29",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-fiscal-reform",
+      "title": "Scholz campaign conference speech",
+      "url": "https://olaf-scholz.spd.de/aktuelles/detail/news/rede-anlaesslich-der-wahlsiegkonferenz/30/11/2024",
+      "factDate": "2024-11-30; limited debt-rule reform and higher taxes on the wealthiest",
+      "accessedOn": "2026-10-01"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "health",
+        "economy",
+        "schools"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "democracy-marriage",
+        "equality-2025",
+        "naa-office"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "death-penalty",
+        "guns",
+        "drugs",
+        "euthanasia",
+        "filter",
+        "security"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "multicultural",
+        "asylum",
+        "schools"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "security",
+        "marines",
+        "nuclear",
+        "naa-office"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "security",
+        "marines",
+        "naa-office",
+        "trade"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "economy",
+        "health",
+        "ndis",
+        "naa-office",
+        "death-penalty"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "economy",
+        "industry",
+        "naa-office",
+        "health-rights"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "industry",
+        "economy",
+        "nuclear"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "schools",
+        "chaplains",
+        "equality-2025"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "health-rights",
+        "lgbti",
+        "democracy-marriage",
+        "equality-2025"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "nuclear",
+        "biotech",
+        "health-rights",
+        "naa-office",
+        "equality-2025"
+      ]
+    }
+  },
+  "uncertainties": [
+    "These answers are editorial interpretations of the recorded career, not a questionnaire answered by Gillard or a claim that every past position is a current policy pledge.",
+    "The profile incorporates her explicit 2015 change on marriage equality. Her 2014 interview is used only for religious self-description, not as her final marriage position.",
+    "The asylum-processing restriction is not treated as hostility to multiculturalism. The 2012 Nauru arrangement is distinct from Rudd's July 2013 no-Australian-resettlement policy.",
+    "National standards are not equated with eliminating state governments. Her 2011 hospital plan preserved GST revenue and local hospital control.",
+    "The surplus mentioned in the 2010 speech was a target, not proof a surplus was delivered. Public service funding does not imply that every provider must be state-owned.",
+    "The 2013 proposed gender-identity protections support a bounded anti-discrimination inference. They do not establish her answer to every later dispute about sports, medical care or legal sex.",
+    "The 2025 defence of diversity is broader than a specific racial-quota design; the Brazilian quota questions are interpreted as targeted measures against disadvantage.",
+    "The broad mandatory internet filter was dropped in 2012. This does not imply repeal of all controls on unlawful content, nor blanket support for deleting political disagreement.",
+    "Her criticism of exaggerated claims about therapeutic cloning is not evidence for unregulated reproductive cloning or elective enhancement of embryos.",
+    "There is no direct evidence here for compulsory vaccination, forced phone unlocking, facial recognition, cryptocurrency, polyamory, cultured meat, brain implants or neutral-language mandates. Neutral answers or limited inference are used rather than invented quotations.",
+    "The nuclear/AI/genetic-engineering question bundles different technologies: opposition to domestic nuclear power constrains the answer despite support for medical research and digital infrastructure.",
+    "Claims in political speeches about opponents or economic performance are used as evidence of policy preferences, not automatically adopted as independently verified facts."
+  ],
+  "distinctions": [
+    "Unlike Rudd, Gillard describes herself as atheist while still accommodating religious schools and pastoral care.",
+    "Her economic model explicitly combines public and private service providers; NDIS public financing and personal choice should not be flattened into full state production.",
+    "Her later support for marriage equality is distinguished from the opposition she maintained while prime minister.",
+    "Strong support for the US alliance coexists with diplomacy and fiscal restraint on defence; neither pacifism nor unlimited militarism captures this combination.",
+    "The 95.4% proximity to the existing Jonas Gahr Støre model was reviewed: Gillard differs on parliamentary representation, free trade and technological caution. Similarity is not treated as identity or a historical measurement."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Julia-gillard-official-portrait-pmc.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Julia-gillard-official-portrait-pmc.jpg",
+    "localPath": "frontend/public/personalities/portraits/julia-gillard.jpg",
+    "note": "Official 2010 portrait. Attribution: © Commonwealth of Australia (National Archives of Australia) 2019. CC BY 3.0 AU; resized and compressed. Visually inspected.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "anthony-albanese",
+      "answersSha256": "f52276541632e370220ba0b4faea1683c096f77eaea44a70bd42989402ea27ec",
+      "neighborVectorSha256": "4bd0e8ced39e9e92b7c7a8e7b2296515bb47f92abbc2d63327e1fb1d930955f7",
+      "reason": "The two Labor leaders plausibly overlap on democracy, public services and equality. Gillard's stored model differs on religiao (63.1 versus 56.0), with her explicit atheism distinguished from Albanese's Catholic upbringing; economia (60.3 versus 66.3) reflects her express parity of public and private providers; intervencao (30.5 versus 43.6) reflects her active alliance and regional-security record. These are differences between editorial models, not empirical measurements of personal distance. The original answers were retained without adjusting them to reduce similarity.",
+      "differingAxes": [
+        "religiao",
+        "economia",
+        "intervencao"
+      ],
+      "sourceIds": [
+        "faith",
+        "albanese-faith",
+        "economy",
+        "security",
+        "marines"
+      ]
+    },
+    {
+      "comparedWith": "bob-hawke",
+      "answersSha256": "f52276541632e370220ba0b4faea1683c096f77eaea44a70bd42989402ea27ec",
+      "neighborVectorSha256": "0fbc55e4f822e467496848135b1575279ac77532053b5c684d9eeaac0047bbc1",
+      "reason": "Both profiles describe democratic Labor reformers. Gillard preserves state governments and local hospital control, unlike Hawke's explicit state-abolition proposal (estrutura 42.6 versus 27.1). Her assisted-dying reservations differ from Hawke's later support (poder 59.1 versus 50.8), while her offshore asylum processing and civic integration requirements help explain imigracao 37.9 versus 26.0. The scores combine many questions; these examples are not a claim that one policy wholly determines an axis. No answers were changed to manufacture distance.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "imigracao"
+      ],
+      "sourceIds": [
+        "health",
+        "euthanasia",
+        "asylum",
+        "multicultural",
+        "hawke-structure",
+        "hawke-euthanasia"
+      ]
+    },
+    {
+      "comparedWith": "olaf-scholz",
+      "answersSha256": "f52276541632e370220ba0b4faea1683c096f77eaea44a70bd42989402ea27ec",
+      "neighborVectorSha256": "7f069691b103fdceaa383fd02a94854cf054b969f26246ba53f259f06123fe1c",
+      "reason": "Both are secular parliamentary social democrats, but Scholz’s federalist speech supports more territorial autonomy than Gillard’s national coordination. His coalition legalised regulated cannabis while Gillard rejected decriminalisation. The Uniper rescue and late investment/debt-rule programme also leave Scholz more supportive of public ownership and economic intervention in these answers than Gillard’s mixed-provider, market-design record. Neither vector is identical; preserve the researched overlap.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "economia",
+        "controle"
+      ],
+      "sourceIds": [
+        "health",
+        "economy",
+        "drugs",
+        "security",
+        "scholz-federalism",
+        "scholz-cannabis",
+        "scholz-uniper",
+        "scholz-fiscal-reform"
+      ]
+    }
+  ]
+}

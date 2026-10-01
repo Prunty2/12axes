@@ -1,0 +1,376 @@
+{
+  "id": "angus-taylor",
+  "sources": [
+    {
+      "id": "AT01",
+      "title": "Coalition Budget in Reply",
+      "url": "https://angustaylor.com.au/our-budget",
+      "date": "2026-05-14 (2026 budget reply; live page accessed 2026-10-01)",
+      "accessed": "2026-10-01",
+      "evidence": "Income-tax indexation, regulatory repeal and private enterprise, alongside housing infrastructure funding and fuel storage support. Migration tied to homes built; citizenship restrictions for benefits with humanitarian exemptions. Supports AUKUS, drones, missiles and defence spending of at least 3% of GDP; nuclear prohibition repeal."
+    },
+    {
+      "id": "AT02",
+      "title": "Here is what we know about Angus Taylor’s policies",
+      "url": "https://www.abc.net.au/news/2026-02-14/what-we-know-about-angus-taylor-policies/106342170",
+      "date": "2026-02-14",
+      "accessed": "2026-10-01",
+      "evidence": "Free markets and deregulation; explicitly dislikes tariffs and seeks foreign market access for miners, farmers, manufacturers and services. Accepts beneficial immigration while demanding democratic values and lower numbers. Became leader in February 2026."
+    },
+    {
+      "id": "AT03",
+      "title": "Shut the door: Liberal leader mulls migration change",
+      "url": "https://aapnews.aap.com.au/news/exiles-poised-to-return-to-fore-as-liberals-shift-right",
+      "date": "2026-02-16",
+      "accessed": "2026-10-01",
+      "evidence": "Values-based immigration restrictions rather than race or religion; democracy, law and freedoms central. Would exclude extremists. Calls for bipartisan spending audit, not cancellation of democratic opposition."
+    },
+    {
+      "id": "AT04",
+      "title": "The Coalition’s plan to kill the illicit tobacco market and smash the gangs",
+      "url": "https://www.angustaylor.com.au/media/the-coalitions-plan-to-kill-the-illicit-tobacco-market-and-smash-the-gangs",
+      "date": "2026-09-03",
+      "accessed": "2026-10-01",
+      "evidence": "Proposes 80% tobacco-excise reduction, legal regulated adult vapes/nicotine pouches, $200m enforcement surge, raids, seizures and financial investigation; national consistency in penalties with cooperation between federal and state police, retaining distinct state forces."
+    },
+    {
+      "id": "AT05",
+      "title": "Coalition opposes Labor’s Digital Duty of Care Bill in its current form",
+      "url": "https://www.angustaylor.com.au/media/coalition-opposes-labors-digital-duty-of-care-bill-in-its-current-form",
+      "date": "2026-09-10",
+      "accessed": "2026-10-01",
+      "evidence": "Rejects broad ministerial powers over lawful online speech, including political and religious debate, while supporting child protection, parental empowerment and accountability for platforms."
+    },
+    {
+      "id": "AT06",
+      "title": "Coalition will protect and defend our National Day, our National Flag, and our war memorials",
+      "url": "https://www.liberal.org.au/2026/09/06/coalition-will-protect-and-defend-our-national-day-our-national-flag-and-our-war-memorials",
+      "date": "2026-09-06",
+      "accessed": "2026-10-01",
+      "evidence": "Joint Taylor release proposes federal flag-desecration offence subject to hatred, violence or public-order conditions, memorial protection and statutory Australia Day with plebiscite needed to change date. National symbolism is protected even while other speech remains free."
+    },
+    {
+      "id": "AT07",
+      "title": "Marriage Amendment debate, Angus Taylor at 10:57 am",
+      "url": "https://www.openaustralia.org.au/debates/?id=2017-12-06.6.1",
+      "date": "2017-12-06",
+      "accessed": "2026-10-01",
+      "evidence": "Taylor describes strong Christian belief and personal no vote, but accepts the national and electorate yes result and supports passage. Supports parental choice and religious/speech safeguards; rejects sexuality-based bullying. Opposes general bills of rights, favouring specific statutory protections. Read only Taylor’s speech, not adjacent speakers."
+    },
+    {
+      "id": "AT08",
+      "title": "Interview with Rafael Epstein, ABC Radio Melbourne",
+      "url": "https://www.minister.industry.gov.au/ministers/taylor/transcripts/interview-rafael-epstein-abc-radio-melbourne",
+      "date": "2018-10-10",
+      "accessed": "2026-10-01",
+      "evidence": "Supports national electricity reliability obligation through state cooperation; balances religious freedom with discrimination concerns rather than granting unconditional religious-school exclusion rights."
+    },
+    {
+      "id": "AT09",
+      "title": "Federal politics live blog: curriculum clarification",
+      "url": "https://www.abc.net.au/news/2026-09-04/federal-politics-live-blog-september-4/107114688",
+      "date": "2026-09-04",
+      "accessed": "2026-10-01",
+      "evidence": "Taylor clarified that consent is important and should be taught at school; seeks review of politicisation of curriculum. Do not treat previous evasive comments as opposition to teaching consent."
+    },
+    {
+      "id": "AT10",
+      "title": "Government should be prepared to act on Taiwan, Angus Taylor says",
+      "url": "https://www.abc.net.au/news/2025-07-15/government-should-be-prepared-to-act-on-taiwan-taylor-says/105535912",
+      "date": "2025-07-15",
+      "accessed": "2026-10-01",
+      "evidence": "Supports principled joint commitment to Taiwan security and readiness to act under some circumstances, deterrence and AUKUS; does not codify every hypothetical war commitment."
+    },
+    {
+      "id": "AT11",
+      "title": "Signed ministerial response on encryption to Access Now",
+      "url": "https://www.accessnow.org/wp-content/uploads/2018/08/signed-response-from-Minister-Angus-Taylor.pdf",
+      "date": "2018-08 (response to 2018-07-17 letter)",
+      "accessed": "2026-10-01",
+      "evidence": "Primary signed ministerial response supports strong encryption but seeks lawful agency access against terrorism, child sex abuse and organised crime. Do not confuse targeted warranted access with unlimited monitoring of citizens."
+    },
+    {
+      "id": "AT12",
+      "title": "Coalition vows to match Labor’s $8.5bn Medicare pledge",
+      "url": "https://www.abc.net.au/news/2025-02-23/coalition-wont-oppose-labor-medicare-funding/104970582",
+      "date": "2025-02-23",
+      "accessed": "2026-10-01",
+      "evidence": "Taylor says Coalition will not oppose Medicare funding increase. This bounds market preferences: no evidence here of abolition of public healthcare or privatisation of police/courts."
+    },
+    {
+      "id": "AT13",
+      "title": "Address to the Sydney Institute",
+      "url": "https://www.liberal.org.au/2026/07/09/address-to-the-sydney-institute",
+      "date": "2026-07-09",
+      "accessed": "2026-10-01",
+      "evidence": "Attacks large government and supports free enterprise, while defending temporary pandemic interventions to save jobs/businesses. Wants net-zero obligations and EV incentives removed; energy affordability and industry prioritised."
+    },
+    {
+      "id": "AT14",
+      "title": "Prime Minister must guarantee WA’s GST share",
+      "url": "https://www.michaeliacash.com.au/federal-news/media-release/media-release-prime-minister-must-guarantee-was-gst-share/",
+      "date": "2023-04-12",
+      "accessed": "2026-10-01",
+      "evidence": "Joint release with Taylor opposes reversing the Western Australian GST floor. Evidence from indexed release; direct open failed. Supports state fiscal interests within Commonwealth redistribution, not full local retention."
+    },
+    {
+      "id": "AT15",
+      "title": "Angus Taylor parliamentary voting record",
+      "url": "https://theyvoteforyou.org.au/people/representatives/hume/angus_taylor",
+      "date": "Votes 2017-12-07, 2021-12-01 and 2022-08-03; live compilation",
+      "accessed": "2026-10-01",
+      "evidence": "Voted against Restoring Territory Rights Bill 2022; voted for religious/conscience amendments to marriage legislation; voted against amendment prohibiting destruction of zygotes/embryos in mitochondrial donation reform. Euthanasia/territorial-autonomy tension; biomedical caution must not become blanket opposition to therapeutic technology."
+    },
+    {
+      "id": "AT16",
+      "title": "The Promise of Digital Government publisher record",
+      "url": "https://www.connorcourtpublishing.com.au/The-Promise-of-Digital-Government_p_21.html",
+      "date": "2016-04 publication",
+      "accessed": "2026-10-01",
+      "evidence": "Publisher identifies Angus Taylor, 80-page paperback, ISBN 9781925501025, published April 2016; full title The Promise of Digital Government: Transforming Public Services, Regulation, and Citizenship. Political argument for digitally transformed public services, regulation and citizenship."
+    },
+    {
+      "id": "AT17",
+      "title": "Coalition climate repeal announcement",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/23/angus-taylor-pledges-to-repeal-swathe-of-climate-policies-saying-australia-has-done-its-bit",
+      "date": "2026-09-23",
+      "accessed": "2026-10-01",
+      "evidence": "Taylor reiterated climate-policy repeal and technology-led emissions choices in September 2026."
+    },
+    {
+      "id": "AT18",
+      "title": "Labor must scrap carbon tax to make WA oil refinery a reality",
+      "url": "https://www.liberal.org.au/2026/07/28/labor-must-scrap-carbon-tax-to-make-wa-oil-refinery-a-reality",
+      "date": "2026-07-28",
+      "accessed": "2026-10-01",
+      "evidence": "Taylor backs new Karratha refinery feasibility, domestic oil/gas development, fuel-security support and reserves, and scrapping carbon taxes/net zero. Strategic energy security complicates free-market and free-trade instincts."
+    },
+    {
+      "id": "AT19",
+      "title": "Angus Taylor Kitchen Cabinet interview",
+      "url": "https://www.abc.net.au/news/2026-07-29/angus-taylor-kitchen-cabinet-rhodes-scholarship-infrastructure/106965384",
+      "date": "2026-07-29",
+      "accessed": "2026-10-01",
+      "evidence": "Rural upbringing and admiration for grandfather William Hudson’s Snowy Hydro infrastructure and immigrant workforce. Tax-indexation policy remains a defining focus; industrial modernisation does not erase rural attachment."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "2026-09 tobacco policy retains federal/state policing while seeking consistent penalties.",
+        "2023 GST-floor advocacy supports WA fiscal interests within national equalisation.",
+        "2022 vote opposed restored territory euthanasia powers; 2018 electricity policy sought national reliability obligations through states."
+      ],
+      "sources": [
+        "AT04",
+        "AT14",
+        "AT15",
+        "AT08"
+      ],
+      "tension": "Federal institutions are accepted; uniform standards, constitutional supremacy and moral reservations limit local autonomy. No evidence of secession or abolishing states."
+    },
+    "representacao": {
+      "facts": [
+        "2017 accepted same-sex marriage referendum result despite personal opposition and supported parliamentary passage.",
+        "2026 names democracy, law and freedoms as migration criteria; flag/date policy uses legislative and plebiscite procedures."
+      ],
+      "sources": [
+        "AT07",
+        "AT03",
+        "AT06"
+      ],
+      "tension": "Representative parliamentary government, not unmediated assemblies; opposes a general bill of rights but not constitutional courts or elections."
+    },
+    "poder": {
+      "facts": [
+        "2018 advocated lawful encrypted-data access against serious crime.",
+        "2026 combines raids/financial enforcement with legal adult vapes; opposes broad digital censorship but criminalises flag desecration under public-order conditions.",
+        "2022 opposed territory euthanasia legislation."
+      ],
+      "sources": [
+        "AT11",
+        "AT04",
+        "AT05",
+        "AT06",
+        "AT15"
+      ],
+      "tension": "Security and civil liberty both matter: no inference that all drugs should be legal, all offensive speech suppressed, or all encrypted communication monitored."
+    },
+    "imigracao": {
+      "facts": [
+        "2026 migration cap tied to housing; enforceable values/English requirements and removal of overstayers.",
+        "Explicitly rejects race/religion discrimination, and retains humanitarian exceptions to benefits restrictions."
+      ],
+      "sources": [
+        "AT01",
+        "AT03"
+      ],
+      "tension": "Strong civic assimilation and controlled immigration coexist with acceptance of migrants from varied origins. Rejection of an open border does not establish ethnic exclusivity."
+    },
+    "diplomacia": {
+      "facts": [
+        "2026 proposes AUKUS, defence at least 3% GDP, bases, drones and missiles.",
+        "2025 advocates peace through deterrence and preparedness to act for Taiwan."
+      ],
+      "sources": [
+        "AT01",
+        "AT10"
+      ],
+      "tension": "Strong armed deterrence/alliances do not imply nuclear weapons, conscription or war for every political cause; AUKUS submarines are not an Australian nuclear-weapons programme."
+    },
+    "intervencao": {
+      "facts": [
+        "2025 favours joint commitment to Taiwan security and close US alliance.",
+        "2026 national security strategy and AUKUS strengthen outward defence engagement."
+      ],
+      "sources": [
+        "AT10",
+        "AT01"
+      ],
+      "tension": "Rejects unconditional neutrality, but no documented doctrine of territorial conquest or unlimited regime change. Interpret Brazilian regional references analogically to Australian regional interests."
+    },
+    "economia": {
+      "facts": [
+        "2026 tax/indexation and capital-gains policies protect private ownership and enterprise.",
+        "2025 accepts increased Medicare funding; 2026 public housing-enabling infrastructure/fuel storage remain part of programme."
+      ],
+      "sources": [
+        "AT01",
+        "AT12"
+      ],
+      "tension": "Market ownership and contracted provision coexist with a funded safety net and strategic state investment; no verified proposal to privatise all public services."
+    },
+    "controle": {
+      "facts": [
+        "2026 deregulation and tax reductions, repeal of carbon obligations and reform of several economic statutes.",
+        "2026 tobacco policy lowers tax and opens legal retail market while retaining regulation; July speech defends temporary emergency fiscal action."
+      ],
+      "sources": [
+        "AT01",
+        "AT04",
+        "AT13"
+      ],
+      "tension": "Opposes command economy but supports targeted strategic support and exceptional crisis intervention. No evidence for abolishing central bank."
+    },
+    "comercio": {
+      "facts": [
+        "2026 explicitly opposes tariffs and advocates overseas access for Australian exporters.",
+        "2026 domestic refining/fuel security and strategic defence production receive support."
+      ],
+      "sources": [
+        "AT02",
+        "AT18",
+        "AT01"
+      ],
+      "tension": "Free trade differs from Hanson-style general protectionism; strategic resilience differs from autarky."
+    },
+    "religiao": {
+      "facts": [
+        "2017 explicitly identifies Christian beliefs and supports parental/religious-conscience safeguards.",
+        "2018 calls for balancing religious freedom and discrimination; 2026 immigration standards reject discrimination by religion."
+      ],
+      "sources": [
+        "AT07",
+        "AT08",
+        "AT03"
+      ],
+      "tension": "Personal Christian moral influence is not a theocratic programme; allows secular people valid moral judgement and same-sex civil marriage."
+    },
+    "moral": {
+      "facts": [
+        "2017 personally opposed same-sex marriage but accepts legalisation and rejects anti-gay mistreatment.",
+        "2026 defends national traditions; Sept 4 clarification supports teaching consent while objecting to politicised curriculum."
+      ],
+      "sources": [
+        "AT07",
+        "AT09",
+        "AT06"
+      ],
+      "tension": "Traditional family and parental choice without blanket rejection of LGBT dignity, women’s public roles or consent education. Direct positions on some reproductive and sex-work questions are sparse."
+    },
+    "tecnologia": {
+      "facts": [
+        "2016 authored digital-government book.",
+        "2026 supports nuclear opening, industrial energy abundance and technology-led change.",
+        "2021 vote rejected blanket ban on embryo destruction in mitochondrial reform; rural attachments remain."
+      ],
+      "sources": [
+        "AT16",
+        "AT01",
+        "AT13",
+        "AT15",
+        "AT19"
+      ],
+      "tension": "Industry/digital enthusiasm does not establish unqualified transhumanism or embryo trait selection; rural preferences can coexist with technological modernisation."
+    }
+  },
+  "limitations": [
+    "As-of date 2026-10-01. Policy pledges are not enacted outcomes. Older votes and speeches are dated, not silently presented as fresh statements.",
+    "No direct stance found for every hypothetical: modest analogy from documented commitments is used; N reserved for substantive ambivalence. No invented claims of capital-punishment, secession, brain-implant or designer-baby policy.",
+    "Three or more independent publishers consulted: ABC, AAP, Connor Court, with primary Taylor/Liberal/ministerial records and parliamentary transcript/vote repositories. Party pages establish his policy, not independent proof of causal or economic claims.",
+    "No Brazilian Portuguese translation of Taylor’s book was located in dedicated title/Portuguese search; repeat original English, never invent a translated title. The philosopher Angus Taylor and mathematician Angus Ellis Taylor are different people.",
+    "GST source was available in indexed excerpt, but direct open failed; only the narrow stated position is used. Most normative religion/moral evidence is 2017-18 and explicitly dated."
+  ],
+  "recommendedMetadata": {
+    "changesNeeded": false,
+    "reason": "Current PT/EN metadata accurately identifies leadership, market policy, values-based migration, AUKUS and energy. Additional specifics and tensions belong in audit context."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored 80-page published political/public-administration monograph, April 2016, ISBN 9781925501025. Directly concerns government, regulation and citizenship. No PT edition verified; original title retained in both languages.",
+    "book": {
+      "personalityId": "angus-taylor",
+      "title": {
+        "pt": "The Promise of Digital Government: Transforming Public Services, Regulation, and Citizenship",
+        "en": "The Promise of Digital Government: Transforming Public Services, Regulation, and Citizenship"
+      },
+      "year": 2016,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "AT16"
+    ]
+  },
+  "processNotes": [
+    "Read new-personality skill, NEW_PROFILE.md, profile-audit/README.md, CONTRIBUTING.md and saved subject prompt.",
+    "Did not read old answers, vectors or similarity results before answering. No targets or distance tuning.",
+    "Metadata reviewed; no change required, coordinator informed before answering.",
+    "Evidence and factual neighbour distinctions inserted before exact 240-question template; final archetype block freshly generated with profile_vector.py --prompt-block.",
+    "One independent subject-specific audit; no additional subagents.",
+    "Answered 240 questions individually by question ID after the evidence context was written, plus five archetypes chosen from their text. Used 16 neutrals (6.7% total), max 4/20 (20%) in an axis.",
+    "Ran repository original validate.py, without changes or suppressing checks. Forma/archetypes/neutrals passed; validator exit 1 has similarity blockers.",
+    "Content review: federalism is balanced against national standards; democratic institutions remain strong; civic assimilation is bounded by religious/racial non-discrimination; defence alliance is distinguished from invasion or nuclear weapons; public healthcare and strategic support coexist with markets; Christian conservatism is bounded by accepted civil equality.",
+    "Similarity results were first seen after answers were complete. No answers were edited after validator output. Duplication is unresolved: coordinator must not merge without handling the explicit user-decision requirement.",
+    "Only own prompt, subagent output and research record were written. No archived answers, shared catalogues, books, STATE, merge or tests touched by this subagent."
+  ],
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality angus-taylor",
+    "exitCode": 1,
+    "stdout": "validando personality:angus-taylor\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/angus-taylor.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 16/240 = 6.7%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         48.6  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             59.1  liberdade civil <-> ordem/vigilancia\n  imigracao         61.2  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        62.4  pacifista <-> militarista\n  intervencao       23.3  nacionalista assertivo <-> nao-intervencionista\n  economia          38.9  privado/mercado <-> publico/coletivo\n  controle          30.7  livre mercado <-> planejamento\n  comercio          27.0  livre comercio/globalista <-> protecionista\n  religiao          37.7  religioso <-> irreligioso/secular\n  moral             34.9  tradicionalista <-> progressista\n  tecnologia        60.6  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         48.6   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             59.1   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         61.2   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        62.4   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       23.3   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          38.9   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          30.7   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          27.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          37.7   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             34.9   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        60.6   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.2%  scott-morrison  <<< BLOQUEIA\n   98.2%  john-howard  <<< BLOQUEIA\n   97.6%  friedrich-merz  <<< BLOQUEIA\n\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.2% identico a 'scott-morrison' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 98.2% identico a 'john-howard' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.6% identico a 'friedrich-merz' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": "",
+    "blockers": [
+      "[CONTEUDO] 98.2% identico a 'scott-morrison' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 98.2% identico a 'john-howard' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.6% identico a 'friedrich-merz' - perfil redundante, nao acrescenta nada ao catalogo"
+    ],
+    "warnings": [],
+    "decision": "BLOCKED; preserve independently generated answers; no distance tuning; refer duplicate decision to coordinator/user."
+  },
+  "hashes": {
+    "profile-audit/prompts/personality/angus-taylor.txt": "30b37b0815c7217a3c70007f3a38feb59ce5abf033145a81ce7285549005b626",
+    "profile-audit/subagent-out/personality/angus-taylor.json": "9a3c68a0e4270ba9061cb43548f32dbe79c91d33393a69289de820b258edb3d6",
+    "profile-audit/questions-template.txt": "48a880fdcab46b4f139d263f1f5f34713326122fb4e4e8c85aab34ff3f16da45",
+    "profile-audit/profile_vector.py": "f93ba9e4813740b4caf0bdf1ac68703f101e4efcff28e99b8f7e971aeef4da85",
+    "profile-audit/validate.py": "80559e6b3d068fef84b1968cba177bad19e3eb59a13ba6854db49699fe56943c"
+  },
+  "archetypes": {
+    "sociedade": "B",
+    "poder": "C",
+    "economia": "C",
+    "mundo": "B",
+    "tecnologia": "D"
+  }
+}

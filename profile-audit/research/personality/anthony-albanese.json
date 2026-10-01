@@ -1,0 +1,367 @@
+{
+  "id": "anthony-albanese",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Prime ministerial record, 2022–September 2026, informed by earlier documented personal positions",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "cabinet",
+      "title": "National Cabinet: national AI standards, firearms and shared responsibilities",
+      "url": "https://www.pm.gov.au/media/meeting-national-cabinet-26-august-26",
+      "factDate": "2026-08-26",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "referendum",
+      "title": "Albanese accepts the Voice referendum result",
+      "url": "https://www.pm.gov.au/media/press-conference-parliament-house-canberra-17",
+      "factDate": "2023-10-15 transcript following the 14 October referendum",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "online",
+      "title": "Social-media safeguards and government regulation",
+      "url": "https://www.pm.gov.au/media/press-conference-parliament-house-canberra-8-september-2026",
+      "factDate": "2026-09-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "migration",
+      "title": "Home Affairs: targeted skilled migration and visa enforcement",
+      "url": "https://minister.homeaffairs.gov.au/TonyBurke/Pages/migration-reform-end-rorts-bring-skills-australia-needs-strong-economy.aspx",
+      "factDate": "2026-09-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "multicultural",
+      "title": "ABC: Albanese defends multiculturalism",
+      "url": "https://www.abc.net.au/news/2026-06-29/multiculturalism-is-who-we-are-says-albanese/106858364",
+      "factDate": "2026-06-29",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "defence",
+      "title": "AP: Australia increases military spending",
+      "url": "https://apnews.com/article/a708e6d4f03bb3619349b7f312403336",
+      "factDate": "2026-04-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "aukus",
+      "title": "AP: Albanese supports nuclear-powered submarines with US and UK",
+      "url": "https://apnews.com/article/40a86ff2588df6ab6dacd8a705102776",
+      "factDate": "2023-02-22",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "un",
+      "title": "Albanese: national statement to the United Nations",
+      "url": "https://www.pm.gov.au/media/australias-national-statement",
+      "factDate": "2025-09-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "health",
+      "title": "Albanese: hospital agreement, Medicare and NDIS",
+      "url": "https://www.pm.gov.au/media/address-caucus-parliament-house-canberra",
+      "factDate": "2026-02-02",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "economy",
+      "title": "Albanese: economic outlook, wages and industrial policy",
+      "url": "https://www.pm.gov.au/media/australias-economic-outlook-2026",
+      "factDate": "2026-06-05",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "fuel",
+      "title": "Government support for fuel reserves and domestic refining",
+      "url": "https://www.pm.gov.au/media/strengthening-australias-fuel-resilience",
+      "factDate": "2026-05-12",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tax",
+      "title": "Tax reform for workers, businesses and future generations",
+      "url": "https://www.pm.gov.au/media/tax-reform-workers-businesses-and-future-generations",
+      "factDate": "2026-05-12",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "rba",
+      "title": "Treasurer respects Reserve Bank independence",
+      "url": "https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/transcripts/doorstop-interview-canberra-11",
+      "factDate": "2025-02-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "Albanese: Catholic upbringing and public life, Squiz interview",
+      "url": "https://www.pm.gov.au/media/podcast-interview-squiz",
+      "factDate": "2025-01-21",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "religious-rights",
+      "title": "ABC: religious protection and LGBT anti-discrimination proposals",
+      "url": "https://www.abc.net.au/news/2024-03-20/what-is-the-religious-discrimination-debate-about/103608824",
+      "factDate": "2024-03-20; proposals, not evidence of enactment",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "marriage",
+      "title": "ABC: Albanese advocates a yes vote on same-sex marriage",
+      "url": "https://www.abc.net.au/listen/programs/am/yes-and-no---albanese-and-seselja-debate-same-sex-marriage/8894970",
+      "factDate": "2017-09-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "choice",
+      "title": "Albanese: abortion rights and limits to speech, Today interview",
+      "url": "https://anthonyalbanese.com.au/transcript-of-television-interview-today-show-friday-2-august-2019",
+      "factDate": "2019-08-02",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "energy",
+      "title": "ABC: data centres, renewables and nuclear policy",
+      "url": "https://www.abc.net.au/news/2026-07-29/data-center-boom-powers-up-political-energy-debate/106929726",
+      "factDate": "2026-07-29",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "india",
+      "title": "Australia-India cooperation on energy and resources",
+      "url": "https://www.pm.gov.au/media/collaborating-india-energy-and-resources",
+      "factDate": "2026-07-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "biography",
+      "title": "Anthony Albanese biography and portrait",
+      "url": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+      "factDate": "Biography accessed 2026-09-30",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-faith",
+      "title": "SBS interview: Gillard describes her atheism",
+      "url": "https://www.sbs.com.au/news/article/julia-gillard-talks-gay-marriage-kevin-rudd-and-that-speech-in-exclusive-interview/ov0tzr4gd",
+      "factDate": "2014-09-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-economy",
+      "title": "Gillard: market design, public and private providers, national standards and independent Reserve Bank",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17445",
+      "factDate": "2010-07-15",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "gillard-security",
+      "title": "Gillard: National Security Strategy, defence, diplomacy, intelligence and rights",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-19005",
+      "factDate": "2013-01-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "scholz-federalism",
+      "title": "Inaugural Bundesrat address",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/antrittsrede-von-bundeskanzler-olaf-scholz-2005572",
+      "factDate": "2022-02-11",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-cannabis",
+      "title": "Health Ministry account of the Cannabis Act",
+      "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/bt-beschliesst-kontrollierte-abgabe-von-cannabis-zu-konsumzwecken-pm-23-02-2024",
+      "factDate": "2024-02-23; regulated adult possession and cultivation, not unrestricted drug sales",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-defence",
+      "title": "Scholz Zeitenwende policy statement",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/policy-statement-by-olaf-scholz-chancellor-of-the-federal-republic-of-germany-and-member-of-the-german-bundestag-27-february-2022-in-berlin-2008378",
+      "factDate": "2022-02-27; EUR 100 billion special fund and defence commitments",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "scholz-nonreligious",
+      "title": "Bundestag archived biography",
+      "url": "https://www.bundestag.de/webarchiv/abgeordnete/biografien20/S/scholz_olaf-860468",
+      "factDate": "2021–2025 parliamentary biography; no religious affiliation",
+      "accessedOn": "2026-10-01"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "cabinet",
+        "health",
+        "referendum"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "referendum"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "cabinet",
+        "online",
+        "religious-rights",
+        "choice"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "migration",
+        "multicultural"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "defence",
+        "aukus",
+        "un"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "un",
+        "aukus",
+        "defence"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "health",
+        "fuel",
+        "economy",
+        "tax"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "economy",
+        "tax",
+        "rba",
+        "fuel"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "tax",
+        "economy",
+        "un",
+        "fuel"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "religious-rights",
+        "marriage",
+        "choice"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "marriage",
+        "choice",
+        "religious-rights",
+        "referendum",
+        "cabinet"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "cabinet",
+        "energy",
+        "india",
+        "aukus"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Every questionnaire response is a simulation; the sources establish policies and principles rather than 240 literal personal answers.",
+    "State constitutions, municipal taxation, recall, digital surveillance, drug policy and private sexual arrangements include institutional or rights-based inference where no direct personal answer is available.",
+    "Brain implants, enhancement genetics, cultivated meat, personal rural-versus-urban preference and space priorities are hypothetical inferences; mixed compound claims can be neutral.",
+    "Older abortion, marriage and religion statements establish personal positions; the 2024 religious-discrimination report describes proposals, not enacted legislation.",
+    "Defence spending percentages use different accounting conventions; the profile relies on the direction of increased capability rather than equating differently defined percentages."
+  ],
+  "distinctions": [
+    "Likely nearby social democrats include Obama, Trudeau and Starmer; Albanese specifically combines managed migration, public industrial investment and AUKUS with multiculturalism and renewable electricity.",
+    "Free trade coexists with domestic industrial and fuel-security support.",
+    "Catholic background coexists with secular civil equality; nuclear-submarine support coexists with opposition to the proposed domestic nuclear-electricity program.",
+    "Reviewed other close stored models: Støre has estrutura 33.8 and tecnologia 66.2 versus Albanese 48.6 and 52.4; Mattarella has moral 57.5 and religiao 43.8 versus 76.4 and 56.0. Australian federal coordination, regulated technology and documented civil-equality policies support retaining this independent profile despite aggregate similarity."
+  ],
+  "portrait": {
+    "article": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/330px-Anthony_Albanese_portrait_%28re-crop%29.jpg",
+    "descriptionPage": "https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "barack-obama",
+      "answersSha256": "7804cf543c72329af893abdc1f77ff4f4f280e94abf4a939d459fec89413955e",
+      "neighborVectorSha256": "a95f90d58016c7bd5d7ab587559ba59aaec4fb52100d86a2c7f58166d6724245",
+      "reason": "Distinct people with plausible overlap in regulated markets, civil equality and alliances. In the stored vectors, Albanese has economia 66.3 versus Obama 55.0, reflecting public Medicare and strategic public investment; poder 59.1 versus 46.2 reflects firearms and online safeguards; imigracao 34.3 versus 25.0 combines multiculturalism with managed skilled migration. This compares the existing model, not a claim that every inter-person difference is a measured historical fact. All 240 answers were authored independently and none was changed to manufacture separation.",
+      "differingAxes": [
+        "economia",
+        "poder",
+        "imigracao"
+      ],
+      "sourceIds": [
+        "health",
+        "fuel",
+        "cabinet",
+        "online",
+        "migration",
+        "multicultural"
+      ]
+    },
+    {
+      "comparedWith": "julia-gillard",
+      "answersSha256": "7804cf543c72329af893abdc1f77ff4f4f280e94abf4a939d459fec89413955e",
+      "neighborVectorSha256": "c2a470d4881b47fae708eb58d97a0b16fd04300bea9e233f20832b71076c747a",
+      "reason": "The added Gillard model is a distinct Labor career with plausible overlap. Gillard explicitly describes herself as atheist, emphasises equivalent roles for public and private providers, and combines national-security diplomacy with alliance deployments. Albanese differs in the stored model on religiao (56.0 versus 63.1), economia (66.3 versus 60.3) and intervencao (43.6 versus 30.5). These are editorial model distinctions, not measured historical distances. Existing Albanese answers are unchanged.",
+      "differingAxes": [
+        "religiao",
+        "economia",
+        "intervencao"
+      ],
+      "sourceIds": [
+        "gillard-faith",
+        "gillard-economy",
+        "gillard-security"
+      ]
+    },
+    {
+      "comparedWith": "olaf-scholz",
+      "answersSha256": "7804cf543c72329af893abdc1f77ff4f4f280e94abf4a939d459fec89413955e",
+      "neighborVectorSha256": "7f069691b103fdceaa383fd02a94854cf054b969f26246ba53f259f06123fe1c",
+      "reason": "These are different social-democratic leaders with shared welfare, market and equal-rights principles. Scholz’s Länder-focused federalism scores more decentralised than Albanese’s national-standards approach; regulated cannabis access and Germany’s NATO/sanctions role give different liberty and external-engagement results. Scholz’s explicit non-affiliation differs from Albanese’s Catholic upbringing and public-life account. The closeness is retained, not edited away.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "intervencao",
+        "religiao"
+      ],
+      "sourceIds": [
+        "cabinet",
+        "online",
+        "un",
+        "faith",
+        "scholz-federalism",
+        "scholz-cannabis",
+        "scholz-defence",
+        "scholz-nonreligious"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "robert-menzies",
+  "sources": [
+    {
+      "id": "nma",
+      "title": "Robert Menzies — National Museum of Australia",
+      "url": "https://www.nma.gov.au/explore/features/prime-ministers/robert-menzies",
+      "date": "Undated; historical events 1939–1966",
+      "accessed": "2026-10-01",
+      "evidence": "Prime minister 1939–41 and 1949–66; opposed bank nationalisation; maintained Snowy Mountains development and mass immigration. Communist Party dissolution failed in court and referendum in 1951. ANZUS (1951), Korea and Vietnam commitments. ASIO telephone interception legislation (1960), Indigenous federal franchise extension (1962), university funding and uniform divorce legislation."
+    },
+    {
+      "id": "naa",
+      "title": "Robert Menzies: during office — National Archives of Australia",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/robert-menzies/during-office",
+      "date": "Undated; historical events 1939–1966",
+      "accessed": "2026-10-01",
+      "evidence": "Wartime premiership and second government; 1942 radio broadcasts rejected class war and stressed education as advancement. Historical overview corroborates liberal-democratic and anti-communist record."
+    },
+    {
+      "id": "adb",
+      "title": "Sir Robert Gordon (Bob) Menzies — Australian Dictionary of Biography",
+      "url": "https://adb.anu.edu.au/biography/menzies-sir-robert-gordon-bob-11111",
+      "date": "2000",
+      "accessed": "2026-10-01",
+      "evidence": "In 1926 opposed additional Commonwealth industrial powers; later expanded Commonwealth university funding while preserving university autonomy. British institutional and royal loyalty; backed Eden during Suez (1956). Maintained elected parliamentary government and accepted failed party-ban referendum."
+    },
+    {
+      "id": "policy1961",
+      "title": "Menzies election policy speech, Kew",
+      "url": "https://pmtranscripts.pmc.gov.au/sites/default/files/original/00000395_0.pdf",
+      "date": "1961-11-15",
+      "accessed": "2026-10-01",
+      "evidence": "Promised protection of efficient Australian industry through Tariff Board and temporary tariffs; distinguished development infrastructure enabling private enterprise from socialism; treated import licensing as an emergency balance-of-payments measure."
+    },
+    {
+      "id": "policy1963",
+      "title": "Robert Menzies 1963 election speech — Museum of Australian Democracy",
+      "url": "https://www.moadoph.gov.au/explore/democracy/election-speeches/robert-menzies-1963",
+      "date": "1963-11-12",
+      "accessed": "2026-10-01",
+      "evidence": "Promised growth, full employment, price stability, public infrastructure and competitive enterprise. Proposed restrictive-practices legislation to protect small traders, science education and technical scholarships, and major military re-equipment. State education remained supported through Commonwealth resources."
+    },
+    {
+      "id": "migration",
+      "title": "Ending the White Australia policy — National Museum of Australia",
+      "url": "https://www.nma.gov.au/defining-moments/resources/end-of-white-australia-policy",
+      "date": "Undated; events 1957–1966",
+      "accessed": "2026-10-01",
+      "evidence": "1957 allowed non-European naturalisation after fifteen years; 1958 removed dictation test. Racially selective system persisted under Menzies; the 1966 liberalisation was under Holt, not Menzies."
+    },
+    {
+      "id": "religion",
+      "title": "Opening of Dominican Sisters Training College — Menzies speech",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-711",
+      "date": "1963-03-24",
+      "accessed": "2026-10-01",
+      "evidence": "Presbyterian Menzies welcomed opening Catholic teachers college, praised religious vocation and Christian background of education, and backed government help across educational fields. Supports public religious culture with interdenominational cooperation rather than theocracy."
+    },
+    {
+      "id": "trade",
+      "title": "Statement by McEwen: Australia–Japan Trade Agreement — DFAT historical documents",
+      "url": "https://www.dfat.gov.au/about-us/publications/historical-documents/Pages/volume-19/224-statement-by-mcewen",
+      "date": "1957-07-06",
+      "accessed": "2026-10-01",
+      "evidence": "Menzies government concluded Japan commerce agreement to secure and expand export markets. This openness in export markets coexisted with protection for domestic industry."
+    },
+    {
+      "id": "home",
+      "title": "The Forgotten People Broadcast — reproduced primary speech passages",
+      "url": "https://www.robertmenziesinstitute.org.au/on-this-day/the-forgotten-people-broadcast/",
+      "date": "Speech 1942-05-22; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "Speech placed family home, thrift, individual responsibility and property at centre of society; rejected class war and an all-powerful paternal state while acknowledging compassion for people dependent on assistance."
+    },
+    {
+      "id": "divorce",
+      "title": "Robert Menzies: timeline — National Archives of Australia",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/robert-menzies/timeline",
+      "date": "Undated; legislation 1959, effective 1961",
+      "accessed": "2026-10-01",
+      "evidence": "Matrimonial Causes Act created uniform divorce law, including a specified separation period as sufficient grounds; complicates assumption that religious conservatism implied prohibition of divorce."
+    },
+    {
+      "id": "library",
+      "title": "Menzies Collection — National Library of Australia",
+      "url": "https://www.library.gov.au/research/guides-and-resources/guides-selected-collections/menzies-collection",
+      "date": "Undated bibliographic collection guide",
+      "accessed": "2026-10-01",
+      "evidence": "Lists Menzies authored The Forgotten People, and Other Studies in Democracy (1943), distinguishing it from later biographies about Menzies."
+    },
+    {
+      "id": "book",
+      "title": "The Forgotten People — R. G. Menzies, 75th Anniversary Edition",
+      "url": "https://www.robertmenziesinstitute.org.au/book/the-forgotten-people-r-g-menzies/",
+      "date": "First published 1943; anniversary edition 2018",
+      "accessed": "2026-10-01",
+      "evidence": "Publisher listing identifies author R. G. Menzies and first publication 1943. Collection covers democracy, rights and responsibilities of Parliament and citizens, four freedoms and middle-class political philosophy; therefore qualifies as a political book, not merely memoir."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "1926: opôs-se à expansão de poderes industriais federais sobre os estados.",
+        "1956–63: financiamento federal de universidades, infraestrutura e escolas aumentou, mas preservando autonomia universitária e funções estaduais.",
+        "1959: lei nacional de divórcio substituiu códigos distintos."
+      ],
+      "sources": [
+        "adb",
+        "policy1963",
+        "divorce"
+      ],
+      "tension": "Federalista constitucional, porém com ação nacional concreta: não secessionista nem municipalista absoluto."
+    },
+    "representacao": {
+      "facts": [
+        "1949–63: disputou e ganhou eleições parlamentares sucessivas.",
+        "1951: acatou invalidação judicial da proibição comunista e derrota no referendo que buscava novos poderes.",
+        "1962: governo estendeu voto federal aos indígenas anteriormente excluídos."
+      ],
+      "sources": [
+        "nma",
+        "adb"
+      ],
+      "tension": "Democracia representativa com monarquia constitucional, não poder real absoluto; exclusão anticomunista limita pluralismo."
+    },
+    "poder": {
+      "facts": [
+        "1950–51: tentou dissolver o Partido Comunista.",
+        "1960: legislação autorizou interceptação telefônica por ASIO para espionagem/subversão.",
+        "1951: aceitou limites constitucionais impostos pela corte e pelo eleitorado."
+      ],
+      "sources": [
+        "nma",
+        "adb"
+      ],
+      "tension": "Liberdades sob direito parlamentar coexistem com vigilância e coerção antissubversiva; não equivale a Estado policial ilimitado."
+    },
+    "imigracao": {
+      "facts": [
+        "1949–66: manteve imigração em massa e seleção racial/cultural da Austrália Branca.",
+        "1957: naturalização de não europeus após quinze anos; 1958: abolição do teste de ditado."
+      ],
+      "sources": [
+        "nma",
+        "migration"
+      ],
+      "tension": "Assimilação e preferência europeia coexistiram com recrutamento imigratório; não projetar a reforma de Holt de 1966 para Menzies."
+    },
+    "diplomacia": {
+      "facts": [
+        "1950–53: enviou forças à Coreia; 1951: ANZUS.",
+        "1963: prometeu grande reequipamento militar.",
+        "1962–65: assessores e tropas no Vietnã, incluindo conscritos."
+      ],
+      "sources": [
+        "nma",
+        "policy1963"
+      ],
+      "tension": "Defesa armada e anticomunismo aliados, sem projeto de conquista territorial ou militarização total da sociedade."
+    },
+    "intervencao": {
+      "facts": [
+        "1956: apoiou política britânica na crise de Suez.",
+        "1951–65: alianças e compromissos militares na Ásia orientados à segurança australiana.",
+        "1957: acordo comercial com Japão demonstrou cooperação regional."
+      ],
+      "sources": [
+        "adb",
+        "nma",
+        "trade"
+      ],
+      "tension": "Intervencionismo aliado e interesse nacional coexistem com tratados e diplomacia, não isolacionismo nem autarquia geopolítica."
+    },
+    "economia": {
+      "facts": [
+        "1949: oposição à nacionalização bancária.",
+        "1942: propriedade familiar e iniciativa individual como base da autonomia.",
+        "1949–66: continuou Snowy Mountains e ampliou universidades; 1963: defendeu iniciativa competitiva e serviços sociais."
+      ],
+      "sources": [
+        "nma",
+        "home",
+        "policy1963"
+      ],
+      "tension": "Mercado com investimento público e proteção social: não coletivização nem privatização de toda instituição."
+    },
+    "controle": {
+      "facts": [
+        "1961: infraestrutura estatal como condição de expansão empresarial e auxílio tarifário.",
+        "1963: crescimento, emprego e estabilidade de preços com proposta antitrustes contra restrições privadas."
+      ],
+      "sources": [
+        "policy1961",
+        "policy1963"
+      ],
+      "tension": "Antissocialismo não implica laissez-faire monetário e regulatório; medidas de desenvolvimento convivem com limites ao intervencionismo."
+    },
+    "comercio": {
+      "facts": [
+        "1961: prometeu tarifas de proteção à indústria eficiente.",
+        "1957: acordo de comércio com Japão abriu oportunidades de exportação."
+      ],
+      "sources": [
+        "policy1961",
+        "trade"
+      ],
+      "tension": "Proteção seletiva da produção doméstica e promoção ativa de comércio exterior; nem tarifas zero nem produzir internamente tudo."
+    },
+    "religiao": {
+      "facts": [
+        "1963-03-24: presbiteriano, elogiou vocação religiosa e educação cristã em faculdade católica.",
+        "1963: apoio à educação pública e não governamental."
+      ],
+      "sources": [
+        "religion",
+        "policy1963"
+      ],
+      "tension": "Cristianismo público e cooperação entre igrejas, sem evidência de governo clerical ou religião legalmente obrigatória."
+    },
+    "moral": {
+      "facts": [
+        "1942-05-22: família, filhos, lar e responsabilidade individual centrais em The Forgotten People.",
+        "1959–61: legislação uniformizou divórcio e permitiu separação prolongada como fundamento."
+      ],
+      "sources": [
+        "home",
+        "divorce"
+      ],
+      "tension": "Tradicionalismo familiar admite reforma jurídica gradual; respostas modernas de sexualidade são inferências históricas, não citações."
+    },
+    "tecnologia": {
+      "facts": [
+        "1949–66: desenvolvimento hidrelétrico Snowy Mountains e universidades.",
+        "1963: bolsas técnicas e melhoria do ensino científico como fundamentos do desenvolvimento."
+      ],
+      "sources": [
+        "nma",
+        "policy1963"
+      ],
+      "tension": "Modernização industrial e científica não prova transumanismo ou entusiasmo por edição de embriões; extrapolações mantêm limites morais tradicionais."
+    }
+  },
+  "limitations": [
+    "Perfil histórico: foco nos governos de 1939–1941 e 1949–1966, com discurso de 1942 como doutrina; não representa Liberal Party contemporâneo.",
+    "Não há declarações diretas de Menzies sobre IA, Bitcoin, chips cerebrais ou categorias atuais de gênero: respostas são extrapolações explícitas e prudentes da doutrina documentada.",
+    "Não encontrada edição brasileira/portuguesa de The Forgotten People; repetir título original não afirma inexistência de tradução.",
+    "Menzies Institute celebra seu legado; usado para bibliografia e textos primários reproduzidos, cruzado com NMA, NAA, ADB, biblioteca nacional e documentos governamentais."
+  ],
+  "recommendedMetadata": {
+    "changeRequired": false,
+    "reason": "Descrição PT/EN existente é factual e inclui tensões definidoras; manter. Recorte histórico documentado no contexto do prompt."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Coletânea de discursos próprios sobre democracia e filosofia política, obra central de sua doutrina; mais diretamente relevante que memórias. Sem tradução PT verificada, título original mantido.",
+    "book": {
+      "personalityId": "robert-menzies",
+      "title": {
+        "pt": "The Forgotten People and Other Studies in Democracy",
+        "en": "The Forgotten People and Other Studies in Democracy"
+      },
+      "year": 1943,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "library",
+      "book"
+    ]
+  },
+  "processNotes": {
+    "methodology": "Read full new-personality SKILL.md, NEW_PROFILE.md and README.md. Research completed before independent answers. Saved prompt methodology preserved; archetype block freshly generated. No archived answers, stored vectors or similarity outputs consulted before answering.",
+    "likelyNeighbours": "Liberalismo conservador, conservadorismo paternalista e democracia cristã são vizinhos conceituais possíveis. Menzies distingue-se por Austrália Branca, proteção tarifária, Commonwealth/ANZUS e universidades. Diverge de laissez-faire pela ação econômica pública, de democracia cristã confessional pelo parlamentarismo plural e de autoritarismo anticomunista pelo voto e controle judicial. Não são alvos de compatibilidade.",
+    "metadataGate": "Existing metadata checked; no correction required. Coordinator informed before answering.",
+    "validation": {
+      "command": "python3 profile-audit/validate.py personality robert-menzies",
+      "exitCode": 0,
+      "stdout": "validando personality:robert-menzies\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/robert-menzies.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 8/240 = 3.3%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         46.2  centralizado/unitario <-> descentralizado/federal\n  representacao     72.8  autocracia <-> democracia\n  poder             65.1  liberdade civil <-> ordem/vigilancia\n  imigracao         80.2  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        69.5  pacifista <-> militarista\n  intervencao       22.1  nacionalista assertivo <-> nao-intervencionista\n  economia          48.4  privado/mercado <-> publico/coletivo\n  controle          59.2  livre mercado <-> planejamento\n  comercio          54.4  livre comercio/globalista <-> protecionista\n  religiao          28.2  religioso <-> irreligioso/secular\n  moral             20.6  tradicionalista <-> progressista\n  tecnologia        64.1  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         46.2   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     72.8   | Kim Jong Un=6 .. José Mujica=86\n  poder             65.1   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         80.2   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        69.5   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       22.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          48.4   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          59.2   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          54.4   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          28.2   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             20.6   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        64.1   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   95.3%  pauline-hanson  <<< aviso\n   94.7%  richard-nixon  <<< aviso\n   93.9%  david-lloyd-george  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.3% proximo de 'pauline-hanson'\n  [CONTEUDO] 94.7% proximo de 'richard-nixon'\n  [CONTEUDO] 93.9% proximo de 'david-lloyd-george'\nOK - passou nas tres checagens.\n",
+      "stderr": "",
+      "recordedAt": "2026-10-01T01:24:00.638070+00:00",
+      "answerRevisionCount": 0,
+      "warningsReviewed": [
+        "Duplicate warning: Pauline Hanson 95.3%; Nixon 94.7%; David Lloyd George 93.9%. No change made to answer codes in response.",
+        "A >=95% proximity remains; README and NEW_PROFILE require user decision before accepting a remaining duplicate. Coordinator informed.",
+        "Substantive distinctions documented: Menzies backed mass European immigration, parliamentary constitutionalism, public universities and Cold War overseas commitments. These facts were researched before compatibility was known; no similarity target was used."
+      ],
+      "neutralCount": 8,
+      "neutralPercent": 3.3
+    },
+    "hashesSHA256": {
+      ".claude/skills/new-personality/SKILL.md": "d76440b3909abed46df111a5254eebccadf828a3c4c2a79e84b7582685ad5cc4",
+      "profile-audit/NEW_PROFILE.md": "4697319ede831c5da38f7cbc9ef6299b94ca4ed404148ea38a58c90dc1b91008",
+      "profile-audit/README.md": "5cef963f3a7af3abcc6f0991b6146d5113881048d852b36eec7fdd09377bec08",
+      "profile-audit/validate.py": "80559e6b3d068fef84b1968cba177bad19e3eb59a13ba6854db49699fe56943c",
+      "profile-audit/profile_vector.py": "f93ba9e4813740b4caf0bdf1ac68703f101e4efcff28e99b8f7e971aeef4da85",
+      "profile-audit/questions-template.txt": "48a880fdcab46b4f139d263f1f5f34713326122fb4e4e8c85aab34ff3f16da45",
+      "backend/src/main/resources/data/archetype-questions.json": "f2249f1de859f1bd4e03ff1f7f22def967b18befefe913cb872ab9ed53052f70",
+      "profile-audit/prompts/personality/robert-menzies.txt": "76d7ca5cec1a2467c88045e6ba5ef47726d29c43cf9bfcb72d4d61f534853f00",
+      "profile-audit/subagent-out/personality/robert-menzies.json": "f6789b703c13c28c345b6b4c34c6b455ac945ae58002584d06ccec31c67972b8"
+    },
+    "bookVerification": "Read existing books.json filtered only to this personalityId: no existing book entry. Library and publisher corroborate 1943 first publication. Targeted Portuguese search returned no verified translation."
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "id": "tony-abbott",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Political career through September 2026; prime minister 2013–2015, with later published positions explicitly included.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "naa",
+      "title": "National Archives: Tony Abbott",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/tony-abbott",
+      "factDate": "1957–2019",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "federalism",
+      "title": "White Paper on Reform of the Federation",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-23603",
+      "factDate": "2014-06-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "immigration",
+      "title": "Australia Must Rethink Immigration",
+      "url": "https://tonyabbott.com.au/2026/02/australia-must-rethink-immigration/",
+      "factDate": "2026-02-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "cpac",
+      "title": "My Address to CPAC",
+      "url": "https://tonyabbott.com.au/2025/09/my-address-to-cpac/",
+      "factDate": "2025-09-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "family",
+      "title": "Family First, Migration Second",
+      "url": "https://tonyabbott.com.au/2026/04/family-first-migration-second/",
+      "factDate": "2026-04-01",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "alliance",
+      "title": "Pepperdine University Lecture",
+      "url": "https://tonyabbott.com.au/2026/02/pepperdine-university-lecture/",
+      "factDate": "2026-02-05",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "death-penalty",
+      "title": "Australians facing the death penalty in Indonesia",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-24140",
+      "factDate": "2015-01-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "security",
+      "title": "Joint Press Conference: data retention and Medicare",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-24171",
+      "factDate": "2015-02-05",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "citizenship",
+      "title": "Abbott wants retrospective application of proposed terrorist citizenship laws",
+      "url": "https://www.abc.net.au/news/2015-09-04/citizenship-laws-should-apply-retrospectively-tony-abbott-says/6749638",
+      "factDate": "2015-09-04",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns-democracy",
+      "title": "Sunrise interview: gun laws and marriage plebiscite",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-24743",
+      "factDate": "2015-08-27",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "speech",
+      "title": "Australia’s Future S5E14: producer summary of free-speech discussion",
+      "url": "https://australiasfuture.podbean.com/e/free-speech-under-siege-flatlining-productivity-why-our-flag-matters-australia-s-future-s5e14/",
+      "factDate": "2026-09-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "euthanasia",
+      "title": "Abbott opposes voluntary euthanasia but rules out federal override of Tasmania",
+      "url": "https://www.abc.net.au/news/2013-09-27/some-doctors-call-for-a-referendum-on-voluntary-euthanasia/4984048",
+      "factDate": "2013-09-27",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "vaccine",
+      "title": "Abbott on vaccine mandates",
+      "url": "https://www.theguardian.com/australia-news/2024/apr/11/tony-abbott-scott-morrison-covid-19-pandemic-response-overreaction-vaccination",
+      "factDate": "2024-04-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "privatisation",
+      "title": "ABC Fact Check: Medibank Private sale completed",
+      "url": "https://www.abc.net.au/news/2014-07-28/sale-of-medibank-private-promise-check/5392384",
+      "factDate": "2014-11-23; article updated 2016-05-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "assets",
+      "title": "Asset recycling agreement for NSW infrastructure",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-24262",
+      "factDate": "2015-03-08",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "deregulation",
+      "title": "Ministerial Statement on Deregulation",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-23346",
+      "factDate": "2014-03-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "abortion",
+      "title": "ABC explains amended NSW abortion legislation and Abbott’s opposition",
+      "url": "https://www.abc.net.au/news/2025-05-13/nsw-politicians-to-vote-changes-abortion-bill-what-are-they/105282854",
+      "factDate": "2025-05-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "biotech",
+      "title": "Abbott opposes therapeutic cloning reform",
+      "url": "https://www.abc.net.au/news/2006-08-20/abbott-remains-unconvinced-of-stem-cell-benefits/1243164",
+      "factDate": "2006-08-20",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "federalism",
+        "immigration",
+        "euthanasia"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "guns-democracy",
+        "alliance",
+        "cpac"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "security",
+        "citizenship",
+        "death-penalty",
+        "guns-democracy",
+        "speech",
+        "euthanasia",
+        "vaccine"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "immigration",
+        "family"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "alliance",
+        "cpac"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "alliance"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "privatisation",
+        "assets",
+        "security",
+        "immigration"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "deregulation",
+        "cpac",
+        "assets",
+        "family"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "alliance",
+        "cpac"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "naa",
+        "immigration",
+        "abortion",
+        "family"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "family",
+        "cpac",
+        "abortion"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "cpac",
+        "biotech",
+        "deregulation"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Answers are editorial inferences, not statements that Abbott answered this questionnaire. Modern examples involving Brazil are interpreted analogously for Australia.",
+    "Federalism means subsidiarity within a permanent Commonwealth, not secession or an unrestricted regional veto; constitutional monarchy does not mean an unelected executive government.",
+    "In 2024 he opposed vaccine mandates, while supporting vaccination; this later position informs the answer.",
+    "The September 2026 free-speech source is the podcast producer’s written episode summary; the audio was not transcribed here. No direct quotation is attributed to Abbott from it.",
+    "Metadata retention is distinct from warrantless access to message content: his February 2015 statement explicitly required warrants for user-generated content. The surveillance answer is qualified agreement.",
+    "Medibank Private is an insurer distinct from Medicare. Asset recycling supports private operation while retaining public infrastructure investment; the record does not support abolition of every public service.",
+    "CPAC and the 2026 speeches establish Abbott’s positions, not the truth of his contested numerical, climate, religious or migration claims. Those claims are not presented as independent facts.",
+    "The 2025 abortion protest concerned an earlier draft; contested compulsory referral provisions were removed. His description of the draft must not be presented as the enacted law.",
+    "Therapeutic cloning evidence dates to 2006 and is not a current statement on every medical innovation. AI, neural enhancements, cultivated meat and space answers extrapolate cautiously from industrial support and biological ethics; no specific endorsement is claimed.",
+    "Selected neutral answers reflect tensions or no settled preference, including urban versus rural living, universal recall, cryptocurrencies and the public-private balance in healthcare. They do not determine a target score."
+  ],
+  "distinctions": [
+    "Likely neighbours include Howard and Taylor on markets, security and the US alliance. Abbott’s explicit 2026 assimilation programme, Christian public ethos and opposition to net-zero targets should be evaluated independently.",
+    "Hanson shares lower immigration and cultural conservatism, but Abbott explicitly defends free-trade agreements and alliance-based military action. His public ownership and tariff answers must not be copied from nationalist protectionism.",
+    "His support for strict gun laws, universal elections and opposition to executions separates him from an assumed generic authoritarian or US libertarian conservative profile.",
+    "The 96.8% Kristol warning was reviewed: Abbott’s model has representacao 82.3 versus 57.5 and diplomacia 70.7 versus 85.0. His constitutional electoral commitments and alliance doctrine support this distinct model; no new historical claims about Kristol are inferred from these numbers.",
+    "The 96.1% Taylor warning was reviewed: Abbott’s moral 19.6 versus 39.6 and religiao 20.0 versus 34.1 reflect his documented family, gender and Christian-heritage positions. This is a comparison of editorial models, not a claim that every hypothetical answer is directly evidenced."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Tony_Abbott_official_portrait.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/archive/5/57/20260226081305%21Prime_Minister_Tony_Abbott_official_portrait.jpg",
+    "author": "Commonwealth of Australia",
+    "license": "CC BY 3.0 AU",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/au/",
+    "note": "2013 official portrait, using the archived cropped/rotated Commons version; resized and compressed. Commons summary and EXIF disagree on the exact February day, so only the year is asserted.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "friedrich-merz",
+      "answersSha256": "54359af6f95c2101a94a76a981333b59a219488740217692741ada9e4b1ecb27",
+      "neighborVectorSha256": "95dc416a0341c396dc3da5590636d424a801b5db850f0b18cc49d74e89a76ba8",
+      "reason": "Abbott and Merz are distinct politicians with overlapping centre-right models. Abbott’s independently answered model is more traditional on moral (19.6 versus 31.2), more religious (20.0 versus 30.0) and less enthusiastic about unrestricted biotechnology (tecnologia 58.2 versus 67.5). Abbott’s family and Christian-heritage speeches and therapeutic-cloning objections support these directions. These are differences between stored editorial models, not precise empirical claims about Merz. No answers were changed to force separation.",
+      "differingAxes": [
+        "moral",
+        "religiao",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "family",
+        "immigration",
+        "biotech"
+      ]
+    },
+    {
+      "comparedWith": "margaret-thatcher",
+      "answersSha256": "54359af6f95c2101a94a76a981333b59a219488740217692741ada9e4b1ecb27",
+      "neighborVectorSha256": "4ec926849e91174ddc9421e84719261828227c2917f5a54687d5a18fb6b824c6",
+      "reason": "Abbott’s independently archived model remains distinct from Thatcher: estrutura 54.5 versus 34.3 reflects his federalism programme; poder 59.1 versus 68.7 includes his opposition to executions; moral 19.6 versus 29.1 reflects the abortion and traditional-family positions documented here. Thatcher’s own evidence is recorded in her research file. This accepts shared conservative and alliance commitments without changing either answer archive.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "moral"
+      ],
+      "sourceIds": [
+        "federalism",
+        "death-penalty",
+        "abortion",
+        "family"
+      ]
+    }
+  ]
+}

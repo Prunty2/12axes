@@ -1,0 +1,400 @@
+{
+  "id": "jimmy-carter",
+  "country": "United States",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "1977–1981 presidency for institutional/economic policy; explicitly dated 1996–2015 post-presidential statements for later peace, civil-rights, faith and science positions.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Carter Center: Jimmy Carter biography",
+      "url": "https://www.cartercenter.org/people/jimmy-carter/",
+      "factDate": "1924–2024; presidency 1977–1981",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "education",
+      "title": "Message proposing a Department of Education",
+      "url": "https://www.presidency.ucsb.edu/documents/department-education-message-the-congress-transmitting-proposed-legislation",
+      "factDate": "1979-02-13",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "schools",
+      "title": "Elementary and secondary education message",
+      "url": "https://www.presidency.ucsb.edu/documents/elementary-and-secondary-education-message-the-congress",
+      "factDate": "1978-02-28",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "health",
+      "title": "National Health Plan message to Congress",
+      "url": "https://www.presidency.ucsb.edu/documents/national-health-plan-message-the-congress-proposed-legislation",
+      "factDate": "1979-06-12; proposal, not enacted comprehensive coverage",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "immigration",
+      "title": "Undocumented aliens message to Congress",
+      "url": "https://www.presidency.ucsb.edu/documents/undocumented-aliens-message-the-congress",
+      "factDate": "1977-08-04",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sotu",
+      "title": "State of the Union: Persian Gulf doctrine, NATO, sanctions and arms control",
+      "url": "https://www.presidency.ucsb.edu/documents/the-state-the-union-address-delivered-before-joint-session-the-congress",
+      "factDate": "1980-01-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "rights-policy",
+      "title": "State Department history: Carter and human rights",
+      "url": "https://history.state.gov/milestones/1977-1980/human-rights",
+      "factDate": "Historical account of 1977–1981",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nobel",
+      "title": "Jimmy Carter Nobel Peace Prize lecture",
+      "url": "https://www.cartercenter.org/news/2002-nobel-peace-prize-lecture-by-jimmy-carter-2/",
+      "factDate": "2002-12-10",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "civil-liberties",
+      "title": "Carter: A Cruel and Unusual Record",
+      "url": "https://www.cartercenter.org/news/nytimes-062412/",
+      "factDate": "2012-06-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "death-penalty",
+      "title": "Carter urges Supreme Court to halt juvenile executions",
+      "url": "https://www.cartercenter.org/news/jimmy-carter-urges-supreme-court-to-halt-juvenile-executions/",
+      "factDate": "2004-10",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "women",
+      "title": "Carter TEDWomen speech on discrimination, violence and punishment",
+      "url": "https://www.cartercenter.org/news/jc-tedwomen-may-2015/",
+      "factDate": "2015-05",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "drugs",
+      "title": "Carter speech on inter-American relations",
+      "url": "https://www.cartercenter.org/news/jc-speech-inter-american-relations-090612/",
+      "factDate": "2012-09-06; decriminalization distinguished from legalization",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "Carter: What Happened to the Ban on Assault Weapons?",
+      "url": "https://www.cartercenter.org/news/nytimes_042709/",
+      "factDate": "2009-04-27",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "airlines",
+      "title": "Signing the Airline Deregulation Act",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-airline-deregulation-act-1978",
+      "factDate": "1978-10-24",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "trade",
+      "title": "Signing the Trade Agreements Act",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-trade-agreements-act-1979",
+      "factDate": "1979-07-26",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "welfare",
+      "title": "Welfare reform message to Congress",
+      "url": "https://www.presidency.ucsb.edu/documents/welfare-reform-message-the-congress",
+      "factDate": "1977-08-06; proposed Program for Better Jobs and Income",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "civil-service",
+      "title": "Federal civil service reform message",
+      "url": "https://www.presidency.ucsb.edu/documents/federal-civil-service-reform-message-the-congress",
+      "factDate": "1978-03-02",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "prices",
+      "title": "Presidential news conference: opposition to mandatory wage and price controls",
+      "url": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-1006",
+      "factDate": "1978-04-11",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "credit",
+      "title": "Executive Order 12201: credit control",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-12201-credit-control",
+      "factDate": "1980-03-14; temporary anti-inflation credit controls",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "banking",
+      "title": "Federal Reserve history: Depository Institutions Deregulation and Monetary Control Act",
+      "url": "https://www.federalreservehistory.org/essays/monetary-control-act-of-1980",
+      "factDate": "1980-03-31 enactment; historical account",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith",
+      "title": "Carter: Prayer and the Civic Religion",
+      "url": "https://www.cartercenter.org/news/prayer-and-the-civic-religion/",
+      "factDate": "1996-12-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "bible",
+      "title": "Interview with Carter on his Bible book, abortion and evangelism",
+      "url": "https://www.christianpost.com/news/interview-president-jimmy-carter-on-his-bible-book-abortion-and-evangelism.html?mobile=true",
+      "factDate": "2012; personal interview",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "abortion",
+      "title": "Letter to Karen Mulhauser on abortion and constitutional duties",
+      "url": "https://www.presidency.ucsb.edu/documents/letter-ms-karen-mulhauser-the-national-abortion-rights-action-league",
+      "factDate": "1976-02-06",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "sex-work",
+      "title": "TIME interview with Jimmy Carter",
+      "url": "https://time.com/56770/jimmy-carter-jesus-christ-iran-putin-clinton-kerry/",
+      "factDate": "2014; supports penalties for buyers and pimps, not prostituted women",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "biotech",
+      "title": "Carter: Who’s Afraid of Genetic Engineering?",
+      "url": "https://www.cartercenter.org/news/jimmy-carter-whos-afraid-of-genetic-engineering/",
+      "factDate": "1998-08-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "energy",
+      "title": "Carter Senate testimony on energy security",
+      "url": "https://www.cartercenter.org/news/bostonglobe-energy-security-hearings/",
+      "factDate": "2009-05-12; retrospective on his administration and contemporary recommendations",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "alaska",
+      "title": "Signing the Alaska National Interest Lands Conservation Act",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act",
+      "factDate": "1980-12-02",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "education",
+        "schools",
+        "health",
+        "immigration"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "nobel",
+        "faith",
+        "abortion",
+        "civil-liberties"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "civil-liberties",
+        "death-penalty",
+        "women",
+        "drugs",
+        "guns",
+        "sex-work"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "immigration",
+        "schools",
+        "nobel"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "nobel",
+        "sotu",
+        "civil-liberties"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "sotu",
+        "rights-policy",
+        "nobel",
+        "drugs"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "health",
+        "welfare",
+        "civil-service",
+        "airlines",
+        "energy"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "airlines",
+        "prices",
+        "credit",
+        "banking",
+        "welfare",
+        "energy"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "energy",
+        "sotu"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "bible",
+        "abortion",
+        "women"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "bible",
+        "abortion",
+        "women",
+        "sex-work",
+        "faith"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "biotech",
+        "energy",
+        "alaska",
+        "bio"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Editorial reconstruction, not a questionnaire Carter answered. Presidency-era institutional and economic positions (1977–1981) are combined with explicitly dated post-presidential statements on peace, rights, faith and science (1996–2015). Later civil-marriage views must not be read as his 1976 campaign platform.",
+    "Federalism follows his explicit distinction between local/state school administration and federal equality/coordination, alongside a proposed federal health system for poor and elderly people. State secession, regional constitutions, tax allocation and tribal self-government are cautious constitutional inferences, not attributed campaign quotations.",
+    "The democracy answers draw on his constitutional deference and election/rights work. Recall, sortition and referendum hypotheticals are inferred within representative democracy; neutral recall/referendum answers balance popular accountability against stable institutions.",
+    "The liberty profile distinguishes his 2012 condemnation of warrantless monitoring and indefinite detention from legal, judicially supervised investigations. N on forced phone access balances a warrant-based investigation against privacy; N on euthanasia balances autonomy and relief of suffering with his faith-based concern for life. Facial recognition and online speech are modern extrapolations, not presidential proposals.",
+    "Drug possession decriminalization is not commercial legalization of every drug. His support for regulated gun ownership and hunting coexists with assault-weapon restrictions, background checks and registration. Opposition to commercial sex exploitation explains disagreement with blanket legalization of all consensual conduct.",
+    "Immigration proposals included employer sanctions and border enforcement as well as legalization, family unity and opposition to a permanent underclass. The axis measures cultural integration, not an assumed open border. Bilingual education is sourced separately; adaptation is interpreted as civic integration compatible with retained customs.",
+    "Foreign-policy answers intentionally retain the tension between his 1980 defense buildup, NATO commitments, sanctions and Persian Gulf doctrine and his later opposition to preventive war and excessive arms spending. He described war as sometimes necessary in the Nobel lecture. Neutral autonomous weapons, secret operations and nuclear items balance defensive capability against civilian harm, accountability and disarmament; they do not imply either blanket pacifism or nuclear proliferation.",
+    "The Gulf doctrine threatened force against outside domination; it is not evidence that he favored initiating wars for any economic advantage. The intervention axis preserves overseas bases and allies, selective sanctions and international mediation. Neutral regional military intervention and genocide hypotheticals balance protection of life and vital interests against escalation and self-determination.",
+    "Health and welfare sources describe proposals, not an enacted universal national health system or basic income. Private insurance, employers and contractors remained part of the health plan. Five ownership neutrals balance public obligations and private delivery, case-specific privatization and inheritance rights against redistribution; they are not substitutes for absent economic research.",
+    "Deregulation was selective: safety rules continued, as did energy planning and social protection. Temporary 1980 credit controls complicate a laissez-faire label but do not negate his explicit opposition to mandatory general wage/price controls. Central-bank answers infer institutional monetary authority from the banking reform rather than attributing every Volcker decision to Carter. Cryptocurrency is an anachronistic inference.",
+    "Trade liberalization and energy independence are distinct. Neutral tariff/industry items balance fair-competition safeguards against lower barriers; they do not claim a position on Chinese electric vehicles. Modern chips and pharmaceuticals are interpreted as strategic-supply analogies.",
+    "Personal religious morality is distinguished from the constitutional power to enforce it: his abortion opposition did not amount to support for a constitutional prohibition. His later acceptance of same-sex civil marriage and women’s religious leadership informs the social profile. Gender identity, adoption, polyamory, pornography, neutral language and parental authority involve explicit inference from equality, faith and family commitments.",
+    "Genetically modified crops and medical biotechnology have direct support; that does not establish approval of embryo enhancement or brain implants. Five technology neutrals balance benefits and ethical limits, including tightly conditioned mining, bodily interventions, enhancement and cultured food. Rural preference does not imply technological rejection. Climate conservation and energy development are both affirmative commitments; space exploration is a modest inference from scientific optimism."
+  ],
+  "distinctions": [
+    "Likely neighbours include Christian democrats and moderate social liberals; independently retain Carter’s personal abortion opposition, strong Baptist faith, trade liberalization and airline deregulation.",
+    "His Nobel peace work does not erase the Carter Doctrine, NATO commitments and sanctions. Later views must not be passed off as a single unchanged 1977 platform.",
+    "Support for genetic engineering and modern energy coexists with conservation and rural preference."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:JimmyCarterPortrait.jpg",
+    "author": "United States Department of Defense, Department of the Navy, Naval Photographic Center",
+    "license": "Public domain, US federal government work",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/JimmyCarterPortrait.jpg",
+    "date": "1978-05-01",
+    "note": "Official portrait, NARA 558522; resized to 480px and compressed from 3.83 MB to 41 KB, without facial alteration.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "paul-keating",
+      "answersSha256": "4d20754fb821106af656e81c64c8016d74b7899e5074de309908e3fd953d4f5f",
+      "neighborVectorSha256": "dd7db4646988ca4bbc602a50d780af22757ffb10b68ca8746a39ec4bd53a9d7e",
+      "reason": "Both reconstructions combine electoral democracy, a social safety net and market reforms. Carter differs on estrutura (55.7 versus 41.4), reflecting his explicit state/local school responsibility, and comercio (31.8 versus 17.5), retaining energy-security safeguards alongside the Tokyo Round. His conservation and rural preference yield tecnologia 45.2 versus 52.4. The similarity is political overlap between distinct people, not evidence that their histories are interchangeable; no answers were changed to manufacture distance.",
+      "differingAxes": [
+        "estrutura",
+        "comercio",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "education",
+        "trade",
+        "energy",
+        "alaska"
+      ]
+    },
+    {
+      "comparedWith": "sergio-mattarella",
+      "answersSha256": "4d20754fb821106af656e81c64c8016d74b7899e5074de309908e3fd953d4f5f",
+      "neighborVectorSha256": "ae1b2a40f4d9c1c0615e4acbfc35a72c4d37bb5f6f87a631b733e3dac967e8f1",
+      "reason": "The shared democratic and religious-humanitarian outlook explains proximity. Carter’s model differs from the existing Mattarella model on structure (55.7 versus 36.2), civil coercion (40.1 versus 58.8) and public ownership (55.6 versus 62.5). His local-school position, opposition to indefinite detention and mixed private/public health plan support those distinctions. These are comparisons of editorial reconstructions, not measured historical distances.",
+      "differingAxes": [
+        "estrutura",
+        "poder",
+        "economia"
+      ],
+      "sourceIds": [
+        "education",
+        "civil-liberties",
+        "health",
+        "airlines"
+      ]
+    },
+    {
+      "comparedWith": "bill-clinton",
+      "answersSha256": "4d20754fb821106af656e81c64c8016d74b7899e5074de309908e3fd953d4f5f",
+      "neighborVectorSha256": "fe3878246027187c451be560d4b34e1ced9859093de0850362f8ab63bc69a1f5",
+      "reason": "The two US Democratic presidents share constitutional government and mixed markets, but Carter’s explicitly dated peace advocacy, Baptist social ethic and conservation commitments differ from the existing Clinton model: diplomacy 30.0 versus 43.8, religion 36.9 versus 48.8, technology 45.2 versus 57.5. Carter’s technological support remains explicit rather than treating his environmentalism as rejection of science. Answers were retained unchanged after comparison.",
+      "differingAxes": [
+        "diplomacia",
+        "religiao",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "nobel",
+        "faith",
+        "energy",
+        "biotech"
+      ]
+    },
+    {
+      "comparedWith": "angela-merkel",
+      "answersSha256": "4d20754fb821106af656e81c64c8016d74b7899e5074de309908e3fd953d4f5f",
+      "neighborVectorSha256": "458e6a64ecca5645ec56676e354d5b89cb7e056d3321cb7a437556ad78e32e01",
+      "reason": "97.0% compatibility reflects shared Christian ethics, democratic institutions, social provision and diplomacy. Carter’s later opposition to coercive security measures and support for drug-policy reform make the archived security answers more liberty-oriented than Merkel’s pandemic and prohibition positions. Immigration and economic coordination also differ. The Carter sources and period were assessed independently; no archived answers were changed in response to the new neighbour.",
+      "differingAxes": [
+        "poder",
+        "imigracao",
+        "controle"
+      ],
+      "sourceIds": [
+        "civil-liberties",
+        "drugs",
+        "immigration",
+        "prices",
+        "credit"
+      ]
+    }
+  ]
+}

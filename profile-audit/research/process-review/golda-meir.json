@@ -1,0 +1,355 @@
+{
+  "id": "golda-meir",
+  "profilePeriod": "Premiership, 1969–1974, informed by earlier labour and foreign-ministry service.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Golda Meir: Knesset biography",
+      "url": "https://main.knesset.gov.il/en/about/pages/golda.aspx",
+      "date": "undated institutional biography; events 1949–1974",
+      "accessed": "2026-10-01",
+      "evidence": "Labour minister promoted immigrant housing and public employment; prime minister led parliamentary coalitions from 1969, faced criticism over poverty and the 1973 war. Search-index text available; direct open returned no readable text."
+    },
+    {
+      "id": "S2",
+      "title": "Golda Meir, Minister of Labour, 1954",
+      "url": "https://www.nli.org.il/en/education/teaching-resources/primary-sources/nnl_edu997013134914705171",
+      "date": "1954 photograph; undated catalogue",
+      "accessed": "2026-10-01",
+      "evidence": "Primary photograph documents her presenting the first maternity grant. Catalogue describes National Insurance Law, housing and infrastructure programmes."
+    },
+    {
+      "id": "S3",
+      "title": "For the Attainment of Peace: Golda Meir speech",
+      "url": "https://openbooks.library.umass.edu/giftsofspeech/chapter/golda-meir-for-the-attainment-of-peace-1970/",
+      "date": "1970-05-26",
+      "accessed": "2026-10-01",
+      "evidence": "Meir advocates defensible borders, arms supply and foreign assistance alongside negotiated peace and open trade. She calls for taxes, compulsory loans and curbed consumption while improving lower-income conditions and absorbing immigrants."
+    },
+    {
+      "id": "S4",
+      "title": "Statement to Knesset by Prime Minister Meir",
+      "url": "https://www.gov.il/en/pages/26-statement-to-the-knesset-by-pm-meir-10-march-1974",
+      "date": "1974-03-10",
+      "accessed": "2026-10-01",
+      "evidence": "She seeks parliamentary confidence after December 1973 elections; defends Egyptian disengagement, Geneva negotiations and military deterrence, rejects return to June 1967 lines. Search-index full document retrieved; direct page fetch returned 403."
+    },
+    {
+      "id": "S5",
+      "title": "Golda Meir interview on peace and religion",
+      "url": "https://www.lemonde.fr/archives/article/1971/10/15/le-test-etant-la-signature-de-la-paix-il-serait-ridicule-de-demander-aux-arabes-la-reconnaissance-de-la-legitimite-de-l-etat-d-israel-nous-declare-mme-golda-meir_3065269_1819218.html",
+      "date": "1971-10-15",
+      "accessed": "2026-10-01",
+      "evidence": "Direct interview: rejects defining Israel as a religious state, values Judaism as historical national bond, acknowledges religious marriage difficulties but favours patient compromise. Discusses education aid related to family income."
+    },
+    {
+      "id": "S6",
+      "title": "Meir plea for secular-religious coexistence",
+      "url": "https://www.jta.org/archive/mrs-meir-issues-plea-for-coexistence-between-secular-religious-sectors",
+      "date": "1971-08-10",
+      "accessed": "2026-10-01",
+      "evidence": "Contemporary speech report: urges coexistence, opposes exclusion from Jewish community and warns against simplistic resolutions of religious disputes."
+    },
+    {
+      "id": "S7",
+      "title": "EEC-Israel preferential trade treaty",
+      "url": "https://www.jta.org/archive/israel-and-european-common-market-countries-sign-preferential-trade-agreement",
+      "date": "1970-06-30",
+      "accessed": "2026-10-01",
+      "evidence": "Contemporary account of treaty signed by her foreign minister: reciprocal but asymmetric tariff reductions, larger European reductions for Israeli exports than Israeli concessions on imports."
+    },
+    {
+      "id": "S8",
+      "title": "MASHAV history, Israeli embassy Cameroon",
+      "url": "https://embassies.gov.il/cameroon/fr/the-embassy/departments/departement-de-la-cooperation-et-mashav",
+      "date": "undated; foundation 1958",
+      "accessed": "2026-10-01",
+      "evidence": "Official account attributes MASHAV creation to Meir after African visit: knowledge exchange and agricultural self-sufficiency for new states in hot, semi-arid climates."
+    },
+    {
+      "id": "S9",
+      "title": "Oriana Fallaci interview with Golda Meir",
+      "url": "https://www.cinquantamila.it/storyTellerArticolo.php?storyId=54e359dc432f1",
+      "date": "interview 1972-11; later reproduction",
+      "accessed": "2026-10-01",
+      "evidence": "Reproduced direct interview: she values motherhood and marriage, sharply rejects radical liberation movement, yet defends her lifelong political work among men. Describes commitment to communal kibbutz life. Translation/reproduction is not original magazine facsimile."
+    },
+    {
+      "id": "S10",
+      "title": "US Special Actions Group meeting minutes",
+      "url": "https://history.state.gov/historicaldocuments/frus1969-76v25/d103",
+      "date": "1973-10-06",
+      "accessed": "2026-10-01",
+      "evidence": "Contemporary US official record confirms Meir told ambassador Israel would not launch a preemptive attack despite imminent hostilities."
+    },
+    {
+      "id": "S11",
+      "title": "Israeli enquiry: Koppel Committee",
+      "url": "https://catalog.archives.gov.il/site/en/chapter/israeli-enquiry-koppel-committee-report-gss-arrangements-regarding-security-abroad-not-keep-changing-needs/",
+      "date": "events 1972-09; undated archive release",
+      "accessed": "2026-10-01",
+      "evidence": "Meir proposed judicial inquiry into Munich security failures; cabinet majority rejected it. She appointed inquiry team; report sought improved security abroad. Evidence of both intelligence priorities and constrained accountability, not unchecked personal rule."
+    },
+    {
+      "id": "S12",
+      "title": "My Life, publisher catalogue",
+      "url": "https://www.hachette.co.uk/titles/golda-meir-6/my-life/9781399603539/",
+      "date": "2023-02-23 edition",
+      "accessed": "2026-10-01",
+      "evidence": "Publisher credits Golda Meir and describes political autobiography covering Zionism, socialism, state creation and premiership; qualifies as political memoir."
+    },
+    {
+      "id": "S13",
+      "title": "My Life, first American edition catalogue",
+      "url": "https://openlibrary.org/works/OL6112379W/My_life?edition=mylifemeir00meir",
+      "date": "1975 edition",
+      "accessed": "2026-10-01",
+      "evidence": "Catalogue identifies Golda Meir, Putnam, 1975, and distinguishes editions. Work first published 1975."
+    },
+    {
+      "id": "S14",
+      "title": "Minha Vida, Brazilian edition catalogue",
+      "url": "https://www.portaldoslivreiros.com.br/livro.asp?codigo=7734926&titulo=Minha+Vida",
+      "date": "1976 Brazilian edition; current listing",
+      "accessed": "2026-10-01",
+      "evidence": "Bookseller identifies Minha Vida by Golda Meir, Bloch Editores, 1976. Modern ISBN in listing is inconsistent, so only title/publisher/year of described physical edition used; corroborated by Brazilian Morasha bibliography."
+    },
+    {
+      "id": "S15",
+      "title": "Morasha bibliography",
+      "url": "https://www.morasha.com.br/wp-content/uploads/2023/11/REVISTA-MORASHA-121-SITE.pdf",
+      "date": "2023-11",
+      "accessed": "2026-10-01",
+      "evidence": "Brazilian bibliography explicitly cites Meir, Golda, Minha Vida, Bloch Editores 1976, Brasil."
+    },
+    {
+      "id": "S16",
+      "title": "My Life original copyright page reproduction",
+      "url": "https://www.scribd.com/document/1075585084/Golda-Meir-My-Life-the-Autobiography-of-Golda-Meir-Futura",
+      "date": "1975 original; 1977 reprint",
+      "accessed": "2026-10-01",
+      "evidence": "Extract reproduces copyright Golda Meir 1975 and first Great Britain publication by Weidenfeld & Nicolson in 1975. Resolves erroneous 1973/1974 web dates; A Land of Our Own is a distinct compilation."
+    },
+    {
+      "id": "S17",
+      "title": "Israel economic report",
+      "url": "https://documents1.worldbank.org/curated/en/899341468038667216/pdf/multi0page.pdf",
+      "date": "1975 report; policy events 1970–1973",
+      "accessed": "2026-10-01",
+      "evidence": "World Bank account records broad price controls 1970–1972, followed by controls on fourteen basic items, and use of budget restraint to fight inflation."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "National immigrant housing, social insurance and public works exemplify central direction (1949–1956).",
+        "Prime minister conducts nationwide coalition programme and national defence in 1969–1974."
+      ],
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "tension": "Unitary state-building does not abolish local institutions or cooperative autonomy; detailed federal propositions are analogical, not recorded Meir proposals."
+    },
+    "representacao": {
+      "facts": [
+        "Sought Knesset confidence after December 1973 elections.",
+        "In September 1972 requested judicial security inquiry but was outvoted in cabinet."
+      ],
+      "sources": [
+        "S4",
+        "S11"
+      ],
+      "tension": "Party-led parliamentary democracy rather than direct-democracy assemblies; occupied noncitizens lacked the democratic rights of Israeli citizens."
+    },
+    "poder": {
+      "facts": [
+        "Security inquiry and recommendations strengthened protection abroad after Munich.",
+        "War and terrorism were major governmental priorities while parliamentary opposition survived."
+      ],
+      "sources": [
+        "S11",
+        "S4"
+      ],
+      "tension": "Strong security state does not imply death penalty for ordinary crime or suppression of all offensive dissent."
+    },
+    "imigracao": {
+      "facts": [
+        "Labour ministry organised immigrant housing and employment; 1970 speech makes immigrant absorption a national economic priority.",
+        "1971 speech opposes excluding people from Jewish community."
+      ],
+      "sources": [
+        "S1",
+        "S3",
+        "S6"
+      ],
+      "tension": "Mass Jewish immigration and cultural diversity within Jewry coexist with a Jewish national identity; this is not universal open borders."
+    },
+    "diplomacia": {
+      "facts": [
+        "1974 statement couples deterrence with disengagement and negotiated peace.",
+        "Refused preemptive strike on October 6, 1973."
+      ],
+      "sources": [
+        "S4",
+        "S10"
+      ],
+      "tension": "Rejects both disarmament and war as an end in itself; preemption is conditional and constrained by allies."
+    },
+    "intervencao": {
+      "facts": [
+        "1970 speech asserts border defence against hostile forces and seeks international backing.",
+        "1974 negotiations defend strategic borders but accept separation of forces."
+      ],
+      "sources": [
+        "S3",
+        "S4"
+      ],
+      "tension": "Assertive regional security and diplomatic assistance abroad coexist with reluctance toward unlimited conquest."
+    },
+    "economia": {
+      "facts": [
+        "Labour ministry built housing and national insurance, including maternity support.",
+        "1970 speech promises advancement of lower incomes during emergency austerity."
+      ],
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "tension": "Cooperative and public provision coexist with private firms; no evidence for blanket abolition of property or violent economic revolution."
+    },
+    "controle": {
+      "facts": [
+        "1970 speech calls for taxes, compulsory loans and national coordination of consumption, wages and productivity.",
+        "Controls on prices operated broadly 1970–1972 and continued on basic goods in 1973."
+      ],
+      "sources": [
+        "S3",
+        "S17"
+      ],
+      "tension": "Pragmatic mixed economy and emergency restraint, not total command economy or perpetual deficit expansion."
+    },
+    "comercio": {
+      "facts": [
+        "1970 EEC treaty lowered tariffs reciprocally while preserving asymmetric protection.",
+        "1970 speech stresses both essential imports and curbing external deficits."
+      ],
+      "sources": [
+        "S7",
+        "S3"
+      ],
+      "tension": "Supports export markets and strategic domestic capacity; neither autarky nor tariff-free global market."
+    },
+    "religiao": {
+      "facts": [
+        "1971 interview rejects religious-state definition while cherishing Judaism as historical bond.",
+        "Marriage arrangements retained alongside pleas for secular-religious coexistence."
+      ],
+      "sources": [
+        "S5",
+        "S6"
+      ],
+      "tension": "Secular political reasoning combined with institutional religious accommodation; neither theocracy nor militant eradication of faith."
+    },
+    "moral": {
+      "facts": [
+        "1954 maternity grants support working mothers.",
+        "1972 interview values family and childbirth but rejects restricting herself to domestic life."
+      ],
+      "sources": [
+        "S2",
+        "S9"
+      ],
+      "tension": "Economic equality for women does not establish modern LGBT, gender-language or sexual-liberation positions. These require cautious analogy."
+    },
+    "tecnologia": {
+      "facts": [
+        "MASHAV established under Meir to exchange practical agricultural and development expertise.",
+        "National public infrastructure and technical development accompany personal attachment to kibbutz life."
+      ],
+      "sources": [
+        "S8",
+        "S1",
+        "S9"
+      ],
+      "tension": "Productive science and rural cooperative life coexist; modern human enhancement and AI are hypothetical, with weaker confidence than infrastructure."
+    }
+  },
+  "limitations": [
+    "Historical model fixed at Premiership, 1969–1974, informed by earlier labour and foreign-ministry service. No later private positions used.",
+    "Brazil-specific institutions are translated into comparable Israeli policy choices; digital policing, AI, embryo editing and current identity questions are explicit value-based extrapolations, not quotations.",
+    "No source establishes a personal view on every modern item. Ambivalence is used only where documented principles conflict, not as a substitute for research.",
+    "Some official pages were accessible through search-index text only. Direct interview reproductions have provenance limitations recorded above.",
+    "Book date conflicts found in tertiary pages; first-edition catalogue and original copyright-page reproduction support 1975. Book serves recommendation only and does not expand historical answer period."
+  ],
+  "recommendedMetadata": {
+    "status": "accurate_no_change",
+    "reason": "PT and EN accurately describe premiership, labour welfare legacy, Jewish immigration, security, religious compromise and disengagement. Coordinator notified before answering."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political memoir, more relevant and widely known than collected speeches. No existing books.json entry. Author Golda Meir; Brazilian title verified separately; first publication 1975.",
+    "book": {
+      "personalityId": "golda-meir",
+      "title": {
+        "pt": "Minha Vida",
+        "en": "My Life"
+      },
+      "year": 1975,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S16"
+    ]
+  },
+  "processNotes": {
+    "independence": "Read no answer archive, stored vector, score report, similarity review or other profile answers. Existing research consulted only for profilePeriod and source URLs. One independent audit; no further delegation.",
+    "likelyNeighboursAndDistinctions": [
+      "David Ben-Gurion: common labour-Zionist state-building background; Meir model focuses on her social-insurance legacy, 1970 ceasefire and post-1973 disengagement decisions.",
+      "Menachem Begin: common insistence on Israeli security and Jewish immigration; Meir retained labour/cooperative economics and accepted initiatives opposed by Gahal/Likud in 1970–1974.",
+      "Yitzhak Rabin: common Labour and security context; do not import later Oslo positions into Meir’s 1969–1974 model.",
+      "Labour Zionism and social democracy are conceptual neighbours; her religious compromise, selective immigration and regional conflict must remain explicit."
+    ],
+    "researchCompletedBeforeAnswers": true,
+    "metadataReviewedBeforeAnswers": true,
+    "neutralCounts": {
+      "estrutura": 1,
+      "representacao": 0,
+      "poder": 0,
+      "imigracao": 1,
+      "diplomacia": 2,
+      "intervencao": 1,
+      "economia": 1,
+      "controle": 0,
+      "comercio": 1,
+      "religiao": 3,
+      "moral": 2,
+      "tecnologia": 4
+    },
+    "totalNeutrals": 16,
+    "archetypeReasoning": {
+      "sociedade": "D: egalitarian labour and civil institutions best fit the offered options, qualified by Jewish national boundaries and conservative family attitudes.",
+      "poder": "C: parliamentary democracy with constraints.",
+      "economia": "B: cooperative institutions, welfare and regulation.",
+      "mundo": "B: strong defence and close allies alongside negotiated disengagement.",
+      "tecnologia": "D: productive technical development without unrestricted enhancement."
+    },
+    "promptSha256": "679b0931802022408f1726676e1a40f8e57d3196b7ce03e4fb27e18b4df87d99",
+    "answerSha256": "78862aa9f847ec026b1922fd60278c9ff27d5fc3665d359f9bcaffb8c8bf6895",
+    "validation": {
+      "command": "python3 profile-audit/validate.py personality golda-meir",
+      "exitCode": 1,
+      "stdout": "validando personality:golda-meir\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/golda-meir.json\n\n[ARQUETIPO] sociedade D · poder C · economia B · mundo B · tecnologia D\n[NEUTROS] total 16/240 = 6.7%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         29.5  centralizado/unitario <-> descentralizado/federal\n  representacao     76.3  autocracia <-> democracia\n  poder             67.5  liberdade civil <-> ordem/vigilancia\n  imigracao         58.1  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        73.1  pacifista <-> militarista\n  intervencao       25.7  nacionalista assertivo <-> nao-intervencionista\n  economia          79.8  privado/mercado <-> publico/coletivo\n  controle          75.8  livre mercado <-> planejamento\n  comercio          49.0  livre comercio/globalista <-> protecionista\n  religiao          51.2  religioso <-> irreligioso/secular\n  moral             39.5  tradicionalista <-> progressista\n  tecnologia        58.2  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         29.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     76.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             67.5   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         58.1   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        73.1   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       25.7   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          79.8   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          75.8   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          49.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          51.2   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             39.5   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        58.2   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.4%  franklin-roosevelt  <<< BLOQUEIA\n   96.2%  clement-attlee  <<< aviso\n   95.3%  david-lloyd-george  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.2% proximo de 'clement-attlee'\n  [CONTEUDO] 95.3% proximo de 'david-lloyd-george'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.4% identico a 'franklin-roosevelt' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "stderr": ""
+    },
+    "answerPolicy": "Each response chosen from the individual proposition and researched historical perspective; no target vector or post-validation tuning. The only N responses reflect competing commitments described in personaBrief and research."
+  }
+}

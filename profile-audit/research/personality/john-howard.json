@@ -1,0 +1,240 @@
+{
+  "id": "john-howard",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Political record as prime minister, 1996–2007",
+  "scopeNote": "Historical premiership profile, not a claim about every later personal opinion. All quiz answers are editorial simulations, not responses supplied by Howard. Brazil-specific wording is interpreted in the analogous Australian institutional context. Anachronistic technologies are cautious extrapolations.",
+  "sources": [
+    {
+      "id": "naa",
+      "title": "National Archives: John Howard during office",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/john-howard/during-office",
+      "factDate": "1996–2007; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nma",
+      "title": "National Museum: John Howard",
+      "url": "https://www.nma.gov.au/explore/features/prime-ministers/john-howard",
+      "factDate": "1996–2007; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "federalism",
+      "title": "Howard speech on federalism",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-21687",
+      "factDate": "2005",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "security",
+      "title": "Parliament: Anti-Terrorism Bill (No. 2) 2005",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r2469",
+      "factDate": "2005",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "migration",
+      "title": "Parliament: Migration and the Formation of Modern Australia",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Migration/MigrationPathway/Report/Chapter_2_-_Migration_and_the_Formation_of_Modern_Australia",
+      "factDate": "1996–2007 policies; retrospective",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "trade",
+      "title": "DFAT: Australia–US Free Trade Agreement introduction",
+      "url": "https://www.dfat.gov.au/about-us/publications/trade-investment/australia-united-states-free-trade-agreement-guide-to-the-agreement/Pages/introduction",
+      "factDate": "2004",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "rba",
+      "title": "Statement on the Conduct of Monetary Policy",
+      "url": "https://www.rba.gov.au/monetary-policy/framework/stmt-conduct-mp-1-14081996.html",
+      "factDate": "1996-08-14",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "religion",
+      "title": "Howard press conference on voluntary school chaplaincy",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-22545",
+      "factDate": "2006",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "marriage",
+      "title": "Howard interview on marriage",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-21439",
+      "factDate": "2004-08-04",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nuclear",
+      "title": "Howard press conference on the nuclear review",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-22652",
+      "factDate": "2006",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "cloning",
+      "title": "ABC: Howard says Parliament ready for stem cell debate",
+      "url": "https://www.abc.net.au/worldtoday/archive/articles/2006/08/16/s1716396.htm",
+      "factDate": "2006-08-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "biography",
+      "title": "Parliament: Hon John Howard AC",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ZD4&lang=en",
+      "factDate": "career record",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "summary": "Defendia a federação constitucional e receitas do GST para os estados, mas apoiava regras nacionais no trabalho e intervenções federais. O nacionalismo administrativo de Howard não equivale a rejeitar eleições ou abolir os estados.",
+      "sourceIds": [
+        "federalism",
+        "naa"
+      ]
+    },
+    "representacao": {
+      "summary": "Governou por eleições competitivas e submeteu a proposta republicana a referendo, preservando o parlamentarismo e a monarquia constitucional. A preferência por instituições tradicionais não implica governo hereditário executivo nem suspensão eleitoral.",
+      "sourceIds": [
+        "nma",
+        "biography"
+      ]
+    },
+    "poder": {
+      "summary": "Introduziu controle rigoroso de armas e ampliou poderes antiterrorismo, inclusive ordens de controle e detenção preventiva. Essas medidas justificam respostas favoráveis à segurança, sem presumir apoio irrestrito à coerção ou à dissolução de oposição legal.",
+      "sourceIds": [
+        "security",
+        "nma"
+      ]
+    },
+    "imigracao": {
+      "summary": "Exigia integração e valores cívicos comuns e restringiu chegadas irregulares, mas manteve imigração qualificada e uma política oficial que reconhecia diversidade cultural. Controle de fronteiras não deve ser confundido com rejeição de toda cultura imigrante.",
+      "sourceIds": [
+        "migration",
+        "naa"
+      ]
+    },
+    "diplomacia": {
+      "summary": "A aliança com os Estados Unidos e o envio de tropas ao Afeganistão e Iraque sustentam uma defesa forte e disposição para usar força. Não há base para transformá-lo em defensor de desarmamento total ou de um arsenal nuclear australiano.",
+      "sourceIds": [
+        "naa",
+        "nma"
+      ]
+    },
+    "intervencao": {
+      "summary": "Apoiou intervenções aliadas e atuação regional, incluindo Timor-Leste, tratando a segurança nacional e as alianças como prioridades. Aceita cooperação internacional, mas não adota neutralidade nem proibição absoluta de intervenções.",
+      "sourceIds": [
+        "naa",
+        "nma"
+      ]
+    },
+    "economia": {
+      "summary": "Privatizou a Telstra e favoreceu negociação trabalhista individual e iniciativa privada, mantendo instituições públicas e proteção social. O perfil distingue liberalização econômica de privatização integral da polícia, da justiça ou de toda assistência.",
+      "sourceIds": [
+        "naa",
+        "federalism"
+      ]
+    },
+    "controle": {
+      "summary": "WorkChoices ampliou negociação empresarial e o governo reconheceu a independência operacional do banco central. Apoio ao mercado e disciplina fiscal coexistiram com regulação, tributação e programas públicos; não se presume defesa de abolir o banco central.",
+      "sourceIds": [
+        "naa",
+        "rba"
+      ]
+    },
+    "comercio": {
+      "summary": "Promoveu o acordo de livre comércio com os Estados Unidos e integração comercial na Ásia-Pacífico. O apoio a exportações e investimento internacional não equivale a autarquia, embora admita proteção pontual de interesses estratégicos.",
+      "sourceIds": [
+        "trade",
+        "naa"
+      ]
+    },
+    "religiao": {
+      "summary": "Defendia a influência judaico-cristã e capelania escolar voluntária, afirmando que a Austrália não tem religião oficial. A fé e a herança religiosa pesam no perfil, mas não autorizam atribuir-lhe uma teocracia ou supremacia religiosa sobre a lei.",
+      "sourceIds": [
+        "religion",
+        "marriage"
+      ]
+    },
+    "moral": {
+      "summary": "Defendeu casamento entre homem e mulher e a família tradicional, mantendo uma visão gradualista de mudança cultural. As respostas sobre temas sem pronunciamento direto são inferências conservadoras moderadas, não alegações de votos específicos.",
+      "sourceIds": [
+        "marriage",
+        "religion"
+      ]
+    },
+    "tecnologia": {
+      "summary": "Apoiava energia nuclear e soluções tecnológicas para energia e clima, mas se opunha à clonagem de embriões para pesquisa. Isso distingue industrialismo e inovação de entusiasmo sem limites pela modificação humana.",
+      "sourceIds": [
+        "nuclear",
+        "cloning"
+      ]
+    }
+  },
+  "uncertainties": [
+    "No direct position established here on facial recognition, compelled phone unlocking, cryptocurrency competition, cultured meat or brain implants; responses infer from documented security, market and biotechnology principles.",
+    "The dataset has no confidence-weighted scoring; the supplied audit preserves these limitations rather than representing every answer as a documented statement."
+  ],
+  "distinctions": [
+    "Compared with Donald Trump: Howard pursued trade liberalisation and strict gun controls.",
+    "Compared with Ronald Reagan and George W. Bush: Australian federal practice, national firearms rules and parliamentary constitutionalism require separate question-level judgements."
+  ],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Howard_John_BANNER.jpg",
+    "descriptionPage": "https://commons.wikimedia.org/wiki/File:Howard_John_BANNER.jpg",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "friedrich-merz",
+      "answersSha256": "a372dd99d56eb20c37b76e25d95753d6b4232eb830578a28bb3944ff0a772990",
+      "neighborVectorSha256": "95dc416a0341c396dc3da5590636d424a801b5db850f0b18cc49d74e89a76ba8",
+      "reason": "Howard is a distinct Australian historical leader. His support for national workplace rules and conditional federal intervention yields estrutura 39.0 versus Merz 56.2; qualified acceptance of cultural diversity yields imigracao 54.0 versus 70.0; opposition to embryo cloning tempers his technology score (57.0 versus 67.5). The high aggregate match is plausible shared centre-right policy, not duplicate answers; no answers were adjusted to increase distance.",
+      "differingAxes": [
+        "estrutura",
+        "imigracao",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "federalism",
+        "migration",
+        "cloning"
+      ]
+    },
+    {
+      "comparedWith": "angus-taylor",
+      "answersSha256": "a372dd99d56eb20c37b76e25d95753d6b4232eb830578a28bb3944ff0a772990",
+      "neighborVectorSha256": "02d13a2db4b03d464742e58580bb3d0905346b650bd29274647166b5cf545c9c",
+      "reason": "Howard and Taylor are distinct Liberal leaders with overlapping economic and defence positions. Howards archived model has estrutura 39.0 versus Taylor 51.0 and imigracao 54.0 versus 69.5, grounded in national workplace rules, federal intervention and qualified acceptance of cultural diversity in Howards research. These are comparisons of stored editorial models, not precise empirical measurements. Howards permanent answers remain untouched.",
+      "differingAxes": [
+        "estrutura",
+        "imigracao"
+      ],
+      "sourceIds": [
+        "federalism",
+        "migration"
+      ]
+    },
+    {
+      "comparedWith": "scott-morrison",
+      "answersSha256": "a372dd99d56eb20c37b76e25d95753d6b4232eb830578a28bb3944ff0a772990",
+      "neighborVectorSha256": "cfffc7d91f7580541e5d0e03185665e68c9fb52b9e250c02b423b7f33cae1eaf",
+      "reason": "Howard's historical premiership model is grounded in Telstra privatisation, national workplace reform and caution over embryo cloning. Morrison's separately researched model includes pandemic wage subsidies, technology-led net zero and more explicit Pentecostal public faith. Their differing economy, religion and technology values represent plausible distinctions within shared Coalition politics; Howard's permanent answers remain unchanged.",
+      "differingAxes": [
+        "economia",
+        "religiao",
+        "tecnologia"
+      ],
+      "sourceIds": [
+        "naa",
+        "religion",
+        "cloning"
+      ]
+    }
+  ]
+}

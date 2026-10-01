@@ -93,7 +93,7 @@
     "id": "mussolini",
     "name": "Benito Mussolini",
     "role": "Dictator",
-    "description": "The creator of fascism, Mussolini ruled Italy as a totalitarian dictatorship, fusing nationalism, a corporatist state, a cult of the leader, and expansionist militarism, serving as a model for European authoritarian regimes."
+    "description": "The creator of fascism, Mussolini ruled Italy as a totalitarian dictatorship built on a leader cult and a corporatist state. An atheist and anticlerical in his youth, he made the Church a political ally through the 1929 Lateran Pacts, more from expediency than faith."
   },
   {
     "id": "hitler",
@@ -2201,13 +2201,6 @@
     "description": "Radical Reformation preacher who broke with Luther and led peasants and miners in the German Peasants' War of 1525. He preached an apocalyptic theocracy of the elect, with goods in common and the overthrow of godless princes; he was beheaded after Frankenhausen."
   },
   {
-    "id": "jesus-cristo",
-    "name": "Jesus Christ",
-    "role": "Founder of Christianity",
-    "lifespan": "c. 4 BC–c. AD 30",
-    "description": "Jewish preacher from Galilee and central figure of Christianity, he proclaimed the Kingdom of God, love of enemies and care for the poor. In the Gospels he condemns hoarded wealth, tells followers to render unto Caesar what is Caesar's, and was crucified under Pontius Pilate."
-  },
-  {
     "id": "paulo-freire",
     "name": "Paulo Freire",
     "role": "Educator and philosopher",
@@ -2408,5 +2401,351 @@
     "role": "King of Castile and León",
     "lifespan": "c. 1201–1252",
     "description": "King of Castile from 1217 and León from 1230, he consolidated the union of the crowns and conquered Córdoba and Seville. He ruled as a medieval Catholic monarch and promoted legal and administrative organization in conquered territories."
+  },
+  {
+    "id": "muhammad-abduh",
+    "name": "Muhammad Abduh",
+    "role": "Grand Mufti and Islamic reformer",
+    "lifespan": "1849–1905",
+    "description": "Grand Mufti of Egypt and father of Islamic modernism, Abduh argued for reinterpreting Islam through reason (ijtihad), reformed teaching at Al-Azhar and the religious courts, and opposed both clerical stagnation and British rule."
+  },
+  {
+    "id": "sayyid-qutb",
+    "name": "Sayyid Qutb",
+    "role": "Islamist theorist",
+    "lifespan": "1906–1966",
+    "description": "Muslim Brotherhood ideologue, Qutb wrote Milestones, which declared modern Muslim societies to be in jahiliyya and called for a vanguard to establish God's sovereignty. He was executed by Nasser's government in 1966."
+  },
+  {
+    "id": "averroes",
+    "name": "Averroes",
+    "role": "Andalusian philosopher and jurist",
+    "lifespan": "1126–1198",
+    "description": "Philosopher, physician and judge from Córdoba, Averroes commented on Aristotle and held that philosophical reason and Quranic revelation do not contradict each other, influencing Christian scholasticism. He served the Almohad court and was exiled under pressure from theologians."
+  },
+  {
+    "id": "alwaleed-bin-talal",
+    "name": "Alwaleed bin Talal",
+    "role": "Saudi investor and prince",
+    "lifespan": "1955–",
+    "description": "Saudi prince and founder of Kingdom Holding, Alwaleed invested in Citigroup, Twitter, Four Seasons and News Corp and advocated economic opening and women's employment in the kingdom. He was detained in 2017 in Mohammed bin Salman's anti-corruption campaign."
+  },
+  {
+    "id": "muhammad-ali-jinnah",
+    "name": "Muhammad Ali Jinnah",
+    "role": "Founder of Pakistan",
+    "lifespan": "1876–1948",
+    "description": "Lawyer and leader of the Muslim League, Jinnah led the creation of Pakistan in 1947 on the two-nation theory and was its first governor-general, advocating a Muslim-majority state with religious freedom for minorities."
+  },
+  {
+    "id": "saladino",
+    "name": "Saladin",
+    "role": "Sultan of Egypt and Syria",
+    "lifespan": "1137–1193",
+    "description": "Founder of the Ayyubid dynasty, Saladin united Egypt and Syria, defeated the Crusaders at Hattin and retook Jerusalem in 1187, becoming a symbol of jihad against the Crusades and of chivalry recognized even by his enemies."
+  },
+  {
+    "id": "sergei-melikov",
+    "name": "Sergei Melikov",
+    "role": "Senator and former Head of Dagestan",
+    "lifespan": "1965–",
+    "description": "A Russian National Guard general and Putin ally, Melikov headed Dagestan from 2020 to 2026, a period marked by war mobilization, the antisemitic airport pogrom, and jihadist attacks, and in 2026 became a senator for Bryansk."
+  },
+  {
+    "id": "imperador-jimmu",
+    "name": "Emperor Jimmu",
+    "role": "Legendary Emperor of Japan",
+    "lifespan": "711–585 BC",
+    "description": "The first legendary emperor of Japan according to the Kojiki and Nihon Shoki, Jimmu, a descendant of the sun goddess Amaterasu, is said to have conquered Yamato by force of arms and founded the imperial line, a central myth of State Shinto and Japanese nationalism."
+  },
+  {
+    "id": "imperador-meiji",
+    "name": "Emperor Meiji",
+    "role": "Emperor of Japan",
+    "lifespan": "1852–1912",
+    "description": "Emperor under whose 1868 restoration Japan abolished the shogunate and the samurai, centralized the state, industrialized under the slogan \"rich country, strong army\", adopted the 1889 constitution and State Shinto, and defeated China and Russia."
+  },
+  {
+    "id": "oda-nobunaga",
+    "name": "Oda Nobunaga",
+    "role": "Daimyo and unifier of Japan",
+    "lifespan": "1534–1582",
+    "description": "A Sengoku-period daimyo, Nobunaga began the unification of Japan with massed arquebuses, deposed the Ashikaga shogunate, massacred the warrior monks of Enryaku-ji and the Ikko-ikki, abolished guilds and tolls, and tolerated Jesuit missionaries."
+  },
+  {
+    "id": "qin-shi-huang",
+    "name": "Qin Shi Huang",
+    "role": "First Emperor of China",
+    "lifespan": "259–210 BC",
+    "description": "King of Qin who unified China in 221 BC and proclaimed himself first emperor, he ruled through Legalism with harsh laws, replaced feudalism with centralized commanderies, standardized script and coinage, burned books and began the Great Wall."
+  },
+  {
+    "id": "carlos-v",
+    "name": "Charles V",
+    "role": "Holy Roman Emperor and King of Spain",
+    "lifespan": "1500–1558",
+    "description": "Heir of the Habsburgs, Charles V united Spain, the Low Countries, the Holy Roman Empire and the American conquests, fought the Lutheran Reformation and the Ottomans as champion of universal Catholicism, crushed the Comuneros and abdicated in 1556."
+  },
+  {
+    "id": "salvador-dali",
+    "name": "Salvador Dalí",
+    "role": "Surrealist painter",
+    "lifespan": "1904–1989",
+    "description": "Catalan surrealist painter, Dalí was expelled from the surrealist group over his ambiguous sympathies for fascism, publicly backed Franco and the monarchy and, from 1949 on, embraced a Catholic nuclear mysticism fusing faith and science."
+  },
+  {
+    "id": "pablo-picasso",
+    "name": "Pablo Picasso",
+    "role": "Painter",
+    "lifespan": "1881–1973",
+    "description": "Spanish painter and co-founder of Cubism, Picasso painted Guernica against the Francoist bombing, joined the French Communist Party in 1944, backed the Soviet-led peace movement and never returned to Franco's Spain."
+  },
+  {
+    "id": "albert-camus",
+    "name": "Albert Camus",
+    "role": "Writer and philosopher",
+    "lifespan": "1913–1960",
+    "description": "French-Algerian writer and 1957 Nobel laureate, Camus fought in the Resistance, broke with Sartre by condemning the Soviet camps in The Rebel and defended a plural Algeria against terrorism on both sides."
+  },
+  {
+    "id": "victor-gao",
+    "name": "Victor Gao",
+    "role": "Commentator and academic",
+    "lifespan": "1962–",
+    "description": "Former Deng Xiaoping interpreter and vice president of the CCG think tank, Victor Gao defends one-party rule, unifying Taiwan by any means, Hong Kong's security law and the claim that NATO caused the war in Ukraine."
+  },
+  {
+    "id": "thubten-gyatso",
+    "name": "13th Dalai Lama (Thubten Gyatso)",
+    "role": "Religious leader and head of state",
+    "lifespan": "1876–1933",
+    "description": "Head of theocratic Tibet, the 13th Dalai Lama expelled the Chinese and proclaimed independence in 1913, built an army, post and currency, backed down before the monasteries by closing the English school, and warned against communism in 1932."
+  },
+  {
+    "id": "abraham-isaac-kook",
+    "name": "Abraham Isaac Kook",
+    "role": "Chief rabbi and theologian",
+    "lifespan": "1865–1935",
+    "description": "First Ashkenazi chief rabbi of Mandatory Palestine, Kook was the leading theologian of religious Zionism, saw secular pioneers as instruments of the divine plan and holiness in the Land of Israel, and founded the Mercaz HaRav yeshiva."
+  },
+  {
+    "id": "auguste-blanqui",
+    "name": "Louis Auguste Blanqui",
+    "role": "Revolutionary",
+    "lifespan": "1805–1881",
+    "description": "French revolutionary and conspirator, Blanqui argued that an organized minority should seize power by insurrection and impose a provisional dictatorship, spent over thirty years in prison, was elected to the Paris Commune from his cell and took the motto \"Neither God nor master\"."
+  },
+  {
+    "id": "swrd-bandaranaike",
+    "name": "S. W. R. D. Bandaranaike",
+    "role": "Prime Minister of Ceylon",
+    "lifespan": "1899–1959",
+    "description": "Prime Minister of Ceylon from 1956 to 1959, he converted to Buddhism, founded the Freedom Party, nationalized ports and buses, made Sinhala the official language, pursued non-alignment and was assassinated by a Buddhist monk."
+  },
+  {
+    "id": "jose-ii-da-austria",
+    "name": "Joseph II of Austria",
+    "role": "Holy Roman Emperor",
+    "lifespan": "1741–1790",
+    "description": "Holy Roman Emperor and Archduke of Austria, Joseph II abolished personal serfdom, decreed religious tolerance, closed hundreds of monasteries, imposed German on the administration and saw his reforms provoke revolts, in Belgium and Hungary."
+  },
+  {
+    "id": "rei-davi",
+    "name": "King David",
+    "role": "King of Israel",
+    "lifespan": "c. 1040–970 BCE",
+    "description": "According to the Bible, David united the tribes of Israel, conquered Jerusalem and made it his capital, defeated the Philistines, brought the Ark to the city and built a centralized kingdom, and tradition attributes the Psalms to him and the line of the Messiah."
+  },
+  {
+    "id": "john-howard",
+    "name": "John Howard",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister from 1996 to 2007, Howard combined privatisation and labour reform with social conservatism, gun controls, strict border policies and military support for the United States."
+  },
+  {
+    "id": "robert-menzies",
+    "name": "Robert Menzies",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister and Liberal Party founder, Menzies championed private enterprise, monarchy and anti-communism while retaining industrial protection and expanding universities; he backed White Australia and the Vietnam War."
+  },
+  {
+    "id": "gough-whitlam",
+    "name": "Gough Whitlam",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister from 1972 to 1975, Whitlam introduced Medibank, abolished university fees and conscription, advanced Indigenous rights and racial equality, and cut tariffs while expanding federal responsibilities."
+  },
+  {
+    "id": "anthony-albanese",
+    "name": "Anthony Albanese",
+    "role": "Australian prime minister",
+    "description": "Labor prime minister since 2022, he expanded support for Medicare and domestic industry. He backs multiculturalism, LGBT rights and renewable energy while maintaining migration controls and the AUKUS defence partnership."
+  },
+  {
+    "id": "pauline-hanson",
+    "name": "Pauline Hanson",
+    "role": "Australian senator and One Nation leader",
+    "description": "One Nation founder and Queensland senator, she advocates restricted immigration, cultural assimilation and traditional values. She combines industrial protection and strategic public ownership with support for small business and nuclear energy."
+  },
+  {
+    "id": "angus-taylor",
+    "name": "Angus Taylor",
+    "role": "Australian opposition leader",
+    "description": "Liberal opposition leader since 2026 and former energy minister, he advocates lower taxes and regulation, migration tied to Australian values, and stronger AUKUS capabilities. He supports fossil fuels and opening the way to nuclear energy."
+  },
+  {
+    "id": "bob-hawke",
+    "name": "Bob Hawke",
+    "role": "Former Australian prime minister",
+    "description": "Labor prime minister from 1983 to 1991, he combined Medicare and union accords with freer trade and financial deregulation. He championed multiculturalism and conservation, later backing nuclear power and marriage equality."
+  },
+  {
+    "id": "paul-keating",
+    "name": "Paul Keating",
+    "role": "Former Australian prime minister",
+    "description": "Labor prime minister from 1991 to 1996, he advanced market reform, compulsory superannuation and Indigenous rights. He championed a republic and closer Asian ties, later opposing AUKUS and nuclear power."
+  },
+  {
+    "id": "kevin-rudd",
+    "name": "Kevin Rudd",
+    "role": "Former Australian prime minister",
+    "description": "Labor prime minister in 2007–2010 and 2013, he led crisis stimulus, the apology to Indigenous Australians and Kyoto ratification. He combines social protection, Christian faith and multilateral diplomacy with support for AUKUS."
+  },
+  {
+    "id": "julia-gillard",
+    "name": "Julia Gillard",
+    "role": "Former Australian prime minister",
+    "description": "Australia’s first female prime minister, she led Labor from 2010 to 2013. She introduced carbon pricing and disability insurance, advanced education reform, and advocates gender equality within a regulated market economy."
+  },
+  {
+    "id": "tony-abbott",
+    "name": "Tony Abbott",
+    "role": "Former Australian prime minister",
+    "description": "Prime minister from 2013 to 2015, he privatised Medibank Private and repealed carbon pricing. He advocates Christian tradition, lower immigration, nuclear power, free trade and a strong US military alliance."
+  },
+  {
+    "id": "malcolm-turnbull",
+    "name": "Malcolm Turnbull",
+    "role": "Former Australian prime minister",
+    "description": "Prime minister from 2015 to 2018, a republican and supporter of marriage equality. He backs markets, free trade, renewable energy and medical research, alongside strict security policies and greater Australian autonomy within the US alliance."
+  },
+  {
+    "id": "scott-morrison",
+    "name": "Scott Morrison",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister from 2018 to 2022, Morrison combined Christian conservatism, support for business and controlled migration with pandemic wage subsidies, AUKUS and technology-led climate targets."
+  },
+  {
+    "id": "margaret-thatcher",
+    "name": "Margaret Thatcher",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 1979 to 1990, Thatcher pursued privatisation, fiscal restraint and trade union restrictions. She championed NATO, parliamentary sovereignty and traditional family values while retaining the publicly funded NHS."
+  },
+  {
+    "id": "clement-attlee",
+    "name": "Clement Attlee",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 1945 to 1951, Attlee nationalised key industries and established the NHS. He combined parliamentary socialism and colonial independence with NATO, overseas military operations and Britain’s nuclear programme."
+  },
+  {
+    "id": "boris-johnson",
+    "name": "Boris Johnson",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 2019 to 2022, Johnson led Brexit, promoted free trade and regional investment, supported the public NHS, and combined immigration controls with strong military support for Ukraine."
+  },
+  {
+    "id": "keir-starmer",
+    "name": "Keir Starmer",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 2024 to 2026, Starmer combined strategic public ownership and private investment, workers’ rights, immigration controls and defence expansion, while backing AI and nuclear power."
+  },
+  {
+    "id": "nigel-farage",
+    "name": "Nigel Farage",
+    "role": "Reform UK leader",
+    "description": "Reform UK leader and Brexit campaigner, Farage combines national sovereignty, restricted immigration and lower taxes with a tax-funded NHS, strong defence and criticism of judicial checks on a parliamentary mandate."
+  },
+  {
+    "id": "rupert-lowe",
+    "name": "Rupert Lowe",
+    "role": "Restore Britain leader",
+    "description": "Restore Britain leader Lowe advocates net-negative immigration, Christian heritage and a smaller state, combining free speech and self-defence with strict criminal penalties and national sovereignty."
+  },
+  {
+    "id": "kamala-harris",
+    "name": "Kamala Harris",
+    "role": "Former US vice president",
+    "description": "US vice president from 2021 to 2025, Harris advocates reproductive rights, economic regulation and social protection alongside private enterprise, border enforcement and US-led military alliances."
+  },
+  {
+    "id": "david-lloyd-george",
+    "name": "David Lloyd George",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 1916 to 1922, Lloyd George expanded social insurance and wealth taxation, combining reforming liberalism, wartime industrial mobilisation and imperial power with negotiated peace and Irish self-government."
+  },
+  {
+    "id": "hillary-clinton",
+    "name": "Hillary Clinton",
+    "role": "Former US secretary of state",
+    "description": "US secretary of state from 2009 to 2013 and presidential nominee in 2016. Clinton advocates civil rights, affordable health care and regulated markets, combining military alliances and foreign intervention with diplomacy."
+  },
+  {
+    "id": "jimmy-carter",
+    "name": "Jimmy Carter",
+    "role": "Former US president",
+    "description": "US president from 1977 to 1981. Carter combined deregulation and social protection with conservation and human-rights diplomacy. His Baptist faith shaped his humanitarian work and moral convictions."
+  },
+  {
+    "id": "lyndon-b-johnson",
+    "name": "Lyndon B. Johnson",
+    "role": "Former US president",
+    "description": "US president from 1963 to 1969. His Great Society expanded civil rights, education and public health insurance through Medicare and Medicaid. Johnson combined a regulated private economy with military escalation in Vietnam."
+  },
+  {
+    "id": "angela-merkel",
+    "name": "Angela Merkel",
+    "role": "Former German chancellor",
+    "description": "German chancellor from 2005 to 2021. A Christian Democrat, she combined a social market economy and fiscal restraint with European integration, refugee reception and the nuclear phase-out."
+  },
+  {
+    "id": "olaf-scholz",
+    "name": "Olaf Scholz",
+    "role": "Former German chancellor",
+    "description": "German chancellor from 2021 to 2025. A Social Democrat, he raised the minimum wage, supported industry and expanded civil rights. He strengthened defence and aid to Ukraine while resisting a direct war with Russia."
+  },
+  {
+    "id": "mark-carney",
+    "name": "Mark Carney",
+    "role": "Prime Minister of Canada",
+    "description": "Canadian prime minister since 2025 and former central banker. Combines private investment and public services with stronger defence, trade integration and strategic-sector protection. Supports civil rights and technology for the climate transition."
+  },
+  {
+    "id": "helmut-kohl",
+    "name": "Helmut Kohl",
+    "role": "Former German chancellor",
+    "description": "German chancellor from 1982 to 1998, he led reunification and European integration. A Christian Democrat, he combined a social-market economy, privatisation and social insurance with conservative family values and commitment to NATO."
+  },
+  {
+    "id": "lech-walesa",
+    "name": "Lech Wałęsa",
+    "role": "Former Polish president",
+    "description": "Solidarity leader and Polish president from 1990 to 1995, he helped end communist rule. He combined independent trade unionism, market transition, Catholic values and closer ties with European and Atlantic institutions."
+  },
+  {
+    "id": "david-ben-gurion",
+    "name": "David Ben-Gurion",
+    "role": "Founding prime minister of Israel",
+    "description": "Israel’s founding prime minister combined Labour Zionism, Jewish immigration and national institutions. He promoted economic planning, science and military strength while retaining religious compromises and security restrictions on Arab citizens."
+  },
+  {
+    "id": "golda-meir",
+    "name": "Golda Meir",
+    "role": "Former Israeli prime minister",
+    "description": "Israeli prime minister from 1969 to 1974, she emerged from Labour Zionism and expanded social protection. She backed Jewish immigration and military security, retained religious compromises and accepted disengagement agreements after the 1973 war."
+  },
+  {
+    "id": "joh-bjelke-petersen",
+    "name": "Joh Bjelke-Petersen",
+    "role": "Former Premier of Queensland, Australia",
+    "description": "Queensland premier (1968–1987) who backed state rights, private investment and Christian values; promoted mining, retained free hospitals and restricted protest under an electoral system favouring rural areas."
   }
 ]

@@ -1,0 +1,209 @@
+{
+  "id": "joh-bjelke-petersen",
+  "country": "Australia",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Queensland premiership, 1968–1987, including the 1987 federal tax campaign.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Queensland Parliament: former member Joh Bjelke-Petersen",
+      "url": "https://www.parliament.qld.gov.au/Members/Former-Members/Former-Members-Register/Former-Member-Details?id=1543517032",
+      "factDate": "1911–2005; career register",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "early",
+      "title": "ANU Press: The early Bjelke-Petersen years, 1968–1969",
+      "url": "https://press-files.anu.edu.au/downloads/press/p69721/html/ch08.xhtml",
+      "factDate": "1968–1969; published 2010",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "late",
+      "title": "ANU Press: The implosion of Joh Bjelke-Petersen, 1983–1987",
+      "url": "https://press-files.anu.edu.au/downloads/press/p69721/html/ch15.xhtml",
+      "factDate": "1983–1987; published 2010",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "tax",
+      "title": "Bjelke-Petersen statement withdrawing from the federal election campaign",
+      "url": "https://www.page.org.au/wp-content/uploads/1987/06/3-Bjelke-Petersen-statement-3-June-1987.pdf",
+      "factDate": "1987-06-03",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "protest",
+      "title": "State Library of Queensland: Freedom, freeways and Brisbane protest in the seventies",
+      "url": "https://www.slq.qld.gov.au/blog/freedom-freeways-and-brisbane-protest-seventies",
+      "factDate": "1970s; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "religion",
+      "title": "State Library of Queensland: Rona Joyner and the Society to Outlaw Pornography",
+      "url": "https://www.slq.qld.gov.au/blog/rona-joyner-and-society-outlaw-pornography",
+      "factDate": "2016-09-26; historical school policy",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "morals",
+      "title": "Queensland State Archives: Legalising condoms",
+      "url": "https://blogs.archives.qld.gov.au/2023/04/24/legalising-condoms/amp/",
+      "factDate": "2023-04-24; historical cabinet records",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "environment",
+      "title": "Queensland State Archives: World Heritage Wet Tropics",
+      "url": "https://blogs.archives.qld.gov.au/2021/09/23/world-heritage-wet-tropics/amp/",
+      "factDate": "2021-09-23; historical cabinet records",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "defence",
+      "title": "Queensland Hansard: Premier on national defence and freedom of information, pp. 3347–3348",
+      "url": "https://documents.parliament.qld.gov.au/events/han/1985/1985_12_05.pdf",
+      "factDate": "1985-12-05",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "trade",
+      "title": "ABC: Sir Joh goes it alone, 1984 Queensland Cabinet papers show",
+      "url": "https://www.abc.net.au/news/2015-01-01/1984-qld-cabinet-papers-released/5995306",
+      "factDate": "2015-01-01; 1984 cabinet records",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "interviews",
+      "title": "ABC Four Corners: Beyond Bethany, interviews with colleagues and opponents",
+      "url": "https://www.abc.net.au/news/2008-03-03/beyond-bethany/8953232",
+      "factDate": "2008-03-03; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "migration",
+      "title": "Centre Unity: Australian Exceptionalism, Why Australian Multiculturalism Works",
+      "url": "https://www.centreunity.org.au/australian_exceptionalism_why_australian_multiculturalism_works",
+      "factDate": "2013; retrospective commentary",
+      "accessedOn": "2026-10-01"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "protest",
+        "late",
+        "environment"
+      ],
+      "summary": "Defendo os direitos de Queensland contra a centralização em Canberra. A autonomia estadual não significa conceder soberania a comunidades locais nem enfraquecer a autoridade do governo estadual."
+    },
+    "representacao": {
+      "sourceIds": [
+        "late",
+        "defence"
+      ],
+      "summary": "Procuro mandatos eleitorais para um governo forte, com representação regional e autoridade executiva. Resisto a controles que dificultem governar, mas não proponho abolir eleições e instalar uma sucessão hereditária."
+    },
+    "poder": {
+      "sourceIds": [
+        "protest",
+        "late",
+        "morals"
+      ],
+      "summary": "A manutenção da ordem exige uma polícia firme, controle de manifestações e restrições a condutas que considero prejudiciais. Não trato a liberdade individual como justificativa para drogas ou permissividade moral."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "migration",
+        "early"
+      ],
+      "summary": "Valorizo uma identidade australiana comum e a integração de quem chega. Admito costumes familiares e contribuições de imigrantes, sem transformar o multiculturalismo em princípio superior às tradições nacionais."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "defence",
+        "trade"
+      ],
+      "summary": "Defendo forças armadas capazes de proteger todo o território contra ameaças comunistas. A firmeza militar pode coexistir com diálogo e comércio, sem entregar a segurança do país a organismos externos."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "defence",
+        "trade",
+        "protest"
+      ],
+      "summary": "Os interesses australianos e a segurança devem orientar a atuação externa. Aceito cooperação com aliados e pressão diante de ameaças, mas rejeito que campanhas internacionais determinem nossas decisões internas."
+    },
+    "economia": {
+      "sourceIds": [
+        "tax",
+        "early",
+        "late"
+      ],
+      "summary": "A iniciativa privada, a propriedade e a herança familiar sustentam a prosperidade. O governo ainda deve manter serviços e infraestrutura essenciais, sem entregar a política econômica aos sindicatos."
+    },
+    "controle": {
+      "sourceIds": [
+        "tax",
+        "late",
+        "early"
+      ],
+      "summary": "Quero impostos menores, menos obstáculos às empresas e relações de trabalho mais flexíveis. Apoio, porém, ação estadual em infraestrutura e projetos de desenvolvimento, não a eliminação de todo governo econômico."
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "interviews"
+      ],
+      "summary": "Busco capitais estrangeiros e mercados para os produtos de Queensland, inclusive na Ásia. O comércio deve gerar desenvolvimento, preservando espaço para interesses agrícolas e estratégicos locais."
+    },
+    "religiao": {
+      "sourceIds": [
+        "early",
+        "religion"
+      ],
+      "summary": "Minha fé cristã orienta os valores que defendo na vida pública e na educação. A família e a tradição religiosa devem ter proteção, sem substituir o governo parlamentar por uma autoridade eclesiástica."
+    },
+    "moral": {
+      "sourceIds": [
+        "morals",
+        "religion"
+      ],
+      "summary": "Defendo a família tradicional e padrões cristãos de comportamento. Rejeito a liberalização sexual, a pornografia e a substituição da autoridade moral dos pais por programas escolares permissivos."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "environment",
+        "early",
+        "religion"
+      ],
+      "summary": "Quero agricultura produtiva, mineração, energia e infraestrutura modernas, mesmo diante de campanhas ambientalistas. Isso não elimina minha preferência pela vida rural nem os limites morais à transformação do corpo humano."
+    }
+  },
+  "uncertainties": [
+    "The subject was a state premier, not an Australian prime minister. Federal defence, immigration and monetary questions extrapolate from his public statements and political principles; they do not imply federal executive responsibility.",
+    "Digital surveillance, autonomous weapons, cryptocurrencies, contemporary gender terminology, artificial intelligence and genetic enhancement are hypothetical applications, not documented statements on those technologies.",
+    "The migration source is retrospective political commentary. Assimilation answers use limited agreement, retain space for private heritage and lawful migration, and do not assign a documented deportation or blanket border-closure programme.",
+    "Neutral answers reflect tensions: state sovereignty versus Australian unity; electoral legitimacy versus weak executive checks; public infrastructure versus private ownership; agricultural protection versus export openness; and strong defence versus competing spending needs.",
+    "The power archetype C is the closest available institutional choice: he held elected parliamentary office. It is not an endorsement of the strength of his checks and balances; the question-level representation answers capture executive dominance and resistance to scrutiny.",
+    "The profile does not treat corruption allegations as convictions. His later trial ended without a verdict; the model concerns documented political conduct and policy."
+  ],
+  "distinctions": [
+    "States’ rights coexist with forceful state policing and resistance to Indigenous autonomy; federalism is not treated as general civil libertarianism.",
+    "Export promotion and foreign investment differ from blanket protectionism; state hospitals and electricity infrastructure qualify his private-enterprise outlook.",
+    "Christian social conservatism and rural preferences temper industrial enthusiasm on biotechnology and human enhancement.",
+    "Nearest stored model Edmund Burke (95.2%) was reviewed: Joh has greater state autonomy (78.3 versus 57.5), more public provision (36.3 versus 22.5), greater industrial enthusiasm (58.2 versus 43.8) and stronger social traditionalism (5.3 versus 18.8). These are separate historical subjects and independently answered models, not a duplicate; no answers were adjusted to change similarity. Irving Kristol (94.9%) and Jefferson Davis (94.6%) also have materially different federalism and defence values."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Joh_Bjelke-Petersen.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Joh_Bjelke-Petersen.jpg",
+    "author": "Premier’s Department, State Public Relations Bureau, Photographic Unit; State of Queensland",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "date": "circa 1980",
+    "changes": "Commons centering crop; locally resized and compressed",
+    "visuallyChecked": true
+  }
+}

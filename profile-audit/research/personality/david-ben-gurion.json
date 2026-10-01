@@ -1,0 +1,214 @@
+{
+  "id": "david-ben-gurion",
+  "country": "Israel",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "State-building and premiership, 1948–1953 and 1955–1963.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Knesset: David Ben-Gurion",
+      "url": "https://main.knesset.gov.il/EN/About/Pages/bg.aspx",
+      "factDate": "1886–1973; historical biography",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "education",
+      "title": "Ben-Gurion on a unified state education system",
+      "url": "https://www.jta.org/archive/israel-premier-starts-campaign-for-unified-system-of-education",
+      "factDate": "1953-07-06",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "statehood",
+      "title": "Ben-Gurion Research Institute historical chronology",
+      "url": "https://www.reaganlibrary.gov/sites/default/files/2025-03/40-219-6927378-021-010-2025.pdf",
+      "factDate": "1948–1963 events; retrospective archive document",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "security",
+      "title": "Ben-Gurion report to the Zionist General Council",
+      "url": "https://jewishvirtuallibrary.org/report-to-the-zionist-general-council-by-david-ben-gurion",
+      "factDate": "1948-04-06",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "military-rule",
+      "title": "NBER study on education and the removal of military travel restrictions",
+      "url": "https://www.nber.org/system/files/working_papers/w16856/revisions/w16856.rev0.pdf",
+      "factDate": "2011 research; 1963 removal after Ben-Gurion’s resignation",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "penalty",
+      "title": "UN Yearbook of Human Rights: Israel",
+      "url": "https://digitallibrary.un.org/record/860970/files/1961-E.pdf",
+      "factDate": "1961; ordinary murder penalty distinguished from exceptional crimes",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "suez",
+      "title": "US Office of the Historian: Suez Crisis",
+      "url": "https://history.state.gov/milestones/1953-1960/suez",
+      "factDate": "1956; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "nuclear",
+      "title": "Avner Cohen oral history on Israel’s nuclear programme",
+      "url": "https://ahf.nuclearmuseum.org/voices/oral-histories/avner-cohens-interview/",
+      "factDate": "Retrospective discussion of 1948–1960s decisions",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "economy",
+      "title": "Ben-Gurion presents new economic policy",
+      "url": "https://www.jta.org/archive/ben-gurion-presents-new-economic-policy-investors-to-benefit",
+      "factDate": "1952-02-14",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "finance",
+      "title": "Israel’s financial and economic situation, diplomatic correspondence",
+      "url": "https://history.state.gov/historicaldocuments/frus1952-54v09p1/d469",
+      "factDate": "1952; austerity, foreign exchange and development finance",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "religion",
+      "title": "Israel Studies anthology: religion and the status quo agreement",
+      "url": "https://jewishvirtuallibrary.org/jsource/isdf/text/fuchs.html",
+      "factDate": "1947 letter and subsequent religious arrangements; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "family",
+      "title": "Israel Medical Association Journal historical perspective on reproduction",
+      "url": "https://www.ima.org.il/filesupload/imaj/0/175/87761.pdf",
+      "factDate": "2016; birth incentives after statehood",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "vision",
+      "title": "Ben-Gurion Heritage Institute: sourced speeches and quotations",
+      "url": "https://bgh.org.il/en/quotes/",
+      "factDate": "Historical statements on Jewish immigration, the Negev and science",
+      "accessedOn": "2026-10-01"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "education",
+        "statehood",
+        "bio"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "bio",
+        "statehood",
+        "military-rule"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "security",
+        "military-rule",
+        "penalty"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "vision",
+        "education",
+        "military-rule"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "security",
+        "suez",
+        "nuclear"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "suez",
+        "security",
+        "bio"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "bio",
+        "economy",
+        "finance"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "economy",
+        "finance"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "economy",
+        "finance",
+        "vision"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "religion",
+        "vision"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "family",
+        "religion",
+        "education",
+        "bio"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "vision",
+        "nuclear",
+        "economy"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Historical scope is state-building and premiership, 1948–1953 and 1955–1963, with the 1947 religious compromise and earlier labour organisation as context. Later Israeli governments’ policies are not attributed to him.",
+    "National institutions displaced party militias and party schooling. Local and cooperative life should not be confused with federal constitutional autonomy. Minority community questions are bounded analogies; the military administration sharply constrained Arab citizens despite formal citizenship.",
+    "Competitive elections and parliamentary government coexist with dominant-party leadership and discriminatory emergency administration. Neutral judicial veto and universal opposition-rights claims preserve the difference between legal ideals and practice. Qualified support for emergency executive action does not imply abolition of elections.",
+    "Military restrictions, curfews, intelligence and administrative detention support a security-heavy profile. Digital surveillance, misinformation removal and facial recognition are contemporary analogies, not historical proposals. Ordinary criminal justice and national-security detention are deliberately distinguished. Neutral home firearms reflects licensed civilian defence without a general unrestricted right.",
+    "The death-penalty answer concerns ordinary murder and rape, not Eichmann, Nazi crimes or treason. The 1954 abolition occurred during Sharett’s premiership and remained in force after Ben-Gurion returned; it is context, not a claim that he personally enacted it. Drug and euthanasia answers extrapolate the period’s paternalistic public order and medical ethics.",
+    "Immigration support was directed to Jewish national return, with Hebrew integration and limits on Palestinian return. It cannot be mapped to universal open borders. Limited preservation of customs and neutral cultural contributions reflect tolerated differences within a strong common national identity. The generic humanitarian question is not treated as identical to Jewish aliyah.",
+    "Military answers include the 1956 invasion of Egypt in collaboration with Britain and France, not only defensive rhetoric. His nuclear project is documented; the profile does not claim an openly announced weapons doctrine or known completed arsenal in every year. International law and negotiation were tools he used, while national security could override deference to external institutions.",
+    "Labour institutions, collective settlements and public development coexist with a private sector. Support for land reform is an analogous emphasis on settlement and public land allocation, not approval of every Brazilian proposal. Coercive dispossession and land restrictions affecting Palestinians are not equivalent to egalitarian reform and are not endorsed by this simulation.",
+    "The 1952 programme adjusted an earlier command-heavy approach, encouraging foreign investment and reducing spending while maintaining exchange management and development priorities. Neutral price-freeze and recession answers reflect this policy movement; cryptocurrency questions are bounded extrapolations of monetary sovereignty.",
+    "Trade is selective and developmental: export promotion, foreign capital and imported equipment coexist with import management. Neither complete autarky nor unconditional free trade describes the record. Modern strategic chips and electric vehicles are analogies.",
+    "Jewish national identity is not identical to personal religious observance. Religious holidays, marriage arrangements, kosher state kitchens and limited education autonomy are compromises retained alongside secular state authority. Neutral religious-law and tax questions express that accommodation rather than an invented theological commitment.",
+    "Pronatalist family policy coexists with women’s civic and working roles. Modern LGBT adoption, gender identity, polyamory, sex work and neutral-language answers are qualified period-based inferences. Neutral public nudity, family education and racial quotas balance communal restraint, state schooling and formal equality; no modern campaign is invented.",
+    "The science profile combines industrial and nuclear ambition with settlement in the Negev. Rural preference therefore does not signal anti-technology. Brain implants, AI and embryo editing are hypothetical: medicine and productivity are welcomed, while neutral enhancement limits preserve ethical caution. Developmental enthusiasm is not a claim that all ecological damage is desirable."
+  ],
+  "distinctions": [
+    "Potential neighbours include Labour Zionists and nationalist social democrats. Preserve state centralisation, labour ownership, Jewish immigration, religious accommodation and military initiative without turning him into either a theocrat or a free-market conservative.",
+    "Pre-archive answer review: qualified absolute ownership and foreign-projection claims. Mixed private, cooperative and state sectors do not imply compulsory worker ownership of every company or expropriative revolution; practical regional force does not mean unlimited domination. Answers were reviewed on wording before any archive was written, not to change nearest-neighbour distance.",
+    "Manual nearest-neighbour review: Theodore Roosevelt is 95.0% compatible, sharing central institutions, national assertiveness and technological development. Ben-Gurion’s labour/cooperative ownership and state-directed absorption distinguish the economic record; Jewish national return, the religious status quo and military administration supply distinct context. Similarity is not identity. No archived answers changed."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:David_Ben_Gurion.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/David_Ben_Gurion.jpg",
+    "author": "Fritz Cohen / Israeli Government Press Office",
+    "license": "Public domain in Israel (PD-Israel, as marked by Commons)",
+    "date": "1960-02-29",
+    "note": "Existing Commons portrait crop, resized and recompressed from 329 KB to 24 KB.",
+    "visuallyChecked": true
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "id": "helmut-kohl",
+  "country": "Germany",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Chancellorship, 1982–1998; later disclosure of the period’s donations scandal retained as context.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Federal Chancellery: Helmut Kohl",
+      "url": "https://www.bundeskanzler.de/bk-en/helmut-kohl-1982-1998--1850236",
+      "factDate": "Chancellorship 1982–1998; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "record",
+      "title": "Bundestag retrospective, including the donations scandal",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2017/kw25-de-kohl-510862",
+      "factDate": "2017-06-22; birth 1930, death 2017; scandal disclosed 1999",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "programme",
+      "title": "Kohl inaugural government declaration",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/erklaerungen-1/",
+      "factDate": "1982-10-13",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "federalism",
+      "title": "Kohl address on subsidiarity and local government",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/30-mai-1986/",
+      "factDate": "1986-05-30",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "subsidiarity",
+      "title": "Kohl on federalism and European subsidiarity",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/26-september-1992/",
+      "factDate": "1992-09-26",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "law",
+      "title": "Kohl address to the German Lawyers Conference",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/28-mai-1987/",
+      "factDate": "1987-05-28; privacy, constitutional rights, embryos and public security",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "surveillance",
+      "title": "Federal Agency for Civic Education: surveillance legislation",
+      "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132428/4-mai-1998/",
+      "factDate": "1998-05-04; retrospective chronology",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "asylum",
+      "title": "Federal Agency for Civic Education: asylum compromise",
+      "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132432/6-dezember-1992/",
+      "factDate": "1992-12-06; agreement preceding 1993 legislation",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "faith",
+      "title": "Kohl Catholic speech on Europe, faith and protection of life",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/23-juni-1991/",
+      "factDate": "1991-06-23",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "security",
+      "title": "Kohl Munich Security Conference address",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/3-februar-1996/",
+      "factDate": "1996-02-03",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "bosnia",
+      "title": "Bundeswehr history of overseas deployments",
+      "url": "https://www.bundeswehr.de/de/selbstverstaendnis/geschichte-bundeswehr/armee-einsatz-geschichte",
+      "factDate": "1991–1995 deployments and the 1994 constitutional ruling; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "atlantic",
+      "title": "Historical account of Kohl’s transatlantic relations",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/transatlantische-beziehungen/",
+      "factDate": "1982–1998; retrospective",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "europe",
+      "title": "Historical account of European integration under Kohl",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/europaeische-einigung/",
+      "factDate": "1982–1998; Maastricht and monetary union",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "economy",
+      "title": "Reimut Zohlnhöfer: economic and fiscal policy under Kohl",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/wirtschafts-und-finanzpolitik/",
+      "factDate": "1982–1998; retrospective distinguishing early moderation and later privatisation",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "social",
+      "title": "Historical account of social policy under Kohl",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/sozialpolitik/",
+      "factDate": "1982–1998; long-term care insurance introduced 1995",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "family",
+      "title": "Historical account of Kohl-era family policy",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/familienpolitik/",
+      "factDate": "1982–1998; family support, pension credits and abortion debate",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "decriminalisation",
+      "title": "Federal Agency for Civic Education: repeal of Paragraph 175",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/180263/1994-homosexualitaet-nicht-mehr-strafbar/",
+      "factDate": "1994 repeal; retrospective, not a personal Kohl quotation",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "science",
+      "title": "Kohl address on technological progress and ethical limits",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/26-mai-1987/",
+      "factDate": "1987-05-26; nuclear power and genetic engineering",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "environment",
+      "title": "Historical account of Kohl-era environmental policy",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/umweltpolitik/",
+      "factDate": "1982–1998; conservation, pollution control and limits of implementation",
+      "accessedOn": "2026-10-01"
+    },
+    {
+      "id": "adenauer-comparison",
+      "title": "Federal Chancellery: Adenauer’s reconstruction and Western integration",
+      "url": "https://www.bundeskanzler.de/bk-en/federal-chancellery/federal-chancellors-since-1949/konrad-adenauer",
+      "factDate": "1949–1963 chancellorship; retrospective",
+      "accessedOn": "2026-10-01"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "federalism",
+        "subsidiarity",
+        "economy"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "programme",
+        "law",
+        "record"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "law",
+        "surveillance",
+        "faith"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "programme",
+        "asylum",
+        "security"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "security",
+        "atlantic",
+        "bosnia",
+        "law"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "security",
+        "europe",
+        "faith",
+        "bosnia"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "economy",
+        "social",
+        "programme"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "economy",
+        "social",
+        "europe"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "europe",
+        "economy",
+        "science"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "law",
+        "programme"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "faith",
+        "family",
+        "law",
+        "decriminalisation"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "science",
+        "law",
+        "environment"
+      ]
+    }
+  },
+  "uncertainties": [
+    "Historical scope is the 1982–1998 chancellorship, with earlier principles only where documented in governing speeches. The 1999 donations scandal concerns conduct during that period and is retained as an accountability qualification. The profile does not describe later CDU positions as Kohl’s views.",
+    "Federalism and European integration are compatible in his subsidiarity doctrine: some tasks belong locally and others require a broader level. Territorial autonomy is not unilateral secession. Indigenous legal autonomy and Brazilian municipal/education questions are bounded analogies to subsidiarity and minority protection within constitutional law, not reported proposals about Brazil.",
+    "His acceptance of electoral defeat and parliamentary government supports democratic answers. Firm party leadership and the later refusal to disclose donors prevent a claim of flawless accountability. The questionnaire does not directly measure party-finance transparency; this record is not erased, nor treated as evidence that he favoured ending elections. Opposition rights and universal suffrage are distinguished from direct recall, sortition or assembly government.",
+    "The 1998 surveillance law authorised intrusive investigation with judicial procedures and exceptions; modern digital monitoring and facial recognition are qualified analogies, not technologies Kohl personally proposed. Neutral misinformation takedowns and compelled phone unlocking balance rule of law and civil liberty. Financial tracking is linked to anti-money-laundering enforcement, not universal publication of purchases.",
+    "Death-penalty rejection follows constitutional human dignity. Vaccination, curfews and firearms restrictions are bounded public-safety inferences rather than claims of specific Kohl proposals. Party prohibition means constitutional judicial protection against genuine anti-democratic threats, not executive removal of ordinary rivals. Indefinite detention without trial is rejected.",
+    "Cannabis and other-drug answers apply his responsibility-and-public-order approach and the period’s regulated criminal framework; no blanket demand to imprison every user is attributed. Euthanasia rejection concerns active killing, not refusal of disproportionate treatment. His legal speech explicitly urges exceptional ethical caution about assisted dying.",
+    "The 1982 statement combines limits and integration with respect for retained identity; asylum restriction is not interpreted as ethnic supremacy. Cultural-conformity questions refer to civic and public integration, not suppression of all harmless private customs. Neutral multilingualism balances toleration against his priority for a shared public culture. Humanitarian reception is qualified, not unrestricted entry.",
+    "The profile includes both NATO deterrence during the Cold War and the later Bosnian peacekeeping role. Independent German nuclear weapons are distinguished from allied nuclear deployments. Modern drones/autonomous systems are interpreted as accountable defence modernisation, not unrestricted autonomous lethal decisions. Neutral claims that wars are almost never worthwhile balance historical restraint and collective defence. Conscription support is documented in his account of civic duties.",
+    "Regional leadership refers to cooperative European institutions and allied action, not territorial expansion. Economic diplomacy, sanctions and peacekeeping can coexist with his rejection of national arrogance. No claim is made that every intervention proposed by an ally would have received his approval.",
+    "Privatisation included industrial holdings, Lufthansa, part of Deutsche Telekom and former East German enterprises. Rail corporatisation did not itself transfer all railway ownership to private investors. Social insurance and collective bargaining remained central, including the new care-insurance pillar. Neutral public-service tenure and profit in essentials distinguish social guarantees from mixed provision. Welfare is needs-based and conditional, not an unconditional universal income.",
+    "The economic record combines fiscal consolidation with large reunification transfers and selective subsidies. Neutral state planning, national champions, labour regulation and recession spending preserve this tension. Central-bank independence is institutional; Kohl’s monetary-unification decision nevertheless overrode Bundesbank preferences on timing and conversion. No support for abolishing monetary institutions or unregulated cryptocurrency is inferred.",
+    "Trade answers apply the European single-market and export-oriented approach to hypothetical current tariffs. Neutral procurement, strategic-sector protection and sovereignty-versus-prices balance integration with selective sectoral support. Chinese EVs are a modern analogy; no literal view on that market is attributed to Kohl.",
+    "Christian influence in public ethics does not imply theocracy, compulsory belief or divine law overriding constitutional law. Church taxation and religious symbols are interpreted through Germany’s cooperative church-state context. Religious marriage is valued without asserting that all civil marriage must be invalid.",
+    "Conservative family and abortion answers are grounded in his stated protection-of-life principles and family policy. The 1994 repeal of Paragraph 175 is acknowledged as a change during his government, not evidence of his personal endorsement of modern marriage equality. Neutral public affection and nudity distinguish legal toleration from moral approval. Gender identity, gender-neutral language, quotas, pornography, sex work and polyamory are explicit hypothetical applications of his period’s conservative principles; the profile does not invent personal statements on each.",
+    "Technological progress is bounded by environmental safety and protection of embryos. Neutral city-versus-country preferences avoid equating economic modernisation with rejection of rural life. Brain enhancement and embryo editing are constrained by dignity-based ethics; therapeutic research is not rejected wholesale. GM crops, AI, pesticides, cultivated meat and space exploration are qualified applications of documented research and conservation priorities, not literal contemporary proposals."
+  ],
+  "distinctions": [
+    "Potential neighbours include Adenauer, Christian democrats and social-market conservatives. Preserve Kohl’s subsidiarity, European integration, social insurance, privatisation, Catholic ethics and nuclear support rather than copying Thatcher or later CDU leaders.",
+    "Manual review of 95.9% proximity to Leon Kass: the stored Kass vector shares conservative moral and religious emphasis, but Kohl’s European market integration and qualified industrial-science programme yield substantially different trade and technology results. Kohl is a governing statesman, not a duplicate biography. Kass’s existing answers were not reaudited or changed.",
+    "Manual review of 95.9% proximity to Friedrich Merz: Kohl’s documented social-insurance record and ethical limits on technological intervention yield more public-ownership emphasis and less technological enthusiasm than the stored Merz vector. The periods and biographies are distinct; this comparison does not assert a new audit of current Merz policies."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Helmut_Kohl_1989.jpg",
+    "author": "CDU / KAS-ACDP, 10-030:200",
+    "license": "CC BY-SA 3.0 DE",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Helmut_Kohl_1989.jpg",
+    "date": "1989",
+    "note": "Existing Commons portrait from the CDU European election poster, recompressed from 87 KB to 42 KB; remains under CC BY-SA 3.0 DE.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "konrad-adenauer",
+      "answersSha256": "966839e5073ac177106bf3da222934e51a156cf18604df7e406ffe4d460085a0",
+      "neighborVectorSha256": "49727c69d2e71acd384d2aad68fc3f756334c34f338b17b7e92f893ba1e7b00a",
+      "reason": "These are distinct chancellors in the same Christian-democratic tradition. Adenauer’s reconstruction and initial Western integration differ from Kohl’s reunification, Maastricht programme, later privatisations and Bosnian deployment. Kohl’s explicit subsidiarity speeches, market reforms and European integration support different structure, control, trade and intervention answers. The existing Adenauer vector remains unchanged; the close political family resemblance is retained without copying answers or forcing separation.",
+      "differingAxes": [
+        "estrutura",
+        "controle",
+        "comercio",
+        "intervencao"
+      ],
+      "sourceIds": [
+        "adenauer-comparison",
+        "federalism",
+        "economy",
+        "europe",
+        "security"
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 import { LANG, t } from '../i18n';
-import type { Candidate, ElectionResult, QuizPayload, QuizResult, QuizVariant, SubmittedAnswer } from '../types/quiz';
+import type { QuizPayload, QuizResult, QuizVariant, SubmittedAnswer } from '../types/quiz';
 
 const API_URL = (import.meta.env.VITE_API_URL ?? '').replace(/\/$/, '');
 
@@ -47,19 +47,18 @@ export function fetchQuiz(variant: QuizVariant = 'short'): Promise<QuizPayload> 
 export function submitResults(
   variant: QuizVariant,
   answers: SubmittedAnswer[],
-  archetype: Record<string, string> = {}
+  archetype: Record<string, string> = {},
+  religion: string | null = null
 ): Promise<QuizResult> {
-  return request<QuizResult>(`/api/results?lang=${LANG}`, {
+  const religionParam = religion ? `&religion=${encodeURIComponent(religion)}` : '';
+  return request<QuizResult>(`/api/results?lang=${LANG}${religionParam}`, {
     method: 'POST',
     body: JSON.stringify({ variant, answers, archetype })
   });
 }
 
-export function fetchSharedResult(leftPercents: number[]): Promise<QuizResult> {
-  return request<QuizResult>(`/api/results/by-axes?v=${leftPercents.join(',')}&lang=${LANG}`);
+export function fetchSharedResult(leftPercents: number[], religion: string | null = null): Promise<QuizResult> {
+  const religionParam = religion ? `&religion=${encodeURIComponent(religion)}` : '';
+  return request<QuizResult>(`/api/results/by-axes?v=${leftPercents.join(',')}&lang=${LANG}${religionParam}`);
 }
 
-export function fetchElectionQuiz(): Promise<QuizPayload> { return request<ElectionResult extends never ? never : QuizPayload>('/api/election/quiz'); }
-export function fetchElectionCandidates(): Promise<Candidate[]> { return request<Candidate[]>('/api/election/candidates'); }
-export function submitElectionResults(answers: SubmittedAnswer[]): Promise<ElectionResult> { return request<ElectionResult>('/api/election/results', { method: 'POST', body: JSON.stringify({ variant: 'short', answers }) }); }
-export function fetchSharedElectionResult(leftPercents: number[]): Promise<ElectionResult> { return request<ElectionResult>(`/api/election/results/by-axes?v=${leftPercents.join(',')}`); }

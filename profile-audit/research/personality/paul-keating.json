@@ -1,0 +1,362 @@
+{
+  "id": "paul-keating",
+  "country": "Australia",
+  "researchedOn": "2026-09-30",
+  "profilePeriod": "Treasurer 1983–1991 and Prime Minister 1991–1996, with explicitly dated later public statements through September 2026.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "naa-life",
+      "title": "National Archives: Paul Keating, biography and economic reform",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/paul-keating",
+      "factDate": "1944–; Treasurer 1983–1991, Prime Minister 1991–1996",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "naa-office",
+      "title": "National Archives: Keating during office",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/paul-keating/during-office",
+      "factDate": "1991–1996",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "republic",
+      "title": "Keating: An Australian Republic, The Way Forward",
+      "url": "https://www.paulkeating.net.au/shop/item/an-australian-republic-the-way-forward---7-june-1995",
+      "factDate": "1995-06-07",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "privacy-law",
+      "title": "Human Rights (Sexual Conduct) Act 1994, original text",
+      "url": "https://www.legislation.gov.au/C2004A04852/asmade/1994-12-19/text/original/epub/OEBPS/document_1/document_1.html",
+      "factDate": "1994-12-19",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "guns",
+      "title": "ANU Press: Australian gun-control policy and Keating government proposals",
+      "url": "https://press-files.anu.edu.au/downloads/press/n5314/html/ch09.xhtml?page=16",
+      "factDate": "1995 policies; historical study",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "privacy",
+      "title": "Keating: The Privacy Imperative in the Information Age Free-for-All",
+      "url": "https://www.paulkeating.net.au/shop/item/the-privacy-imperative-in-the-information-age-free-for-all---4-august-2010",
+      "factDate": "2010-08-04",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "assisted-dying",
+      "title": "Keating: NSW voluntary assisted dying legislation statement",
+      "url": "https://www.paulkeating.net.au/shop/item/nsw-voluntary-assisted-dying-legislation-pj-keating-statement",
+      "factDate": "2017-11-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "territory-law",
+      "title": "Senate committee report: Keating government decision not to override Northern Territory euthanasia law",
+      "url": "https://www.aph.gov.au/binaries/senate/committee/legcon_ctte/completed_inquiries/1996-99/euthanasia/report/report.pdf",
+      "factDate": "1995–1996 correspondence; report 1997",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "multicultural",
+      "title": "Keating: multiculturalism and Australian identity",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-8630",
+      "factDate": "1992-08-25",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "immigration-2026",
+      "title": "Keating: statement opposing cultural exclusion in immigration policy",
+      "url": "https://www.paulkeating.net.au/shop/item/angus-taylor-and-the-liberal-partys-moral-decline-statement-by-pj-keating-16-april-2026",
+      "factDate": "2026-04-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "detention",
+      "title": "Parliamentary chronology of immigration detention legislation",
+      "url": "https://aphref.aph.gov.au/house/committee/mig/detention/report/appendixd.htm",
+      "factDate": "1992–1994 mandatory detention changes",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "aukus-2026",
+      "title": "Keating: statement on AUKUS, Taiwan and Australian sovereignty",
+      "url": "https://www.paulkeating.net.au/shop/item/disturbing-admissions-from-us-republican-congressman-statement-by-pj-keating-18-september-2026",
+      "factDate": "2026-09-18",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "us-role",
+      "title": "ABC: Keating on the US balancing role, China and strategic independence",
+      "url": "https://www.abc.net.au/news/2026-09-05/united-states-richard-marles-donald-trump-aukus-paul-keating/107097650",
+      "factDate": "2026-09-05",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "peacekeeping",
+      "title": "Museum of Australian Democracy: Keating timeline, Somalia and Indonesia security agreement",
+      "url": "https://primeministers.moadoph.gov.au/prime-ministers/paul-keating",
+      "factDate": "1992–1995",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "nuclear-tests",
+      "title": "Keating: French nuclear testing and disarmament",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-9714",
+      "factDate": "1995-08-16",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "privatisation",
+      "title": "Reserve Bank: Australian privatisation chronology",
+      "url": "https://www.rba.gov.au/publications/bulletin/1997/dec/2.html",
+      "factDate": "1991–1996 asset sales; published 1997-12",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "superannuation",
+      "title": "Keating: superannuation and retirement income",
+      "url": "https://www.paulkeating.net.au/shop/item/superannuation-paul-keating-9-july-2020",
+      "factDate": "2020-07-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "tax-2026",
+      "title": "Keating: Government CGT Changes Structurally Sound",
+      "url": "https://www.paulkeating.net.au/shop/item/government-cgt-changes-structurally-sound-statement-by-pj-keating-20-may-2026",
+      "factDate": "2026-05-20",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "monetary-policy",
+      "title": "Keating: The Reserve Bank and Monetary Policy",
+      "url": "https://www.paulkeating.net.au/shop/item/the-reserve-bank-and-monetary-policy-statement-by-pj-keating-3-february-2021",
+      "factDate": "2021-02-03",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "faith-welfare",
+      "title": "Keating interview: Christian ethics, pensions, tax cuts and state responsibilities",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-9158",
+      "factDate": "1994-03-17",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "religious-assessment",
+      "title": "ABC Compass: God in the Lodge, Roy Williams assessment of Keating",
+      "url": "https://www.abc.net.au/religion/watch/compass/god-in-the-lodge---part-2-1966---2014/10141870",
+      "factDate": "2014",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "equality",
+      "title": "Keating: tenth anniversary of the Sex Discrimination Act",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-9296",
+      "factDate": "1994-07-29",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "energy",
+      "title": "Keating: opposition to nuclear power and support for renewables",
+      "url": "https://www.paulkeating.net.au/shop/item/statement-by-pj-keating-peter-dutton-climate-denialist-peddler-of-danger-23-june-2024",
+      "factDate": "2024-06-23",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "cities",
+      "title": "Keating: The Compact City, Urban Design and Architecture",
+      "url": "https://www.paulkeating.net.au/shop/item/address-at-urban-development-institute-national-congress---9-march-2010",
+      "factDate": "2010-03-09",
+      "accessedOn": "2026-09-30"
+    },
+    {
+      "id": "mining",
+      "title": "Keating: opening McArthur River zinc mine, industry and innovation",
+      "url": "https://pmtranscripts.pmc.gov.au/sites/default/files/original/00009747.pdf",
+      "factDate": "1995-09-06",
+      "accessedOn": "2026-09-30"
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "republic",
+        "territory-law",
+        "faith-welfare",
+        "cities",
+        "privacy-law"
+      ]
+    },
+    "representacao": {
+      "sourceIds": [
+        "republic",
+        "immigration-2026",
+        "naa-office"
+      ]
+    },
+    "poder": {
+      "sourceIds": [
+        "privacy",
+        "privacy-law",
+        "guns",
+        "assisted-dying"
+      ]
+    },
+    "imigracao": {
+      "sourceIds": [
+        "multicultural",
+        "immigration-2026",
+        "detention"
+      ]
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "aukus-2026",
+        "us-role",
+        "peacekeeping",
+        "nuclear-tests"
+      ]
+    },
+    "intervencao": {
+      "sourceIds": [
+        "aukus-2026",
+        "us-role",
+        "peacekeeping",
+        "naa-office"
+      ]
+    },
+    "economia": {
+      "sourceIds": [
+        "naa-life",
+        "naa-office",
+        "privatisation",
+        "superannuation",
+        "faith-welfare"
+      ]
+    },
+    "controle": {
+      "sourceIds": [
+        "naa-life",
+        "cities",
+        "monetary-policy",
+        "tax-2026",
+        "naa-office"
+      ]
+    },
+    "comercio": {
+      "sourceIds": [
+        "naa-life",
+        "naa-office",
+        "faith-welfare",
+        "cities"
+      ]
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith-welfare",
+        "assisted-dying",
+        "religious-assessment"
+      ]
+    },
+    "moral": {
+      "sourceIds": [
+        "equality",
+        "privacy-law",
+        "naa-office",
+        "religious-assessment",
+        "faith-welfare"
+      ]
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "cities",
+        "energy",
+        "mining",
+        "assisted-dying",
+        "naa-office"
+      ]
+    }
+  },
+  "uncertainties": [
+    "This is a career profile, not a 1996 snapshot. Privacy arguments date from 2010, assisted-dying opposition from 2017, nuclear-power opposition from 2024, and latest migration, taxation and AUKUS statements from 2026.",
+    "His 1995–1996 refusal to override Northern Territory euthanasia legislation concerned constitutional responsibility; it does not contradict his later personal opposition to assisted dying.",
+    "Moral reservations about abortion are cautiously inferred from the ABC expert assessment of his Catholic outlook, not attributed as a newly verified personal statement or a proposal to ban all abortions. Same-sex marriage, adoption and current gender identity questions remain neutral where evidence is insufficient.",
+    "Sexual-conduct privacy legislation is not evidence for unrestricted drug legalisation, prostitution policy or every modern family-law position.",
+    "The foreign-policy profile retains both government peacekeeping/security cooperation and later opposition to AUKUS. His statements about possible US deployments and military outcomes are opinions, not independently established facts.",
+    "Nuclear-energy opposition is supported by his explicit 2024 statement, not inferred from opposition to nuclear submarines or weapons.",
+    "Cryptocurrency, facial recognition, mandatory vaccination, genetic enhancement, implants and cultured meat involve bounded inference or neutral answers; the questionnaire was never completed by Keating.",
+    "CBA privatisation began under Hawke and concluded under Howard; the profile attributes only Keating-era tranches and support for the programme to Keating.",
+    "The 2010 city speech contains an apparent reference to being Treasurer in the mid-1990s; the profile uses the independently verified 1983–1991 tenure."
+  ],
+  "distinctions": [
+    "Unlike a generic socialist profile, he supported private ownership, financial deregulation and tariff reductions.",
+    "Unlike a laissez-faire liberal, he defended Medicare, compulsory superannuation, progressive taxation and public infrastructure.",
+    "Unlike Hawke, his later documented positions oppose voluntary assisted dying and domestic nuclear power while placing greater emphasis on avoiding US-led strategic confrontation with China.",
+    "Unlike a purely nationalist or isolationist profile, he supported multiculturalism, Asian economic integration and international peacekeeping."
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Keating_Paul_Portrait.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Keating_Paul_Portrait.jpg",
+    "localPath": "frontend/public/personalities/portraits/paul-keating.jpg",
+    "note": "Real 1993 portrait, Commonwealth of Australia; CC BY-SA 3.0 per Commons file page. Resized and compressed, then visually inspected.",
+    "visuallyChecked": true
+  },
+  "similarityReview": [
+    {
+      "comparedWith": "sergio-mattarella",
+      "answersSha256": "89b68c849d7c6f5bc71b7801172a3fead9512c03bda9896dda23a8fccdaf2357",
+      "neighborVectorSha256": "ae1b2a40f4d9c1c0615e4acbfc35a72c4d37bb5f6f87a631b733e3dac967e8f1",
+      "reason": "Shared democratic, pluralist and socially protective institutions explain the overlap. Keating differs from the existing Mattarella vector on economia (53.2 vs 62.5) and comercio (17.5 vs 30.0), reflecting documented privatisation, financial liberalisation and APEC trade integration. His civil-liberties emphasis yields poder 47.2 versus 58.8. These comparisons describe model outputs, not objectively measured historical distances; no answers were altered to manufacture separation.",
+      "differingAxes": [
+        "economia",
+        "comercio",
+        "poder"
+      ],
+      "sourceIds": [
+        "naa-life",
+        "privatisation",
+        "naa-office",
+        "privacy"
+      ]
+    },
+    {
+      "comparedWith": "bill-clinton",
+      "answersSha256": "89b68c849d7c6f5bc71b7801172a3fead9512c03bda9896dda23a8fccdaf2357",
+      "neighborVectorSha256": "fe3878246027187c451be560d4b34e1ced9859093de0850362f8ab63bc69a1f5",
+      "reason": "Market reform and parliamentary democracy explain substantial overlap. The Keating career profile incorporates his later opposition to AUKUS and a Taiwan war, giving diplomacia 27.6 and intervencao 49.4 versus the existing Clinton model at 43.8 and 35.0. Compulsory superannuation, Medicare and Christian social ethics also remain explicit. This is a source-based distinction between editorial simulations, not a claim of measured historical distance. Answers were retained unchanged after review.",
+      "differingAxes": [
+        "diplomacia",
+        "intervencao",
+        "religiao"
+      ],
+      "sourceIds": [
+        "aukus-2026",
+        "us-role",
+        "superannuation",
+        "faith-welfare"
+      ]
+    },
+    {
+      "comparedWith": "jimmy-carter",
+      "answersSha256": "89b68c849d7c6f5bc71b7801172a3fead9512c03bda9896dda23a8fccdaf2357",
+      "neighborVectorSha256": "b02230b9e2da3ed209750cd26a6d6f9d4033d988c1a20984858966ab48ae1949",
+      "reason": "Both editorial profiles support democratic government, social protection and market reform. Keating’s financial liberalisation, privatisation and Asian trade integration give comercio 17.5 versus Carter’s 31.8. His compact-city and industrial-development record differs from Carter’s rural/conservation emphasis (tecnologia 52.4 versus 45.2). His later strategic autonomy positions also differ on intervencao (49.4 versus 41.0). This accepts documented political proximity between distinct people; archived answers are unchanged.",
+      "differingAxes": [
+        "comercio",
+        "tecnologia",
+        "intervencao"
+      ],
+      "sourceIds": [
+        "naa-life",
+        "privatisation",
+        "naa-office",
+        "cities",
+        "aukus-2026"
+      ]
+    }
+  ]
+}
