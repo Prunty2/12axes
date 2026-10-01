@@ -45,11 +45,21 @@ export interface QuizPayload {
   archetypeQuestions?: ArchetypeQuestion[];
 }
 
+/** Ícone preenchido (mesmo formato de data/filledPoleIcons.ts). */
+export interface QuestionIcon {
+  viewBox: string;
+  paths: string[];
+  fillRule?: 'evenodd' | 'nonzero';
+}
+
 export interface ArchetypeQuestion {
   id: string;
   label: string;
   text: string;
-  options: { id: string; text: string }[];
+  /** Selo do cabeçalho; sem ele, usa o ícone do tema pelo id. */
+  icon?: QuestionIcon;
+  /** Com icon, a alternativa mostra o ícone no lugar da letra. */
+  options: { id: string; text: string; icon?: QuestionIcon }[];
 }
 
 export interface SubmittedAnswer {
@@ -189,10 +199,3 @@ export interface QuizResult {
   bookRecommendations?: BookRecommendation[];
 }
 
-export interface Candidate {
-  id: string; name: string; shortName: string; role: string; description: string; party: string; partyName: string;
-  ballotNumber: string; runningMate: string; active: boolean; imagePath: string;
-  imageSourceName?: string; imageSourceUrl?: string; imageNote?: string;
-}
-export interface CandidateMatch extends Candidate { candidateId: string; compatibility: number; }
-export interface ElectionResult { axes: AxisResult[]; matches: CandidateMatch[]; }

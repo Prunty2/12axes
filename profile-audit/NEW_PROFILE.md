@@ -74,9 +74,9 @@ ainda reflete a posição mais recente da pessoa; se não refletir, atualize `pe
 
 | Catálogo | Campos obrigatórios | Campos condicionais |
 |---|---|---|
-| `ideology` | `id`, `name`, `category`, `description`, `phrase`, `countryId`, `personalityId` | `phrase` só existe neste catálogo, ver seção própria |
-| `personality` | `id`, `name`, `role`, `lifespan`, `description`, `imagePath`, `imageSourceName`, `imageSourceUrl`, `imageNote` | — |
-| `country` | `id`, `name`, `category`, `description`, `flagPath`, `historical`, `period`, `vector` (sempre `null` no arquivo de metadados) | `period` só é preenchido (e `historical: true`) se o perfil representa um país num momento histórico específico (ex.: "Alemanha Nazista — Terceiro Reich") |
+| `ideology` | `id`, `name`, `category`, `description`, `phrase`, `countryId`, `personalityId`, `religions` | `phrase` só existe neste catálogo, ver seção própria |
+| `personality` | `id`, `name`, `role`, `lifespan`, `description`, `imagePath`, `imageSourceName`, `imageSourceUrl`, `imageNote`, `religions` | — |
+| `country` | `id`, `name`, `category`, `description`, `flagPath`, `historical`, `period`, `vector` (sempre `null` no arquivo de metadados), `religions` | `period` só é preenchido (e `historical: true`) se o perfil representa um país num momento histórico específico (ex.: "Alemanha Nazista — Terceiro Reich") |
 
 **Nota sobre `ideology.countryId` / `ideology.personalityId`**: toda ideologia do catálogo aponta
 para um país e uma personalidade **já existentes** que a exemplificam bem (ex.: `aceleracionismo-cristao`
@@ -127,7 +127,8 @@ Exemplo de objeto novo em `ideologies.json`:
   "description": "Descrição factual de 1-3 frases sobre a ideologia, seus princípios centrais e contexto histórico/geográfico relevante.",
   "phrase": "Quero uma sociedade ... (ver seção sobre o campo phrase abaixo)",
   "countryId": "brasil",
-  "personalityId": "lula-da-silva"
+  "personalityId": "lula-da-silva",
+  "religions": []
 }
 ```
 
@@ -142,7 +143,8 @@ Exemplo de objeto novo em `countries.json`:
   "flagPath": "/countries/flags/exemplo-pais.gif",
   "historical": false,
   "period": "",
-  "vector": null
+  "vector": null,
+  "religions": ["christianity"]
 }
 ```
 
@@ -159,7 +161,8 @@ Exemplo de objeto novo em `personalities.json` (campos de imagem preenchidos no 
   "imagePath": "/personalities/portraits/exemplo-pessoa.jpg",
   "imageSourceName": "Wikimedia Commons / Wikipédia",
   "imageSourceUrl": "https://pt.wikipedia.org/wiki/Exemplo_Pessoa",
-  "imageNote": "Retrato de Exemplo Pessoa via Wikipédia/Wikimedia Commons."
+  "imageNote": "Retrato de Exemplo Pessoa via Wikipédia/Wikimedia Commons.",
+  "religions": ["christianity"]
 }
 ```
 
@@ -206,6 +209,54 @@ exercício do poder é o que define a figura, e `teorico` se a obra escrita é o
 
 O teste `PersonalityCategoryTest` falha se qualquer perfil ficar sem `category` ou usar um
 valor fora dos 8.
+
+### O campo `religions` (os três catálogos)
+
+`religions` é **obrigatório** (use `[]` quando não houver vínculo) e alimenta o filtro opcional
+"priorizar uma tradição religiosa" da página de resultados. Valores fechados:
+`christianity`, `judaism`, `islam`, `buddhism` e `other` (hinduísmo, xintoísmo, religiões
+antigas/pagãs etc.). Pode haver mais de um.
+
+**Primeiro filtro: o vetor.** Só se marca religião quando ela muda a decisão de quem filtra:
+- `religiao` ≤ 35 (lado religioso): marcação **obrigatória**, pelo critério de cada catálogo abaixo.
+- `religiao` > 35: `[]` por padrão, porque o perfil é laico o bastante para que um fiel de outra
+  tradição possa se identificar com ele (um cristão pode gostar do sistema político de Singapura).
+  A exceção é quando a religião é a própria identidade do perfil: doutrina religiosa por definição
+  (Anarquismo Cristão, Liberalismo Islâmico) ou liderança/fundação religiosa ou nacional-religiosa
+  (Dalai Lama, Ambedkar, Tolstói, Herzl, Jinnah). Em **personalidades**, também entra quem tem
+  posição política ou religiosa forte ligada à fé (Milei, Chávez, Biden, Blair, Thiel, Mamdani).
+  Só `["other"]` pode ficar em qualquer caso,
+  porque não afeta o filtro.
+
+**Regra de inclusão (por catálogo).** O teste é um só: **a religião é parte relevante daquilo que
+o perfil representa?** O filtro *esconde* os perfis marcados só com outra religião, então cada
+marcação tira o perfil de quem escolheu outra tradição. Marque só quando isso fizer sentido.
+
+| Catálogo | Entra | Não entra |
+|---|---|---|
+| país | **só a religião majoritária** (ou a tradição dominante), mesmo em Estado laico (Arábia Saudita = `["islam"]`; Polônia = `["christianity"]`; Suécia e Albânia, laicas no vetor, = `[]`) | religiões minoritárias, por maiores que sejam; regimes cuja marca é a perseguição à religião (Coreia do Norte, Khmer Vermelho, URSS = `[]`) |
+| ideologia | doutrina com base religiosa explícita (Democracia Cristã, Islamismo, Distributismo, Baathismo) ou que defende uma religião como parte da identidade política (nacional-conservadorismos) | doutrinas seculares, mesmo com adeptos majoritariamente de uma religião |
+| personalidade | fé pública que aparece na atuação, liderança religiosa, ou apoio declarado a uma causa religiosa (Khomeini, Churchill, Martin Luther King Jr.) | origem étnica ou cultural sem papel na vida pública (Einstein, Friedman, Kafka = `[]`); fé privada de figuras seculares; apoio político a Israel, que não é causa judaica (sionismo cristão = `christianity`; judeu secular sionista como Einstein ou Isaiah Berlin = `[]`) |
+
+Aliança só diplomática/militar **não** conta. Ex.: Trump = `["christianity"]` (o sionismo
+cristão é causa cristã); Arábia Saudita = `["islam"]`, apesar da aliança com os EUA.
+
+**Como o filtro trata `other`:** um perfil aparece se contém a religião escolhida **ou** se não
+tem nenhuma das quatro selecionáveis (`[]` ou só `["other"]`). Junto de outra religião,
+`other` é só informativo: `["buddhism", "other"]` some para quem escolheu cristianismo.
+
+**Texto secular com vetor religioso:** se a descrição diz que o perfil é secular mas o vetor tem
+`religiao` ≤ 35, a marcação não pode sair. Registre o perfil para reauditar o vetor em vez de
+apagar a religião.
+
+**Obrigatório ter ao menos um valor** quando o vetor final tiver `religiao` ≤ 35 (polo
+irreligioso; baixo = religioso). O valor vem de pesquisa, **nunca** do vetor: o vetor só torna o
+campo obrigatório. `religions` vive **apenas no arquivo PT**, como `category`.
+
+Como o filtro funciona: com "Cristianismo" escolhido, some só o perfil ligado a outra das quatro
+religiões selecionáveis e não ao cristianismo. Perfis `[]` ou só `other` sempre aparecem. A
+compatibilidade não muda. `validate.py` ([RELIGIAO]) e `ReligionFilterTest` bloqueiam o merge se a
+regra for violada.
 
 ### O campo `phrase` (só ideologias)
 
