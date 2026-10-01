@@ -1,0 +1,378 @@
+{
+  "id": "olaf-scholz",
+  "country": "Germany",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Chancellorship, December 2021–May 2025, including the final election programme.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "federalism",
+      "title": "Scholz inaugural Bundesrat speech",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/antrittsrede-von-bundeskanzler-olaf-scholz-2005572",
+      "factDate": "2022-02-11",
+      "accessedOn": "2026-10-01",
+      "evidence": "Praised shared federal/Länder competencies, regional diversity, Bundesrat compromises and common national pandemic standards; supported general vaccine obligation."
+    },
+    {
+      "id": "democracy",
+      "title": "Bundestag confidence vote",
+      "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=938",
+      "factDate": "2024-12-16",
+      "accessedOn": "2026-10-01",
+      "evidence": "Scholz submitted to parliamentary confidence vote after coalition collapse, opening constitutional route to early elections."
+    },
+    {
+      "id": "security",
+      "title": "Scholz statement on security",
+      "url": "https://www.bundesregierung.de/breg-de/suche/scholz-sicherheitslage-2291096",
+      "factDate": "2024-06-06",
+      "accessedOn": "2026-10-01",
+      "evidence": "Argued security underpins liberty, democracy and rule of law; backed removal of serious foreign criminals and firm security action while maintaining international-law commitments."
+    },
+    {
+      "id": "cannabis",
+      "title": "Health ministry: controlled adult cannabis",
+      "url": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/bt-beschliesst-kontrollierte-abgabe-von-cannabis-zu-konsumzwecken-pm-23-02-2024",
+      "factDate": "2024-02-23",
+      "accessedOn": "2026-10-01",
+      "evidence": "Government cannabis reform allowed regulated adult possession and cultivation with youth and health protections, not unlimited legalization of all drugs."
+    },
+    {
+      "id": "citizenship",
+      "title": "Modern citizenship law",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/modernisation-citizenship-law-2254382",
+      "factDate": "2024-01-19",
+      "accessedOn": "2026-10-01",
+      "evidence": "Scholz welcomed immigrants as part of Germany; dual citizenship, shorter residence qualification, German-language and constitutional loyalty criteria, rejection of racism and antisemitism."
+    },
+    {
+      "id": "migration",
+      "title": "AP: Scholz challenger and border rules",
+      "url": "https://apnews.com/article/f793a2cfd4f2601ebbd222107f0be634",
+      "factDate": "2025-01-23",
+      "accessedOn": "2026-10-01",
+      "evidence": "Scholz promised to continue reducing irregular migration and increasing deportations after the Aschaffenburg knife attack."
+    },
+    {
+      "id": "defence",
+      "title": "Scholz Zeitenwende speech",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/policy-statement-by-olaf-scholz-chancellor-of-the-federal-republic-of-germany-and-member-of-the-german-bundestag-27-february-2022-in-berlin-2008378",
+      "factDate": "2022-02-27",
+      "accessedOn": "2026-10-01",
+      "evidence": "Promised €100 billion military fund and NATO commitments, arms for Ukraine, sanctions on Russia and allied deployments. Rejected aggression; kept dialogue open and emphasized EU/international order."
+    },
+    {
+      "id": "programme",
+      "title": "AP: 2025 election programmes",
+      "url": "https://apnews.com/article/69a8ab1bdef26764f4f10789b081ef39",
+      "factDate": "2024-12-17",
+      "accessedOn": "2026-10-01",
+      "evidence": "SPD platform supported €15 wage and reform of borrowing rules for investment; government argued its border measures were reducing irregular migration."
+    },
+    {
+      "id": "taurus",
+      "title": "ARD: 2025 party programmes",
+      "url": "https://www.tagesschau.de/inland/bundestagswahl/parteien/wahlprogramme-bundestagswahl-2025-100.html",
+      "factDate": "2025 election campaign",
+      "accessedOn": "2026-10-01",
+      "evidence": "SPD retained Scholz refusal to supply Taurus missiles to Ukraine. Used only SPD section, not positions of other parties."
+    },
+    {
+      "id": "uniper",
+      "title": "Uniper stabilization agreement",
+      "url": "https://www.uniper.energy/news/agreement-on-amended-stabilization-package-federal-government-acquires-99-stake-in-uniper",
+      "factDate": "2022-09-21",
+      "accessedOn": "2026-10-01",
+      "evidence": "Federal rescue proposed 99 percent ownership and KfW credit for Uniper to safeguard energy supply; this was a crisis intervention, not universal collectivization."
+    },
+    {
+      "id": "investment",
+      "title": "Scholz IHK Cologne speech",
+      "url": "https://www.bundeskanzler.de/bk-de/suche/rede-kanzler-scholz-bei-ihk-2329906",
+      "factDate": "2025-01-09",
+      "accessedOn": "2026-10-01",
+      "evidence": "Advocated Deutschlandfonds involving public and private capital for grids, technology and housing and a limited borrowing-rule opening for renewal and security."
+    },
+    {
+      "id": "trade",
+      "title": "Reuters: talks on Chinese EVs",
+      "url": "https://uk.finance.yahoo.com/news/germanys-scholz-talks-china-electric-113012131.html",
+      "factDate": "2024-10-02",
+      "accessedOn": "2026-10-01",
+      "evidence": "Scholz opposed shutting out foreign competition and urged continued negotiation with China instead of trade restrictions."
+    },
+    {
+      "id": "trade-vote",
+      "title": "AP: EU votes on EV tariffs",
+      "url": "https://apnews.com/article/1ae2ff03f316de858d077595f9cc148b",
+      "factDate": "2024-10-04",
+      "accessedOn": "2026-10-01",
+      "evidence": "Germany opposed EU Chinese electric-vehicle tariffs, corroborating trade openness despite domestic industry support."
+    },
+    {
+      "id": "religion",
+      "title": "Scholz Protestant Church reception",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-von-bundeskanzler-olaf-scholz-2198954",
+      "factDate": "2023-06-21",
+      "accessedOn": "2026-10-01",
+      "evidence": "Affirmed separation of state and church while praising churches for community, refugee help and deliberation. Distinguished humanitarian asylum from unlimited immigration."
+    },
+    {
+      "id": "gender",
+      "title": "Federal civic education agency: self-determination law",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/555990/1-november-selbstbestimmungsgesetz-tritt-in-kraft/",
+      "factDate": "2024-10-31",
+      "accessedOn": "2026-10-01",
+      "evidence": "Coalition-supported law enabled simpler gender-entry changes from November 2024, with safeguards for minors. Medical treatment rules remained separate."
+    },
+    {
+      "id": "equality",
+      "title": "SPD Women on election programme",
+      "url": "https://www.spd.de/service/pressemitteilungen/detail/news/spd-frauen-mit-sicherheit-mehr-gleichstellung/12/01/2025",
+      "factDate": "2025-01-12",
+      "accessedOn": "2026-10-01",
+      "evidence": "Programme endorsed gender equality and removal of abortion section 218 from criminal law. Party self-description, cross-checked with parliamentary reform proposal."
+    },
+    {
+      "id": "abortion",
+      "title": "Bundestag proposal on section 218",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1029928",
+      "factDate": "2024-11-15",
+      "accessedOn": "2026-10-01",
+      "evidence": "Proposed early abortion no longer unlawful through twelve weeks; later procedures would retain restrictions with medical exceptions."
+    },
+    {
+      "id": "digital",
+      "title": "Scholz Digital Summit speech",
+      "url": "https://www.bundesregierung.de/breg-de/suche/rede-von-bundeskanzler-olaf-scholz-2317078",
+      "factDate": "2024-10-21",
+      "accessedOn": "2026-10-01",
+      "evidence": "Promoted AI, quantum computing, fusion, aerospace, biotechnology and environmental technology with public/private investment and productivity gains."
+    },
+    {
+      "id": "nuclear",
+      "title": "Deutschlandfunk interview: no nuclear return",
+      "url": "https://www.deutschlandfunk.de/bundeskanzler-scholz-erteilt-weiternutzung-von-atomenergie-eine-klare-absage-kernkraft-ist-totes-pfe-102.html",
+      "factDate": "2023-09-02",
+      "accessedOn": "2026-10-01",
+      "evidence": "Scholz ruled out reviving conventional nuclear power in Germany; his industrial technological optimism does not imply embracing every technology."
+    },
+    {
+      "id": "book-publisher",
+      "title": "Hoffmann und Campe: Hoffnungsland",
+      "url": "https://hoffmann-und-campe.de/products/2503-hoffnungsland",
+      "factDate": "2017-03-17",
+      "accessedOn": "2026-10-01",
+      "evidence": "Publisher search record identifies Olaf Scholz and publication on 17 March 2017; direct open failed during this audit."
+    },
+    {
+      "id": "book-library",
+      "title": "EconBiz library catalogue: Hoffnungsland",
+      "url": "https://www.econbiz.de/Record/hoffnungsland-eine-neue-deutsche-wirklichkeit-scholz-olaf/10011821715",
+      "factDate": "2017",
+      "accessedOn": "2026-10-01",
+      "evidence": "Catalogue search record confirms author Olaf Scholz, full German title and 2017 publication; political contents concern migration and Germany. Live site later returned bot interstitial."
+    },
+    {
+      "id": "book-review",
+      "title": "Tagesspiegel: Scholz on future German society",
+      "url": "https://www.tagesspiegel.de/politik/olaf-scholz-denkt-uber-die-zukunft-der-deutschen-gesellschaft-nach-6310477.html",
+      "factDate": "2017-03-17",
+      "accessedOn": "2026-10-01",
+      "evidence": "Contemporaneous independent book report identifies Hoffnungsland: Eine neue deutsche Wirklichkeit as his first book, about migration, Europe, right populism and open society."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "federalism"
+      ],
+      "facts": [
+        "2022 Bundesrat address explicitly defended shared federal authority and regional solutions.",
+        "National pandemic standards and equal living conditions remained goals."
+      ],
+      "tension": "Cooperative federalism is not unilateral secession, local veto of all national rules or fiscal isolation."
+    },
+    "representacao": {
+      "sourceIds": [
+        "democracy",
+        "federalism"
+      ],
+      "facts": [
+        "2024 confidence procedure returned political authority to Parliament and voters."
+      ],
+      "tension": "Representative constitutional democracy does not imply replacing elected representatives with sortition or permanent assemblies."
+    },
+    "poder": {
+      "sourceIds": [
+        "security",
+        "federalism",
+        "cannabis"
+      ],
+      "facts": [
+        "2024 security speech supported firm lawful policing and deportation of dangerous offenders.",
+        "2022 vaccine obligation advocacy coexisted with 2024 regulated cannabis reform."
+      ],
+      "tension": "Civil rights within rule of law coexist with public-health mandates and security powers; do not treat economic statism as police authoritarianism."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "citizenship",
+        "migration",
+        "religion"
+      ],
+      "facts": [
+        "2024 citizenship reform embraced dual identity and civic/language integration.",
+        "January 2025 position stressed reduction of irregular migration and deportations."
+      ],
+      "tension": "Not open borders, but immigration restrictions concern legal status, capacity and criminal conduct, not ethnic or cultural purity."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "defence",
+        "taurus"
+      ],
+      "facts": [
+        "2022 Zeitenwende funded rearmament and NATO deterrence.",
+        "2025 SPD campaign retained refusal of Taurus while supporting Ukraine."
+      ],
+      "tension": "Armed deterrence and diplomacy together; neither military abolition nor preventive war."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "defence",
+        "security"
+      ],
+      "facts": [
+        "2022 backed NATO deployments, sanctions and arms for Ukraine within alliances.",
+        "Defended UN principles and rejected spheres of influence."
+      ],
+      "tension": "Restraint against direct Russian war differs from neutrality, isolation or opposition to sanctions."
+    },
+    "economia": {
+      "sourceIds": [
+        "uniper",
+        "investment"
+      ],
+      "facts": [
+        "2022 Uniper crisis rescue used near-total state ownership and public-bank finance.",
+        "2025 investment fund invited private capital alongside government."
+      ],
+      "tension": "Mixed social-market economy with essential public services, not expropriation of all private production."
+    },
+    "controle": {
+      "sourceIds": [
+        "programme",
+        "investment"
+      ],
+      "facts": [
+        "2025 platform backed higher statutory wages and investment-friendly debt reform.",
+        "Public coordination in energy, housing and technology included private business."
+      ],
+      "tension": "Strong regulation and strategic investment do not imply a fully planned economy or abolition of monetary institutions."
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "trade-vote",
+        "uniper"
+      ],
+      "facts": [
+        "October 2024 opposed blocking Chinese competition and Germany voted against EV tariffs.",
+        "Strategic energy and industrial resilience remained priorities."
+      ],
+      "tension": "Sectoral resilience and subsidies coexist with export-oriented free trade; no autarky or blanket tariff programme."
+    },
+    "religiao": {
+      "sourceIds": [
+        "religion"
+      ],
+      "facts": [
+        "2023 EKD speech defended church/state separation while welcoming church community and humanitarian work."
+      ],
+      "tension": "Secular public authority without hostility to believers, religious education or voluntary traditions."
+    },
+    "moral": {
+      "sourceIds": [
+        "gender",
+        "equality",
+        "abortion"
+      ],
+      "facts": [
+        "2024 coalition backed gender self-determination.",
+        "2025 campaign supported equality and early abortion decriminalization."
+      ],
+      "tension": "Private pluralism and equal rights remain bounded by consent and protection of minors; Brazilian racial quotas require contextual inference."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "digital",
+        "nuclear",
+        "defence"
+      ],
+      "facts": [
+        "October 2024 championed AI, biotech, fusion, aerospace and industrial productivity.",
+        "September 2023 rejected a German conventional nuclear restart."
+      ],
+      "tension": "Pro-innovation does not settle germline enhancement, brain implants or every environmental tradeoff; therapeutic benefit differs from designer children."
+    }
+  },
+  "uncertainties": [
+    "Historical chancellorship period preserved explicitly; later personal positions and successor policies are not attributed to Scholz. Research accessed on 2026-10-01.",
+    "Brazil-specific examples interpreted by transferable political principle rather than invented direct statements about Brazil.",
+    "No direct statements verified on all speculative biotechnology, polyamory, racial-quota or euthanasia questions; answers are reasoned inferences, not quotations.",
+    "Government and party sources establish declared positions, not proof of policy success. Coalition law is weaker evidence of personal intensity than direct speeches.",
+    "German title verified; targeted searches for Portuguese/Brazilian and English editions found no verified translations. Original title retained. Publisher and library full pages were intermittently unavailable; contemporaneous independent review corroborates book."
+  ],
+  "distinctions": {
+    "record": "profile-audit/research/process-review/olaf-scholz.json",
+    "note": "Qualitative pre-answer distinctions and process are recorded in this independent review."
+  },
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Olaf_Scholz_head_2023.jpg",
+    "author": "European Union 2023 – Source: European Parliament / Laia Ros; existing Commons crop by Edelseider",
+    "license": "CC BY 4.0 (explicit source permission; Commons also lists CC BY 2.0)",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Olaf_Scholz_head_2023.jpg",
+    "date": "2023-05-09",
+    "note": "Existing Commons crop resized to 480px and compressed from 3.35 MB to 18 KB. Source-requested European Union/EP credit retained.",
+    "visuallyChecked": true
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/olaf-scholz.json",
+    "answerArchive": "profile-audit/answers/personality/olaf-scholz.json",
+    "agent": "/root/independent_scholz",
+    "answersSha256": "05be00fcdc9df6ea1d483a005ea8f4a5fe32283a39a75a0a60ba948209f2b3cb",
+    "validation": "Independent review complete. User requested retaining the full 32-person scope after the overlap report; current upstream validator results are recorded separately."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political book by Olaf Scholz, first published 2017; most relevant verified authored political book. No existing books.json entry. No verified PT/EN translations.",
+    "book": {
+      "personalityId": "olaf-scholz",
+      "title": {
+        "pt": "Hoffnungsland: Eine neue deutsche Wirklichkeit",
+        "en": "Hoffnungsland: Eine neue deutsche Wirklichkeit"
+      },
+      "year": 2017,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book-publisher",
+      "book-library",
+      "book-review"
+    ]
+  },
+  "religionMetadataReview": {
+    "religions": [],
+    "religionAxis": 65.5,
+    "sourceIds": [
+      "religion"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  }
+}

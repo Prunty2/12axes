@@ -1,0 +1,1378 @@
+{
+  "upstreamBase": "811b0ad0447eda27b84bc51ce8257e93edb61f1f",
+  "disposition": {
+    "status": "approved",
+    "date": "2026-10-01",
+    "userInstruction": "I want you to make these politicians a new PR on the original repo so that these 32 political figures can be added.",
+    "context": "User reiterated inclusion of all 32 after receiving the complete overlap report and requests for a retain/reduce decision. Retain researched answers without tuning; preserve validator warnings and disclose them in the PR.",
+    "scope": [
+      "anthony-albanese",
+      "pauline-hanson",
+      "angus-taylor",
+      "john-howard",
+      "robert-menzies",
+      "gough-whitlam",
+      "bob-hawke",
+      "paul-keating",
+      "kevin-rudd",
+      "julia-gillard",
+      "tony-abbott",
+      "malcolm-turnbull",
+      "scott-morrison",
+      "margaret-thatcher",
+      "clement-attlee",
+      "boris-johnson",
+      "keir-starmer",
+      "nigel-farage",
+      "rupert-lowe",
+      "kamala-harris",
+      "hillary-clinton",
+      "jimmy-carter",
+      "lyndon-b-johnson",
+      "angela-merkel",
+      "olaf-scholz",
+      "mark-carney",
+      "david-lloyd-george",
+      "helmut-kohl",
+      "lech-walesa",
+      "david-ben-gurion",
+      "golda-meir",
+      "joh-bjelke-petersen"
+    ]
+  },
+  "profiles": {
+    "anthony-albanese": {
+      "exitCode": 1,
+      "output": "validando personality:anthony-albanese\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/anthony-albanese.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 21/240 = 8.8%\n[RELIGIAO] religiao=57.1 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         49.8  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             60.3  liberdade civil <-> ordem/vigilancia\n  imigracao         31.9  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        51.7  pacifista <-> militarista\n  intervencao       36.4  nacionalista assertivo <-> nao-intervencionista\n  economia          67.5  privado/mercado <-> publico/coletivo\n  controle          59.2  livre mercado <-> planejamento\n  comercio          33.0  livre comercio/globalista <-> protecionista\n  religiao          57.1  religioso <-> irreligioso/secular\n  moral             74.0  tradicionalista <-> progressista\n  tecnologia        52.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         49.8   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             60.3   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         31.9   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        51.7   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       36.4   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          67.5   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          59.2   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          33.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          57.1   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             74.0   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        52.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.4%  julia-gillard  <<< BLOQUEIA\n   98.3%  keir-starmer  <<< BLOQUEIA\n   97.9%  olaf-scholz  <<< BLOQUEIA\n\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.4% identico a 'julia-gillard' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 98.3% identico a 'keir-starmer' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.9% identico a 'olaf-scholz' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "fc939d80a041d4b3b1cf5c6a5cf49993b0086439abc770e9a26627fc01a755d6",
+      "matches": {
+        "personality": [
+          [
+            98.4,
+            "julia-gillard",
+            "Julia Gillard"
+          ],
+          [
+            98.3,
+            "keir-starmer",
+            "Keir Starmer"
+          ]
+        ],
+        "ideology": [
+          [
+            93.2,
+            "social-democracia-nordica",
+            "Social-Democracia Nórdica"
+          ],
+          [
+            92.4,
+            "centrismo-social",
+            "Centrismo Social"
+          ]
+        ],
+        "country": [
+          [
+            93.6,
+            "rio-de-janeiro",
+            "Rio de Janeiro (Brasil)"
+          ],
+          [
+            93.4,
+            "uniao-europeia",
+            "União Europeia"
+          ]
+        ]
+      }
+    },
+    "pauline-hanson": {
+      "exitCode": 0,
+      "output": "validando personality:pauline-hanson\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/pauline-hanson.json\n\n[ARQUETIPO] sociedade A · poder C · economia E · mundo B · tecnologia D\n[NEUTROS] total 11/240 = 4.6%\n[RELIGIAO] religiao=39.0 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         47.4  centralizado/unitario <-> descentralizado/federal\n  representacao     85.9  autocracia <-> democracia\n  poder             48.4  liberdade civil <-> ordem/vigilancia\n  imigracao         89.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        67.1  pacifista <-> militarista\n  intervencao       29.3  nacionalista assertivo <-> nao-intervencionista\n  economia          49.4  privado/mercado <-> publico/coletivo\n  controle          45.7  livre mercado <-> planejamento\n  comercio          76.4  livre comercio/globalista <-> protecionista\n  religiao          39.0  religioso <-> irreligioso/secular\n  moral             22.0  tradicionalista <-> progressista\n  tecnologia        54.6  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         47.4   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     85.9   | Kim Jong Un=6 .. José Mujica=86\n  poder             48.4   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         89.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        67.1   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       29.3   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          49.4   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          45.7   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          76.4   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          39.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             22.0   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        54.6   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   95.3%  robert-menzies  <<< aviso\n   93.4%  rupert-lowe  <<< aviso\n   93.2%  nigel-farage  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.3% proximo de 'robert-menzies'\n  [CONTEUDO] 93.4% proximo de 'rupert-lowe'\n  [CONTEUDO] 93.2% proximo de 'nigel-farage'\nOK - passou nas tres checagens.\n",
+      "answersSha256": "be57df2c4b0be270d29db1ce0ee796d4494ef598fcc1c7fe8a65e5b4310bda40",
+      "matches": {
+        "personality": [
+          [
+            95.3,
+            "robert-menzies",
+            "Robert Menzies"
+          ],
+          [
+            93.4,
+            "rupert-lowe",
+            "Rupert Lowe"
+          ]
+        ],
+        "ideology": [
+          [
+            94.3,
+            "conservadorismo-americano",
+            "Conservadorismo Americano"
+          ],
+          [
+            94.2,
+            "democracia-nacional",
+            "Democracia Nacional"
+          ]
+        ],
+        "country": [
+          [
+            91.7,
+            "polonia",
+            "Polônia"
+          ],
+          [
+            89.6,
+            "roma-republicana",
+            "Roma Republicana"
+          ]
+        ]
+      }
+    },
+    "angus-taylor": {
+      "exitCode": 1,
+      "output": "validando personality:angus-taylor\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/angus-taylor.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 16/240 = 6.7%\n[RELIGIAO] religiao=37.7 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         48.6  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             59.1  liberdade civil <-> ordem/vigilancia\n  imigracao         61.2  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        62.4  pacifista <-> militarista\n  intervencao       23.3  nacionalista assertivo <-> nao-intervencionista\n  economia          38.9  privado/mercado <-> publico/coletivo\n  controle          30.7  livre mercado <-> planejamento\n  comercio          27.0  livre comercio/globalista <-> protecionista\n  religiao          37.7  religioso <-> irreligioso/secular\n  moral             34.9  tradicionalista <-> progressista\n  tecnologia        60.6  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         48.6   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             59.1   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         61.2   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        62.4   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       23.3   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          38.9   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          30.7   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          27.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          37.7   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             34.9   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        60.6   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.6%  john-howard  <<< BLOQUEIA\n   97.9%  scott-morrison  <<< BLOQUEIA\n   97.6%  friedrich-merz  <<< BLOQUEIA\n\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.6% identico a 'john-howard' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.9% identico a 'scott-morrison' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.6% identico a 'friedrich-merz' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "9a3c68a0e4270ba9061cb43548f32dbe79c91d33393a69289de820b258edb3d6",
+      "matches": {
+        "personality": [
+          [
+            98.6,
+            "john-howard",
+            "John Howard"
+          ],
+          [
+            97.9,
+            "scott-morrison",
+            "Scott Morrison"
+          ]
+        ],
+        "ideology": [
+          [
+            95.8,
+            "neoconservadorismo",
+            "Neoconservadorismo"
+          ],
+          [
+            94.3,
+            "liberalismo-conservador",
+            "Liberalismo Conservador"
+          ]
+        ],
+        "country": [
+          [
+            95.2,
+            "madrid",
+            "Madrid (Espanha)"
+          ],
+          [
+            94.7,
+            "roma-republicana",
+            "Roma Republicana"
+          ]
+        ]
+      }
+    },
+    "john-howard": {
+      "exitCode": 1,
+      "output": "validando personality:john-howard\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/john-howard.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 3/240 = 1.2%\n[RELIGIAO] religiao=37.7 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         39.0  centralizado/unitario <-> descentralizado/federal\n  representacao     78.7  autocracia <-> democracia\n  poder             62.7  liberdade civil <-> ordem/vigilancia\n  imigracao         50.5  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        58.8  pacifista <-> militarista\n  intervencao       19.8  nacionalista assertivo <-> nao-intervencionista\n  economia          35.3  privado/mercado <-> publico/coletivo\n  controle          31.9  livre mercado <-> planejamento\n  comercio          23.4  livre comercio/globalista <-> protecionista\n  religiao          37.7  religioso <-> irreligioso/secular\n  moral             27.7  tradicionalista <-> progressista\n  tecnologia        53.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         39.0   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     78.7   | Kim Jong Un=6 .. José Mujica=86\n  poder             62.7   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         50.5   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        58.8   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       19.8   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          35.3   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          31.9   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          23.4   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          37.7   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             27.7   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.6%  angus-taylor  <<< BLOQUEIA\n   98.5%  scott-morrison  <<< BLOQUEIA\n   95.9%  tony-abbott  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.9% proximo de 'tony-abbott'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.6% identico a 'angus-taylor' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 98.5% identico a 'scott-morrison' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "6a882cfdd9f73c0940e430c7886e791b28b9f603c988913a3d8f0cd2780b7ae1",
+      "matches": {
+        "personality": [
+          [
+            98.6,
+            "angus-taylor",
+            "Angus Taylor"
+          ],
+          [
+            98.5,
+            "scott-morrison",
+            "Scott Morrison"
+          ]
+        ],
+        "ideology": [
+          [
+            94.9,
+            "neoconservadorismo",
+            "Neoconservadorismo"
+          ],
+          [
+            93.6,
+            "liberalismo-conservador",
+            "Liberalismo Conservador"
+          ]
+        ],
+        "country": [
+          [
+            95.3,
+            "roma-republicana",
+            "Roma Republicana"
+          ],
+          [
+            93.7,
+            "madrid",
+            "Madrid (Espanha)"
+          ]
+        ]
+      }
+    },
+    "robert-menzies": {
+      "exitCode": 0,
+      "output": "validando personality:robert-menzies\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/robert-menzies.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 8/240 = 3.3%\n[RELIGIAO] religiao=28.2 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         46.2  centralizado/unitario <-> descentralizado/federal\n  representacao     72.8  autocracia <-> democracia\n  poder             65.1  liberdade civil <-> ordem/vigilancia\n  imigracao         80.2  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        69.5  pacifista <-> militarista\n  intervencao       22.1  nacionalista assertivo <-> nao-intervencionista\n  economia          48.4  privado/mercado <-> publico/coletivo\n  controle          59.2  livre mercado <-> planejamento\n  comercio          54.4  livre comercio/globalista <-> protecionista\n  religiao          28.2  religioso <-> irreligioso/secular\n  moral             20.6  tradicionalista <-> progressista\n  tecnologia        64.1  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         46.2   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     72.8   | Kim Jong Un=6 .. José Mujica=86\n  poder             65.1   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         80.2   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        69.5   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       22.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          48.4   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          59.2   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          54.4   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          28.2   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             20.6   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        64.1   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   95.3%  pauline-hanson  <<< aviso\n   94.7%  richard-nixon  <<< aviso\n   93.4%  nigel-farage  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.3% proximo de 'pauline-hanson'\n  [CONTEUDO] 94.7% proximo de 'richard-nixon'\n  [CONTEUDO] 93.4% proximo de 'nigel-farage'\nOK - passou nas tres checagens.\n",
+      "answersSha256": "f6789b703c13c28c345b6b4c34c6b455ac945ae58002584d06ccec31c67972b8",
+      "matches": {
+        "personality": [
+          [
+            95.3,
+            "pauline-hanson",
+            "Pauline Hanson"
+          ],
+          [
+            94.7,
+            "richard-nixon",
+            "Richard Nixon"
+          ]
+        ],
+        "ideology": [
+          [
+            95.5,
+            "neoconservadorismo",
+            "Neoconservadorismo"
+          ],
+          [
+            95.3,
+            "democracia-nacional",
+            "Democracia Nacional"
+          ]
+        ],
+        "country": [
+          [
+            96.1,
+            "polonia",
+            "Polônia"
+          ],
+          [
+            94.2,
+            "paquistao",
+            "Paquistão"
+          ]
+        ]
+      }
+    },
+    "gough-whitlam": {
+      "exitCode": 1,
+      "output": "validando personality:gough-whitlam\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/gough-whitlam.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo C · tecnologia C\n[NEUTROS] total 10/240 = 4.2%\n[RELIGIAO] religiao=66.7 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         39.0  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             44.9  liberdade civil <-> ordem/vigilancia\n  imigracao         30.7  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        28.8  pacifista <-> militarista\n  intervencao       54.1  nacionalista assertivo <-> nao-intervencionista\n  economia          77.0  privado/mercado <-> publico/coletivo\n  controle          72.3  livre mercado <-> planejamento\n  comercio          46.0  livre comercio/globalista <-> protecionista\n  religiao          66.7  religioso <-> irreligioso/secular\n  moral             74.0  tradicionalista <-> progressista\n  tecnologia        54.8  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         39.0   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             44.9   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         30.7   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        28.8   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       54.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          77.0   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          72.3   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          46.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          66.7   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             74.0   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        54.8   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.2%  pedro-sanchez  <<< BLOQUEIA\n   97.0%  john-rawls  <<< BLOQUEIA\n   97.0%  br-ambedkar  <<< BLOQUEIA\n\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.2% identico a 'pedro-sanchez' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.0% identico a 'john-rawls' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.0% identico a 'br-ambedkar' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "d75e91c0ecdf9e1cacb10ab3f395bc36cac2512023cf755244145770d0263bfc",
+      "matches": {
+        "personality": [
+          [
+            97.2,
+            "pedro-sanchez",
+            "Pedro Sánchez"
+          ],
+          [
+            97.0,
+            "john-rawls",
+            "John Rawls"
+          ]
+        ],
+        "ideology": [
+          [
+            98.2,
+            "social-democracia",
+            "Social-Democracia"
+          ],
+          [
+            97.4,
+            "socialismo-de-mercado",
+            "Socialismo de Mercado"
+          ]
+        ],
+        "country": [
+          [
+            96.8,
+            "argentina",
+            "Argentina"
+          ],
+          [
+            95.1,
+            "noruega",
+            "Noruega"
+          ]
+        ]
+      }
+    },
+    "bob-hawke": {
+      "exitCode": 1,
+      "output": "validando personality:bob-hawke\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/bob-hawke.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 19/240 = 7.9%\n[RELIGIAO] religiao=61.9 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         29.5  centralizado/unitario <-> descentralizado/federal\n  representacao     79.9  autocracia <-> democracia\n  poder             49.6  liberdade civil <-> ordem/vigilancia\n  imigracao         26.0  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        38.6  pacifista <-> militarista\n  intervencao       38.8  nacionalista assertivo <-> nao-intervencionista\n  economia          62.7  privado/mercado <-> publico/coletivo\n  controle          53.3  livre mercado <-> planejamento\n  comercio          23.4  livre comercio/globalista <-> protecionista\n  religiao          61.9  religioso <-> irreligioso/secular\n  moral             72.9  tradicionalista <-> progressista\n  tecnologia        51.2  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         29.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     79.9   | Kim Jong Un=6 .. José Mujica=86\n  poder             49.6   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         26.0   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        38.6   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       38.8   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          62.7   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          53.3   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          23.4   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          61.9   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             72.9   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        51.2   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.5%  barack-obama  <<< BLOQUEIA\n   97.4%  julia-gillard  <<< BLOQUEIA\n   96.9%  jonas-gahr-store  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.9% proximo de 'jonas-gahr-store'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.5% identico a 'barack-obama' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.4% identico a 'julia-gillard' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "421408b51d1587bd8620452b5086481313144c0bf996c2b321713937dae83f72",
+      "matches": {
+        "personality": [
+          [
+            97.5,
+            "barack-obama",
+            "Barack Obama"
+          ],
+          [
+            97.4,
+            "julia-gillard",
+            "Julia Gillard"
+          ]
+        ],
+        "ideology": [
+          [
+            95.6,
+            "social-democracia-nordica",
+            "Social-Democracia Nórdica"
+          ],
+          [
+            94.5,
+            "terceira-via",
+            "Terceira Via"
+          ]
+        ],
+        "country": [
+          [
+            95.3,
+            "chile",
+            "Chile"
+          ],
+          [
+            94.1,
+            "portugal",
+            "Portugal"
+          ]
+        ]
+      }
+    },
+    "paul-keating": {
+      "exitCode": 1,
+      "output": "validando personality:paul-keating\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/paul-keating.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo C · tecnologia C\n[NEUTROS] total 10/240 = 4.2%\n[RELIGIAO] religiao=57.1 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         42.6  centralizado/unitario <-> descentralizado/federal\n  representacao     84.7  autocracia <-> democracia\n  poder             55.6  liberdade civil <-> ordem/vigilancia\n  imigracao         23.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        34.8  pacifista <-> militarista\n  intervencao       48.2  nacionalista assertivo <-> nao-intervencionista\n  economia          56.8  privado/mercado <-> publico/coletivo\n  controle          52.1  livre mercado <-> planejamento\n  comercio          17.5  livre comercio/globalista <-> protecionista\n  religiao          57.1  religioso <-> irreligioso/secular\n  moral             56.2  tradicionalista <-> progressista\n  tecnologia        54.8  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         42.6   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     84.7   | Kim Jong Un=6 .. José Mujica=86\n  poder             55.6   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         23.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        34.8   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       48.2   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          56.8   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          52.1   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          17.5   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          57.1   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             56.2   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        54.8   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.1%  sergio-mattarella  <<< BLOQUEIA\n   96.8%  bob-hawke  <<< aviso\n   96.8%  barack-obama  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.8% proximo de 'bob-hawke'\n  [CONTEUDO] 96.8% proximo de 'barack-obama'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.1% identico a 'sergio-mattarella' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "b4daa3138a68cc0a4468473885fe6f480c84e23beff37e66e90d473c0141972c",
+      "matches": {
+        "personality": [
+          [
+            97.1,
+            "sergio-mattarella",
+            "Sergio Mattarella"
+          ],
+          [
+            96.8,
+            "bob-hawke",
+            "Bob Hawke"
+          ]
+        ],
+        "ideology": [
+          [
+            96.8,
+            "liberalismo-islamico",
+            "Liberalismo Islâmico"
+          ],
+          [
+            96.2,
+            "social-democracia-brasileira",
+            "Social-Democracia Brasileira"
+          ]
+        ],
+        "country": [
+          [
+            94.8,
+            "chile",
+            "Chile"
+          ],
+          [
+            94.4,
+            "portugal",
+            "Portugal"
+          ]
+        ]
+      }
+    },
+    "kevin-rudd": {
+      "exitCode": 1,
+      "output": "validando personality:kevin-rudd\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/kevin-rudd.json\n\n[ARQUETIPO] sociedade F · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 13/240 = 5.4%\n[RELIGIAO] religiao=35.7 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         43.8  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             61.5  liberdade civil <-> ordem/vigilancia\n  imigracao         33.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        38.6  pacifista <-> militarista\n  intervencao       37.6  nacionalista assertivo <-> nao-intervencionista\n  economia          61.5  privado/mercado <-> publico/coletivo\n  controle          58.0  livre mercado <-> planejamento\n  comercio          34.1  livre comercio/globalista <-> protecionista\n  religiao          35.7  religioso <-> irreligioso/secular\n  moral             64.1  tradicionalista <-> progressista\n  tecnologia        53.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         43.8   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             61.5   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         33.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        38.6   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       37.6   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          61.5   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          58.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          34.1   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          35.7   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             64.1   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.2%  sergio-mattarella  <<< BLOQUEIA\n   96.6%  angela-merkel  <<< aviso\n   96.5%  anthony-albanese  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.6% proximo de 'angela-merkel'\n  [CONTEUDO] 96.5% proximo de 'anthony-albanese'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.2% identico a 'sergio-mattarella' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "fd810292c5d70cc44c64028d01167f0b73a7ead5152458f29c8572c342f29208",
+      "matches": {
+        "personality": [
+          [
+            97.2,
+            "sergio-mattarella",
+            "Sergio Mattarella"
+          ],
+          [
+            96.6,
+            "angela-merkel",
+            "Angela Merkel"
+          ]
+        ],
+        "ideology": [
+          [
+            93.4,
+            "centrismo-social",
+            "Centrismo Social"
+          ],
+          [
+            93.2,
+            "liberalismo-islamico",
+            "Liberalismo Islâmico"
+          ]
+        ],
+        "country": [
+          [
+            93.4,
+            "colombia",
+            "Colômbia"
+          ],
+          [
+            93.3,
+            "rio-de-janeiro",
+            "Rio de Janeiro (Brasil)"
+          ]
+        ]
+      }
+    },
+    "julia-gillard": {
+      "exitCode": 1,
+      "output": "validando personality:julia-gillard\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/julia-gillard.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 7/240 = 2.9%\n[RELIGIAO] religiao=65.5 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         43.8  centralizado/unitario <-> descentralizado/federal\n  representacao     83.5  autocracia <-> democracia\n  poder             62.7  liberdade civil <-> ordem/vigilancia\n  imigracao         34.3  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        45.7  pacifista <-> militarista\n  intervencao       28.1  nacionalista assertivo <-> nao-intervencionista\n  economia          67.5  privado/mercado <-> publico/coletivo\n  controle          54.5  livre mercado <-> planejamento\n  comercio          31.8  livre comercio/globalista <-> protecionista\n  religiao          65.5  religioso <-> irreligioso/secular\n  moral             76.4  tradicionalista <-> progressista\n  tecnologia        52.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         43.8   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     83.5   | Kim Jong Un=6 .. José Mujica=86\n  poder             62.7   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         34.3   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        45.7   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       28.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          67.5   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          54.5   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          31.8   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          65.5   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             76.4   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        52.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.4%  anthony-albanese  <<< BLOQUEIA\n   97.8%  olaf-scholz  <<< BLOQUEIA\n   97.4%  bob-hawke  <<< BLOQUEIA\n\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.4% identico a 'anthony-albanese' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.8% identico a 'olaf-scholz' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.4% identico a 'bob-hawke' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "474e4e141cf29c6cdc1525cedce97883b1e35c58422f4d2c329319c5c0a481c1",
+      "matches": {
+        "personality": [
+          [
+            98.4,
+            "anthony-albanese",
+            "Anthony Albanese"
+          ],
+          [
+            97.8,
+            "olaf-scholz",
+            "Olaf Scholz"
+          ]
+        ],
+        "ideology": [
+          [
+            94.5,
+            "terceira-via",
+            "Terceira Via"
+          ],
+          [
+            93.6,
+            "social-democracia-nordica",
+            "Social-Democracia Nórdica"
+          ]
+        ],
+        "country": [
+          [
+            92.4,
+            "taiwan",
+            "Taiwan"
+          ],
+          [
+            92.3,
+            "belgica",
+            "Bélgica"
+          ]
+        ]
+      }
+    },
+    "tony-abbott": {
+      "exitCode": 1,
+      "output": "validando personality:tony-abbott\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/tony-abbott.json\n\n[ARQUETIPO] sociedade A · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 11/240 = 4.6%\n[RELIGIAO] religiao=26.0 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         46.2  centralizado/unitario <-> descentralizado/federal\n  representacao     77.5  autocracia <-> democracia\n  poder             55.6  liberdade civil <-> ordem/vigilancia\n  imigracao         74.1  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        66.0  pacifista <-> militarista\n  intervencao       19.8  nacionalista assertivo <-> nao-intervencionista\n  economia          34.1  privado/mercado <-> publico/coletivo\n  controle          28.3  livre mercado <-> planejamento\n  comercio          28.2  livre comercio/globalista <-> protecionista\n  religiao          26.0  religioso <-> irreligioso/secular\n  moral             22.0  tradicionalista <-> progressista\n  tecnologia        60.6  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         46.2   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     77.5   | Kim Jong Un=6 .. José Mujica=86\n  poder             55.6   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         74.1   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        66.0   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       19.8   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          34.1   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          28.3   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          28.2   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          26.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             22.0   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        60.6   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.3%  friedrich-merz  <<< BLOQUEIA\n   97.2%  nigel-farage  <<< BLOQUEIA\n   97.1%  angus-taylor  <<< BLOQUEIA\n\nAVISOS (nao bloqueiam, mas confira):\n  [NEUTROS] tecnologia: 5/20 = 25% de N (perto do limite)\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.3% identico a 'friedrich-merz' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.2% identico a 'nigel-farage' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.1% identico a 'angus-taylor' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "69f0abcb3694a33e0960707bef5714044783ec23c043d431a6250dc7ff64a2f5",
+      "matches": {
+        "personality": [
+          [
+            98.3,
+            "friedrich-merz",
+            "Friedrich Merz"
+          ],
+          [
+            97.2,
+            "nigel-farage",
+            "Nigel Farage"
+          ]
+        ],
+        "ideology": [
+          [
+            95.9,
+            "nacional-liberalismo",
+            "Nacional-Liberalismo"
+          ],
+          [
+            95.8,
+            "neoconservadorismo",
+            "Neoconservadorismo"
+          ]
+        ],
+        "country": [
+          [
+            95.0,
+            "israel",
+            "Israel"
+          ],
+          [
+            94.6,
+            "roma-republicana",
+            "Roma Republicana"
+          ]
+        ]
+      }
+    },
+    "malcolm-turnbull": {
+      "exitCode": 1,
+      "output": "validando personality:malcolm-turnbull\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/malcolm-turnbull.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 8/240 = 3.3%\n[RELIGIAO] religiao=53.6 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         60.5  centralizado/unitario <-> descentralizado/federal\n  representacao     83.5  autocracia <-> democracia\n  poder             60.3  liberdade civil <-> ordem/vigilancia\n  imigracao         35.5  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        44.5  pacifista <-> militarista\n  intervencao       41.2  nacionalista assertivo <-> nao-intervencionista\n  economia          42.5  privado/mercado <-> publico/coletivo\n  controle          35.4  livre mercado <-> planejamento\n  comercio          21.0  livre comercio/globalista <-> protecionista\n  religiao          53.6  religioso <-> irreligioso/secular\n  moral             70.5  tradicionalista <-> progressista\n  tecnologia        58.2  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         60.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     83.5   | Kim Jong Un=6 .. José Mujica=86\n  poder             60.3   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         35.5   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        44.5   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       41.2   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          42.5   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          35.4   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          21.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          53.6   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             70.5   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        58.2   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.0%  joao-doria  <<< BLOQUEIA\n   95.4%  anders-fogh-rasmussen  <<< aviso\n   94.9%  angela-merkel  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.4% proximo de 'anders-fogh-rasmussen'\n  [CONTEUDO] 94.9% proximo de 'angela-merkel'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.0% identico a 'joao-doria' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "08fc2f7ca9801e73e6fde7a212f5f2978754c1a9e8ec362ca75d2a32081c24b3",
+      "matches": {
+        "personality": [
+          [
+            97.0,
+            "joao-doria",
+            "João Doria"
+          ],
+          [
+            95.4,
+            "anders-fogh-rasmussen",
+            "Anders Fogh Rasmussen"
+          ]
+        ],
+        "ideology": [
+          [
+            93.2,
+            "meritocracia",
+            "Meritocracia"
+          ],
+          [
+            92.7,
+            "social-democracia-brasileira",
+            "Social-Democracia Brasileira"
+          ]
+        ],
+        "country": [
+          [
+            94.7,
+            "sao-paulo",
+            "São Paulo (Brasil)"
+          ],
+          [
+            94.7,
+            "australia",
+            "Austrália"
+          ]
+        ]
+      }
+    },
+    "scott-morrison": {
+      "exitCode": 1,
+      "output": "validando personality:scott-morrison\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/scott-morrison.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 10/240 = 4.2%\n[RELIGIAO] religiao=27.0 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         46.2  centralizado/unitario <-> descentralizado/federal\n  representacao     77.5  autocracia <-> democracia\n  poder             65.1  liberdade civil <-> ordem/vigilancia\n  imigracao         45.7  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        62.4  pacifista <-> militarista\n  intervencao       22.1  nacionalista assertivo <-> nao-intervencionista\n  economia          41.3  privado/mercado <-> publico/coletivo\n  controle          39.0  livre mercado <-> planejamento\n  comercio          30.6  livre comercio/globalista <-> protecionista\n  religiao          27.0  religioso <-> irreligioso/secular\n  moral             27.7  tradicionalista <-> progressista\n  tecnologia        63.0  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         46.2   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     77.5   | Kim Jong Un=6 .. José Mujica=86\n  poder             65.1   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         45.7   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        62.4   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       22.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          41.3   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          39.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          30.6   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          27.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             27.7   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        63.0   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.5%  john-howard  <<< BLOQUEIA\n   97.9%  angus-taylor  <<< BLOQUEIA\n   96.3%  ronaldo-caiado  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.3% proximo de 'ronaldo-caiado'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.5% identico a 'john-howard' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.9% identico a 'angus-taylor' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "028d18b13c541ddba244f4db46e77559b209d3dd1d0a4adc94abdb4221651c31",
+      "matches": {
+        "personality": [
+          [
+            98.5,
+            "john-howard",
+            "John Howard"
+          ],
+          [
+            97.9,
+            "angus-taylor",
+            "Angus Taylor"
+          ]
+        ],
+        "ideology": [
+          [
+            94.8,
+            "neoconservadorismo",
+            "Neoconservadorismo"
+          ],
+          [
+            94.4,
+            "democracia-islamica",
+            "Democracia Islâmica"
+          ]
+        ],
+        "country": [
+          [
+            94.4,
+            "roma-republicana",
+            "Roma Republicana"
+          ],
+          [
+            93.6,
+            "israel",
+            "Israel"
+          ]
+        ]
+      }
+    },
+    "margaret-thatcher": {
+      "exitCode": 1,
+      "output": "validando personality:margaret-thatcher\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/margaret-thatcher.json\n\n[ARQUETIPO] sociedade A · poder C · economia F · mundo B · tecnologia C\n[NEUTROS] total 8/240 = 3.3%\n[RELIGIAO] religiao=16.4 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         29.5  centralizado/unitario <-> descentralizado/federal\n  representacao     71.6  autocracia <-> democracia\n  poder             63.9  liberdade civil <-> ordem/vigilancia\n  imigracao         65.8  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        68.3  pacifista <-> militarista\n  intervencao       22.1  nacionalista assertivo <-> nao-intervencionista\n  economia          36.3  privado/mercado <-> publico/coletivo\n  controle          26.6  livre mercado <-> planejamento\n  comercio          13.7  livre comercio/globalista <-> protecionista\n  religiao          16.4  religioso <-> irreligioso/secular\n  moral             22.0  tradicionalista <-> progressista\n  tecnologia        53.6  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         29.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     71.6   | Kim Jong Un=6 .. José Mujica=86\n  poder             63.9   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         65.8   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        68.3   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       22.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          36.3   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          26.6   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          13.7   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          16.4   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             22.0   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.6   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.0%  tony-abbott  <<< BLOQUEIA\n   95.7%  irving-kristol  <<< aviso\n   95.1%  john-howard  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.7% proximo de 'irving-kristol'\n  [CONTEUDO] 95.1% proximo de 'john-howard'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.0% identico a 'tony-abbott' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "784cf7be73f285b63cac8302eda859038fa43d54a5cdeff50bdf3d6f611103cf",
+      "matches": {
+        "personality": [
+          [
+            97.0,
+            "tony-abbott",
+            "Tony Abbott"
+          ],
+          [
+            95.7,
+            "irving-kristol",
+            "Irving Kristol"
+          ]
+        ],
+        "ideology": [
+          [
+            96.2,
+            "nacional-liberalismo",
+            "Nacional-Liberalismo"
+          ],
+          [
+            93.1,
+            "democracia-intervencionista",
+            "Democracia Intervencionista"
+          ]
+        ],
+        "country": [
+          [
+            94.0,
+            "israel",
+            "Israel"
+          ],
+          [
+            92.8,
+            "georgia",
+            "Geórgia"
+          ]
+        ]
+      }
+    },
+    "clement-attlee": {
+      "exitCode": 1,
+      "output": "validando personality:clement-attlee\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/clement-attlee.json\n\n[ARQUETIPO] sociedade E · poder C · economia B · mundo B · tecnologia D\n[NEUTROS] total 13/240 = 5.4%\n[RELIGIAO] religiao=57.5 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         37.9  centralizado/unitario <-> descentralizado/federal\n  representacao     78.7  autocracia <-> democracia\n  poder             59.1  liberdade civil <-> ordem/vigilancia\n  imigracao         44.8  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        61.2  pacifista <-> militarista\n  intervencao       29.3  nacionalista assertivo <-> nao-intervencionista\n  economia          84.6  privado/mercado <-> publico/coletivo\n  controle          85.3  livre mercado <-> planejamento\n  comercio          51.4  livre comercio/globalista <-> protecionista\n  religiao          57.5  religioso <-> irreligioso/secular\n  moral             28.6  tradicionalista <-> progressista\n  tecnologia        53.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         37.9   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     78.7   | Kim Jong Un=6 .. José Mujica=86\n  poder             59.1   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         44.8   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        61.2   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       29.3   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          84.6   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          85.3   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          51.4   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          57.5   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             28.6   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.4%  golda-meir  <<< BLOQUEIA\n   96.6%  franklin-roosevelt  <<< aviso\n   92.3%  harry-truman\n\nAVISOS (nao bloqueiam, mas confira):\n  [NEUTROS] tecnologia: 6/20 = 30% de N (perto do limite)\n  [CONTEUDO] 96.6% proximo de 'franklin-roosevelt'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.4% identico a 'golda-meir' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "84fe85b48566884bc0e69e9683cf21982232848f58db0a6d8a92a67c40da8de7",
+      "matches": {
+        "personality": [
+          [
+            97.4,
+            "golda-meir",
+            "Golda Meir"
+          ],
+          [
+            96.6,
+            "franklin-roosevelt",
+            "Franklin D. Roosevelt"
+          ]
+        ],
+        "ideology": [
+          [
+            90.4,
+            "liberalismo-new-deal",
+            "Liberalismo New Deal"
+          ],
+          [
+            89.8,
+            "nacional-desenvolvimentismo",
+            "Nacional-Desenvolvimentismo"
+          ]
+        ],
+        "country": [
+          [
+            87.7,
+            "franca",
+            "França"
+          ],
+          [
+            85.5,
+            "mexico-de-cardenas",
+            "México de Cárdenas"
+          ]
+        ]
+      }
+    },
+    "boris-johnson": {
+      "exitCode": 0,
+      "output": "validando personality:boris-johnson\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/boris-johnson.json\n\n[ARQUETIPO] sociedade C · poder C · economia C · mundo A · tecnologia D\n[NEUTROS] total 17/240 = 7.1%\n[RELIGIAO] religiao=46.9 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         45.0  centralizado/unitario <-> descentralizado/federal\n  representacao     76.3  autocracia <-> democracia\n  poder             56.8  liberdade civil <-> ordem/vigilancia\n  imigracao         46.0  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        68.3  pacifista <-> militarista\n  intervencao       11.4  nacionalista assertivo <-> nao-intervencionista\n  economia          48.4  privado/mercado <-> publico/coletivo\n  controle          45.0  livre mercado <-> planejamento\n  comercio          33.0  livre comercio/globalista <-> protecionista\n  religiao          46.9  religioso <-> irreligioso/secular\n  moral             65.7  tradicionalista <-> progressista\n  tecnologia        70.1  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         45.0   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     76.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             56.8   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         46.0   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        68.3   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       11.4   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          48.4   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          45.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          33.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          46.9   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             65.7   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        70.1   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   95.8%  tony-blair  <<< aviso\n   95.1%  keir-starmer  <<< aviso\n   94.6%  reza-pahlavi  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.8% proximo de 'tony-blair'\n  [CONTEUDO] 95.1% proximo de 'keir-starmer'\n  [CONTEUDO] 94.6% proximo de 'reza-pahlavi'\nOK - passou nas tres checagens.\n",
+      "answersSha256": "43fa13c53d72b49c9273a05f66aa64f6b65a170a474f747623597a76716e85e0",
+      "matches": {
+        "personality": [
+          [
+            95.8,
+            "tony-blair",
+            "Tony Blair"
+          ],
+          [
+            95.1,
+            "keir-starmer",
+            "Keir Starmer"
+          ]
+        ],
+        "ideology": [
+          [
+            96.5,
+            "atlantismo",
+            "Atlantismo"
+          ],
+          [
+            93.5,
+            "terceira-via",
+            "Terceira Via"
+          ]
+        ],
+        "country": [
+          [
+            97.4,
+            "reino-unido",
+            "Reino Unido"
+          ],
+          [
+            95.3,
+            "eua-washington-dc",
+            "Washington, D.C. (Estados Unidos)"
+          ]
+        ]
+      }
+    },
+    "keir-starmer": {
+      "exitCode": 1,
+      "output": "validando personality:keir-starmer\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/keir-starmer.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 13/240 = 5.4%\n[RELIGIAO] religiao=61.9 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         52.1  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             58.0  liberdade civil <-> ordem/vigilancia\n  imigracao         43.8  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        57.6  pacifista <-> militarista\n  intervencao       30.5  nacionalista assertivo <-> nao-intervencionista\n  economia          65.1  privado/mercado <-> publico/coletivo\n  controle          55.7  livre mercado <-> planejamento\n  comercio          37.7  livre comercio/globalista <-> protecionista\n  religiao          61.9  religioso <-> irreligioso/secular\n  moral             69.3  tradicionalista <-> progressista\n  tecnologia        64.1  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         52.1   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             58.0   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         43.8   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        57.6   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       30.5   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          65.1   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          55.7   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          37.7   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          61.9   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             69.3   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        64.1   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.3%  anthony-albanese  <<< BLOQUEIA\n   97.2%  julia-gillard  <<< BLOQUEIA\n   96.5%  olaf-scholz  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.5% proximo de 'olaf-scholz'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.3% identico a 'anthony-albanese' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.2% identico a 'julia-gillard' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "b20352b68edf7c70dfc91db02b397b0f9c244992946b37a3e3b9126199744b3f",
+      "matches": {
+        "personality": [
+          [
+            98.3,
+            "anthony-albanese",
+            "Anthony Albanese"
+          ],
+          [
+            97.2,
+            "julia-gillard",
+            "Julia Gillard"
+          ]
+        ],
+        "ideology": [
+          [
+            93.3,
+            "terceira-via",
+            "Terceira Via"
+          ],
+          [
+            92.6,
+            "social-democracia-nordica",
+            "Social-Democracia Nórdica"
+          ]
+        ],
+        "country": [
+          [
+            94.6,
+            "reino-unido",
+            "Reino Unido"
+          ],
+          [
+            94.5,
+            "taiwan",
+            "Taiwan"
+          ]
+        ]
+      }
+    },
+    "nigel-farage": {
+      "exitCode": 1,
+      "output": "validando personality:nigel-farage\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/nigel-farage.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 12/240 = 5.0%\n[RELIGIAO] religiao=30.6 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         47.4  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             55.6  liberdade civil <-> ordem/vigilancia\n  imigracao         81.4  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        63.6  pacifista <-> militarista\n  intervencao       29.3  nacionalista assertivo <-> nao-intervencionista\n  economia          34.1  privado/mercado <-> publico/coletivo\n  controle          29.5  livre mercado <-> planejamento\n  comercio          41.3  livre comercio/globalista <-> protecionista\n  religiao          30.6  religioso <-> irreligioso/secular\n  moral             32.5  tradicionalista <-> progressista\n  tecnologia        51.0  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         47.4   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             55.6   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         81.4   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        63.6   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       29.3   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          34.1   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          29.5   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          41.3   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          30.6   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             32.5   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        51.0   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.2%  tony-abbott  <<< BLOQUEIA\n   97.1%  angus-taylor  <<< BLOQUEIA\n   96.9%  rupert-lowe  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.9% proximo de 'rupert-lowe'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.2% identico a 'tony-abbott' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.1% identico a 'angus-taylor' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "853d64f6aa9e0f69c0eb87335c4f743840d40c2e5d2d122528d9fe2dc1d23b97",
+      "matches": {
+        "personality": [
+          [
+            97.2,
+            "tony-abbott",
+            "Tony Abbott"
+          ],
+          [
+            97.1,
+            "angus-taylor",
+            "Angus Taylor"
+          ]
+        ],
+        "ideology": [
+          [
+            96.8,
+            "neoconservadorismo",
+            "Neoconservadorismo"
+          ],
+          [
+            94.2,
+            "conservadorismo",
+            "Conservadorismo"
+          ]
+        ],
+        "country": [
+          [
+            94.9,
+            "roma-republicana",
+            "Roma Republicana"
+          ],
+          [
+            94.8,
+            "polonia",
+            "Polônia"
+          ]
+        ]
+      }
+    },
+    "rupert-lowe": {
+      "exitCode": 0,
+      "output": "validando personality:rupert-lowe\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/rupert-lowe.json\n\n[ARQUETIPO] sociedade A · poder C · economia F · mundo A · tecnologia C\n[NEUTROS] total 5/240 = 2.1%\n[RELIGIAO] religiao=26.0 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         35.5  centralizado/unitario <-> descentralizado/federal\n  representacao     76.3  autocracia <-> democracia\n  poder             44.9  liberdade civil <-> ordem/vigilancia\n  imigracao         90.8  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        70.7  pacifista <-> militarista\n  intervencao       26.9  nacionalista assertivo <-> nao-intervencionista\n  economia          30.3  privado/mercado <-> publico/coletivo\n  controle          23.0  livre mercado <-> planejamento\n  comercio          51.8  livre comercio/globalista <-> protecionista\n  religiao          26.0  religioso <-> irreligioso/secular\n  moral             25.6  tradicionalista <-> progressista\n  tecnologia        52.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         35.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     76.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             44.9   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         90.8   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        70.7   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       26.9   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          30.3   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          23.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          51.8   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          26.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             25.6   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        52.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   96.9%  nigel-farage  <<< aviso\n   96.3%  tony-abbott  <<< aviso\n   95.8%  flavio-bolsonaro  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.9% proximo de 'nigel-farage'\n  [CONTEUDO] 96.3% proximo de 'tony-abbott'\n  [CONTEUDO] 95.8% proximo de 'flavio-bolsonaro'\nOK - passou nas tres checagens.\n",
+      "answersSha256": "c234068083427b7fde59da18d468b4a67f9c864444b9ec52b2b699b1908311f4",
+      "matches": {
+        "personality": [
+          [
+            96.9,
+            "nigel-farage",
+            "Nigel Farage"
+          ],
+          [
+            96.3,
+            "tony-abbott",
+            "Tony Abbott"
+          ]
+        ],
+        "ideology": [
+          [
+            94.9,
+            "neoconservadorismo",
+            "Neoconservadorismo"
+          ],
+          [
+            94.8,
+            "nacional-liberalismo",
+            "Nacional-Liberalismo"
+          ]
+        ],
+        "country": [
+          [
+            93.8,
+            "roma-republicana",
+            "Roma Republicana"
+          ],
+          [
+            93.2,
+            "israel",
+            "Israel"
+          ]
+        ]
+      }
+    },
+    "kamala-harris": {
+      "exitCode": 1,
+      "output": "validando personality:kamala-harris\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/kamala-harris.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 12/240 = 5.0%\n[RELIGIAO] religiao=54.8 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         55.7  centralizado/unitario <-> descentralizado/federal\n  representacao     89.4  autocracia <-> democracia\n  poder             44.9  liberdade civil <-> ordem/vigilancia\n  imigracao         23.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        44.5  pacifista <-> militarista\n  intervencao       31.7  nacionalista assertivo <-> nao-intervencionista\n  economia          61.5  privado/mercado <-> publico/coletivo\n  controle          58.0  livre mercado <-> planejamento\n  comercio          49.6  livre comercio/globalista <-> protecionista\n  religiao          54.8  religioso <-> irreligioso/secular\n  moral             82.4  tradicionalista <-> progressista\n  tecnologia        57.1  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         55.7   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     89.4   | Kim Jong Un=6 .. José Mujica=86\n  poder             44.9   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         23.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        44.5   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       31.7   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          61.5   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          58.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          49.6   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          54.8   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             82.4   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        57.1   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.3%  mark-carney  <<< BLOQUEIA\n   98.0%  hillary-clinton  <<< BLOQUEIA\n   96.6%  anthony-albanese  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.6% proximo de 'anthony-albanese'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.3% identico a 'mark-carney' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 98.0% identico a 'hillary-clinton' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "641bbbd6edfcbdff6501adc33d7592196b3943b98d25a0cf48b1fd59046012d7",
+      "matches": {
+        "personality": [
+          [
+            98.3,
+            "mark-carney",
+            "Mark Carney"
+          ],
+          [
+            98.0,
+            "hillary-clinton",
+            "Hillary Clinton"
+          ]
+        ],
+        "ideology": [
+          [
+            94.1,
+            "liberalismo-de-estado",
+            "Liberalismo de Estado"
+          ],
+          [
+            91.9,
+            "nacionalismo-civico",
+            "Nacionalismo Cívico"
+          ]
+        ],
+        "country": [
+          [
+            95.3,
+            "uniao-europeia",
+            "União Europeia"
+          ],
+          [
+            93.6,
+            "eua-nova-york",
+            "Nova York (Estados Unidos)"
+          ]
+        ]
+      }
+    },
+    "hillary-clinton": {
+      "exitCode": 1,
+      "output": "validando personality:hillary-clinton\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/hillary-clinton.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 21/240 = 8.8%\n[RELIGIAO] religiao=52.4 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         54.5  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             49.6  liberdade civil <-> ordem/vigilancia\n  imigracao         26.0  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        52.9  pacifista <-> militarista\n  intervencao       19.8  nacionalista assertivo <-> nao-intervencionista\n  economia          56.8  privado/mercado <-> publico/coletivo\n  controle          53.3  livre mercado <-> planejamento\n  comercio          48.4  livre comercio/globalista <-> protecionista\n  religiao          52.4  religioso <-> irreligioso/secular\n  moral             76.4  tradicionalista <-> progressista\n  tecnologia        54.8  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         54.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             49.6   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         26.0   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        52.9   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       19.8   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          56.8   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          53.3   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          48.4   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          52.4   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             76.4   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        54.8   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.8%  mark-carney  <<< BLOQUEIA\n   98.0%  kamala-harris  <<< BLOQUEIA\n   96.6%  joe-biden  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [NEUTROS] tecnologia: 5/20 = 25% de N (perto do limite)\n  [CONTEUDO] 96.6% proximo de 'joe-biden'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.8% identico a 'mark-carney' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 98.0% identico a 'kamala-harris' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "dddd0ca706f72eb3e9fcf1ef45b364b63eb9bbab6edeb2f459bb0e7538f25549",
+      "matches": {
+        "personality": [
+          [
+            98.8,
+            "mark-carney",
+            "Mark Carney"
+          ],
+          [
+            98.0,
+            "kamala-harris",
+            "Kamala Harris"
+          ]
+        ],
+        "ideology": [
+          [
+            89.8,
+            "centrismo-social",
+            "Centrismo Social"
+          ],
+          [
+            88.9,
+            "terceira-via",
+            "Terceira Via"
+          ]
+        ],
+        "country": [
+          [
+            92.9,
+            "australia",
+            "Austrália"
+          ],
+          [
+            92.6,
+            "uniao-europeia",
+            "União Europeia"
+          ]
+        ]
+      }
+    },
+    "jimmy-carter": {
+      "exitCode": 0,
+      "output": "validando personality:jimmy-carter\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/jimmy-carter.json\n\n[ARQUETIPO] sociedade F · poder C · economia C · mundo C · tecnologia C\n[NEUTROS] total 10/240 = 4.2%\n[RELIGIAO] religiao=39.3 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         54.5  centralizado/unitario <-> descentralizado/federal\n  representacao     87.0  autocracia <-> democracia\n  poder             38.9  liberdade civil <-> ordem/vigilancia\n  imigracao         33.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        27.6  pacifista <-> militarista\n  intervencao       41.0  nacionalista assertivo <-> nao-intervencionista\n  economia          54.4  privado/mercado <-> publico/coletivo\n  controle          46.1  livre mercado <-> planejamento\n  comercio          42.5  livre comercio/globalista <-> protecionista\n  religiao          39.3  religioso <-> irreligioso/secular\n  moral             53.4  tradicionalista <-> progressista\n  tecnologia        45.2  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         54.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     87.0   | Kim Jong Un=6 .. José Mujica=86\n  poder             38.9   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         33.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        27.6   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       41.0   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          54.4   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          46.1   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          42.5   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          39.3   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             53.4   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        45.2   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   96.0%  angela-merkel  <<< aviso\n   94.9%  masaryk  <<< aviso\n   94.6%  augusto-cury  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.0% proximo de 'angela-merkel'\n  [CONTEUDO] 94.9% proximo de 'masaryk'\n  [CONTEUDO] 94.6% proximo de 'augusto-cury'\nOK - passou nas tres checagens.\n",
+      "answersSha256": "0145e3721ca0429111d5728ddbe46184da9ed6ff8e6fa6ce29e9ce8ff34636ee",
+      "matches": {
+        "personality": [
+          [
+            96.0,
+            "angela-merkel",
+            "Angela Merkel"
+          ],
+          [
+            94.9,
+            "masaryk",
+            "Tomáš Garrigue Masaryk"
+          ]
+        ],
+        "ideology": [
+          [
+            95.8,
+            "liberalismo-islamico",
+            "Liberalismo Islâmico"
+          ],
+          [
+            95.6,
+            "centrismo-social",
+            "Centrismo Social"
+          ]
+        ],
+        "country": [
+          [
+            95.2,
+            "brasil",
+            "Brasil"
+          ],
+          [
+            94.9,
+            "colombia",
+            "Colômbia"
+          ]
+        ]
+      }
+    },
+    "lyndon-b-johnson": {
+      "exitCode": 1,
+      "output": "validando personality:lyndon-b-johnson\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/lyndon-b-johnson.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo A · tecnologia C\n[NEUTROS] total 13/240 = 5.4%\n[RELIGIAO] religiao=39.3 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         51.0  centralizado/unitario <-> descentralizado/federal\n  representacao     78.7  autocracia <-> democracia\n  poder             55.6  liberdade civil <-> ordem/vigilancia\n  imigracao         36.7  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        66.0  pacifista <-> militarista\n  intervencao       15.0  nacionalista assertivo <-> nao-intervencionista\n  economia          59.1  privado/mercado <-> publico/coletivo\n  controle          64.0  livre mercado <-> planejamento\n  comercio          35.3  livre comercio/globalista <-> protecionista\n  religiao          39.3  religioso <-> irreligioso/secular\n  moral             34.8  tradicionalista <-> progressista\n  tecnologia        53.6  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         51.0   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     78.7   | Kim Jong Un=6 .. José Mujica=86\n  poder             55.6   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         36.7   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        66.0   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       15.0   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          59.1   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          64.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          35.3   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          39.3   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             34.8   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.6   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.4%  david-lloyd-george  <<< BLOQUEIA\n   96.4%  harry-truman  <<< aviso\n   93.7%  scott-morrison  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.4% proximo de 'harry-truman'\n  [CONTEUDO] 93.7% proximo de 'scott-morrison'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.4% identico a 'david-lloyd-george' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "d1dd1084b34f5672adb455bb3fb923ee0c7bc0eb5f22e9b832bbd9506e68d0a9",
+      "matches": {
+        "personality": [
+          [
+            97.4,
+            "david-lloyd-george",
+            "David Lloyd George"
+          ],
+          [
+            96.4,
+            "harry-truman",
+            "Harry S. Truman"
+          ]
+        ],
+        "ideology": [
+          [
+            88.1,
+            "atlantismo",
+            "Atlantismo"
+          ],
+          [
+            87.9,
+            "liberalismo-new-deal",
+            "Liberalismo New Deal"
+          ]
+        ],
+        "country": [
+          [
+            91.9,
+            "reino-unido",
+            "Reino Unido"
+          ],
+          [
+            89.9,
+            "ucrania",
+            "Ucrânia"
+          ]
+        ]
+      }
+    },
+    "angela-merkel": {
+      "exitCode": 0,
+      "output": "validando personality:angela-merkel\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/angela-merkel.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo C · tecnologia C\n[NEUTROS] total 10/240 = 4.2%\n[RELIGIAO] religiao=38.9 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         58.1  centralizado/unitario <-> descentralizado/federal\n  representacao     83.5  autocracia <-> democracia\n  poder             59.1  liberdade civil <-> ordem/vigilancia\n  imigracao         42.1  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        34.8  pacifista <-> militarista\n  intervencao       35.1  nacionalista assertivo <-> nao-intervencionista\n  economia          55.6  privado/mercado <-> publico/coletivo\n  controle          47.3  livre mercado <-> planejamento\n  comercio          24.6  livre comercio/globalista <-> protecionista\n  religiao          38.9  religioso <-> irreligioso/secular\n  moral             53.9  tradicionalista <-> progressista\n  tecnologia        47.6  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         58.1   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     83.5   | Kim Jong Un=6 .. José Mujica=86\n  poder             59.1   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         42.1   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        34.8   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       35.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          55.6   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          47.3   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          24.6   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          38.9   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             53.9   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        47.6   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   96.6%  kevin-rudd  <<< aviso\n   96.0%  jimmy-carter  <<< aviso\n   95.3%  bill-clinton  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.6% proximo de 'kevin-rudd'\n  [CONTEUDO] 96.0% proximo de 'jimmy-carter'\n  [CONTEUDO] 95.3% proximo de 'bill-clinton'\nOK - passou nas tres checagens.\n",
+      "answersSha256": "b20bd7e489d7bbb91d1c566e8f2fad6129bb74f480950d1039ea11875d9b1f8c",
+      "matches": {
+        "personality": [
+          [
+            96.6,
+            "kevin-rudd",
+            "Kevin Rudd"
+          ],
+          [
+            96.0,
+            "jimmy-carter",
+            "Jimmy Carter"
+          ]
+        ],
+        "ideology": [
+          [
+            92.9,
+            "centrismo",
+            "Centrismo"
+          ],
+          [
+            92.8,
+            "centrismo-social",
+            "Centrismo Social"
+          ]
+        ],
+        "country": [
+          [
+            93.6,
+            "rio-de-janeiro",
+            "Rio de Janeiro (Brasil)"
+          ],
+          [
+            93.2,
+            "porto-rico",
+            "Porto Rico (Estados Unidos)"
+          ]
+        ]
+      }
+    },
+    "olaf-scholz": {
+      "exitCode": 1,
+      "output": "validando personality:olaf-scholz\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/olaf-scholz.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 7/240 = 2.9%\n[RELIGIAO] religiao=65.5 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         53.3  centralizado/unitario <-> descentralizado/federal\n  representacao     83.5  autocracia <-> democracia\n  poder             49.6  liberdade civil <-> ordem/vigilancia\n  imigracao         40.2  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        42.1  pacifista <-> militarista\n  intervencao       38.8  nacionalista assertivo <-> nao-intervencionista\n  economia          67.5  privado/mercado <-> publico/coletivo\n  controle          64.0  livre mercado <-> planejamento\n  comercio          28.2  livre comercio/globalista <-> protecionista\n  religiao          65.5  religioso <-> irreligioso/secular\n  moral             81.2  tradicionalista <-> progressista\n  tecnologia        53.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         53.3   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     83.5   | Kim Jong Un=6 .. José Mujica=86\n  poder             49.6   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         40.2   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        42.1   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       38.8   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          67.5   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          64.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          28.2   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          65.5   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             81.2   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.9%  anthony-albanese  <<< BLOQUEIA\n   97.8%  julia-gillard  <<< BLOQUEIA\n   96.5%  keir-starmer  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.5% proximo de 'keir-starmer'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.9% identico a 'anthony-albanese' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.8% identico a 'julia-gillard' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "05be00fcdc9df6ea1d483a005ea8f4a5fe32283a39a75a0a60ba948209f2b3cb",
+      "matches": {
+        "personality": [
+          [
+            97.9,
+            "anthony-albanese",
+            "Anthony Albanese"
+          ],
+          [
+            97.8,
+            "julia-gillard",
+            "Julia Gillard"
+          ]
+        ],
+        "ideology": [
+          [
+            95.7,
+            "liberalismo-de-estado",
+            "Liberalismo de Estado"
+          ],
+          [
+            94.5,
+            "social-democracia-nordica",
+            "Social-Democracia Nórdica"
+          ]
+        ],
+        "country": [
+          [
+            96.0,
+            "noruega",
+            "Noruega"
+          ],
+          [
+            95.9,
+            "espanha",
+            "Espanha"
+          ]
+        ]
+      }
+    },
+    "mark-carney": {
+      "exitCode": 1,
+      "output": "validando personality:mark-carney\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/mark-carney.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 12/240 = 5.0%\n[RELIGIAO] religiao=56.0 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         60.5  centralizado/unitario <-> descentralizado/federal\n  representacao     81.1  autocracia <-> democracia\n  poder             46.0  liberdade civil <-> ordem/vigilancia\n  imigracao         28.3  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        52.9  pacifista <-> militarista\n  intervencao       34.0  nacionalista assertivo <-> nao-intervencionista\n  economia          55.6  privado/mercado <-> publico/coletivo\n  controle          50.9  livre mercado <-> planejamento\n  comercio          43.7  livre comercio/globalista <-> protecionista\n  religiao          56.0  religioso <-> irreligioso/secular\n  moral             78.8  tradicionalista <-> progressista\n  tecnologia        58.2  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         60.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     81.1   | Kim Jong Un=6 .. José Mujica=86\n  poder             46.0   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         28.3   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        52.9   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       34.0   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          55.6   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          50.9   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          43.7   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          56.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             78.8   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        58.2   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.8%  hillary-clinton  <<< BLOQUEIA\n   98.3%  kamala-harris  <<< BLOQUEIA\n   96.9%  anthony-albanese  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.9% proximo de 'anthony-albanese'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.8% identico a 'hillary-clinton' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 98.3% identico a 'kamala-harris' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "67e19e93ec01257157029cb6d35e1239a7dc6d3a973e8382fc50438101165b7a",
+      "matches": {
+        "personality": [
+          [
+            98.8,
+            "hillary-clinton",
+            "Hillary Clinton"
+          ],
+          [
+            98.3,
+            "kamala-harris",
+            "Kamala Harris"
+          ]
+        ],
+        "ideology": [
+          [
+            92.0,
+            "liberalismo-de-estado",
+            "Liberalismo de Estado"
+          ],
+          [
+            91.8,
+            "centrismo-social",
+            "Centrismo Social"
+          ]
+        ],
+        "country": [
+          [
+            95.7,
+            "uniao-europeia",
+            "União Europeia"
+          ],
+          [
+            94.3,
+            "australia",
+            "Austrália"
+          ]
+        ]
+      }
+    },
+    "david-lloyd-george": {
+      "exitCode": 1,
+      "output": "validando personality:david-lloyd-george\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/david-lloyd-george.json\n\n[ARQUETIPO] sociedade F · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 17/240 = 7.1%\n[RELIGIAO] religiao=44.0 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         53.3  centralizado/unitario <-> descentralizado/federal\n  representacao     68.0  autocracia <-> democracia\n  poder             68.7  liberdade civil <-> ordem/vigilancia\n  imigracao         47.9  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        61.2  pacifista <-> militarista\n  intervencao       22.1  nacionalista assertivo <-> nao-intervencionista\n  economia          58.0  privado/mercado <-> publico/coletivo\n  controle          70.0  livre mercado <-> planejamento\n  comercio          28.2  livre comercio/globalista <-> protecionista\n  religiao          44.0  religioso <-> irreligioso/secular\n  moral             30.8  tradicionalista <-> progressista\n  tecnologia        64.1  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         53.3   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     68.0   | Kim Jong Un=6 .. José Mujica=86\n  poder             68.7   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         47.9   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        61.2   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       22.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          58.0   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          70.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          28.2   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          44.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             30.8   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        64.1   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.4%  lyndon-b-johnson  <<< BLOQUEIA\n   95.3%  harry-truman  <<< aviso\n   92.9%  scott-morrison\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.3% proximo de 'harry-truman'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.4% identico a 'lyndon-b-johnson' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "c43d8cc714a5b78d6e720c126aea40287b568c942ef6f97538f945ee51daa9d0",
+      "matches": {
+        "personality": [
+          [
+            97.4,
+            "lyndon-b-johnson",
+            "Lyndon B. Johnson"
+          ],
+          [
+            95.3,
+            "harry-truman",
+            "Harry S. Truman"
+          ]
+        ],
+        "ideology": [
+          [
+            92.6,
+            "liberalismo-new-deal",
+            "Liberalismo New Deal"
+          ],
+          [
+            87.4,
+            "neoconservadorismo",
+            "Neoconservadorismo"
+          ]
+        ],
+        "country": [
+          [
+            91.1,
+            "reino-unido",
+            "Reino Unido"
+          ],
+          [
+            90.3,
+            "coreia-do-sul",
+            "Coreia do Sul"
+          ]
+        ]
+      }
+    },
+    "helmut-kohl": {
+      "exitCode": 1,
+      "output": "validando personality:helmut-kohl\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/helmut-kohl.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 7/240 = 2.9%\n[RELIGIAO] religiao=21.0 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         65.2  centralizado/unitario <-> descentralizado/federal\n  representacao     81.1  autocracia <-> democracia\n  poder             60.3  liberdade civil <-> ordem/vigilancia\n  imigracao         63.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        48.1  pacifista <-> militarista\n  intervencao       36.4  nacionalista assertivo <-> nao-intervencionista\n  economia          53.2  privado/mercado <-> publico/coletivo\n  controle          34.2  livre mercado <-> planejamento\n  comercio          28.2  livre comercio/globalista <-> protecionista\n  religiao          21.0  religioso <-> irreligioso/secular\n  moral             26.5  tradicionalista <-> progressista\n  tecnologia        44.0  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         65.2   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     81.1   | Kim Jong Un=6 .. José Mujica=86\n  poder             60.3   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         63.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        48.1   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       36.4   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          53.2   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          34.2   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          28.2   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          21.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             26.5   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        44.0   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.1%  konrad-adenauer  <<< BLOQUEIA\n   96.1%  lech-walesa  <<< aviso\n   96.0%  leon-kass  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.1% proximo de 'lech-walesa'\n  [CONTEUDO] 96.0% proximo de 'leon-kass'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.1% identico a 'konrad-adenauer' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "7e84cd8453c4e593eeb434d922851a4825653dda8e345e477a3b592a2a55bb0d",
+      "matches": {
+        "personality": [
+          [
+            97.1,
+            "konrad-adenauer",
+            "Konrad Adenauer"
+          ],
+          [
+            96.1,
+            "lech-walesa",
+            "Lech Wałęsa"
+          ]
+        ],
+        "ideology": [
+          [
+            91.6,
+            "democracia-islamica",
+            "Democracia Islâmica"
+          ],
+          [
+            89.0,
+            "ecoconservadorismo",
+            "Ecoconservadorismo"
+          ]
+        ],
+        "country": [
+          [
+            94.7,
+            "baviera",
+            "Baviera (Alemanha)"
+          ],
+          [
+            91.9,
+            "santa-catarina",
+            "Santa Catarina (Brasil)"
+          ]
+        ]
+      }
+    },
+    "lech-walesa": {
+      "exitCode": 0,
+      "output": "validando personality:lech-walesa\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/lech-walesa.json\n\n[ARQUETIPO] sociedade A · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 15/240 = 6.2%\n[RELIGIAO] religiao=17.6 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         52.1  centralizado/unitario <-> descentralizado/federal\n  representacao     76.3  autocracia <-> democracia\n  poder             53.2  liberdade civil <-> ordem/vigilancia\n  imigracao         46.8  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        42.1  pacifista <-> militarista\n  intervencao       42.4  nacionalista assertivo <-> nao-intervencionista\n  economia          52.0  privado/mercado <-> publico/coletivo\n  controle          41.4  livre mercado <-> planejamento\n  comercio          33.0  livre comercio/globalista <-> protecionista\n  religiao          17.6  religioso <-> irreligioso/secular\n  moral             17.2  tradicionalista <-> progressista\n  tecnologia        46.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         52.1   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     76.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             53.2   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         46.8   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        42.1   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       42.4   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          52.0   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          41.4   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          33.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          17.6   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             17.2   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        46.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   96.1%  helmut-kohl  <<< aviso\n   94.1%  konrad-adenauer  <<< aviso\n   94.0%  marcelo-rebelo-de-sousa  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.1% proximo de 'helmut-kohl'\n  [CONTEUDO] 94.1% proximo de 'konrad-adenauer'\n  [CONTEUDO] 94.0% proximo de 'marcelo-rebelo-de-sousa'\nOK - passou nas tres checagens.\n",
+      "answersSha256": "7c7d3c52627a8b4a72ff837dbb6acfe69cded917016e15e3a356e6b3d10bad4a",
+      "matches": {
+        "personality": [
+          [
+            96.1,
+            "helmut-kohl",
+            "Helmut Kohl"
+          ],
+          [
+            94.1,
+            "konrad-adenauer",
+            "Konrad Adenauer"
+          ]
+        ],
+        "ideology": [
+          [
+            94.9,
+            "democracia-islamica",
+            "Democracia Islâmica"
+          ],
+          [
+            92.1,
+            "democracia-crista",
+            "Democracia Cristã"
+          ]
+        ],
+        "country": [
+          [
+            93.2,
+            "peru",
+            "Peru"
+          ],
+          [
+            91.7,
+            "baviera",
+            "Baviera (Alemanha)"
+          ]
+        ]
+      }
+    },
+    "golda-meir": {
+      "exitCode": 1,
+      "output": "validando personality:golda-meir\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/golda-meir.json\n\n[ARQUETIPO] sociedade D · poder C · economia B · mundo B · tecnologia D\n[NEUTROS] total 16/240 = 6.7%\n[RELIGIAO] religiao=51.2 · religions=[]\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         29.5  centralizado/unitario <-> descentralizado/federal\n  representacao     76.3  autocracia <-> democracia\n  poder             67.5  liberdade civil <-> ordem/vigilancia\n  imigracao         58.1  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        73.1  pacifista <-> militarista\n  intervencao       25.7  nacionalista assertivo <-> nao-intervencionista\n  economia          79.8  privado/mercado <-> publico/coletivo\n  controle          75.8  livre mercado <-> planejamento\n  comercio          49.0  livre comercio/globalista <-> protecionista\n  religiao          51.2  religioso <-> irreligioso/secular\n  moral             39.5  tradicionalista <-> progressista\n  tecnologia        58.2  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         29.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     76.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             67.5   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         58.1   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        73.1   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       25.7   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          79.8   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          75.8   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          49.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          51.2   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             39.5   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        58.2   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.4%  franklin-roosevelt  <<< BLOQUEIA\n   97.4%  clement-attlee  <<< BLOQUEIA\n   94.5%  pericles  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 94.5% proximo de 'pericles'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.4% identico a 'franklin-roosevelt' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.4% identico a 'clement-attlee' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "answersSha256": "78862aa9f847ec026b1922fd60278c9ff27d5fc3665d359f9bcaffb8c8bf6895",
+      "matches": {
+        "personality": [
+          [
+            97.4,
+            "franklin-roosevelt",
+            "Franklin D. Roosevelt"
+          ],
+          [
+            97.4,
+            "clement-attlee",
+            "Clement Attlee"
+          ]
+        ],
+        "ideology": [
+          [
+            93.7,
+            "liberalismo-new-deal",
+            "Liberalismo New Deal"
+          ],
+          [
+            92.5,
+            "sionismo-trabalhista",
+            "Sionismo Trabalhista"
+          ]
+        ],
+        "country": [
+          [
+            90.4,
+            "franca",
+            "França"
+          ],
+          [
+            89.6,
+            "polonia",
+            "Polônia"
+          ]
+        ]
+      }
+    },
+    "joh-bjelke-petersen": {
+      "exitCode": 0,
+      "output": "validando personality:joh-bjelke-petersen\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/answers/personality/joh-bjelke-petersen.json\n\n[ARQUETIPO] sociedade A · poder C · economia F · mundo B · tecnologia D\n[NEUTROS] total 8/240 = 3.3%\n[RELIGIAO] religiao=8.1 · religions=['christianity']\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         77.1  centralizado/unitario <-> descentralizado/federal\n  representacao     53.7  autocracia <-> democracia\n  poder             72.2  liberdade civil <-> ordem/vigilancia\n  imigracao         67.0  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        66.0  pacifista <-> militarista\n  intervencao       24.5  nacionalista assertivo <-> nao-intervencionista\n  economia          32.7  privado/mercado <-> publico/coletivo\n  controle          34.9  livre mercado <-> planejamento\n  comercio          32.7  livre comercio/globalista <-> protecionista\n  religiao           8.1  religioso <-> irreligioso/secular\n  moral              3.0  tradicionalista <-> progressista\n  tecnologia        55.8  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         77.1   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     53.7   | Kim Jong Un=6 .. José Mujica=86\n  poder             72.2   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         67.0   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        66.0   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       24.5   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          32.7   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          34.9   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          32.7   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao           8.1   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral              3.0   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        55.8   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   95.3%  jefferson-davis  <<< aviso\n   95.2%  william-f-buckley  <<< aviso\n   95.2%  irving-kristol  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.3% proximo de 'jefferson-davis'\n  [CONTEUDO] 95.2% proximo de 'william-f-buckley'\n  [CONTEUDO] 95.2% proximo de 'irving-kristol'\nOK - passou nas tres checagens.\n",
+      "answersSha256": "9fe7f6503db25783a5b7e8557f7c595a556720944f6cb293ade1022031f5d7d3",
+      "matches": {
+        "personality": [
+          [
+            95.3,
+            "jefferson-davis",
+            "Jefferson Davis"
+          ],
+          [
+            95.2,
+            "william-f-buckley",
+            "William F. Buckley Jr."
+          ]
+        ],
+        "ideology": [
+          [
+            92.3,
+            "conservadorismo-reaganista",
+            "Conservadorismo Reaganista"
+          ],
+          [
+            91.2,
+            "conservadorismo-confederado",
+            "Conservadorismo Confederado"
+          ]
+        ],
+        "country": [
+          [
+            94.3,
+            "eua-confederados",
+            "Estados Confederados da América"
+          ],
+          [
+            92.3,
+            "eua-texas",
+            "Texas (Estados Unidos)"
+          ]
+        ]
+      }
+    }
+  }
+}

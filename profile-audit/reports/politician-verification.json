@@ -1,0 +1,73 @@
+{
+  "baseCommit": "811b0ad0447eda27b84bc51ce8257e93edb61f1f",
+  "newProfiles": 31,
+  "requestedFigures": 32,
+  "alreadyPresent": [
+    "david-ben-gurion"
+  ],
+  "catalogueTotal": 439,
+  "backend": {
+    "tests": 160,
+    "passed": 159,
+    "failures": 1,
+    "baselineTests": 129,
+    "baselinePassed": 128,
+    "baselineFailures": 1,
+    "failure": "IdeologyCountryMappingTest.everyCountryFlagIsAValidRasterAsset: reino-de-israel flag source is Reddit, expected Wikimedia Commons"
+  },
+  "frontend": {
+    "tests": 13,
+    "passed": 13,
+    "buildPages": 1738,
+    "cleanInstall": true
+  },
+  "browser": {
+    "resultChecks": 62,
+    "languages": [
+      "pt",
+      "en"
+    ],
+    "profiles": [
+      "anthony-albanese",
+      "pauline-hanson",
+      "angus-taylor",
+      "john-howard",
+      "robert-menzies",
+      "gough-whitlam",
+      "bob-hawke",
+      "paul-keating",
+      "kevin-rudd",
+      "julia-gillard",
+      "tony-abbott",
+      "malcolm-turnbull",
+      "scott-morrison",
+      "margaret-thatcher",
+      "clement-attlee",
+      "boris-johnson",
+      "keir-starmer",
+      "nigel-farage",
+      "rupert-lowe",
+      "kamala-harris",
+      "hillary-clinton",
+      "jimmy-carter",
+      "lyndon-b-johnson",
+      "angela-merkel",
+      "olaf-scholz",
+      "mark-carney",
+      "david-lloyd-george",
+      "helmut-kohl",
+      "lech-walesa",
+      "golda-meir",
+      "joh-bjelke-petersen"
+    ],
+    "shareExports": "Joh Bjelke-Petersen, PT and EN; downloaded PNGs visually inspected",
+    "generatedProfilePages": "Joh Bjelke-Petersen, PT and EN; all 62 output files checked",
+    "shareExportLimitation": "PT export displays representation and technology at 50% for Joh; EN export displays rounded result values 54% and 56%. Portrait/name render in both. Share-export code unchanged from upstream."
+  },
+  "profileValidation": {
+    "passed": 8,
+    "similarityBlocked": 23,
+    "otherBlockers": 0,
+    "requesterRetainedOverlap": true
+  }
+}

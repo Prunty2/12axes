@@ -1,0 +1,366 @@
+{
+  "id": "david-ben-gurion",
+  "profilePeriod": "State-building and premiership, 1948–1953 and 1955–1963.",
+  "sources": [
+    {
+      "id": "education",
+      "title": "JTA: Israel Premier Starts Campaign for Unified System of Education",
+      "url": "https://www.jta.org/archive/israel-premier-starts-campaign-for-unified-system-of-education",
+      "date": "1953-07-06",
+      "accessed": "2026-10-01",
+      "evidence": "Ben-Gurion advocated national schooling to build a united nation while expressly rejecting totalitarian education."
+    },
+    {
+      "id": "constitution",
+      "title": "Israel Democracy Institute: The Religious Community and the Constitution",
+      "url": "https://en.idi.org.il/publications/7209",
+      "date": "2006; covers 1949–1950",
+      "accessed": "2026-10-01",
+      "evidence": "Ben-Gurion opposed an entrenched constitution superior to ordinary legislation and helped postpone it in 1950."
+    },
+    {
+      "id": "military-rule",
+      "title": "JTA: Easing of Military Government for Israel Arabs Follows Knesset Debate",
+      "url": "https://www.jta.org/archive/easing-of-military-govt-for-israel-arabs-follows-knesset-debate",
+      "date": "1962-02-23",
+      "accessed": "2026-10-01",
+      "evidence": "He defended retaining military government in Arab border areas while agreeing to appeals, longer movement permits and removal of some curfews."
+    },
+    {
+      "id": "economy-reform",
+      "title": "JTA: Ben Gurion Presents New Economic Policy, Investors to Benefit",
+      "url": "https://www.jta.org/archive/ben-gurion-presents-new-economic-policy-investors-to-benefit",
+      "date": "1952-02-14",
+      "accessed": "2026-10-01",
+      "evidence": "His parliamentary economic programme encouraged foreign investment, reduced spending and introduced multiple controlled exchange rates."
+    },
+    {
+      "id": "economic-note",
+      "title": "Israeli government note transmitted by Abba Eban, FRUS document 469",
+      "url": "https://history.state.gov/historicaldocuments/frus1952-54v09p1/d469",
+      "date": "1952-08-12",
+      "accessed": "2026-10-01",
+      "evidence": "Government promised a foreign-exchange budget, central allocation of currency and centralized import priorities while seeking US assistance and financial stabilization."
+    },
+    {
+      "id": "suez",
+      "title": "US Office of the Historian: The Suez Crisis, 1956",
+      "url": "https://history.state.gov/milestones/1953-1960/suez",
+      "date": "1956 events; retrospective undated",
+      "accessed": "2026-10-01",
+      "evidence": "Israel joined the secret Anglo-French plan against Egypt and invaded Sinai in October 1956; US and UN pressure forced a ceasefire."
+    },
+    {
+      "id": "kennedy",
+      "title": "Kennedy–Ben-Gurion conversation, FRUS document 57",
+      "url": "https://history.state.gov/historicaldocuments/frus1961-63v17/d57",
+      "date": "1961-05-30",
+      "accessed": "2026-10-01",
+      "evidence": "Ben-Gurion linked Dimona to nuclear energy and desalination, sought advanced defensive arms and accepted neutral scientific visits in discussion with Kennedy."
+    },
+    {
+      "id": "nuclear",
+      "title": "Secretary Rusk memorandum, FRUS document 5",
+      "url": "https://history.state.gov/historicaldocuments/frus1961-63v17/d5",
+      "date": "1961-01-30",
+      "accessed": "2026-10-01",
+      "evidence": "Dimona was built secretly with French support; Ben-Gurion publicly denied plans for nuclear weapons. Record supports nuclear development but not a public weapons admission."
+    },
+    {
+      "id": "heritage",
+      "title": "Ben-Gurion Heritage Institute: dated speeches and quotations",
+      "url": "https://bgh.org.il/en/quotes/",
+      "date": "1950–1963 excerpts; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "1950 Law of Return rationale prioritizes Jewish immigration; dated 1952 and 1957 speeches connect diaspora and state. 1955 Negev speech promotes scientific development; 1963 Years of Challenge stresses pioneering work."
+    },
+    {
+      "id": "negev",
+      "title": "Library of Congress: David Ben-Gurion – The Man and His Legacy",
+      "url": "https://blogs.loc.gov/law/2018/01/david-ben-gurion-the-man-and-his-legacy/",
+      "date": "2018-01; quotes 1955 speech",
+      "accessed": "2026-10-01",
+      "evidence": "The 1955 Negev programme called for desalination, solar and wind energy, water conservation and research on desert vegetation."
+    },
+    {
+      "id": "religion-letter",
+      "title": "Ben-Gurion letter asking Who Is a Jew, translation held by Chabad",
+      "url": "https://www.chabad.org/therebbe/letters/default_cdo/aid/2064625/jewish/David-Ben-Gurion-Asks-Who-is-a-Jew.htm",
+      "date": "1958-10-27",
+      "accessed": "2026-10-01",
+      "evidence": "Consulted Orthodox and non-Orthodox scholars while affirming freedom of conscience and religion and the needs of sovereign immigrant absorption."
+    },
+    {
+      "id": "status-quo",
+      "title": "Center for Israel Education: Status Quo Agreement, translated document",
+      "url": "https://israeled.org/david-ben-gurion-acuerdo-de-statu-quo-19-de-junio-de-1947/",
+      "date": "1947-06-19; context for premiership",
+      "accessed": "2026-10-01",
+      "evidence": "Promised Sabbath rest, kosher public kitchens, religious personal-status arrangements and educational autonomy. Pre-period commitment explains institutions retained during premiership."
+    },
+    {
+      "id": "women",
+      "title": "National Library of Israel: Four Decisions by David Ben-Gurion That Shaped Israel",
+      "url": "https://blog.nli.org.il/en/ben_gurion_decisions/",
+      "date": "2025; quotes 1951 debate",
+      "accessed": "2026-10-01",
+      "evidence": "Archives describe his support of the 1951 Women’s Equal Rights Law and praise of women’s contributions to building and defending the state."
+    },
+    {
+      "id": "women-tension",
+      "title": "Anat Maor: Israel Studies Anthology, Women in Israel",
+      "url": "https://www.jewishvirtuallibrary.org/jsource/isdf/text/anatmaor.pdf",
+      "date": "2009; covers 1951–1953",
+      "accessed": "2026-10-01",
+      "evidence": "Women’s civil equality coexisted with religious marriage and divorce jurisdiction from 1953 and Ben-Gurion’s pronatalist emphasis on motherhood."
+    },
+    {
+      "id": "histadrut",
+      "title": "Fortune: Israel without ideology",
+      "url": "https://fortune.com/article/israel-without-ideology-fortune-1952/",
+      "date": "1952",
+      "accessed": "2026-10-01",
+      "evidence": "Ben-Gurion protected Histadrut enterprises while seeking private investment."
+    },
+    {
+      "id": "peace",
+      "title": "US–Ben-Gurion conversation, FRUS document 132",
+      "url": "https://history.state.gov/historicaldocuments/frus1958-60v13/d132",
+      "date": "1960-03",
+      "accessed": "2026-10-01",
+      "evidence": "He argued that war generally fails to solve problems, while insisting on self-defense and seeking British and French arms."
+    },
+    {
+      "id": "book-library",
+      "title": "Berkeley Law Library catalogue: Rebirth and Destiny of Israel",
+      "url": "https://lawcat.berkeley.edu/record/666994",
+      "date": "1954 publication; catalogue undated",
+      "accessed": "2026-10-01",
+      "evidence": "Lists Ben-Gurion as author and Nurock as editor/translator; Philosophical Library, New York, 1954, 539 pages."
+    },
+    {
+      "id": "book-review",
+      "title": "Political Science Quarterly: contemporary book review",
+      "url": "https://academic.oup.com/psq/article-abstract/69/2/287/7261916",
+      "date": "1954-06-15",
+      "accessed": "2026-10-01",
+      "evidence": "Contemporary review confirms title, Ben-Gurion authorship, Nurock translation/editing and 1954 publication."
+    },
+    {
+      "id": "book-contents",
+      "title": "Open Library catalogue: Rebirth and Destiny of Israel",
+      "url": "https://openlibrary.org/works/OL2176326W/Rebirth_and_destiny_of_Israel?edition=key%3A%2Fbooks%2FOL13545363M",
+      "date": "1954 publication; record updated 2025-07-12",
+      "accessed": "2026-10-01",
+      "evidence": "Collection of the author’s political essays and addresses written or delivered from 1915 to 1952; supports relevance to Zionism and state formation."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "1953 national education campaign sought a common nation rather than competing party school systems."
+      ],
+      "sources": [
+        "education",
+        "status-quo"
+      ],
+      "tension": "Centralized state-building left room for religious school autonomy and cooperative settlements; neither implies territorial federalism."
+    },
+    "representacao": {
+      "facts": [
+        "Operated through the Knesset and electoral coalition institutions; fought constitutional entrenchment during 1949–50."
+      ],
+      "sources": [
+        "constitution",
+        "military-rule",
+        "education"
+      ],
+      "tension": "Parliamentary democracy and universal civic rhetoric coexist with executive dominance and limits on Arab freedom; opposition to judicial review is not opposition to elections."
+    },
+    "poder": {
+      "facts": [
+        "In 1962 defended continuing military rule over Arab border communities, accepting only limited relaxations."
+      ],
+      "sources": [
+        "military-rule"
+      ],
+      "tension": "Distinguish security detention and curfews from an unrestricted police state; right of appeal was among accepted concessions."
+    },
+    "imigracao": {
+      "facts": [
+        "Law of Return promoted Jewish immigration; national schooling was explicitly intended to integrate different groups into one Israeli nation."
+      ],
+      "sources": [
+        "heritage",
+        "education",
+        "religion-letter"
+      ],
+      "tension": "Mass Jewish immigration is not universal open borders; common Hebrew national identity coexists with religious pluralism. No basis to infer blanket expulsion of Jewish immigrants for retaining customs."
+    },
+    "diplomacia": {
+      "facts": [
+        "1956 Sinai attack and allied planning demonstrate willingness to use force; in 1961 sought arms and nuclear scientific capacity."
+      ],
+      "sources": [
+        "suez",
+        "kennedy",
+        "nuclear",
+        "peace"
+      ],
+      "tension": "Strong deterrence and preemption coexist with negotiations and the stated view that wars usually do not resolve problems; nuclear weapons endorsement is an inference, not a public admission."
+    },
+    "intervencao": {
+      "facts": [
+        "Joined external intervention against Egypt in 1956 and sought foreign alliances/arms to secure Israel."
+      ],
+      "sources": [
+        "suez",
+        "kennedy",
+        "peace"
+      ],
+      "tension": "Assertive regional security objectives did not amount to a general programme of global military conquest; foreign dependence also constrained action."
+    },
+    "economia": {
+      "facts": [
+        "Protected the Histadrut collective sector while inviting private foreign investment in 1952."
+      ],
+      "sources": [
+        "histadrut",
+        "economy-reform",
+        "economic-note"
+      ],
+      "tension": "Labour Zionist cooperative development is neither universal expropriation nor market privatization; public provision need not mean every provider is central government."
+    },
+    "controle": {
+      "facts": [
+        "1952 programme used administered exchange rates, foreign-currency allocation and import planning."
+      ],
+      "sources": [
+        "economic-note",
+        "economy-reform"
+      ],
+      "tension": "Spending restraint and investment incentives corrected the austerity economy without abandoning strategic direction; no support for total Soviet-style planning."
+    },
+    "comercio": {
+      "facts": [
+        "Centralized import priorities in 1952 while seeking foreign capital, machinery and US assistance."
+      ],
+      "sources": [
+        "economic-note",
+        "economy-reform"
+      ],
+      "tension": "Strategic domestic development and selective protection coexist with trade dependence and welcome for foreign investment, not autarky."
+    },
+    "religiao": {
+      "facts": [
+        "1947 commitments retained in office protected Sabbath, kosher institutions and religious personal status; 1958 consultation affirmed freedom of conscience."
+      ],
+      "sources": [
+        "status-quo",
+        "religion-letter",
+        "women-tension"
+      ],
+      "tension": "Secular national government and biblical cultural attachment coexist; neither militant atheism nor halakhic sovereignty describes him."
+    },
+    "moral": {
+      "facts": [
+        "Supported civil equality for women in 1951, but retained religious marriage jurisdiction in 1953 and promoted motherhood for national demographic goals."
+      ],
+      "sources": [
+        "women",
+        "women-tension",
+        "education"
+      ],
+      "tension": "Civic and labour equality did not entail contemporary LGBT, reproductive or polyamorous liberation. Answers to these are explicit low-confidence historical inference, not attributed quotations."
+    },
+    "tecnologia": {
+      "facts": [
+        "1955 Negev agenda advocated desalination and solar/wind research; 1961 nuclear programme aimed publicly at power and desalination."
+      ],
+      "sources": [
+        "negev",
+        "kennedy",
+        "nuclear",
+        "heritage"
+      ],
+      "tension": "Pioneering rural settlement and water conservation coexist with industrial scientific optimism; enthusiasm for applied research does not prove unlimited human enhancement."
+    }
+  },
+  "limitations": [
+    "Historical model is exclusively state-building/premiership, 1948–1953 and 1955–1963; later private views and post-1963 political changes are excluded. The 1947 agreement is used only to explain in-period institutions.",
+    "Digital surveillance, cryptocurrencies, contemporary gender identity, genetic enhancement and climate-policy questions are analogical simulations with lower confidence; no claim of literal positions on unavailable technologies.",
+    "Several archive pages returned 403 on opening; their indexed text was usable. Knesset biography returned no text and was not treated as evidence.",
+    "No Brazilian edition of Rebirth and Destiny of Israel was verified after searches combining the English title, português, Brasil and Renascimento e destino. A machine-translated encyclopedia title was rejected as edition evidence.",
+    "The memoir Israel: A Personal History (1971 translation of a 1969 Hebrew work) was considered; the 1954 political collection is selected for its direct presentation of the formative political programme and relevance to the modeled era. An isolated review gives 1953, but the title-page-based library record and contemporary June 1954 review support 1954."
+  ],
+  "recommendedMetadata": {
+    "status": "accurate_no_changes",
+    "pt": null,
+    "en": null
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored substantive political speeches and essays; selected for direct relevance to his formative programme. Nurock edited and translated rather than replacing the author. No existing catalogue book for this personality; proposed addition only.",
+    "book": {
+      "personalityId": "david-ben-gurion",
+      "title": {
+        "pt": "Rebirth and Destiny of Israel",
+        "en": "Rebirth and Destiny of Israel"
+      },
+      "year": 1954,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book-library",
+      "book-review",
+      "book-contents"
+    ]
+  },
+  "processNotes": [
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, README.md, new-personality skill and own saved prompt. Read only own existing research period and URLs, never prior answers or vectors.",
+    "Metadata accuracy and likely neighbours were reported to coordinator before answering. Research and prompt were written before answers.",
+    "Likely neighbours without targets: Golda Meir (Labour Zionism, with Ben-Gurion distinctive founding centralization); Menachem Begin (security nationalism but different labour economics and constitutional stance); Atatürk (secular modernization but different religious compromises and electoral institutions).",
+    "Exactly one independent audit; no further delegation, no adjustment for numerical targets or similarity.",
+    "Answers were individually selected in shuffled question order; no prior answer archive, stored vector, similarity review or score report was opened before generation.",
+    "After first validation revealed the duplicate blocker, no answer was changed. Validation was rerun only to capture its exact process return code and full output in this evidence file.",
+    "Neutral reasons: immigration_10 balances cultural preservation with national integration; immigration_12 balances humanitarian admission with nationally selective immigration; diplomacia_04 balances the claim that wars seldom solve problems with actual preventive war; economia_12 balances labour security with administrative efficiency; economia_01 balances social transformation with rejection of class seizure; economia_02 balances mixed-economy pragmatism with collective provision; controle_06 balances investment incentives with national funding needs; comercio_16 balances consumer relief with industrial protection; religiao_03/05/04 balance secular civil government with institutional religious compromises; moral_11 balances secular public education with conventional family morality; moral_18 balances women’s public work with pronatal motherhood; tecnologia_10 balances water conservation with technological growth; tecnologia_04 balances research enthusiasm with ethical limits.",
+    "Archetypes chosen from their text: society D for equality and civic rights, power C as the parliamentary option despite opposition to entrenched judicial review, economy B for cooperatives/social provision/regulation, world B for strong defense and allies, technology D for industrial/scientific development.",
+    "No whole-project tests, merge, shared metadata edits, book edits, STATE edits or archival answer edits were performed."
+  ],
+  "promptSha256": "ee97e1cdfd7ea6bd357279fdd1278e4fcc59d0717bbf39cba0d1ef5ffc766b26",
+  "answerSha256": "f5fabcd4ce9c05bcec74097b8729c049f2207c098daf32dab881b77fd2d6ab81",
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality david-ben-gurion",
+    "exitCode": 1,
+    "stdout": "validando personality:david-ben-gurion\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/david-ben-gurion.json\n\n[ARQUETIPO] sociedade D · poder C · economia B · mundo B · tecnologia D\n[NEUTROS] total 15/240 = 6.2%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         15.2  centralizado/unitario <-> descentralizado/federal\n  representacao     66.8  autocracia <-> democracia\n  poder             73.4  liberdade civil <-> ordem/vigilancia\n  imigracao         67.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        82.6  pacifista <-> militarista\n  intervencao       18.6  nacionalista assertivo <-> nao-intervencionista\n  economia          79.8  privado/mercado <-> publico/coletivo\n  controle          77.0  livre mercado <-> planejamento\n  comercio          61.0  livre comercio/globalista <-> protecionista\n  religiao          47.6  religioso <-> irreligioso/secular\n  moral             39.5  tradicionalista <-> progressista\n  tecnologia        65.3  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         15.2   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     66.8   | Kim Jong Un=6 .. José Mujica=86\n  poder             73.4   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         67.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        82.6   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       18.6   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          79.8   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          77.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          61.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          47.6   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             39.5   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        65.3   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.0%  golda-meir  <<< BLOQUEIA\n   96.3%  theodore-roosevelt  <<< aviso\n   95.7%  pericles  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.3% proximo de 'theodore-roosevelt'\n  [CONTEUDO] 95.7% proximo de 'pericles'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.0% identico a 'golda-meir' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": "",
+    "warnings": [
+      "[CONTEUDO] 96.3% proximo de 'theodore-roosevelt'",
+      "[CONTEUDO] 95.7% proximo de 'pericles'"
+    ],
+    "blockers": [
+      "[CONTEUDO] 97.0% identico a 'golda-meir' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  "neutralCount": {
+    "total": 15,
+    "of": 240,
+    "perAxis": {
+      "estrutura": 0,
+      "representacao": 0,
+      "poder": 0,
+      "imigracao": 2,
+      "diplomacia": 1,
+      "intervencao": 0,
+      "economia": 3,
+      "controle": 1,
+      "comercio": 1,
+      "religiao": 3,
+      "moral": 2,
+      "tecnologia": 2
+    }
+  }
+}

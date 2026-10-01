@@ -1,0 +1,441 @@
+{
+  "id": "paul-keating",
+  "profilePeriod": "Treasurer 1983–1991 and Prime Minister 1991–1996, with explicitly dated later public statements through September 2026.",
+  "sources": [
+    {
+      "id": "naa-office",
+      "title": "National Archives: Paul Keating during office",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/paul-keating/during-office",
+      "date": "1991–1996; retrospective",
+      "accessed": "2026-10-01",
+      "evidence": "Native Title legislation, Working Nation employment support, APEC liberalisation and republican agenda; relations with Suharto continued despite East Timor abuses. Electoral defeat ended his government."
+    },
+    {
+      "id": "coag",
+      "title": "Heads of Government communique",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-8507",
+      "date": "1992-05-11",
+      "accessed": "2026-10-01",
+      "evidence": "Commonwealth, state and local leaders coordinated transport, electricity, mutual recognition and vocational training; federal cooperation rather than state abolition."
+    },
+    {
+      "id": "republic",
+      "title": "An Australian Republic: The Way Forward",
+      "url": "https://www.paulkeating.net.au/shop/item/an-australian-republic-the-way-forward---7-june-1995",
+      "date": "1995-06-07",
+      "accessed": "2026-10-01",
+      "evidence": "Republic proposal retained representative parliamentary government and required two-thirds parliamentary support for the president, rejecting a competing direct electoral mandate."
+    },
+    {
+      "id": "privacy-act",
+      "title": "Human Rights (Sexual Conduct) Act 1994",
+      "url": "https://www.legislation.gov.au/C2004A04852/asmade/1994-12-19/text/original/epub/OEBPS/document_1/document_1.html",
+      "date": "1994-12-19",
+      "accessed": "2026-10-01",
+      "evidence": "Federal legislation protected consensual adult private sexual conduct from arbitrary interference across Commonwealth, states and territories."
+    },
+    {
+      "id": "guns",
+      "title": "ANU Press: The perfect storm of gun control, Alpers and Ghazarian",
+      "url": "https://press-files.anu.edu.au/downloads/press/n5314/html/ch09.xhtml?page=16",
+      "date": "1995 policy; historical research published 2019",
+      "accessed": "2026-10-01",
+      "evidence": "Keating supported stricter gun import restrictions and nationally coordinated gun control in Safer Australia, while acknowledging state law-and-order responsibilities; national agreement was not achieved during his premiership."
+    },
+    {
+      "id": "privacy",
+      "title": "The Privacy Imperative in the Information Age Free for All",
+      "url": "https://www.paulkeating.net.au/shop/item/the-privacy-imperative-in-the-information-age-free-for-all---4-august-2010",
+      "date": "2010-08-04",
+      "accessed": "2026-10-01",
+      "evidence": "Defended enforceable privacy rights against media intrusion, subject to competing public interests and freedom of expression; privacy is not rendered obsolete by technology."
+    },
+    {
+      "id": "dying",
+      "title": "NSW Voluntary Assisted Dying Legislation statement",
+      "url": "https://www.paulkeating.net.au/shop/item/nsw-voluntary-assisted-dying-legislation-pj-keating-statement",
+      "date": "2017-11-17",
+      "accessed": "2026-10-01",
+      "evidence": "Welcomed defeat of assisted dying legislation and called for care and support at the end of life."
+    },
+    {
+      "id": "multicultural",
+      "title": "Keating statement on opposition immigration policy",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-8630",
+      "date": "1992-08-25",
+      "accessed": "2026-10-01",
+      "evidence": "Defended multicultural policy as a source of fairness and cohesion and opposed an immigration moratorium."
+    },
+    {
+      "id": "immigration2026",
+      "title": "Angus Taylor and the Liberal Party moral decline",
+      "url": "https://www.paulkeating.net.au/shop/item/angus-taylor-and-the-liberal-partys-moral-decline-statement-by-pj-keating-16-april-2026",
+      "date": "2026-04-16",
+      "accessed": "2026-10-01",
+      "evidence": "Opposed deportation based on cultural values and monocultural nationalism, defended migrant contributions and the democratic two-party tradition."
+    },
+    {
+      "id": "detention",
+      "title": "Parliamentary chronology of immigration detention policy",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees?url=mig%2Fdetention%2Freport%2Fappendixd.htm",
+      "date": "1992 legislation, effective extension 1994; chronology 2008",
+      "accessed": "2026-10-01",
+      "evidence": "Keating introduced mandatory detention for designated unauthorised arrivals, then extended it to unlawful non-citizens; this limits any inference of open borders from multiculturalism. Verified in indexed parliamentary text; direct page access restricted."
+    },
+    {
+      "id": "aukus2026",
+      "title": "Disturbing admissions from US Republican Congressman",
+      "url": "https://www.paulkeating.net.au/shop/item/disturbing-admissions-from-us-republican-congressman-statement-by-pj-keating-18-september-2026",
+      "date": "2026-09-18",
+      "accessed": "2026-10-01",
+      "evidence": "Rejected joining a US war over Taiwan as contrary to Australian interests; criticised military integration under AUKUS as loss of sovereignty. These are his claims, not independently established assessments of deployments or war outcomes."
+    },
+    {
+      "id": "somalia",
+      "title": "Commitment of Australian Forces to Somalia",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-8775",
+      "date": "1992-12-15",
+      "accessed": "2026-10-01",
+      "evidence": "Announced substantial Australian forces for UN-mandated Operation Restore Hope to protect humanitarian aid; therefore not an absolute noninterventionist."
+    },
+    {
+      "id": "privatisation",
+      "title": "Reserve Bank: Privatisation in Australia",
+      "url": "https://www.rba.gov.au/publications/bulletin/1997/dec/2.html",
+      "date": "1997-12; describes 1990s sales",
+      "accessed": "2026-10-01",
+      "evidence": "Records Commonwealth Bank initial tranches, Qantas and CSL privatisation during Labor government; later sale receipts must not all be attributed to Keating."
+    },
+    {
+      "id": "super",
+      "title": "Superannuation Guarantee statement",
+      "url": "https://www.paulkeating.net.au/shop/item/superannuation-paul-keating-9-july-2020",
+      "date": "2020-07-09; references 1992 system",
+      "accessed": "2026-10-01",
+      "evidence": "Defended compulsory employer contributions to retirement savings, combining regulation and private/industry funds rather than replacing the market with state production."
+    },
+    {
+      "id": "cgt2026",
+      "title": "Government CGT Changes: Structurally Sound",
+      "url": "https://www.paulkeating.net.au/shop/item/government-cgt-changes-structurally-sound-statement-by-pj-keating-20-may-2026",
+      "date": "2026-05-20",
+      "accessed": "2026-10-01",
+      "evidence": "Supported equal treatment of real capital gains and employment income and criticised preferential capital taxation; still argued entrepreneurship responds strongly to opportunity."
+    },
+    {
+      "id": "rba2021",
+      "title": "The Reserve Bank and Monetary Policy",
+      "url": "https://www.paulkeating.net.au/shop/item/the-reserve-bank-and-monetary-policy-statement-by-pj-keating-3-february-2021",
+      "date": "2021-02-03",
+      "accessed": "2026-10-01",
+      "evidence": "Criticised monetary tightening and delayed bond purchases for weakening employment; defended an employment-conscious central-bank mandate, not abolition of central banking."
+    },
+    {
+      "id": "faith",
+      "title": "Radio 2LM interview",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-9158",
+      "date": "1994-03-17",
+      "accessed": "2026-10-01",
+      "evidence": "Identified as Christian, located human dignity in Christian teaching without demanding others follow his faith; supported means-tested pensions and Medicare, lower company tax, innovation, and clear federal/state infrastructure responsibilities."
+    },
+    {
+      "id": "equality",
+      "title": "Tenth anniversary of Sex Discrimination Act",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-9296",
+      "date": "1994-07-29",
+      "accessed": "2026-10-01",
+      "evidence": "Supported sex equality, affirmative action, childcare and wider employment opportunities for women; rejected confinement of women to traditional roles."
+    },
+    {
+      "id": "energy2024",
+      "title": "Peter Dutton: Climate Denialist, Peddler of Danger",
+      "url": "https://www.paulkeating.net.au/shop/item/statement-by-pj-keating-peter-dutton-climate-denialist-peddler-of-danger-23-june-2024",
+      "date": "2024-06-23",
+      "accessed": "2026-10-01",
+      "evidence": "Strongly opposed nuclear power while backing renewable energy investment and urgent carbon abatement; cannot treat him as embracing every technology."
+    },
+    {
+      "id": "cities",
+      "title": "The Compact City: Urban Design and Architecture",
+      "url": "https://www.paulkeating.net.au/shop/item/address-at-urban-development-institute-national-congress---9-march-2010",
+      "date": "2010-03-09",
+      "accessed": "2026-10-01",
+      "evidence": "Supported compact urban development and design, treating cities as central to modern civilisation rather than advocating rural retreat."
+    },
+    {
+      "id": "research1993",
+      "title": "Adelaide press conference",
+      "url": "https://pmtranscripts.pmc.gov.au/sites/default/files/original/00008809.pdf",
+      "date": "1993-02-04",
+      "accessed": "2026-10-01",
+      "evidence": "Promoted cooperative research centres including tissue growth and genetic engineering, arguing that research and education confer technological competitive advantage. Does not establish a position on designer embryos or brain implants."
+    },
+    {
+      "id": "book-naa",
+      "title": "National Archives: Paul Keating after office",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/paul-keating/after-office",
+      "date": "2000-03 first publication; retrospective",
+      "accessed": "2026-10-01",
+      "evidence": "Confirms self-authored Engagement: Australia Faces the Asia-Pacific, published March 2000, explaining his government foreign policy; mentions Japanese and Chinese translations."
+    },
+    {
+      "id": "book-bibliography",
+      "title": "Google Books bibliographic record: Engagement",
+      "url": "https://books.google.com/books/about/Engagement.html?id=dtbUAQAACAAJ",
+      "date": "2000",
+      "accessed": "2026-10-01",
+      "evidence": "Lists author Paul Keating, Macmillan 2000, original English title, ISBN 0732910196; political and international-relations content."
+    },
+    {
+      "id": "current-index",
+      "title": "Keating official Australia and the World index",
+      "url": "https://www.paulkeating.net.au/shop/category/a",
+      "date": "Accessed 2026-10-01",
+      "accessed": "2026-10-01",
+      "evidence": "Latest listed substantive foreign-policy statement is 18 September 2026; society/economy index and dedicated October 2026 search revealed no later substantive change. This is a search bound, not proof of no other statements."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "Created COAG cooperation in 1992; retained distinct state responsibilities while promoting national standards.",
+        "1994 sexual privacy legislation established nationally applicable rights."
+      ],
+      "sources": [
+        "coag",
+        "faith",
+        "privacy-act"
+      ],
+      "tension": "National coordination does not amount to abolishing federalism; native title is not a right of state secession."
+    },
+    "representacao": {
+      "facts": [
+        "1995 republic model placed the president under parliamentary appointment and removal.",
+        "Governed through elections and accepted 1996 defeat."
+      ],
+      "sources": [
+        "republic",
+        "naa-office",
+        "immigration2026"
+      ],
+      "tension": "Strong executive reform leadership and suspicion of competing direct mandates coexist with democratic accountability; no sortition or assembly government."
+    },
+    "poder": {
+      "facts": [
+        "2010 defended privacy remedies; 1994 protected adult private sexual conduct.",
+        "1995 sought stronger gun restrictions; opposed assisted dying in 2017."
+      ],
+      "sources": [
+        "privacy",
+        "privacy-act",
+        "guns",
+        "dying",
+        "detention"
+      ],
+      "tension": "Civil liberties are substantial but coexist with gun control, border detention and protection of life; not a blanket right to all private conduct."
+    },
+    "imigracao": {
+      "facts": [
+        "1992 and April 2026 defended multiculturalism and rejected exclusion by cultural background.",
+        "His government enacted mandatory immigration detention."
+      ],
+      "sources": [
+        "multicultural",
+        "immigration2026",
+        "detention"
+      ],
+      "tension": "Cultural pluralism does not imply unrestricted border entry; English participation and retention of heritage can coexist."
+    },
+    "diplomacia": {
+      "facts": [
+        "September 2026 rejected war over Taiwan and military dependence on Washington.",
+        "1992 deployed troops under UN mandate to Somalia."
+      ],
+      "sources": [
+        "aukus2026",
+        "somalia"
+      ],
+      "tension": "Diplomacy and arms restraint, but national defensive capabilities and selective humanitarian force remain legitimate."
+    },
+    "intervencao": {
+      "facts": [
+        "UN intervention in Somalia and regional engagement under his government.",
+        "2026 asserted Australian sovereign interests against automatic participation in US conflict."
+      ],
+      "sources": [
+        "somalia",
+        "aukus2026",
+        "naa-office"
+      ],
+      "tension": "Neither isolationism nor expansionist force; practical cooperation with Suharto complicated universal human-rights principles."
+    },
+    "economia": {
+      "facts": [
+        "Privatised competitive public businesses including Qantas and CSL; supported Commonwealth Bank sell-downs.",
+        "Retained social health provision, targeted pensions and compulsory superannuation."
+      ],
+      "sources": [
+        "privatisation",
+        "super",
+        "faith"
+      ],
+      "tension": "Market ownership plus social protection differs both from laissez-faire and collective ownership."
+    },
+    "controle": {
+      "facts": [
+        "Compulsory superannuation, targeted industry research and 2026 capital-gains tax fairness.",
+        "2021 sought stronger monetary support for employment."
+      ],
+      "sources": [
+        "super",
+        "cgt2026",
+        "rba2021",
+        "research1993"
+      ],
+      "tension": "Liberalised markets coexist with national social regulation and macroeconomic intervention; neither comprehensive planning nor abolition of monetary authority."
+    },
+    "comercio": {
+      "facts": [
+        "Promoted tariff reductions and regional APEC trade liberalisation.",
+        "Linked domestic competitiveness to education, innovation and export engagement."
+      ],
+      "sources": [
+        "naa-office",
+        "faith",
+        "research1993"
+      ],
+      "tension": "Active industry capability building did not mean high protective tariff walls."
+    },
+    "religiao": {
+      "facts": [
+        "1994 explicitly identified Christian human dignity as a moral source, without requiring others to follow him.",
+        "2017 opposed assisted dying; 1994 protected sexual privacy."
+      ],
+      "sources": [
+        "faith",
+        "dying",
+        "privacy-act"
+      ],
+      "tension": "Religious ethics and secular equal citizenship coexist; opposition to theocracy is not atheism."
+    },
+    "moral": {
+      "facts": [
+        "1994 advocated affirmative action, equal employment and childcare for women; protected consensual adult sexual privacy.",
+        "2017 rejected assisted dying on human dignity grounds."
+      ],
+      "sources": [
+        "equality",
+        "privacy-act",
+        "dying",
+        "faith"
+      ],
+      "tension": "Progressive civic equality does not establish radical permissiveness on every sexual, reproductive or family issue."
+    },
+    "tecnologia": {
+      "facts": [
+        "1993 funded research including genetic engineering; 2010 endorsed compact cities.",
+        "2024 opposed nuclear power and supported renewables."
+      ],
+      "sources": [
+        "research1993",
+        "cities",
+        "energy2024"
+      ],
+      "tension": "Modernisation and science coexist with ethical and environmental limits; specific transhumanist positions are not documented."
+    }
+  },
+  "limitations": [
+    "Preserved profilePeriod: Treasurer 1983–1991 and Prime Minister 1991–1996, with explicitly dated later public statements through September 2026. Checked official indexes and current searches through 2026-10-01; no later relevant policy change located.",
+    "Brazil-specific questions are answered by substantive analogy to Australian institutions, not as claims that Keating commented on Brazilian legislation.",
+    "Phone unlocking, facial recognition, cryptocurrency, gender terminology, adoption, abortion and human-enhancement answers are reasoned simulations from documented principles rather than direct quotations or individually verified policy endorsements. D/C express modest inference, not certainty.",
+    "Neutral choices mark genuine competing considerations: language versus cultural assimilation, sanctions versus sovereignty, public faith and church charitable status, reproductive/family autonomy versus Christian ethics, nuclear versus other technology and therapeutic versus enhancement biotechnology.",
+    "Three independent institutional accounts (National Archives, RBA, ANU research) supplement primary government records and Keating statements. Several archival pages needed search-index or link traversal access; that limitation is stated where used.",
+    "Book search included Engagement and After Words, author bibliography, National Archives, Google Books, and Portuguese/Brazilian translation search. No Brazilian translation verified; retain original title instead of inventing one."
+  ],
+  "recommendedMetadata": {
+    "status": "PT correction applied by coordinator before answering; EN/name/role unchanged",
+    "description": "Primeiro-ministro trabalhista de 1991 a 1996, promoveu abertura econômica, previdência obrigatória e direitos indígenas. Defendeu uma república e integração com a Ásia; depois tornou-se crítico do AUKUS e da energia nuclear.",
+    "reason": "aposentadoria compulsória incorrectly suggests forced retirement; previdência obrigatória describes compulsory superannuation."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political account of Asia-Pacific engagement; most directly relevant sustained exposition of his foreign-policy thought. First publication March 2000. No prior catalog book; no Brazilian edition found.",
+    "book": {
+      "personalityId": "paul-keating",
+      "title": {
+        "pt": "Engagement: Australia Faces the Asia-Pacific",
+        "en": "Engagement: Australia Faces the Asia-Pacific"
+      },
+      "year": 2000,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book-naa",
+      "book-bibliography"
+    ]
+  },
+  "processNotes": {
+    "independence": "Read only own saved prompt, metadata, and prior research source URLs/profilePeriod. No existing answers, stored vectors, similarity reviews or score reports read before answering. No numerical targets or answer tuning.",
+    "neighboursBeforeAnswers": [
+      "Bob Hawke: shared liberalising Labor reforms, but Keating particularly foregrounded an independent republic, native title and Asian diplomatic engagement.",
+      "Tony Blair: market-based social democracy overlaps, but Keating opposed subordination to US military strategy and cannot be treated as an Iraq-style interventionist.",
+      "Gough Whitlam: national rights and cultural change overlap, but Keating privatised competitive enterprises and drove international market integration.",
+      "John Howard: market reforms overlap, but Keating defended multiculturalism, republicanism and Indigenous recognition and rejected exclusionary cultural politics."
+    ],
+    "currentVerificationDate": "2026-10-01",
+    "neutralRule": "N only genuine ambivalence; <=18% total and <=30% each axis.",
+    "metadataAcknowledgment": "Coordinator confirmed corrected Portuguese metadata before prompt and answers generated.",
+    "neutralCount": {
+      "total": 10,
+      "perAxis": {
+        "estrutura": 0,
+        "representacao": 0,
+        "poder": 0,
+        "imigracao": 1,
+        "diplomacia": 0,
+        "intervencao": 1,
+        "economia": 0,
+        "controle": 0,
+        "comercio": 0,
+        "religiao": 2,
+        "moral": 3,
+        "tecnologia": 3
+      },
+      "denominator": 240
+    },
+    "archetypeChoices": {
+      "sociedade": "D",
+      "poder": "C",
+      "economia": "C",
+      "mundo": "C",
+      "tecnologia": "C"
+    },
+    "hashes": {
+      "profile-audit/subagent-out/personality/paul-keating.json": "b4daa3138a68cc0a4468473885fe6f480c84e23beff37e66e90d473c0141972c",
+      "profile-audit/prompts/personality/paul-keating.txt": "83357e3b04d058ac49fa414b1edba16c2f0030179b02a4d51486d2f635cfec0d"
+    },
+    "validation": {
+      "command": "python3 profile-audit/validate.py personality paul-keating",
+      "exitCode": 1,
+      "stdout": "validando personality:paul-keating\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/paul-keating.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo C · tecnologia C\n[NEUTROS] total 10/240 = 4.2%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         42.6  centralizado/unitario <-> descentralizado/federal\n  representacao     84.7  autocracia <-> democracia\n  poder             55.6  liberdade civil <-> ordem/vigilancia\n  imigracao         23.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        34.8  pacifista <-> militarista\n  intervencao       48.2  nacionalista assertivo <-> nao-intervencionista\n  economia          56.8  privado/mercado <-> publico/coletivo\n  controle          52.1  livre mercado <-> planejamento\n  comercio          17.5  livre comercio/globalista <-> protecionista\n  religiao          57.1  religioso <-> irreligioso/secular\n  moral             56.2  tradicionalista <-> progressista\n  tecnologia        54.8  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         42.6   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     84.7   | Kim Jong Un=6 .. José Mujica=86\n  poder             55.6   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         23.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        34.8   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       48.2   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          56.8   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          52.1   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          17.5   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          57.1   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             56.2   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        54.8   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.1%  sergio-mattarella  <<< BLOQUEIA\n   96.8%  bob-hawke  <<< aviso\n   96.8%  barack-obama  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.8% proximo de 'bob-hawke'\n  [CONTEUDO] 96.8% proximo de 'barack-obama'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.1% identico a 'sergio-mattarella' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "stderr": "",
+      "status": "BLOCKED: original duplicate threshold; no score tuning or bypass",
+      "warnings": [
+        "[CONTEUDO] 96.8% proximo de 'bob-hawke'",
+        "[CONTEUDO] 96.8% proximo de 'barack-obama'"
+      ],
+      "blockers": [
+        "[CONTEUDO] 97.1% identico a 'sergio-mattarella' - perfil redundante, nao acrescenta nada ao catalogo"
+      ]
+    },
+    "promptChecks": {
+      "exactQuestionsTemplate": true,
+      "freshArchetypeBlock": true,
+      "absoluteOutputPath": true,
+      "exactReadmeMethodology": true
+    }
+  }
+}

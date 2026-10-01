@@ -1,0 +1,342 @@
+{
+  "id": "golda-meir",
+  "country": "Israel",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Premiership, 1969–1974, informed by earlier labour and foreign-ministry service.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Golda Meir: Knesset biography",
+      "url": "https://main.knesset.gov.il/en/about/pages/golda.aspx",
+      "factDate": "undated institutional biography; events 1949–1974",
+      "accessedOn": "2026-10-01",
+      "evidence": "Labour minister promoted immigrant housing and public employment; prime minister led parliamentary coalitions from 1969, faced criticism over poverty and the 1973 war. Search-index text available; direct open returned no readable text."
+    },
+    {
+      "id": "S2",
+      "title": "Golda Meir, Minister of Labour, 1954",
+      "url": "https://www.nli.org.il/en/education/teaching-resources/primary-sources/nnl_edu997013134914705171",
+      "factDate": "1954 photograph; undated catalogue",
+      "accessedOn": "2026-10-01",
+      "evidence": "Primary photograph documents her presenting the first maternity grant. Catalogue describes National Insurance Law, housing and infrastructure programmes."
+    },
+    {
+      "id": "S3",
+      "title": "For the Attainment of Peace: Golda Meir speech",
+      "url": "https://openbooks.library.umass.edu/giftsofspeech/chapter/golda-meir-for-the-attainment-of-peace-1970/",
+      "factDate": "1970-05-26",
+      "accessedOn": "2026-10-01",
+      "evidence": "Meir advocates defensible borders, arms supply and foreign assistance alongside negotiated peace and open trade. She calls for taxes, compulsory loans and curbed consumption while improving lower-income conditions and absorbing immigrants."
+    },
+    {
+      "id": "S4",
+      "title": "Statement to Knesset by Prime Minister Meir",
+      "url": "https://www.gov.il/en/pages/26-statement-to-the-knesset-by-pm-meir-10-march-1974",
+      "factDate": "1974-03-10",
+      "accessedOn": "2026-10-01",
+      "evidence": "She seeks parliamentary confidence after December 1973 elections; defends Egyptian disengagement, Geneva negotiations and military deterrence, rejects return to June 1967 lines. Search-index full document retrieved; direct page fetch returned 403."
+    },
+    {
+      "id": "S5",
+      "title": "Golda Meir interview on peace and religion",
+      "url": "https://www.lemonde.fr/archives/article/1971/10/15/le-test-etant-la-signature-de-la-paix-il-serait-ridicule-de-demander-aux-arabes-la-reconnaissance-de-la-legitimite-de-l-etat-d-israel-nous-declare-mme-golda-meir_3065269_1819218.html",
+      "factDate": "1971-10-15",
+      "accessedOn": "2026-10-01",
+      "evidence": "Direct interview: rejects defining Israel as a religious state, values Judaism as historical national bond, acknowledges religious marriage difficulties but favours patient compromise. Discusses education aid related to family income."
+    },
+    {
+      "id": "S6",
+      "title": "Meir plea for secular-religious coexistence",
+      "url": "https://www.jta.org/archive/mrs-meir-issues-plea-for-coexistence-between-secular-religious-sectors",
+      "factDate": "1971-08-10",
+      "accessedOn": "2026-10-01",
+      "evidence": "Contemporary speech report: urges coexistence, opposes exclusion from Jewish community and warns against simplistic resolutions of religious disputes."
+    },
+    {
+      "id": "S7",
+      "title": "EEC-Israel preferential trade treaty",
+      "url": "https://www.jta.org/archive/israel-and-european-common-market-countries-sign-preferential-trade-agreement",
+      "factDate": "1970-06-30",
+      "accessedOn": "2026-10-01",
+      "evidence": "Contemporary account of treaty signed by her foreign minister: reciprocal but asymmetric tariff reductions, larger European reductions for Israeli exports than Israeli concessions on imports."
+    },
+    {
+      "id": "S8",
+      "title": "MASHAV history, Israeli embassy Cameroon",
+      "url": "https://embassies.gov.il/cameroon/fr/the-embassy/departments/departement-de-la-cooperation-et-mashav",
+      "factDate": "undated; foundation 1958",
+      "accessedOn": "2026-10-01",
+      "evidence": "Official account attributes MASHAV creation to Meir after African visit: knowledge exchange and agricultural self-sufficiency for new states in hot, semi-arid climates."
+    },
+    {
+      "id": "S9",
+      "title": "Oriana Fallaci interview with Golda Meir",
+      "url": "https://www.cinquantamila.it/storyTellerArticolo.php?storyId=54e359dc432f1",
+      "factDate": "interview 1972-11; later reproduction",
+      "accessedOn": "2026-10-01",
+      "evidence": "Reproduced direct interview: she values motherhood and marriage, sharply rejects radical liberation movement, yet defends her lifelong political work among men. Describes commitment to communal kibbutz life. Translation/reproduction is not original magazine facsimile."
+    },
+    {
+      "id": "S10",
+      "title": "US Special Actions Group meeting minutes",
+      "url": "https://history.state.gov/historicaldocuments/frus1969-76v25/d103",
+      "factDate": "1973-10-06",
+      "accessedOn": "2026-10-01",
+      "evidence": "Contemporary US official record confirms Meir told ambassador Israel would not launch a preemptive attack despite imminent hostilities."
+    },
+    {
+      "id": "S11",
+      "title": "Israeli enquiry: Koppel Committee",
+      "url": "https://catalog.archives.gov.il/site/en/chapter/israeli-enquiry-koppel-committee-report-gss-arrangements-regarding-security-abroad-not-keep-changing-needs/",
+      "factDate": "events 1972-09; undated archive release",
+      "accessedOn": "2026-10-01",
+      "evidence": "Meir proposed judicial inquiry into Munich security failures; cabinet majority rejected it. She appointed inquiry team; report sought improved security abroad. Evidence of both intelligence priorities and constrained accountability, not unchecked personal rule."
+    },
+    {
+      "id": "S12",
+      "title": "My Life, publisher catalogue",
+      "url": "https://www.hachette.co.uk/titles/golda-meir-6/my-life/9781399603539/",
+      "factDate": "2023-02-23 edition",
+      "accessedOn": "2026-10-01",
+      "evidence": "Publisher credits Golda Meir and describes political autobiography covering Zionism, socialism, state creation and premiership; qualifies as political memoir."
+    },
+    {
+      "id": "S13",
+      "title": "My Life, first American edition catalogue",
+      "url": "https://openlibrary.org/works/OL6112379W/My_life?edition=mylifemeir00meir",
+      "factDate": "1975 edition",
+      "accessedOn": "2026-10-01",
+      "evidence": "Catalogue identifies Golda Meir, Putnam, 1975, and distinguishes editions. Work first published 1975."
+    },
+    {
+      "id": "S14",
+      "title": "Minha Vida, Brazilian edition catalogue",
+      "url": "https://www.portaldoslivreiros.com.br/livro.asp?codigo=7734926&titulo=Minha+Vida",
+      "factDate": "1976 Brazilian edition; current listing",
+      "accessedOn": "2026-10-01",
+      "evidence": "Bookseller identifies Minha Vida by Golda Meir, Bloch Editores, 1976. Modern ISBN in listing is inconsistent, so only title/publisher/year of described physical edition used; corroborated by Brazilian Morasha bibliography."
+    },
+    {
+      "id": "S15",
+      "title": "Morasha bibliography",
+      "url": "https://www.morasha.com.br/wp-content/uploads/2023/11/REVISTA-MORASHA-121-SITE.pdf",
+      "factDate": "2023-11",
+      "accessedOn": "2026-10-01",
+      "evidence": "Brazilian bibliography explicitly cites Meir, Golda, Minha Vida, Bloch Editores 1976, Brasil."
+    },
+    {
+      "id": "S16",
+      "title": "My Life original copyright page reproduction",
+      "url": "https://www.scribd.com/document/1075585084/Golda-Meir-My-Life-the-Autobiography-of-Golda-Meir-Futura",
+      "factDate": "1975 original; 1977 reprint",
+      "accessedOn": "2026-10-01",
+      "evidence": "Extract reproduces copyright Golda Meir 1975 and first Great Britain publication by Weidenfeld & Nicolson in 1975. Resolves erroneous 1973/1974 web dates; A Land of Our Own is a distinct compilation."
+    },
+    {
+      "id": "S17",
+      "title": "Israel economic report",
+      "url": "https://documents1.worldbank.org/curated/en/899341468038667216/pdf/multi0page.pdf",
+      "factDate": "1975 report; policy events 1970–1973",
+      "accessedOn": "2026-10-01",
+      "evidence": "World Bank account records broad price controls 1970–1972, followed by controls on fourteen basic items, and use of budget restraint to fight inflation."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "facts": [
+        "National immigrant housing, social insurance and public works exemplify central direction (1949–1956).",
+        "Prime minister conducts nationwide coalition programme and national defence in 1969–1974."
+      ],
+      "tension": "Unitary state-building does not abolish local institutions or cooperative autonomy; detailed federal propositions are analogical, not recorded Meir proposals."
+    },
+    "representacao": {
+      "sourceIds": [
+        "S4",
+        "S11"
+      ],
+      "facts": [
+        "Sought Knesset confidence after December 1973 elections.",
+        "In September 1972 requested judicial security inquiry but was outvoted in cabinet."
+      ],
+      "tension": "Party-led parliamentary democracy rather than direct-democracy assemblies; occupied noncitizens lacked the democratic rights of Israeli citizens."
+    },
+    "poder": {
+      "sourceIds": [
+        "S11",
+        "S4"
+      ],
+      "facts": [
+        "Security inquiry and recommendations strengthened protection abroad after Munich.",
+        "War and terrorism were major governmental priorities while parliamentary opposition survived."
+      ],
+      "tension": "Strong security state does not imply death penalty for ordinary crime or suppression of all offensive dissent."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S6"
+      ],
+      "facts": [
+        "Labour ministry organised immigrant housing and employment; 1970 speech makes immigrant absorption a national economic priority.",
+        "1971 speech opposes excluding people from Jewish community."
+      ],
+      "tension": "Mass Jewish immigration and cultural diversity within Jewry coexist with a Jewish national identity; this is not universal open borders."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "S4",
+        "S10"
+      ],
+      "facts": [
+        "1974 statement couples deterrence with disengagement and negotiated peace.",
+        "Refused preemptive strike on October 6, 1973."
+      ],
+      "tension": "Rejects both disarmament and war as an end in itself; preemption is conditional and constrained by allies."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "S3",
+        "S4"
+      ],
+      "facts": [
+        "1970 speech asserts border defence against hostile forces and seeks international backing.",
+        "1974 negotiations defend strategic borders but accept separation of forces."
+      ],
+      "tension": "Assertive regional security and diplomatic assistance abroad coexist with reluctance toward unlimited conquest."
+    },
+    "economia": {
+      "sourceIds": [
+        "S2",
+        "S3"
+      ],
+      "facts": [
+        "Labour ministry built housing and national insurance, including maternity support.",
+        "1970 speech promises advancement of lower incomes during emergency austerity."
+      ],
+      "tension": "Cooperative and public provision coexist with private firms; no evidence for blanket abolition of property or violent economic revolution."
+    },
+    "controle": {
+      "sourceIds": [
+        "S3",
+        "S17"
+      ],
+      "facts": [
+        "1970 speech calls for taxes, compulsory loans and national coordination of consumption, wages and productivity.",
+        "Controls on prices operated broadly 1970–1972 and continued on basic goods in 1973."
+      ],
+      "tension": "Pragmatic mixed economy and emergency restraint, not total command economy or perpetual deficit expansion."
+    },
+    "comercio": {
+      "sourceIds": [
+        "S7",
+        "S3"
+      ],
+      "facts": [
+        "1970 EEC treaty lowered tariffs reciprocally while preserving asymmetric protection.",
+        "1970 speech stresses both essential imports and curbing external deficits."
+      ],
+      "tension": "Supports export markets and strategic domestic capacity; neither autarky nor tariff-free global market."
+    },
+    "religiao": {
+      "sourceIds": [
+        "S5",
+        "S6"
+      ],
+      "facts": [
+        "1971 interview rejects religious-state definition while cherishing Judaism as historical bond.",
+        "Marriage arrangements retained alongside pleas for secular-religious coexistence."
+      ],
+      "tension": "Secular political reasoning combined with institutional religious accommodation; neither theocracy nor militant eradication of faith."
+    },
+    "moral": {
+      "sourceIds": [
+        "S2",
+        "S9"
+      ],
+      "facts": [
+        "1954 maternity grants support working mothers.",
+        "1972 interview values family and childbirth but rejects restricting herself to domestic life."
+      ],
+      "tension": "Economic equality for women does not establish modern LGBT, gender-language or sexual-liberation positions. These require cautious analogy."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "S8",
+        "S1",
+        "S9"
+      ],
+      "facts": [
+        "MASHAV established under Meir to exchange practical agricultural and development expertise.",
+        "National public infrastructure and technical development accompany personal attachment to kibbutz life."
+      ],
+      "tension": "Productive science and rural cooperative life coexist; modern human enhancement and AI are hypothetical, with weaker confidence than infrastructure."
+    }
+  },
+  "uncertainties": [
+    "Historical model fixed at Premiership, 1969–1974, informed by earlier labour and foreign-ministry service. No later private positions used.",
+    "Brazil-specific institutions are translated into comparable Israeli policy choices; digital policing, AI, embryo editing and current identity questions are explicit value-based extrapolations, not quotations.",
+    "No source establishes a personal view on every modern item. Ambivalence is used only where documented principles conflict, not as a substitute for research.",
+    "Some official pages were accessible through search-index text only. Direct interview reproductions have provenance limitations recorded above.",
+    "Book date conflicts found in tertiary pages; first-edition catalogue and original copyright-page reproduction support 1975. Book serves recommendation only and does not expand historical answer period."
+  ],
+  "distinctions": {
+    "record": "profile-audit/research/process-review/golda-meir.json",
+    "note": "Qualitative pre-answer distinctions and process are recorded in this independent review."
+  },
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Golda_Meir_03265u-2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Golda_Meir_03265u-2.jpg",
+    "author": "Marion S. Trikosko; Commons version by Talmoryair",
+    "license": "Public domain, US News & World Report collection gift to Library of Congress",
+    "date": "1973-03-01",
+    "note": "Existing Commons version resized and recompressed from 321 KB to 24 KB.",
+    "visuallyChecked": true
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/golda-meir.json",
+    "answerArchive": "profile-audit/answers/personality/golda-meir.json",
+    "agent": "/root/independent_golda",
+    "answersSha256": "78862aa9f847ec026b1922fd60278c9ff27d5fc3665d359f9bcaffb8c8bf6895",
+    "validation": "Independent review complete. User requested retaining the full 32-person scope after the overlap report; current upstream validator results are recorded separately."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political memoir, more relevant and widely known than collected speeches. No existing books.json entry. Author Golda Meir; Brazilian title verified separately; first publication 1975.",
+    "book": {
+      "personalityId": "golda-meir",
+      "title": {
+        "pt": "Minha Vida",
+        "en": "My Life"
+      },
+      "year": 1975,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S16"
+    ]
+  },
+  "religionMetadataReview": {
+    "religions": [],
+    "religionAxis": 51.2,
+    "sourceIds": [
+      "S5",
+      "S6"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  }
+}

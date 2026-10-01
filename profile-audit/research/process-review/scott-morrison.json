@@ -1,0 +1,453 @@
+{
+  "id": "scott-morrison",
+  "profilePeriod": "Federal political career, particularly 2018–2022 premiership, checked against public statements through 2026-09-08",
+  "currentVerificationDate": "2026-10-01",
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Nikkei Asia Forum: economic security",
+      "url": "https://www.scottmorrison.com.au/speeches/nikkei-asia-forum-sydney-2026-economic-security-amp-australia-japan-partnership",
+      "date": "2026-09-08",
+      "accessed": "2026-10-01",
+      "evidence": "Defends Quad and trusted supply chains, state support and price floors for critical minerals; rejects need to onshore every stage. Supports gas investment and federal control of foreign relations."
+    },
+    {
+      "id": "s2",
+      "title": "GST reforms were not a zero-sum game",
+      "url": "https://www.scottmorrison.com.au/media/the-gst-reforms-were-not-a-zero-sum-game",
+      "date": "2026-08-17",
+      "accessed": "2026-10-01",
+      "evidence": "Defends WA retaining benefits of resource development while retaining reasonable fiscal equalisation and extra support for the Northern Territory."
+    },
+    {
+      "id": "s3",
+      "title": "National Cabinet press conference",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42728",
+      "date": "2020-03-13",
+      "accessed": "2026-10-01",
+      "evidence": "Calls states and territories sovereign and autonomous decision-makers while seeking coordinated national pandemic response."
+    },
+    {
+      "id": "s4",
+      "title": "Bell Inquiry report",
+      "url": "https://www.ag.gov.au/about-us/publications/bell-inquiry-report",
+      "date": "2022-11-25",
+      "accessed": "2026-10-01",
+      "evidence": "Secret appointment to five departments prevented parliamentary accountability; inquiry identifies undermining of responsible government. This is a serious practice-versus-democratic-principle tension."
+    },
+    {
+      "id": "s5",
+      "title": "Scott Morrison concedes defeat",
+      "url": "https://www.abc.net.au/news/2022-05-21/scott-morrison-concedes-defeat-in-federal-election/13892892",
+      "date": "2022-05-21",
+      "accessed": "2026-10-01",
+      "evidence": "Concedes federal election defeat, evidencing acceptance of electoral alternation."
+    },
+    {
+      "id": "s6",
+      "title": "Interview on encryption legislation",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42014",
+      "date": "2018-12-07",
+      "accessed": "2026-10-01",
+      "evidence": "Defends police access to encrypted communications to combat terrorism, organised crime and child exploitation."
+    },
+    {
+      "id": "s7",
+      "title": "Interview on Australian gun laws",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42250",
+      "date": "2019-03-28",
+      "accessed": "2026-10-01",
+      "evidence": "Calls restrictive gun laws a proud Liberal-National achievement that kept Australia safe; rejects weakening them."
+    },
+    {
+      "id": "s8",
+      "title": "Vaccination interview",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42988",
+      "date": "2020-08-19",
+      "accessed": "2026-10-01",
+      "evidence": "Clarifies that vaccination will not be compulsory for all; aims for high voluntary uptake. Later targeted occupational mandates cannot imply endorsement of universal forced vaccination."
+    },
+    {
+      "id": "s9",
+      "title": "Launch of death-penalty abolition strategy",
+      "url": "https://www.foreignminister.gov.au/minister/marise-payne/speech/launch-australias-strategy-abolition-death-penalty",
+      "date": "2018-10-15",
+      "accessed": "2026-10-01",
+      "evidence": "Morrison government foreign minister launches whole-of-government opposition to capital punishment, citing irreversible error, rehabilitation and human dignity."
+    },
+    {
+      "id": "s10",
+      "title": "Migration and settlement speech",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42481",
+      "date": "2019-10-23",
+      "accessed": "2026-10-01",
+      "evidence": "Praises multicultural migration and refugee settlement, English learning and national cohesion; defends capped skills-based migration and strong border protection."
+    },
+    {
+      "id": "s11",
+      "title": "Anti-Semitism conference speech",
+      "url": "https://www.scottmorrison.com.au/speeches/address-the-second-international-conference-on-anti-semitism",
+      "date": "2026-01-27",
+      "accessed": "2026-10-01",
+      "evidence": "Continues praising cultural diversity while condemning Islamist and far-right antisemitism; argues constructive religion strengthens liberal society. His allegations about particular events are his stated interpretation, not independent findings."
+    },
+    {
+      "id": "s12",
+      "title": "AUKUS address",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-43566",
+      "date": "2021-09-16",
+      "accessed": "2026-10-01",
+      "evidence": "Supports nuclear-powered submarines and close US/UK alliance; expressly rejects acquiring nuclear weapons or establishing civilian nuclear capability as part of that agreement."
+    },
+    {
+      "id": "s13",
+      "title": "Support for US strikes on Iran",
+      "url": "https://www.scottmorrison.com.au/media/donald-trumps-strikes-on-iran-a-necessary-measure",
+      "date": "2025-06-22",
+      "accessed": "2026-10-01",
+      "evidence": "Explicitly supports targeted US strikes on Iranian nuclear facilities as deterrence after failed diplomacy; advocates AUKUS and allied solidarity, but describes objective as stopping weapons capability rather than regime change."
+    },
+    {
+      "id": "s14",
+      "title": "JobKeeper update",
+      "url": "https://treasury.gov.au/media-release/jobkeeper-update",
+      "date": "2020-05-22",
+      "accessed": "2026-10-01",
+      "evidence": "Government funded emergency private-sector wage subsidies; initial fiscal estimate was revised, so announced initial cost must not be treated as realised spending."
+    },
+    {
+      "id": "s15",
+      "title": "Guaranteeing Medicare overview",
+      "url": "https://www.health.gov.au/resources/publications/budget-2019-20-guaranteeing-medicare-overview?language=en",
+      "date": "2019-04-02",
+      "accessed": "2026-10-01",
+      "evidence": "Morrison government budget increased Medicare funding and described affordable universal healthcare as a policy pillar."
+    },
+    {
+      "id": "s16",
+      "title": "Business address on climate and enterprise",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-43653",
+      "date": "2021-11-10",
+      "accessed": "2026-10-01",
+      "evidence": "Champions private enterprise and technology over carbon taxes/regulation; endorses net zero by 2050 and state-enabled technology investment rather than consumption contraction."
+    },
+    {
+      "id": "s17",
+      "title": "G20 press conference on trade",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-42005",
+      "date": "2018-12-02",
+      "accessed": "2026-10-01",
+      "evidence": "Champions free and open trade and reform of rules-based multilateral trading system."
+    },
+    {
+      "id": "s18",
+      "title": "Scott Morrison conservative on abortion",
+      "url": "https://www.sbs.com.au/news/article/scott-morrison-a-conservative-on-abortion/n38v47v6t",
+      "date": "2019-08-28",
+      "accessed": "2026-10-01",
+      "evidence": "States personal conservative abortion views but leaves NSW legislation to state MPs and does not seek a federal intervention."
+    },
+    {
+      "id": "s19",
+      "title": "ABC 7.30 campaign interview",
+      "url": "https://www.abc.net.au/news/2019-05-17/scott-morrison-gives-his-final-7.30-interview-of/11121856",
+      "date": "2019-05-17",
+      "accessed": "2026-10-01",
+      "evidence": "Describes Christian faith in terms of love and service, supports NDIS and mental-health spending; prioritises Australian interests in external decisions."
+    },
+    {
+      "id": "s20",
+      "title": "Same-sex marriage final vote",
+      "url": "https://www.abc.net.au/news/2017-12-08/same-sex-marriage-who-didnt-vote/9240584",
+      "date": "2017-12-08",
+      "accessed": "2026-10-01",
+      "evidence": "Morrison abstained from the final marriage-equality vote; distinguish personal opposition from a recorded final parliamentary no vote."
+    },
+    {
+      "id": "s21",
+      "title": "Stem-cell therapies mission",
+      "url": "https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/progressing-the-long-term-plan-for-stem-cell-research",
+      "date": "2019-10-02",
+      "accessed": "2026-10-01",
+      "evidence": "Government funded stem-cell research for chronic and inherited disease. This supports therapeutic biotechnology, not unrestricted enhancement of embryos."
+    },
+    {
+      "id": "s22",
+      "title": "Australia first mission to Moon",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-43608",
+      "date": "2021-10-13",
+      "accessed": "2026-10-01",
+      "evidence": "Government announced Australian lunar mission, supporting a practical pro-space industrial outlook."
+    },
+    {
+      "id": "s23",
+      "title": "Author book page",
+      "url": "https://www.scottmorrison.com.au/book",
+      "date": "2024 (book; webpage undated)",
+      "accessed": "2026-10-01",
+      "evidence": "Scott Morrison authored Plans for Your Good, mixing Christian testimony with an account of national leadership, global crises and secularisation; site stresses pastoral encouragement."
+    },
+    {
+      "id": "s24",
+      "title": "Publishers Weekly review: Plans for Your Good",
+      "url": "https://www.publishersweekly.com/9781400340286",
+      "date": "2024-01-17",
+      "accessed": "2026-10-01",
+      "evidence": "Identifies Scott Morrison as author, Thomas Nelson publisher and May publication; verifies substantive discussions of government mental-health policy, Afghanistan withdrawal, China and nuclear submarines alongside personal faith."
+    },
+    {
+      "id": "s25",
+      "title": "English-language edition sold in Portugal",
+      "url": "https://www.wook.pt/livro/plans-for-your-good-scott-morrison/29351904",
+      "date": "2024-06 (listed edition)",
+      "accessed": "2026-10-01",
+      "evidence": "Lists original title and English language. Dedicated Brazilian-title searches did not verify a Brazilian Portuguese translation."
+    },
+    {
+      "id": "s26",
+      "title": "Religious discrimination legislation explained",
+      "url": "https://www.abc.net.au/news/2022-02-10/religious-discrimination-bill-transgender-protection-explained/100818484",
+      "date": "2022-02-10",
+      "accessed": "2026-10-01",
+      "evidence": "Explains religious-expression protections and contested LGBT-student safeguards; shows conservative faith policy within legislation and pluralist institutions, not formal theocracy."
+    },
+    {
+      "id": "s27",
+      "title": "Latest speeches index",
+      "url": "https://www.scottmorrison.com.au/speeches",
+      "date": "accessed 2026-10-01",
+      "accessed": "2026-10-01",
+      "evidence": "Current-date dedicated search and official speech index returned September 2026 economic-security remarks as newest indexed speech; no claim of exhaustive coverage of unindexed remarks."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "States retain autonomous powers within coordinated National Cabinet.",
+        "GST reform keeps fiscal equalisation but rewards state resource development.",
+        "Foreign policy remains a Commonwealth prerogative."
+      ],
+      "sources": [
+        "s1",
+        "s2",
+        "s3",
+        "s18"
+      ],
+      "tension": "Federalism with national standards and fiscal transfers; neither secessionism nor unitary government."
+    },
+    "representacao": {
+      "facts": [
+        "Accepted defeat in the 2022 election.",
+        "Secret ministry appointments impaired parliamentary accountability."
+      ],
+      "sources": [
+        "s4",
+        "s5"
+      ],
+      "tension": "Democratic party government and electoral consent coexist with unusually secretive executive practice; neither direct-democracy radical nor autocrat."
+    },
+    "poder": {
+      "facts": [
+        "Backed access to encrypted communications and strong gun controls.",
+        "Government opposes death penalty; he rejected universal compulsory vaccination."
+      ],
+      "sources": [
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "tension": "Strong policing is limited by due process and some personal liberties; do not conflate security policy with support for executions."
+    },
+    "imigracao": {
+      "facts": [
+        "Celebrates multicultural migration, English learning and skills selection.",
+        "Maintains capped migration and strict border control."
+      ],
+      "sources": [
+        "s10",
+        "s11"
+      ],
+      "tension": "Civic integration and regulated admission coexist with cultural pluralism; border enforcement is not racial homogenisation."
+    },
+    "diplomacia": {
+      "facts": [
+        "Established AUKUS nuclear-powered submarine partnership.",
+        "Endorsed US Iran strikes in 2025 as necessary deterrence after diplomacy."
+      ],
+      "sources": [
+        "s12",
+        "s13"
+      ],
+      "tension": "Military deterrence and selected force, but no Australian nuclear weapons or unconditional war policy."
+    },
+    "intervencao": {
+      "facts": [
+        "Strong US/UK security alliances and Quad engagement.",
+        "Endorses strategic pressure and targeted allied intervention."
+      ],
+      "sources": [
+        "s1",
+        "s12",
+        "s13"
+      ],
+      "tension": "National interest through alliances and international rules; rejects isolationism without claiming imperial conquest."
+    },
+    "economia": {
+      "facts": [
+        "Supports private enterprise as engine of growth.",
+        "Retains Medicare and emergency employer wage support."
+      ],
+      "sources": [
+        "s14",
+        "s15",
+        "s16"
+      ],
+      "tension": "Private ownership with funded public services and safety nets, not either full nationalisation or privatisation of every state function."
+    },
+    "controle": {
+      "facts": [
+        "Favours less regulatory/tax burden on enterprise.",
+        "Adopted emergency spending and endorses strategic industrial support including price floors."
+      ],
+      "sources": [
+        "s1",
+        "s14",
+        "s16"
+      ],
+      "tension": "Market allocation alongside countercyclical and security-driven interventions; not comprehensive central planning."
+    },
+    "comercio": {
+      "facts": [
+        "Champions free trade and multilateral trading rules.",
+        "Supports trusted allied supply chains without requiring everything produced domestically."
+      ],
+      "sources": [
+        "s1",
+        "s17"
+      ],
+      "tension": "Economic-security exceptions without blanket tariffs or autarky."
+    },
+    "religiao": {
+      "facts": [
+        "Christian faith explicitly guides service and moral outlook.",
+        "Promotes religious expression protections and constructive public religion."
+      ],
+      "sources": [
+        "s11",
+        "s19",
+        "s23",
+        "s26"
+      ],
+      "tension": "Personal and public faith within pluralist constitutional government, not compulsory religious identity."
+    },
+    "moral": {
+      "facts": [
+        "Personally conservative on abortion and traditional marriage.",
+        "Abstained from final marriage bill vote and leaves state abortion legislation to state process."
+      ],
+      "sources": [
+        "s18",
+        "s20",
+        "s26"
+      ],
+      "tension": "Social conservatism bounded by tolerance, democratic settlement and equal citizenship; specific answers beyond record are cautious inference."
+    },
+    "tecnologia": {
+      "facts": [
+        "Advocates technology-led climate policy, lunar capability and therapeutic stem-cell research.",
+        "Sustains gas and mining industries."
+      ],
+      "sources": [
+        "s1",
+        "s16",
+        "s21",
+        "s22"
+      ],
+      "tension": "Industrial technophilia with ethical caution on embryo enhancement; no evidence for limitless transhumanism."
+    }
+  },
+  "limitations": [
+    "No prior answer archive, stored vector, similarity review or score report consulted.",
+    "Later statements included under existing career-wide period; profilePeriod text preserved verbatim with separate current verification date.",
+    "Brazil-specific hypotheticals interpreted as comparable Australian policy questions; community-rule and land-redistribution questions do not imply literal Australian endorsement of Brazilian institutions.",
+    "Some micro-issues, including brain implants, cultured meat, municipal constitutions and crypto currency competition lack a direct personal quotation. Answers are bounded inferences from documented policy, never neutrals solely for missing evidence.",
+    "Official self-descriptions establish stated positions; independent ABC, SBS/AAP and Bell inquiry evidence supplies counterweight.",
+    "Latest indexed evidence does not prove absence of every later statement."
+  ],
+  "recommendedMetadata": {
+    "status": "unchanged",
+    "reason": "Existing PT/EN concise career description remains accurate; detailed contradictions belong in researched prompt."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored mixed spiritual and political memoir. Although marketed primarily as pastoral encouragement, independently verified discussions of government policy, Afghanistan, China and AUKUS provide substantial political content; not a personal-only memoir. No Brazilian translation verified; retain original title. Existing books.json had no entry.",
+    "book": {
+      "personalityId": "scott-morrison",
+      "title": {
+        "pt": "Plans for Your Good: A Prime Minister’s Testimony of God’s Faithfulness",
+        "en": "Plans for Your Good: A Prime Minister’s Testimony of God’s Faithfulness"
+      },
+      "year": 2024,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "s23",
+      "s24",
+      "s25"
+    ]
+  },
+  "processNotes": [
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, new-personality skill, README.md and saved prompt.",
+    "Metadata accuracy reported to coordinator before answers.",
+    "Likely conceptual neighbours: John Howard and Tony Abbott share Australian Liberal conservatism, but Morrison has Pentecostal emphasis, pandemic wage subsidies, technology-led net zero and AUKUS. Malcolm Turnbull differs in social liberalism; Morrison has traditional-marriage and religious-expression priorities. These are factual distinctions, never numerical targets.",
+    "Research and prompt saved before answer generation. Fresh archetype block generated by profile_vector.py --prompt-block.",
+    "Dedicated weak-axis searches covered federalism, gun control, death penalty, vaccination, Medicare, biotechnology and moral legislation.",
+    "No score targets, neighbour answers or answer tuning used.",
+    "All 240 answers selected before validation. No revision based on validator distances is permitted.",
+    "After validation, replaced inherited output-path placeholder with its absolute path; no substantive evidence, question or answer changed. Prompt hash refreshed. Original validator duplication blocker remains unresolved; no score tuning or threshold bypass."
+  ],
+  "neutralCount": {
+    "total": 10,
+    "outOf": 240,
+    "perAxis": {
+      "estrutura": 1,
+      "representacao": 0,
+      "poder": 0,
+      "imigracao": 0,
+      "diplomacia": 1,
+      "intervencao": 0,
+      "economia": 1,
+      "controle": 1,
+      "comercio": 1,
+      "religiao": 0,
+      "moral": 2,
+      "tecnologia": 3
+    }
+  },
+  "neutralRationale": {
+    "estrutura_07": "GST retains local resource incentives but also accepts equalisation; no blanket most-tax-local preference.",
+    "diplomacia_06": "Diplomacy and arsenal expansion treated as complementary rather than a fixed universal priority.",
+    "economia_03": "Strategic private enterprise alongside public essential services; ownership depends on sector.",
+    "controle_12": "Accepts innovation with monetary/regulatory oversight; unrestricted currency competition unsupported by wider policy.",
+    "comercio_08": "Open trade alongside firm sovereign security limits, not a borderless-market ideal.",
+    "moral_03": "Individual dignity coexists with traditional gender doctrine.",
+    "moral_19": "Contextual distinction between art and public modesty.",
+    "tecnologia_07": "Resource development with approvals and conservation constraints; unconditional preserved-forest mining not inferred.",
+    "tecnologia_13": "No hierarchy between urban and rural lifestyles in national economic vision.",
+    "tecnologia_15": "Potential therapeutic benefit versus enhancement ethics."
+  },
+  "hashes": {
+    "promptSha256": "9f7cff1900889d7ce41718c64648ba02532148b276ed1464374577fcf8d69a92",
+    "answersSha256": "028d18b13c541ddba244f4db46e77559b209d3dd1d0a4adc94abdb4221651c31"
+  },
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality scott-morrison",
+    "exitCode": 1,
+    "stdout": "validando personality:scott-morrison\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/scott-morrison.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 10/240 = 4.2%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         46.2  centralizado/unitario <-> descentralizado/federal\n  representacao     77.5  autocracia <-> democracia\n  poder             65.1  liberdade civil <-> ordem/vigilancia\n  imigracao         45.7  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        62.4  pacifista <-> militarista\n  intervencao       22.1  nacionalista assertivo <-> nao-intervencionista\n  economia          41.3  privado/mercado <-> publico/coletivo\n  controle          39.0  livre mercado <-> planejamento\n  comercio          30.6  livre comercio/globalista <-> protecionista\n  religiao          27.0  religioso <-> irreligioso/secular\n  moral             27.7  tradicionalista <-> progressista\n  tecnologia        63.0  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         46.2   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     77.5   | Kim Jong Un=6 .. José Mujica=86\n  poder             65.1   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         45.7   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        62.4   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       22.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          41.3   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          39.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          30.6   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          27.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             27.7   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        63.0   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.9%  john-howard  <<< BLOQUEIA\n   96.3%  ronaldo-caiado  <<< aviso\n   95.8%  friedrich-merz  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.3% proximo de 'ronaldo-caiado'\n  [CONTEUDO] 95.8% proximo de 'friedrich-merz'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.9% identico a 'john-howard' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": ""
+  }
+}

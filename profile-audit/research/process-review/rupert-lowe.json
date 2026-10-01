@@ -1,0 +1,342 @@
+{
+  "id": "rupert-lowe",
+  "profilePeriod": "MP and Restore Britain leader, 2024–30 September 2026; dated earlier context.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Restore Civil Liberties",
+      "url": "https://www.restorebritain.org.uk/restore_civil_liberties",
+      "date": "2026-02-13",
+      "accessed": "2026-10-01",
+      "evidence": "Proposes repealing Online Safety Act, preventing future lockdowns, blocking compulsory digital ID, protecting self-defence, and investigating vaccine rollout. Party claims about vaccine harms are not independently medical findings."
+    },
+    {
+      "id": "S2",
+      "title": "Make Britain Safe Again",
+      "url": "https://www.restorebritain.org.uk/law_order_criminal_justice",
+      "date": "2026-02-13",
+      "accessed": "2026-10-01",
+      "evidence": "Supports stop and search, a binding death-penalty referendum, taxi CCTV, pepper spray and proscription of extremist Islamist organisations."
+    },
+    {
+      "id": "S3",
+      "title": "Reverse Mass Immigration",
+      "url": "https://www.restorebritain.org.uk/immigration_border_control",
+      "date": "2026-02-13",
+      "accessed": "2026-10-01",
+      "evidence": "Seeks deportations encompassing some lawful residents, abolition of asylum system and mandatory detention of illegal entrants; permits easier spousal visas for selected countries under English and self-support conditions."
+    },
+    {
+      "id": "S4",
+      "title": "Social and Cultural Foundations",
+      "url": "https://www.restorebritain.org.uk/cultural_identity_social_issues",
+      "date": "2026-02-13",
+      "accessed": "2026-10-01",
+      "evidence": "Supports Christian heritage teaching and church protection, family assistance, biological-sex law, reversing assisted dying and late-abortion changes, burqa ban and religious-slaughter restrictions. This does not establish opposition to every early abortion or same-sex relationship."
+    },
+    {
+      "id": "S5",
+      "title": "Reward the Nation’s Grafters",
+      "url": "https://www.restorebritain.org.uk/economy_taxation",
+      "date": "2026-02-13",
+      "accessed": "2026-10-01",
+      "evidence": "Advocates abolishing inheritance tax and IR35, low corporation tax, domestic investment incentives, remittance levy and conditional welfare with a vulnerable-citizen safety net."
+    },
+    {
+      "id": "S6",
+      "title": "The Wealth of Our Nation",
+      "url": "https://www.restorebritain.org.uk/the_wealth_of_our_nation",
+      "date": "2026-08-03",
+      "accessed": "2026-10-01",
+      "evidence": "Later economic paper proposes 19% corporation tax, abolishing inheritance tax and stamp duty, benefits and quango budget restraint, triple-lock reform and a smaller state over two Parliaments. Retrieved indexed full text after direct fetch timed out."
+    },
+    {
+      "id": "S7",
+      "title": "Put British Interests First",
+      "url": "https://www.restorebritain.org.uk/foreign_policy",
+      "date": "2026-02-13",
+      "accessed": "2026-10-01",
+      "evidence": "Advocates rearmament and use of military power where British interests require; alliances and aid assessed instrumentally, not as permanent commitments. This is assertive realism, not blanket pacifism."
+    },
+    {
+      "id": "S8",
+      "title": "Safeguard Election Integrity",
+      "url": "https://www.restorebritain.org.uk/election_integrity",
+      "date": "2026-02-13",
+      "accessed": "2026-10-01",
+      "evidence": "Retains elections but restricts postal voting and foreign-national participation, with prosecution for fraud; universal adult-resident franchise cannot be assumed."
+    },
+    {
+      "id": "S9",
+      "title": "Rebuild Industry, Infrastructure and Energy",
+      "url": "https://www.restorebritain.org.uk/environment_infrastructure",
+      "date": "2026-02-13",
+      "accessed": "2026-10-01",
+      "evidence": "Supports countryside protection, energy sovereignty, prohibition of foreign ownership of energy infrastructure, fossil extraction, reservoirs and Tube automation."
+    },
+    {
+      "id": "S10",
+      "title": "Energy Policy Paper",
+      "url": "https://www.restorebritain.org.uk/energy_policy_paper",
+      "date": "2026-05-20",
+      "accessed": "2026-10-01",
+      "evidence": "Adds nuclear expansion including small modular reactors, emergency planning reform, domestic oil/gas and dynamic commercial electricity pricing."
+    },
+    {
+      "id": "S11",
+      "title": "Quantitative Easing (Prohibition), Lowe speech",
+      "url": "https://hansard.parliament.uk/commons/2025-01-08/debates/8B7172B2-ADDA-4448-B830-D96FAF3FAD5E/QuantitativeEasing(Prohibition)",
+      "date": "2025-01-08",
+      "accessed": "2026-10-01",
+      "evidence": "Attacks QE, bailouts, deficits and state expansion; praises Milei and requires parliamentary authority for exceptional monetary expansion. Calls for government costs financed by transparent taxation, not abolition of all taxation."
+    },
+    {
+      "id": "S12",
+      "title": "Lowe announces rolling back devolution, The National via inkl",
+      "url": "https://www.inkl.com/news/rupert-lowe-announces-rolling-back-devolution-policy-after-celtic-alliance-meeting",
+      "date": "2026-09-15",
+      "accessed": "2026-10-01",
+      "evidence": "Reports Lowe’s 14 September announcement to reverse devolution and strengthen the Union; detailed paper still being developed. Direct quoted pledge and linked original post support direction, not an invented institutional blueprint."
+    },
+    {
+      "id": "S13",
+      "title": "International Engagement, Commons official record",
+      "url": "https://hansard.parliament.uk/pdf/Commons/2024-10-28",
+      "date": "2024-10-28",
+      "accessed": "2026-10-01",
+      "evidence": "Lowe asks why government has not considered a Commonwealth free-trade deal; distinguishes selective international trade support from unrestricted global integration."
+    },
+    {
+      "id": "S14",
+      "title": "Restore Britain: is new far-right party a threat to Farage?, The Week",
+      "url": "https://theweek.com/politics/restore-britain-new-far-right-party-threat-to-farage",
+      "date": "2026-05-06",
+      "accessed": "2026-10-01",
+      "evidence": "Independent report corroborates rearmament, Christian-curriculum emphasis, speech-law repeal and referendum on capital punishment; situates Lowe’s harder migration position relative to Reform."
+    },
+    {
+      "id": "S15",
+      "title": "Policing Policy Paper",
+      "url": "https://www.restorebritain.org.uk/policing_policy_paper",
+      "date": "2026-07-01",
+      "accessed": "2026-10-01",
+      "evidence": "Proposes independent constables, democratic accountability boards without political operational control, national and regional training colleges and national criminal intelligence."
+    },
+    {
+      "id": "S16",
+      "title": "Retaking the English Castle",
+      "url": "https://www.restorebritain.org.uk/policy_paper_retaking_the_english_castle",
+      "date": "2026-02-25",
+      "accessed": "2026-10-01",
+      "evidence": "Defends jury trials, self-defence and repeal of Scotland’s hate-crime statute through Westminster powers."
+    },
+    {
+      "id": "S17",
+      "title": "Join Us",
+      "url": "https://www.restorebritain.org.uk/join_us",
+      "date": "Undated; accessed 2026-10-01",
+      "accessed": "2026-10-01",
+      "evidence": "Party explicitly identifies direct democracy, traditional Christianity, low taxes and small government as principles."
+    },
+    {
+      "id": "S18",
+      "title": "The Maverick Mandate bibliographic entry",
+      "url": "https://books.google.com/books/about/The_Maverick_Mandate.html?id=S4UO0gEACAAJ",
+      "date": "2026-04-18",
+      "accessed": "2026-10-01",
+      "evidence": "Biography of Lowe is authored by Brooke O Calloway, not Lowe, and therefore excluded."
+    },
+    {
+      "id": "S19",
+      "title": "Patriot Games bibliographic entry",
+      "url": "https://play.google.com/store/books/details/Patriot_Games?hl=en_SG&id=zHWFEQAAQBAJ",
+      "date": "2025-09",
+      "accessed": "2026-10-01",
+      "evidence": "Political book about Lowe and other right-wing figures is authored by Simon Tomlin, not Lowe, and therefore excluded."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "September devolution-reversal pledge strengthens the Union; February self-defence paper explicitly invokes Westminster over Scotland."
+      ],
+      "sources": [
+        "S12",
+        "S16",
+        "S15"
+      ],
+      "tension": "National legal sovereignty coexists with local scrutiny and independent constables; do not infer a single national police force."
+    },
+    "representacao": {
+      "facts": [
+        "Direct democracy and death-penalty referendum are explicit; national elections remain central."
+      ],
+      "sources": [
+        "S17",
+        "S8",
+        "S2"
+      ],
+      "tension": "Postal and citizenship voting restrictions plus hostility to judicial obstacles temper universalist participation; no evidence of ending elections."
+    },
+    "poder": {
+      "facts": [
+        "Digital-ID and censorship opposition sit beside searches, capital punishment and compulsory taxi CCTV."
+      ],
+      "sources": [
+        "S1",
+        "S2",
+        "S16"
+      ],
+      "tension": "Selective liberty for lawful citizens with strong coercion against offenders and migrants; no blanket libertarianism."
+    },
+    "imigracao": {
+      "facts": [
+        "Mandatory assimilation, reduced legal residence security and abolition of asylum; selected self-supporting spouses remain admissible."
+      ],
+      "sources": [
+        "S3"
+      ],
+      "tension": "Strong restriction is not prohibition of every migrant or every personal foreign custom."
+    },
+    "diplomacia": {
+      "facts": [
+        "Rearmament and military leverage explicitly advocated in February platform."
+      ],
+      "sources": [
+        "S7",
+        "S14"
+      ],
+      "tension": "National-interest conditions limit overseas adventures without implying disarmament."
+    },
+    "intervencao": {
+      "facts": [
+        "Treats allies, aid, sanctions and deployments as instruments of British national interest."
+      ],
+      "sources": [
+        "S7",
+        "S3"
+      ],
+      "tension": "Rejects universal obligations but keeps coercive external tools available."
+    },
+    "economia": {
+      "facts": [
+        "Protects inheritance and entrepreneurial ownership; August spending cuts fund tax cuts."
+      ],
+      "sources": [
+        "S5",
+        "S6",
+        "S11"
+      ],
+      "tension": "Retains a safety net and public sovereign functions; domestic energy ownership is distinct from nationalisation."
+    },
+    "controle": {
+      "facts": [
+        "Abolish IR35, cut tax, restrain budgets and prohibit routine QE."
+      ],
+      "sources": [
+        "S5",
+        "S6",
+        "S11"
+      ],
+      "tension": "Domestic incentives and remittance levy qualify laissez-faire; parliamentary control of QE differs from politicised routine rate setting."
+    },
+    "comercio": {
+      "facts": [
+        "Commonwealth trade deal sought in 2024; 2026 excludes foreign ownership of energy infrastructure."
+      ],
+      "sources": [
+        "S13",
+        "S9",
+        "S5"
+      ],
+      "tension": "Selective trading openness combines with productive sovereignty, not autarky or borderless global markets."
+    },
+    "religiao": {
+      "facts": [
+        "Protects Christian national inheritance and church buildings; education framed as historical literacy."
+      ],
+      "sources": [
+        "S4",
+        "S17"
+      ],
+      "tension": "Christian public identity does not establish clerical supremacy or religious exemptions from ordinary law."
+    },
+    "moral": {
+      "facts": [
+        "Family policy, biological-sex recognition, assisted-dying opposition and reversal of late-abortion changes."
+      ],
+      "sources": [
+        "S4"
+      ],
+      "tension": "No verified blanket ban on early abortion or gay civil equality; avoid converting traditionalism into every possible restriction."
+    },
+    "tecnologia": {
+      "facts": [
+        "Nuclear reactors and Tube automation supported alongside countryside protection."
+      ],
+      "sources": [
+        "S9",
+        "S10",
+        "S1"
+      ],
+      "tension": "Industrial modernisation differs from embryo enhancement and unrestricted human augmentation; medical mandates also opposed."
+    }
+  },
+  "limitations": [
+    "Checked live sources on 2026-10-01; preserved the requested profile endpoint of 30 September 2026.",
+    "No existing answers, vectors, similarity reports or numerical results consulted before answering. Existing research used only for period and URLs.",
+    "Party platforms are evidence of public advocacy, not independently established accuracy of medical, demographic, crime or economic claims.",
+    "No direct policy verified on embryo intelligence enhancement, neural implants, all same-sex rights, early abortion, compulsory military service, or a complete federal tax settlement. Relevant answers will be explicitly reasoned analogies, not claimed quotations.",
+    "Detailed devolution plan was announced as forthcoming; local administrative delegation remains compatible with Union centralisation.",
+    "Brazilian questions treated as institutional analogies to Britain; not fabricated positions on specific Brazilian legislation."
+  ],
+  "recommendedMetadata": {
+    "needed": false,
+    "reason": "Current PT/EN name, role and description accurately capture the public platform. Coordinator informed before answering."
+  },
+  "bookDecision": {
+    "qualifies": false,
+    "reason": "No self-authored qualifying political book verified. Dedicated general author/book, memoir and WorldCat-targeted searches found biographies and political books by other authors, plus party policy papers; authorship criteria prevent substituting those. No existing books entry.",
+    "book": null,
+    "sources": [
+      "S18",
+      "S19"
+    ]
+  },
+  "processNotes": [
+    "Research and metadata review precede all answer generation.",
+    "One independent auditor, no delegation.",
+    "Likely factual neighbours: Nigel Farage (Lowe seeks more extensive removal of lawful residents); Margaret Thatcher (Lowe adds remittance taxation and targeted domestic preference); Enoch Powell (Lowe has an explicit digital-liberty and automation programme). No distance goals.",
+    "Question-specific uncertainty is handled by modest inference; N is reserved for genuine tension, not missing evidence.",
+    "All 240 answers selected once, individually in shuffled question order, before validation. No answer changes after result inspection.",
+    "Five neutral judgments: monetary institutional tension; early-abortion conflict; space spending versus environmental stewardship; landscape preservation versus industrial development; medical gene editing versus enhancement. No N used simply for missing evidence.",
+    "Archetypes by textual fit: Christian tradition; democracy with checks; low-tax trade economy despite selective protection; assertive military influence; technological and natural balance."
+  ],
+  "neutralCount": {
+    "total": 5,
+    "byAxis": {
+      "estrutura": 0,
+      "representacao": 0,
+      "poder": 0,
+      "imigracao": 0,
+      "diplomacia": 0,
+      "intervencao": 0,
+      "economia": 0,
+      "controle": 1,
+      "comercio": 0,
+      "religiao": 0,
+      "moral": 1,
+      "tecnologia": 3
+    }
+  },
+  "hashes": {
+    "promptSha256": "eee33febc4708fdf6bf77186e5c954e65e8cfb46d2465b9953e424dda78d2c3b",
+    "answersSha256": "c234068083427b7fde59da18d468b4a67f9c864444b9ec52b2b699b1908311f4"
+  },
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality rupert-lowe profile-audit/subagent-out/personality/rupert-lowe.json",
+    "exitCode": 1,
+    "stdout": "validando personality:rupert-lowe\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/rupert-lowe.json\n\n[ARQUETIPO] sociedade A · poder C · economia F · mundo A · tecnologia C\n[NEUTROS] total 5/240 = 2.1%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         35.5  centralizado/unitario <-> descentralizado/federal\n  representacao     76.3  autocracia <-> democracia\n  poder             44.9  liberdade civil <-> ordem/vigilancia\n  imigracao         90.8  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        70.7  pacifista <-> militarista\n  intervencao       26.9  nacionalista assertivo <-> nao-intervencionista\n  economia          30.3  privado/mercado <-> publico/coletivo\n  controle          23.0  livre mercado <-> planejamento\n  comercio          51.8  livre comercio/globalista <-> protecionista\n  religiao          26.0  religioso <-> irreligioso/secular\n  moral             25.6  tradicionalista <-> progressista\n  tecnologia        52.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         35.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     76.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             44.9   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         90.8   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        70.7   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       26.9   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          30.3   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          23.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          51.8   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          26.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             25.6   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        52.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.6%  nigel-farage  <<< BLOQUEIA\n   95.8%  flavio-bolsonaro  <<< aviso\n   94.9%  olavo-de-carvalho  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.8% proximo de 'flavio-bolsonaro'\n  [CONTEUDO] 94.9% proximo de 'olavo-de-carvalho'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.6% identico a 'nigel-farage' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": ""
+  }
+}

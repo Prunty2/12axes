@@ -2422,5 +2422,353 @@
       "pt": "",
       "en": ""
     }
+  },
+  {
+    "personalityId": "pauline-hanson",
+    "title": {
+      "pt": "Pauline: In Her Own Words",
+      "en": "Pauline: In Her Own Words"
+    },
+    "year": 2018,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "angus-taylor",
+    "title": {
+      "pt": "The Promise of Digital Government: Transforming Public Services, Regulation, and Citizenship",
+      "en": "The Promise of Digital Government: Transforming Public Services, Regulation, and Citizenship"
+    },
+    "year": 2016,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "john-howard",
+    "title": {
+      "pt": "Lazarus Rising: A Personal and Political Autobiography",
+      "en": "Lazarus Rising: A Personal and Political Autobiography"
+    },
+    "year": 2010,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "robert-menzies",
+    "title": {
+      "pt": "The Forgotten People and Other Studies in Democracy",
+      "en": "The Forgotten People and Other Studies in Democracy"
+    },
+    "year": 1943,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "gough-whitlam",
+    "title": {
+      "pt": "The Whitlam Government 1972–1975",
+      "en": "The Whitlam Government 1972–1975"
+    },
+    "year": 1985,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "bob-hawke",
+    "title": {
+      "pt": "The Hawke Memoirs",
+      "en": "The Hawke Memoirs"
+    },
+    "year": 1994,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "paul-keating",
+    "title": {
+      "pt": "Engagement: Australia Faces the Asia-Pacific",
+      "en": "Engagement: Australia Faces the Asia-Pacific"
+    },
+    "year": 2000,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "kevin-rudd",
+    "title": {
+      "pt": "The Avoidable War: The Dangers of a Catastrophic Conflict between the US and Xi Jinping's China",
+      "en": "The Avoidable War: The Dangers of a Catastrophic Conflict between the US and Xi Jinping's China"
+    },
+    "year": 2022,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "julia-gillard",
+    "title": {
+      "pt": "My Story",
+      "en": "My Story"
+    },
+    "year": 2014,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "tony-abbott",
+    "title": {
+      "pt": "Battlelines",
+      "en": "Battlelines"
+    },
+    "year": 2009,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "malcolm-turnbull",
+    "title": {
+      "pt": "A Bigger Picture",
+      "en": "A Bigger Picture"
+    },
+    "year": 2020,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "scott-morrison",
+    "title": {
+      "pt": "Plans for Your Good: A Prime Minister’s Testimony of God’s Faithfulness",
+      "en": "Plans for Your Good: A Prime Minister’s Testimony of God’s Faithfulness"
+    },
+    "year": 2024,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "margaret-thatcher",
+    "title": {
+      "pt": "The Downing Street Years",
+      "en": "The Downing Street Years"
+    },
+    "year": 1993,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "clement-attlee",
+    "title": {
+      "pt": "Bases e fundamentos do trabalhismo",
+      "en": "The Labour Party in Perspective"
+    },
+    "year": 1937,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "boris-johnson",
+    "title": {
+      "pt": "Unleashed",
+      "en": "Unleashed"
+    },
+    "year": 2024,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "keir-starmer",
+    "title": {
+      "pt": "The Three Pillars of Liberty: Political Rights and Freedoms in the United Kingdom",
+      "en": "The Three Pillars of Liberty: Political Rights and Freedoms in the United Kingdom"
+    },
+    "year": 1996,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "nigel-farage",
+    "title": {
+      "pt": "The Purple Revolution: The Year That Changed Everything",
+      "en": "The Purple Revolution: The Year That Changed Everything"
+    },
+    "year": 2015,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "kamala-harris",
+    "title": {
+      "pt": "As verdades que nos movem",
+      "en": "The Truths We Hold: An American Journey"
+    },
+    "year": 2019,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "hillary-clinton",
+    "title": {
+      "pt": "Escolhas difíceis",
+      "en": "Hard Choices"
+    },
+    "year": 2014,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "jimmy-carter",
+    "title": {
+      "pt": "Nossos valores em risco: A crise moral dos EUA",
+      "en": "Our Endangered Values: America’s Moral Crisis"
+    },
+    "year": 2005,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "lyndon-b-johnson",
+    "title": {
+      "pt": "The Vantage Point: Perspectives of the Presidency, 1963–1969",
+      "en": "The Vantage Point: Perspectives of the Presidency, 1963–1969"
+    },
+    "year": 1971,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "angela-merkel",
+    "title": {
+      "pt": "Liberdade",
+      "en": "Freedom: Memoirs 1954–2021"
+    },
+    "year": 2024,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "olaf-scholz",
+    "title": {
+      "pt": "Hoffnungsland: Eine neue deutsche Wirklichkeit",
+      "en": "Hoffnungsland: Eine neue deutsche Wirklichkeit"
+    },
+    "year": 2017,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "mark-carney",
+    "title": {
+      "pt": "Value(s): Building a Better World for All",
+      "en": "Value(s): Building a Better World for All"
+    },
+    "year": 2021,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "david-lloyd-george",
+    "title": {
+      "pt": "War Memoirs of David Lloyd George",
+      "en": "War Memoirs of David Lloyd George"
+    },
+    "year": 1933,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "helmut-kohl",
+    "title": {
+      "pt": "Ich wollte Deutschlands Einheit",
+      "en": "Ich wollte Deutschlands Einheit"
+    },
+    "year": 1996,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "lech-walesa",
+    "title": {
+      "pt": "Um caminho de esperança: uma autobiografia",
+      "en": "A Way of Hope"
+    },
+    "year": 1987,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "golda-meir",
+    "title": {
+      "pt": "Minha Vida",
+      "en": "My Life"
+    },
+    "year": 1975,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "joh-bjelke-petersen",
+    "title": {
+      "pt": "Don't You Worry About That! The Joh Bjelke-Petersen Memoirs",
+      "en": "Don't You Worry About That! The Joh Bjelke-Petersen Memoirs"
+    },
+    "year": 1990,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
   }
 ]

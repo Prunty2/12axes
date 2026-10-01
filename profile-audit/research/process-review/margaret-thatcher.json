@@ -1,0 +1,389 @@
+{
+  "id": "margaret-thatcher",
+  "profilePeriod": "Conservative leadership and premiership, 1975–1990; earlier votes used as context",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "UK Government: History of Baroness Thatcher",
+      "url": "https://www.gov.uk/government/history/past-prime-ministers/margaret-thatcher",
+      "date": "undated; historical 1975–1990",
+      "accessed": "2026-10-01",
+      "evidence": "Leadership from 1975, premiership 1979–1990, elected governments, Falklands war, privatisation, deregulation, union reform, tax cuts, and market mechanisms in health and education; chemistry education."
+    },
+    {
+      "id": "S2",
+      "title": "Thatcher: Bruges speech",
+      "url": "https://www.margaretthatcher.org/document/107332",
+      "date": "1988-09-20",
+      "accessed": "2026-10-01",
+      "evidence": "Defended sovereign parliamentary nations, single market and GATT liberalisation, rejected external protectionism, supported NATO and modern nuclear deterrence alongside arms-control negotiation; distinguished free movement of goods from border controls against crime and illegal migration."
+    },
+    {
+      "id": "S3",
+      "title": "Thatcher: Scottish Conservative Conference",
+      "url": "https://www.margaretthatcher.org/document/107240",
+      "date": "1988-05-13",
+      "accessed": "2026-10-01",
+      "evidence": "Explicitly rejected legislative devolution and defended the Union; described individual ownership and parental school choice as devolution to people rather than politicians."
+    },
+    {
+      "id": "S4",
+      "title": "Thatcher: Election press conference on education",
+      "url": "https://www.margaretthatcher.org/document/106844",
+      "date": "1987-05-27",
+      "accessed": "2026-10-01",
+      "evidence": "Promised national curriculum and attainment targets, alongside delegation of budgets to headteachers and schools opting out of local authority control."
+    },
+    {
+      "id": "S5",
+      "title": "Thatcher: Church of Scotland General Assembly",
+      "url": "https://www.margaretthatcher.org/document/107246",
+      "date": "1988-05-21",
+      "accessed": "2026-10-01",
+      "evidence": "Christian morality, family, responsibility, religious education and established Christian heritage; explicitly affirmed democracy, equality under law for other faiths and cultures, and legally guaranteed provision for health, education, pensions, sickness and disability. Christianity does not prescribe one institutional programme."
+    },
+    {
+      "id": "S6",
+      "title": "Thatcher: World in Action immigration interview",
+      "url": "https://www.margaretthatcher.org/document/103485",
+      "date": "1978-01-27; broadcast 1978-01-30",
+      "accessed": "2026-10-01",
+      "evidence": "Sought sharp reduction and eventual end of immigration with compassionate exceptions; expressed anxiety about cultural displacement, while insisting people already resident be treated equally under law."
+    },
+    {
+      "id": "S7",
+      "title": "National Archives: The origins of Section 28",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/origins-section-28/",
+      "date": "historical 1987–1988; page undated",
+      "accessed": "2026-10-01",
+      "evidence": "1987 conference speech rejected school teaching of an inalienable right to be gay; Section 28 entered the Local Government Act in 1988, restricting local authorities promoting homosexuality."
+    },
+    {
+      "id": "S8",
+      "title": "Hansard: Firearms (Amendment) Bill",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1988/jan/21/firearms-amendment-bill",
+      "date": "1988-01-21",
+      "accessed": "2026-10-01",
+      "evidence": "Government proposed prohibiting full-bore self-loading rifles after Hungerford; tighter controls on shotguns while retaining sporting weapons. This is government policy, not a quoted personal statement by Thatcher."
+    },
+    {
+      "id": "S9",
+      "title": "Hansard: Interception of Communications",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1985/feb/07/interception-of-communications",
+      "date": "1985-02-07",
+      "accessed": "2026-10-01",
+      "evidence": "Government defended interception powers for security and serious crime within a statutory framework, with safeguards and individual remedies; not unlimited indiscriminate surveillance."
+    },
+    {
+      "id": "S10",
+      "title": "Thatcher: Interview for The Sun",
+      "url": "https://www.margaretthatcher.org/document/106555",
+      "date": "1987-05-13",
+      "accessed": "2026-10-01",
+      "evidence": "Favoured restoring capital punishment for exceptionally grave murders, subject to judges; not abolition of courts or trial."
+    },
+    {
+      "id": "S11",
+      "title": "Hansard: Bank of England role",
+      "url": "https://api.parliament.uk/historic-hansard/lords/1990/jan/15/bank-of-england-role",
+      "date": "1990-01-15",
+      "accessed": "2026-10-01",
+      "evidence": "Government explicitly had no plans for a more independent Bank of England, arguing inflation remained elected government responsibility."
+    },
+    {
+      "id": "S12",
+      "title": "Thatcher: Speech in Edinburgh",
+      "url": "https://www.margaretthatcher.org/document/105358",
+      "date": "1983-05-31",
+      "accessed": "2026-10-01",
+      "evidence": "Pledged not to dismantle the NHS, defended increased real resources, disability support and provision for vulnerable people; distinguishes market reform from abolition of public healthcare."
+    },
+    {
+      "id": "S13",
+      "title": "Thatcher: Royal Society speech",
+      "url": "https://www.margaretthatcher.org/document/107346",
+      "date": "1988-09-27",
+      "accessed": "2026-10-01",
+      "evidence": "Supported science and technological advance, identified greenhouse warming and ozone threats, and endorsed Montreal limits on CFC consumption."
+    },
+    {
+      "id": "S14",
+      "title": "Thatcher: UN General Assembly environment speech",
+      "url": "https://www.margaretthatcher.org/document/107817",
+      "date": "1989-11-08",
+      "accessed": "2026-10-01",
+      "evidence": "Advocated nuclear power, scientific research, industrial innovation and continued growth, but binding climate protocols, tropical forest and biodiversity protection, reducing chemical inputs, energy efficiency and pollution controls."
+    },
+    {
+      "id": "S15",
+      "title": "Hansard: Clause 11 embryo research",
+      "url": "https://hansard.parliament.uk/Commons/1990-04-23/debates/bf444fb0-912c-4bb6-bf56-29d77a4f767f/Clause11",
+      "date": "1990-04-23",
+      "accessed": "2026-10-01",
+      "evidence": "Thatcher appears among Noes to restrictive amendment and Ayes on clause 11 standing part; context is licensed embryo research. Supports regulated medical research rather than a categorical religious prohibition; does not establish approval of designer babies."
+    },
+    {
+      "id": "S16",
+      "title": "Commons Hansard: International Womens Day debate",
+      "url": "https://hansard.parliament.uk/pdf/Commons/2023-03-09",
+      "date": "2023-03-09; recalling 1967",
+      "accessed": "2026-10-01",
+      "evidence": "Peter Bottomley recalls Thatcher voting for male homosexual decriminalisation and helping pass the 1967 abortion bill. Retrospective parliamentary testimony about earlier votes, not evidence of a changed 2023 position."
+    },
+    {
+      "id": "S17",
+      "title": "Thatcher: Daily Mail interview on Grenada and cruise missiles",
+      "url": "https://www.margaretthatcher.org/document/105212",
+      "date": "1983-11-04",
+      "accessed": "2026-10-01",
+      "evidence": "Disagreed with the US invasion of Grenada despite the US alliance; guarded sovereignty and questioned overthrowing a government because its ideology was hostile."
+    },
+    {
+      "id": "S18",
+      "title": "Diplomatic School library: The Downing Street Years",
+      "url": "https://biblioteca.exteriores.gob.es/bib/279514",
+      "date": "1993 edition",
+      "accessed": "2026-10-01",
+      "evidence": "Catalogues Margaret Thatcher as author; London HarperCollins 1993; politics and Great Britain subjects; supports original year and authorship."
+    },
+    {
+      "id": "S19",
+      "title": "Google Books: The Downing Street Years",
+      "url": "https://books.google.com/books/about/The_Downing_Street_years.html?id=KdANwTBnZzYC",
+      "date": "1993 edition",
+      "accessed": "2026-10-01",
+      "evidence": "Political memoir by Margaret Thatcher about her premiership; combines contemporary events with argument and political philosophy."
+    },
+    {
+      "id": "S20",
+      "title": "Vale de Cambra municipal library: Os anos de Downing Street",
+      "url": "https://biblioteca.cm-valedecambra.pt/nyron/Library/catalog/winlibsrch.aspx?cap=&col6=cl128_t3&col7=cl129_t1&doc=9253&dtype=lista&nohist=true&pesq=5&res=0&thes0=24588&thes6=351&thes7=9713&var8=1900",
+      "date": "1994 Portuguese edition",
+      "accessed": "2026-10-01",
+      "evidence": "Verified Portuguese title and translation by Artur Lopes Cardoso, Bertrand, Venda Nova. This is a Portuguese edition, not evidence of a Brazilian edition."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "1988 rejection of Scottish legislative devolution.",
+        "1987 national curriculum coupled with school budget delegation."
+      ],
+      "sources": [
+        "S3",
+        "S4"
+      ],
+      "tension": "Unionist national legislative authority coexists with administrative and individual autonomy; opposition to Brussels centralisation does not make her a domestic federalist."
+    },
+    "representacao": {
+      "facts": [
+        "1979–1990 elected parliamentary leadership.",
+        "1988 explicit endorsement of democracy as safeguard against abuse by the few."
+      ],
+      "sources": [
+        "S1",
+        "S5",
+        "S2"
+      ],
+      "tension": "Strong executive within parliamentary consent; not popular assembly governance or an unelected technocracy. Parliamentary supremacy differs from judicial supremacy."
+    },
+    "poder": {
+      "facts": [
+        "1987 supported capital punishment in grave murder cases.",
+        "1985 legal interception with safeguards; 1988 government firearms restrictions."
+      ],
+      "sources": [
+        "S8",
+        "S9",
+        "S10"
+      ],
+      "tension": "Order and counterterrorism coexist with rule of law and lawful opposition; surveillance positions do not justify inventing unlimited arbitrary detention."
+    },
+    "imigracao": {
+      "facts": [
+        "1978 urged greatly reduced immigration and cultural continuity.",
+        "1978 demanded equal treatment of residents and compassionate exceptions; 1988 affirmed tolerance."
+      ],
+      "sources": [
+        "S6",
+        "S5",
+        "S2"
+      ],
+      "tension": "Restrictive admission and integration differ from ethnic expulsion or blanket rejection of minority religious customs."
+    },
+    "diplomacia": {
+      "facts": [
+        "1982 used force to recover Falklands.",
+        "1988 NATO, modern nuclear deterrence, and arms-control negotiations."
+      ],
+      "sources": [
+        "S1",
+        "S2",
+        "S17"
+      ],
+      "tension": "Strong professional defence and willingness to fight do not imply compulsory service, unlimited nuclear proliferation or rejection of negotiation."
+    },
+    "intervencao": {
+      "facts": [
+        "1988 promoted active NATO commitment including deployments beyond its area.",
+        "1983 opposed US invasion of Grenada."
+      ],
+      "sources": [
+        "S2",
+        "S17"
+      ],
+      "tension": "Assertive national interests and alliances are bounded by sovereignty and case-by-case judgement, not permanent isolation or automatic regime change."
+    },
+    "economia": {
+      "facts": [
+        "Privatisation and right-to-buy expanded private ownership.",
+        "Defended public NHS and social support while introducing market mechanisms."
+      ],
+      "sources": [
+        "S1",
+        "S12",
+        "S5"
+      ],
+      "tension": "Private enterprise is central but police, courts, tax-funded healthcare and a safety net remain legitimate; not anarchocapitalism."
+    },
+    "controle": {
+      "facts": [
+        "Deregulation, tax reduction and abolition of exchange controls.",
+        "1990 government rejected central bank independence; 1989 advocated environmental regulation."
+      ],
+      "sources": [
+        "S1",
+        "S2",
+        "S11",
+        "S14"
+      ],
+      "tension": "Market price allocation coexists with elected monetary authority and targeted public regulation, not abolition of government money or all regulation."
+    },
+    "comercio": {
+      "facts": [
+        "1988 backed single market and GATT barrier reduction.",
+        "Rejected a protectionist European bloc, defended foreign financial participation."
+      ],
+      "sources": [
+        "S2"
+      ],
+      "tension": "Sovereign political nations and border checks are compatible with freer commerce; security exceptions do not imply economic autarky."
+    },
+    "religiao": {
+      "facts": [
+        "1988 Christian ethical principles and religious education.",
+        "Supported national Christian heritage and equal legal treatment for other religions."
+      ],
+      "sources": [
+        "S5"
+      ],
+      "tension": "Publicly religious and morally conservative but no clerical state, universal Christian party monopoly or religious discrimination."
+    },
+    "moral": {
+      "facts": [
+        "1987–1988 Section 28 and traditional family teaching.",
+        "Earlier votes supporting abortion reform and private homosexual decriminalisation supply context."
+      ],
+      "sources": [
+        "S7",
+        "S16",
+        "S5"
+      ],
+      "tension": "Traditional norms distinguish public endorsement from private criminalisation; neither generic anti-abortion absolutism nor modern LGBT equality fits all evidence."
+    },
+    "tecnologia": {
+      "facts": [
+        "1988–1989 nuclear energy, industrial research and science.",
+        "1989 binding environmental rules, biodiversity and tropical forest protection.",
+        "1990 vote for licensed embryo research."
+      ],
+      "sources": [
+        "S13",
+        "S14",
+        "S15"
+      ],
+      "tension": "Medical research and industry coexist with environmental and bioethical limits; modern AI, implants and designer traits require explicitly labelled analogical inference."
+    }
+  },
+  "limitations": [
+    "Historical model: no post-1990 personal policy shifts used. Later sources only document facts within the selected period.",
+    "Questions mentioning Brazil are interpreted through comparable British institutional choices, not as claims she commented on Brazilian policies.",
+    "AI, crypto, facial recognition, genetic enhancement, lab-grown meat and gender terminology are analogical judgements, not recorded positions. Ordinary disagreement/agreement may express a bounded inference; N only genuine tension.",
+    "Government minister statements are identified as administration policy rather than personal verbatim quotations.",
+    "No Brazilian edition of The Downing Street Years was verified after searches for Brazilian publishers and title variants; conflicting newspaper renderings are not bibliographic proof. Original title retained provisionally in PT; Portugal translation is not substituted as Brazilian."
+  ],
+  "recommendedMetadata": {
+    "status": "accurate-no-change",
+    "pt": null,
+    "en": null,
+    "reason": "Current concise PT/EN descriptions accurately state premiership, economic reforms, NATO/parliamentary sovereignty, traditional family values and public NHS; detailed tensions placed in prompt. Coordinator informed before answers."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored substantive political memoir of the modelled premiership; most directly relevant major work. No existing book entry. 1993 original year verified; original PT fallback because Brazilian edition remains unverified.",
+    "book": {
+      "personalityId": "margaret-thatcher",
+      "title": {
+        "pt": "The Downing Street Years",
+        "en": "The Downing Street Years"
+      },
+      "year": 1993,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "S1",
+      "S18",
+      "S19",
+      "S20"
+    ]
+  },
+  "processNotes": [
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, README.md, skill and own saved prompt.",
+    "Did not consult existing answers, stored vectors, scores, neighbours answers or similarity reports. Existing research consulted only for profilePeriod and source URLs.",
+    "Research and metadata determination completed before answering.",
+    "Likely neighbours identified before answers: Reagan differs on NHS, gun restrictions and territorial structure; Friedman/Hayek are not governing counterparts for state security and public services; Churchill differs in the specific privatisation programme. No numerical similarity targets.",
+    "Dedicated searches addressed weak axes: devolution and school administration; monetary independence; embryo research and climate; moral votes; faith and public institutions.",
+    "Research checkpoint and prompt were saved before answers; each of 240 codes was then selected independently in template order without calculating scores.",
+    "Neutral tensions: estrutura_02 uniform national rules versus existing Scottish legal distinction; diplomacia_10 arms-control negotiation versus necessary arsenal modernisation; religiao_18 divine conscience versus parliamentary legality; moral_10 sanctity of life versus lawful abortion; tecnologia_13 and _18 urban opportunity versus rural stewardship; tecnologia_15 therapeutic innovation versus enhancement ethics; tecnologia_09 disease prevention versus enhancement ethics.",
+    "No answers were changed in response to validator similarity or any numerical compatibility output.",
+    "Original validator passed form, neutrals and content with similarity warnings. No similarity exception or answer adjustment made. Coordinator must retain warnings and handle any duplicate continuation requirement; passing script does not erase README user-confirmation requirement.",
+    "Final documentary correction supplied exact Edinburgh speech date (1983-05-31); no question, persona brief, answer or archetype changed after validation."
+  ],
+  "neutralCounts": {
+    "total": 8,
+    "outOf": 240,
+    "byAxis": {
+      "estrutura": 1,
+      "representacao": 0,
+      "poder": 0,
+      "imigracao": 0,
+      "diplomacia": 1,
+      "intervencao": 0,
+      "economia": 0,
+      "controle": 0,
+      "comercio": 0,
+      "religiao": 1,
+      "moral": 1,
+      "tecnologia": 4
+    }
+  },
+  "hashes": {
+    "promptSha256": "689f20a21d13887387d21ae48b6da2f0079a2f9739542d6848fe3ce0e014056a",
+    "answerSha256": "784cf7be73f285b63cac8302eda859038fa43d54a5cdeff50bdf3d6f611103cf"
+  },
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality margaret-thatcher",
+    "exitCode": 0,
+    "stdout": "validando personality:margaret-thatcher\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/margaret-thatcher.json\n\n[ARQUETIPO] sociedade A · poder C · economia F · mundo B · tecnologia C\n[NEUTROS] total 8/240 = 3.3%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         29.5  centralizado/unitario <-> descentralizado/federal\n  representacao     71.6  autocracia <-> democracia\n  poder             63.9  liberdade civil <-> ordem/vigilancia\n  imigracao         65.8  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        68.3  pacifista <-> militarista\n  intervencao       22.1  nacionalista assertivo <-> nao-intervencionista\n  economia          36.3  privado/mercado <-> publico/coletivo\n  controle          26.6  livre mercado <-> planejamento\n  comercio          13.7  livre comercio/globalista <-> protecionista\n  religiao          16.4  religioso <-> irreligioso/secular\n  moral             22.0  tradicionalista <-> progressista\n  tecnologia        53.6  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         29.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     71.6   | Kim Jong Un=6 .. José Mujica=86\n  poder             63.9   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         65.8   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        68.3   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       22.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          36.3   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          26.6   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          13.7   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          16.4   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             22.0   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.6   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   96.5%  tony-abbott  <<< aviso\n   95.9%  john-howard  <<< aviso\n   95.7%  irving-kristol  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.5% proximo de 'tony-abbott'\n  [CONTEUDO] 95.9% proximo de 'john-howard'\n  [CONTEUDO] 95.7% proximo de 'irving-kristol'\nOK - passou nas tres checagens.\n",
+    "stderr": "",
+    "warnings": [
+      "[CONTEUDO] 96.5% proximo de 'tony-abbott'",
+      "[CONTEUDO] 95.9% proximo de 'john-howard'",
+      "[CONTEUDO] 95.7% proximo de 'irving-kristol'"
+    ],
+    "blockers": []
+  }
+}

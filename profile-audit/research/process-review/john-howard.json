@@ -1,0 +1,400 @@
+{
+  "id": "john-howard",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "National Museum of Australia: John Howard",
+      "url": "https://www.nma.gov.au/explore/features/prime-ministers/john-howard",
+      "date": "undated; events 1996–2007",
+      "accessed": "2026-10-01",
+      "evidence": "National gun reforms after Port Arthur in 1996; Telstra privatisation; WorkChoices in 2006; national water initiatives in 2006–07."
+    },
+    {
+      "id": "S2",
+      "title": "National Archives: John Howard",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/john-howard",
+      "date": "undated; events 1996–2007",
+      "accessed": "2026-10-01",
+      "evidence": "Entered office through 1996 election; lost government and his own parliamentary seat in 2007."
+    },
+    {
+      "id": "S3",
+      "title": "Workplace Relations Amendment (Work Choices) Bill 2005",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r2465",
+      "date": "2005-12-14",
+      "accessed": "2026-10-01",
+      "evidence": "Created national workplace relations system, direct employer–employee bargaining and Australian Fair Pay Commission minimum wages/conditions."
+    },
+    {
+      "id": "S4",
+      "title": "Northern Territory emergency legislation: introduction",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Legal_and_Constitutional_Affairs/Completed_inquiries/2004-07/nt_emergency/report/c01",
+      "date": "2007-08",
+      "accessed": "2026-10-01",
+      "evidence": "Howard announced intervention on 21 June 2007, using Commonwealth territories powers for child welfare emergency measures."
+    },
+    {
+      "id": "S5",
+      "title": "Museum of Australian Democracy: 1999 republic referendum",
+      "url": "https://www.moadoph.gov.au/explore/democracy/1999-republic-referendum",
+      "date": "event 1999-11-06",
+      "accessed": "2026-10-01",
+      "evidence": "Howard opposed republic proposal and campaigned No while permitting constitutional referendum."
+    },
+    {
+      "id": "S6",
+      "title": "Anti-Terrorism Bill (No. 2) 2005 inquiry",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Legal_and_Constitutional_Affairs/Completed_inquiries/2004-07/terrorism/report/index",
+      "date": "2005-11-28",
+      "accessed": "2026-10-01",
+      "evidence": "Government bill contained preventive detention, control orders, sedition, ASIO and financial investigation powers; parliamentary inquiry recorded constitutional and liberty concerns."
+    },
+    {
+      "id": "S7",
+      "title": "Howard stands by death penalty for terrorists",
+      "url": "https://www.abc.net.au/news/2007-10-10/howard-stands-by-death-penalty-for-terrorists/694212",
+      "date": "2007-10-10",
+      "accessed": "2026-10-01",
+      "evidence": "Howard said he opposed capital punishment in Australia but accepted execution of Bali bombers under Indonesian law."
+    },
+    {
+      "id": "S8",
+      "title": "Parliament: overseas skills recognition, chapter 1",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees.aspx?url=mig%2Frecognition%2Fchapter1.htm",
+      "date": "2006; data 1997–2005",
+      "accessed": "2026-10-01",
+      "evidence": "Migration program expanded from 68,000 in 1997–98 to 110,000 in 2003–04, with policy emphasis on skills. Search-index evidence; full-page tool open failed."
+    },
+    {
+      "id": "S9",
+      "title": "Citizenship testing bill overview",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Legal_and_Constitutional_Affairs/Completed_inquiries/2004-07/citizenship_testing/report/c02",
+      "date": "2007",
+      "accessed": "2026-10-01",
+      "evidence": "Citizenship test proposed knowledge of Australian history, culture and values, and commitment to Australian way of life."
+    },
+    {
+      "id": "S10",
+      "title": "Australian War Memorial: official histories Iraq, Afghanistan and East Timor",
+      "url": "https://www.awm.gov.au/learn/understanding-military-history/official-histories/iraq-afghanistan-timor",
+      "date": "undated; events 1999–2007 within scope",
+      "accessed": "2026-10-01",
+      "evidence": "Australian combat involvement began Afghanistan 2001 and Iraq 2003; Australia led multinational INTERFET peacekeeping in East Timor in 1999."
+    },
+    {
+      "id": "S11",
+      "title": "DFAT: Australia–United States FTA overview",
+      "url": "https://www.dfat.gov.au/trade/agreements/in-force/ausfta/fact-sheets/Pages/overview",
+      "date": "agreement effective 2005-01-01",
+      "accessed": "2026-10-01",
+      "evidence": "Liberalised trade and investment while retaining pharmaceutical benefits, investment screening, audiovisual and quarantine protections."
+    },
+    {
+      "id": "S12",
+      "title": "John Howard 2004 campaign speech",
+      "url": "https://moadoph.gov.au/explore/democracy/election-speeches/john-howard-2004",
+      "date": "2004",
+      "accessed": "2026-10-01",
+      "evidence": "Pledged retention of Medicare safety net, higher GP rebates and subsidies for out-of-hours services, with choice among provider models."
+    },
+    {
+      "id": "S13",
+      "title": "Marriage Amendment Bill 2004",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r2123",
+      "date": "2004-08-16",
+      "accessed": "2026-10-01",
+      "evidence": "Government legislation defined marriage as man and woman and excluded recognition of overseas same-sex marriages."
+    },
+    {
+      "id": "S14",
+      "title": "Federal government to fund chaplains in schools",
+      "url": "https://www.abc.net.au/news/2006-10-29/federal-govt-to-fund-chaplains-in-schools/1297270",
+      "date": "2006-10-29",
+      "accessed": "2026-10-01",
+      "evidence": "Howard announced voluntary school chaplain program for public and private schools; faith chosen by school community, including Islamic and Jewish schools."
+    },
+    {
+      "id": "S15",
+      "title": "PM promises swift action on nuclear report",
+      "url": "https://www.abc.net.au/news/2006-12-29/pm-promises-swift-action-on-nuclear-report/2162850",
+      "date": "2006-12-29",
+      "accessed": "2026-10-01",
+      "evidence": "Howard supported nuclear power as future energy/climate response while acknowledging contemporary cost disadvantage and the need for economic viability."
+    },
+    {
+      "id": "S16",
+      "title": "Australian Parliament lifts ban on therapeutic cloning",
+      "url": "https://www.chron.com/news/nation-world/article/australian-parliament-lifts-ban-on-therapeutic-1877427.php",
+      "date": "2006-12-06",
+      "accessed": "2026-10-01",
+      "evidence": "Associated Press reported Howard voted against expanding therapeutic cloning, appealing to a moral limit; Parliament passed the bill on conscience votes."
+    },
+    {
+      "id": "S17",
+      "title": "Lazarus Rising: publisher description via Google Books",
+      "url": "https://books.google.com/books?id=6JfyjLUwcLQC",
+      "date": "2011-09-01 revised edition; original 2010",
+      "accessed": "2026-10-01",
+      "evidence": "John Howard autobiography, revised edition of bestselling 2010 political memoir; discusses climate change, terrorism and government."
+    },
+    {
+      "id": "S18",
+      "title": "National Archives: 2005 Cabinet papers in context",
+      "url": "https://www.naa.gov.au/explore-collection/cabinet/latest-cabinet-release/2005-cabinet-papers-context",
+      "date": "2026; describes 2005",
+      "accessed": "2026-10-01",
+      "evidence": "WorkChoices sought unified federal system; bibliography identifies John Howard, Lazarus rising: a personal and political autobiography, HarperCollins, Sydney, 2010."
+    },
+    {
+      "id": "S19",
+      "title": "Lazarus Rising catalogue",
+      "url": "https://openlibrary.org/works/OL15890102W/Lazarus_rising",
+      "date": "2010 edition record",
+      "accessed": "2026-10-01",
+      "evidence": "Records 2010 HarperCollins English edition. No verified Portuguese edition found in dedicated search."
+    },
+    {
+      "id": "S20",
+      "title": "National Archives: Howard during office",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/john-howard/during-office",
+      "date": "undated; events 1996–2007",
+      "accessed": "2026-10-01",
+      "evidence": "Howard government responded militarily to East Timor crisis following 1999 independence plebiscite."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "WorkChoices (2005–06) moved employment law towards a national system.",
+        "Northern Territory intervention (June 2007) used federal powers against territorial failure."
+      ],
+      "sources": [
+        "S3",
+        "S4"
+      ],
+      "tension": "Constitutional federation retained; willingness to centralise named policies does not mean abolition of elected states or local government."
+    },
+    "representacao": {
+      "facts": [
+        "Won government through competitive elections in 1996 and lost it in 2007.",
+        "Opposed republic but held 1999 constitutional referendum."
+      ],
+      "sources": [
+        "S2",
+        "S5"
+      ],
+      "tension": "Constitutional monarchist and representative parliamentarian, not advocate of an executive monarch or permanent unelected ruler; no evidence of enthusiasm for popular assemblies/recall."
+    },
+    "poder": {
+      "facts": [
+        "1996 national gun restrictions.",
+        "2005 preventive detention and control orders.",
+        "2007 rejection of domestic death penalty alongside support for Bali bomber executions."
+      ],
+      "sources": [
+        "S1",
+        "S6",
+        "S7"
+      ],
+      "tension": "Security-oriented policy has legal and parliamentary constraints; domestic abolitionism and free political debate should not disappear into an authoritarian stereotype."
+    },
+    "imigracao": {
+      "facts": [
+        "Skills-focused migration expanded in the premiership.",
+        "2007 citizenship testing emphasised English-compatible integration and Australian civic values."
+      ],
+      "sources": [
+        "S8",
+        "S9"
+      ],
+      "tension": "Strict borders and civic assimilation do not imply zero migration, ethnic exclusion or outlawing every immigrant custom."
+    },
+    "diplomacia": {
+      "facts": [
+        "Combat deployments to Afghanistan 2001 and Iraq 2003.",
+        "Led INTERFET 1999."
+      ],
+      "sources": [
+        "S10",
+        "S20"
+      ],
+      "tension": "Willingness to use force and close US alliance differ from unconditional war, independent Australian nuclear weapons or abolishing diplomacy."
+    },
+    "intervencao": {
+      "facts": [
+        "Regional leadership through East Timor intervention 1999.",
+        "Overseas combat deployments 2001/2003."
+      ],
+      "sources": [
+        "S10",
+        "S20"
+      ],
+      "tension": "Alliance-based and sometimes multilateral intervention, not territorial annexation or non-intervention in every conflict."
+    },
+    "economia": {
+      "facts": [
+        "Telstra privatisation and individual employment bargaining.",
+        "2004 campaign pledged Medicare safety net and public subsidies."
+      ],
+      "sources": [
+        "S1",
+        "S3",
+        "S12"
+      ],
+      "tension": "Market ownership and private providers coexist with tax-funded public services and welfare; not anarchocapitalism."
+    },
+    "controle": {
+      "facts": [
+        "WorkChoices strengthened workplace bargaining while retaining a wage-setting commission and minimum conditions."
+      ],
+      "sources": [
+        "S3"
+      ],
+      "tension": "Deregulation is not elimination of every minimum wage, central bank or stabilisation institution."
+    },
+    "comercio": {
+      "facts": [
+        "AUSFTA effective January 2005 liberalised trade and investment."
+      ],
+      "sources": [
+        "S11"
+      ],
+      "tension": "Trade openness retained investment screening, pharmaceutical, audiovisual and quarantine safeguards; no claim of immediate unconditional tariff abolition."
+    },
+    "religiao": {
+      "facts": [
+        "2006 publicly funded voluntary chaplains, multiple faiths eligible."
+      ],
+      "sources": [
+        "S14"
+      ],
+      "tension": "Religious role in education and civic identity coexists with pluralism; no basis for theocracy or replacing civil law with revelation."
+    },
+    "moral": {
+      "facts": [
+        "2004 marriage law restricted marriage to heterosexual unions.",
+        "2006 therapeutic-cloning expansion opposed on moral grounds."
+      ],
+      "sources": [
+        "S13",
+        "S16"
+      ],
+      "tension": "Traditional marriage/family ethics do not imply criminalising homosexuality or depriving women of employment and political participation."
+    },
+    "tecnologia": {
+      "facts": [
+        "2006 advocated nuclear technology as energy/climate response.",
+        "2006 opposed therapeutic cloning while allowing conscience vote."
+      ],
+      "sources": [
+        "S15",
+        "S16"
+      ],
+      "tension": "Industrial and technological optimism with bioethical boundaries; no evidence of transhumanism or blanket opposition to scientific medicine."
+    }
+  },
+  "limitations": [
+    "Scope is historical premiership 1996–2007, not present-day opinions. Retrospective sources only document that period.",
+    "Modern questions about AI, cryptocurrency, brain chips, facial recognition and gender language require cautious analogy, not invented direct quotations. Brazilian examples mean comparable Australian institutions or regional circumstances.",
+    "Migration table supported by search-index text after open failed; no claim that permanent program totals equal net overseas migration.",
+    "No Portuguese edition verified; original title retained under repository rule. Absence of search result is not proof no edition exists."
+  ],
+  "recommendedMetadata": {
+    "changeRequired": false,
+    "reason": "Current concise PT/EN descriptions accurately delimit premiership and signature policies; nuances supplied in prompt."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored substantive political memoir covering governing decisions; publisher description establishes bestseller status and scope. Select this major memoir; original year 2010, not revised edition 2011.",
+    "book": {
+      "personalityId": "john-howard",
+      "title": {
+        "pt": "Lazarus Rising: A Personal and Political Autobiography",
+        "en": "Lazarus Rising: A Personal and Political Autobiography"
+      },
+      "year": 2010,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "S17",
+      "S18",
+      "S19"
+    ]
+  },
+  "processNotes": {
+    "scope": "1996–2007 premiership",
+    "independence": "No existing answers, profile vectors or similarity review files read. Parent supplied only subject and historical scope.",
+    "inputsRead": [
+      ".claude/skills/new-personality/SKILL.md",
+      "profile-audit/NEW_PROFILE.md",
+      "profile-audit/README.md",
+      "profile-audit/prompts/personality/john-howard.txt",
+      "own PT/EN metadata and own book entry lookup"
+    ],
+    "promptBeforeSha256": "6f6fd98febf16dfbe0a7dd639a09a0c92a83c67381b7bf67a58de6d1ef41a3c6",
+    "actualSequence": [
+      "Read methodology and saved prompt; researched facts and tensions for every axis; checked metadata and book before answering.",
+      "Metadata unchanged; notified coordinator of book recommendation.",
+      "Read all 240 question texts in saved prompt and chose answers individually; wrote per-axis briefs and five archetype selections without reading old answers or calculating a target vector.",
+      "Ran original validator after answer file was complete; duplicate blocker and all warnings preserved. Re-ran unchanged validator solely to capture complete output in this research artifact. No vector/distance-driven editing performed."
+    ],
+    "promptSha256": "ec3e23229c3b83cd3fdaac9cf788b1f2b106c716b51ef4ca5e8f1de5ca5d7def",
+    "archetypeBlockSha256": "aa362830a9ab86aff38f5d584665ab0e208d1aa092b354ecb7bff1d7d3634295",
+    "answerSha256": "6a882cfdd9f73c0940e430c7886e791b28b9f603c988913a3d8f0cd2780b7ae1",
+    "answeredAtUtc": "2026-10-01T01:23:55.987542+00:00",
+    "neutralCounts": {
+      "estrutura": 0,
+      "representacao": 0,
+      "poder": 0,
+      "imigracao": 0,
+      "diplomacia": 0,
+      "intervencao": 0,
+      "economia": 0,
+      "controle": 0,
+      "comercio": 0,
+      "religiao": 0,
+      "moral": 1,
+      "tecnologia": 2
+    },
+    "neutralTotal": 3,
+    "answerRationaleNotes": [
+      "poder_15 uses domestic opposition to capital punishment, despite foreign-terrorism exception.",
+      "poder_13 rejects compulsory vaccination as a blanket rule; contemporary incentives do not establish unconditional coercion.",
+      "imigracao permits lawful customs and legal humanitarian/skills migration while requiring civic integration; no ethnic exclusion inferred.",
+      "economia_14 rejects universal time limit because ongoing pensions/family support exist, despite work-conditional benefits.",
+      "tecnologia_13 and _18 are genuine lack of ideological city/rural preference, not missing research substitutes.",
+      "Modern questions answered by bounded analogy to researched principles, not attributed historical statements."
+    ],
+    "validation": {
+      "command": "python3 profile-audit/validate.py personality john-howard",
+      "exitCode": 1,
+      "stdout": "validando personality:john-howard\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/john-howard.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 3/240 = 1.2%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         39.0  centralizado/unitario <-> descentralizado/federal\n  representacao     78.7  autocracia <-> democracia\n  poder             62.7  liberdade civil <-> ordem/vigilancia\n  imigracao         50.5  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        58.8  pacifista <-> militarista\n  intervencao       19.8  nacionalista assertivo <-> nao-intervencionista\n  economia          35.3  privado/mercado <-> publico/coletivo\n  controle          31.9  livre mercado <-> planejamento\n  comercio          23.4  livre comercio/globalista <-> protecionista\n  religiao          37.7  religioso <-> irreligioso/secular\n  moral             27.7  tradicionalista <-> progressista\n  tecnologia        53.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         39.0   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     78.7   | Kim Jong Un=6 .. José Mujica=86\n  poder             62.7   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         50.5   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        58.8   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       19.8   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          35.3   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          31.9   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          23.4   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          37.7   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             27.7   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.3%  scott-morrison  <<< BLOQUEIA\n   96.5%  angus-taylor  <<< aviso\n   95.7%  friedrich-merz  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.5% proximo de 'angus-taylor'\n  [CONTEUDO] 95.7% proximo de 'friedrich-merz'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.3% identico a 'scott-morrison' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "stderr": "",
+      "blockers": [
+        "97.3% identical to scott-morrison"
+      ],
+      "warnings": [
+        "96.5% close to angus-taylor",
+        "95.7% close to friedrich-merz"
+      ],
+      "disposition": "Do not merge without user decision under NEW_PROFILE/README duplicate rule. No answers changed after observing result."
+    },
+    "inputHashes": {
+      ".claude/skills/new-personality/SKILL.md": "d76440b3909abed46df111a5254eebccadf828a3c4c2a79e84b7582685ad5cc4",
+      "profile-audit/NEW_PROFILE.md": "4697319ede831c5da38f7cbc9ef6299b94ca4ed404148ea38a58c90dc1b91008",
+      "profile-audit/README.md": "5cef963f3a7af3abcc6f0991b6146d5113881048d852b36eec7fdd09377bec08",
+      "profile-audit/questions-template.txt": "48a880fdcab46b4f139d263f1f5f34713326122fb4e4e8c85aab34ff3f16da45",
+      "profile-audit/profile_vector.py": "f93ba9e4813740b4caf0bdf1ac68703f101e4efcff28e99b8f7e971aeef4da85",
+      "profile-audit/validate.py": "80559e6b3d068fef84b1968cba177bad19e3eb59a13ba6854db49699fe56943c",
+      "backend/src/main/resources/data/archetype-questions.json": "f2249f1de859f1bd4e03ff1f7f22def967b18befefe913cb872ab9ed53052f70"
+    },
+    "filesWritten": [
+      "profile-audit/prompts/personality/john-howard.txt",
+      "profile-audit/subagent-out/personality/john-howard.json",
+      "profile-audit/research/process-review/john-howard.json"
+    ]
+  }
+}

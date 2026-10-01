@@ -1,0 +1,431 @@
+{
+  "id": "clement-attlee",
+  "profilePeriod": "Labour leadership and government, 1935–1955, incorporating explicitly dated later votes and statements through October 1965",
+  "sources": [
+    {
+      "id": "gov",
+      "title": "History of Clement Attlee, UK Government",
+      "url": "https://www.gov.uk/government/history/past-prime-ministers/clement-attlee",
+      "date": "Undated; events 1935–1955",
+      "accessed": "2026-10-01",
+      "evidence": "Government nationalised coal, electricity and transport, introduced NHS and social insurance, passed planning and national-parks legislation, and decolonised India, Pakistan, Burma, Ceylon and Jordan. Leadership 1935–1955; premiership 1945–1951."
+    },
+    {
+      "id": "manifesto",
+      "title": "Let Us Face the Future, Labour manifesto",
+      "url": "https://sourcebooks.web.fordham.edu/mod/1945labour-letsusface.asp",
+      "date": "1945",
+      "accessed": "2026-10-01",
+      "evidence": "Programme defended press, speech, worship and trade-union freedoms; planned investment and rent/necessity price controls; redistribution and full employment; modern science and productive industry. This is collective party policy under Attlee, not his sole-authored text."
+    },
+    {
+      "id": "welsh",
+      "title": "Welsh Affairs: government statement by Herbert Morrison",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1948/nov/24/welsh-affairs",
+      "date": "1948-11-24",
+      "accessed": "2026-10-01",
+      "evidence": "Government announced nominated, advisory Council for Wales; rejected ministerial chairmanship and preserved Westminster parliamentary authority. The council was consultative, not a devolved legislature."
+    },
+    {
+      "id": "referendum",
+      "title": "House of Commons briefing, Referendums",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-7692/CBP-7692.pdf",
+      "date": "2016; reproduces May 1945 letter",
+      "accessed": "2026-10-01",
+      "evidence": "Attlee rejected Churchill’s proposal for a referendum to prolong the wartime coalition and postpone the general election, defending representative parliamentary elections."
+    },
+    {
+      "id": "security",
+      "title": "Civil Service (Communists and Fascists), Hansard",
+      "url": "https://hansard.parliament.uk/Commons/1948-03-25/debates/ef98157e-5d21-4da6-ac09-72ad17428df5/CivilService(CommunistsAndFascists)",
+      "date": "1948-03-25",
+      "accessed": "2026-10-01",
+      "evidence": "Government defended excluding communists and fascists from sensitive civil-service work on national-security grounds, with review arrangements, rather than prohibiting their political parties."
+    },
+    {
+      "id": "cp",
+      "title": "Communist Party, Great Britain, Hansard",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1950/mar/13/communist-party-great-britain",
+      "date": "1950-03-13",
+      "accessed": "2026-10-01",
+      "evidence": "Attlee explicitly refused to introduce legislation outlawing the British Communist Party after the Fuchs espionage trial."
+    },
+    {
+      "id": "death",
+      "title": "Murder (Abolition of Death Penalty) Bill division",
+      "url": "https://api.parliament.uk/historic-hansard/lords/1965/jul/27/murder-abolition-of-death-penalty-bill-1",
+      "date": "1965-07-27",
+      "accessed": "2026-10-01",
+      "evidence": "Attlee voted Not-Content against an amendment retaining capital punishment for murders associated with police/prison-officer protection and arrest. Later public vote included under the explicit profile period."
+    },
+    {
+      "id": "windrush",
+      "title": "Attlee letter on Windrush, National Archives",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/commonwealth-migration-since-1945/clement-attlee-on-windrush-arrival/",
+      "date": "1948-07-05",
+      "accessed": "2026-10-01",
+      "evidence": "Attlee defended free admission of British subjects irrespective of race or colour, citing Commonwealth loyalty and tradition, while downplaying expectations of continued large-scale arrival. This was Commonwealth citizenship, not universal open borders."
+    },
+    {
+      "id": "bomb",
+      "title": "Decision to build a British atomic bomb, FCDO history",
+      "url": "https://history.blog.gov.uk/2022/01/07/whats-the-context-the-decision-to-build-a-british-atomic-bomb-8-january-1947/",
+      "date": "2022-01-07; event 1947-01-08",
+      "accessed": "2026-10-01",
+      "evidence": "Attlee’s ministerial committee authorised a domestic atomic-bomb programme for security and strategic independence despite economic cost."
+    },
+    {
+      "id": "defence",
+      "title": "Attlee to Chifley, Australian diplomatic archive",
+      "url": "https://www.dfat.gov.au/about-us/publications/historical-documents/Pages/volume-12/178-attlee-to-chifley",
+      "date": "1947-08-06",
+      "accessed": "2026-10-01",
+      "evidence": "Attlee advocated military standardisation and defence research cooperation with the United States and Canada, preserving Commonwealth strength; he distinguished this stage from a formal alliance."
+    },
+    {
+      "id": "malaya",
+      "title": "Malayan Emergency, National Army Museum",
+      "url": "https://www.nam.ac.uk/explore/malayan-emergency",
+      "date": "Undated; relevant events 1948–1951",
+      "accessed": "2026-10-01",
+      "evidence": "The 1950 Briggs strategy coordinated military and police action and controlled settlement populations; by end 1951 hundreds of thousands had been resettled. Later Templer-era acts are excluded from Attlee attribution."
+    },
+    {
+      "id": "bank",
+      "title": "Who owns the Bank of England?",
+      "url": "https://www.bankofengland.co.uk/explainers/who-owns-the-bank-of-england",
+      "date": "Undated; nationalisation 1946",
+      "accessed": "2026-10-01",
+      "evidence": "The Bank became publicly owned in 1946. Use nationalisation as evidence of public monetary authority; do not import its later operational independence into Attlee’s period."
+    },
+    {
+      "id": "trade",
+      "title": "WTO history of the 1947 GATT negotiations",
+      "url": "https://www.wto.org/english/tratop_e/gatt_e/stalin_marshall_conclude_negotiations_e.htm",
+      "date": "2017; events 1947",
+      "accessed": "2026-10-01",
+      "evidence": "UK participation in GATT tariff negotiations coexisted with retention, but not enlargement, of imperial tariff-preference margins. Negotiated liberalisation was compatible with selective protection."
+    },
+    {
+      "id": "religion",
+      "title": "Clement Attlee, Humanist Heritage",
+      "url": "https://heritage.humanists.uk/clement-attlee/",
+      "date": "Undated; biographical historical account",
+      "accessed": "2026-10-01",
+      "evidence": "Attlee did not believe in God; valued Christian ethical inheritance and respected believers. Secular motivation did not amount to militant antireligion."
+    },
+    {
+      "id": "education",
+      "title": "Education Act 1944, National Archives",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/attlees-britain/education-act-1944/",
+      "date": "1944–1945 source",
+      "accessed": "2026-10-01",
+      "evidence": "Coalition education settlement retained denominational participation and a religious settlement. Attlee’s subsequent government implemented this framework; source is contextual, not an Attlee personal declaration."
+    },
+    {
+      "id": "sexualJune",
+      "title": "Sexual Offences Bill, Attlee speech and division",
+      "url": "https://api.parliament.uk/historic-hansard/lords/1965/jun/21/sexual-offences-bill-hl",
+      "date": "1965-06-21",
+      "accessed": "2026-10-01",
+      "evidence": "Attlee supported reversal of the Labouchere provision but endorsed Dilhorne’s amendment retaining criminalisation of sodomy; partial liberalisation coexisted with restrictive morality."
+    },
+    {
+      "id": "sexualOctober",
+      "title": "Sexual Offences Bill, Attlee speech",
+      "url": "https://api.parliament.uk/historic-hansard/lords/1965/oct/28/sexual-offences-bill-hl",
+      "date": "1965-10-28",
+      "accessed": "2026-10-01",
+      "evidence": "Attlee defended reform on grounds that the law failed to deter and should accord with justice, while describing homosexual conduct negatively. Distinguish legal reform from moral endorsement or present-day LGBT equality."
+    },
+    {
+      "id": "equalpay",
+      "title": "Equal Pay (Government Policy), Hansard",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1950/jun/20/equal-pay-government-policy",
+      "date": "1950-06-20",
+      "accessed": "2026-10-01",
+      "evidence": "Attlee affirmed governmental acceptance of equal pay in principle while retaining qualifications over practical implementation."
+    },
+    {
+      "id": "vaccine",
+      "title": "National Health Service Bill debate",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1946/may/02/national-health-service-bill",
+      "date": "1946-05-02",
+      "accessed": "2026-10-01",
+      "evidence": "Contemporary debate records that the government NHS Bill abolished compulsory vaccination; supports distinguishing public provision from blanket medical coercion. Criticism is by a parliamentary opponent, not an Attlee quotation."
+    },
+    {
+      "id": "bookEN",
+      "title": "National Library of Ireland catalogue: The Labour party in perspective",
+      "url": "https://catalogue.nli.ie/Record/vtls000404156",
+      "date": "1937 publication; undated catalogue",
+      "accessed": "2026-10-01",
+      "evidence": "Catalogue records C. R. Attlee as author, Victor Gollancz, London, 1937; subject Labour Party/socialism. A direct political book, selected over his broader memoir."
+    },
+    {
+      "id": "bookPT",
+      "title": "Museu do Ouro library catalogue",
+      "url": "https://museudoouro.museus.gov.br/wp-content/uploads/2019/06/Cat%C3%A1logo-de-obras-acervo-bibliogr%C3%A1fico-MDO.pdf",
+      "date": "2019 catalogue; Brazilian edition undated",
+      "accessed": "2026-10-01",
+      "evidence": "Brazilian museum lists Clement Attlee, Bases e Fundamentos do Trabalhismo, Rio de Janeiro, Editora A Noite, Imagens da Época 2."
+    },
+    {
+      "id": "bookLink",
+      "title": "University of Brasília dissertation bibliography/context",
+      "url": "https://core.ac.uk/download/33548675.pdf",
+      "date": "Dissertation; discusses 1937 book and 1955 Brazilian edition",
+      "accessed": "2026-10-01",
+      "evidence": "Explicitly links The Labour Party in Perspective, first issued 1937, with Brazilian Bases e Fundamentos do Trabalhismo. Brazilian edition dates vary in bibliographies; entry year is original 1937, not translation date."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "1946 NHS and nationalised infrastructure used central standards and national institutions.",
+        "1948 Welsh advisory council preserved Westminster law-making; municipal administration remained meaningful."
+      ],
+      "sources": [
+        "gov",
+        "welsh",
+        "education"
+      ],
+      "tension": "Unitary parliamentary government did not entail abolishing local government; colonial independence is not domestic federalism."
+    },
+    "representacao": {
+      "facts": [
+        "1945 manifesto defended civil freedoms and elected socialist reform.",
+        "Attlee rejected the 1945 referendum proposal and maintained parliamentary elections; refused to outlaw communists in 1950."
+      ],
+      "sources": [
+        "manifesto",
+        "referendum",
+        "cp"
+      ],
+      "tension": "Strong representative democracy, without endorsing plebiscites, leaderless assemblies or unelected constitutional supremacy over Parliament."
+    },
+    "poder": {
+      "facts": [
+        "1948 security screening limited sensitive employment.",
+        "1950 refusal to ban communists and 1965 anti-retention capital-punishment vote limit an authoritarian reading.",
+        "1946 NHS Bill rejected compulsory vaccination; Malayan emergency used coercive population control."
+      ],
+      "sources": [
+        "security",
+        "cp",
+        "death",
+        "vaccine",
+        "malaya"
+      ],
+      "tension": "Domestic liberties and later penal reform coexist with emergency powers and imperial coercion; public healthcare is not automatic blanket compulsion."
+    },
+    "imigracao": {
+      "facts": [
+        "1948 Windrush letter defended Commonwealth-subject entry regardless of colour, alongside concern to preserve Commonwealth loyalty."
+      ],
+      "sources": [
+        "windrush"
+      ],
+      "tension": "Neither a racial exclusion programme nor modern universal open-border multiculturalism; practical integration and citizenship boundaries matter."
+    },
+    "diplomacia": {
+      "facts": [
+        "1947 atomic-bomb decision and defence cooperation demonstrate material armament commitment.",
+        "Labour rejected Nazi aggression and maintained overseas force."
+      ],
+      "sources": [
+        "bomb",
+        "defence",
+        "manifesto",
+        "malaya"
+      ],
+      "tension": "Defence and deterrence with allies, not enthusiasm for war for its own sake or pacifist disarmament."
+    },
+    "intervencao": {
+      "facts": [
+        "Independence for several colonies coexisted with intervention in Malaya.",
+        "1947 Attlee letter sought Western/Commonwealth military coordination."
+      ],
+      "sources": [
+        "gov",
+        "malaya",
+        "defence"
+      ],
+      "tension": "Anti-isolationist and willing to defend influence, while accepting negotiated self-government; decolonisation does not imply no foreign deployment."
+    },
+    "economia": {
+      "facts": [
+        "NHS, national insurance, nationalisation of coal, electricity and transport enacted 1946–1948.",
+        "Government preserved a large private sector; programme used constitutional reform and unions."
+      ],
+      "sources": [
+        "gov",
+        "manifesto",
+        "bank"
+      ],
+      "tension": "Public strategic sectors and welfare are central; do not infer elimination of all firms or revolutionary expropriation."
+    },
+    "controle": {
+      "facts": [
+        "1945 programme explicitly planned investment and controlled essential prices/rents.",
+        "1946 nationalisation of central bank supports elected direction of monetary institutions."
+      ],
+      "sources": [
+        "manifesto",
+        "bank"
+      ],
+      "tension": "Extensive direction of a mixed economy, not necessarily comprehensive state planning of every transaction."
+    },
+    "comercio": {
+      "facts": [
+        "1947 GATT negotiations expanded reciprocal trade while retaining imperial preferences."
+      ],
+      "sources": [
+        "trade"
+      ],
+      "tension": "Support trade expansion and negotiated reductions; reject both complete autarky and unconditional zero tariffs/capital freedom."
+    },
+    "religiao": {
+      "facts": [
+        "Personal unbelief coexisted with respect for Christian social ethics.",
+        "1944 education settlement and freedom of worship remained compatible with his government."
+      ],
+      "sources": [
+        "religion",
+        "education",
+        "manifesto"
+      ],
+      "tension": "Secular ethical politics without suppression of religion or automatic removal of every religious custom."
+    },
+    "moral": {
+      "facts": [
+        "1950 equal-pay principle with implementation qualifications.",
+        "June 1965 supported limited homosexual-law reform with retained restrictions; October 1965 justified reform pragmatically while morally disapproving."
+      ],
+      "sources": [
+        "equalpay",
+        "sexualJune",
+        "sexualOctober"
+      ],
+      "tension": "Do not import contemporary identity politics or equate reform of criminal law with same-sex marriage/adoption endorsement. Family norms remain cautious."
+    },
+    "tecnologia": {
+      "facts": [
+        "1945 programme championed science, modern homes and industrial productivity.",
+        "1947 atomic programme demonstrates technological ambition; 1949 National Parks and planning constrain development."
+      ],
+      "sources": [
+        "manifesto",
+        "bomb",
+        "gov"
+      ],
+      "tension": "Industrial modernisation plus public regulation and conservation; no evidence for transhumanism or unrestricted enhancement."
+    }
+  },
+  "limitations": [
+    "Modern Brazilian institutions are interpreted functionally; references to Brazil become Britain or analogous national decisions, never claims that Attlee discussed Brazil’s present policies.",
+    "AI, crypto, facial recognition, gene editing, modern gender language and laboratory meat answers are explicitly analogical judgements from documented principles, not recovered statements.",
+    "Government or party programmes are collective evidence and are labelled separately from personal speeches/votes.",
+    "Historical model retains 1935–1955 leadership plus explicitly dated public evidence through October 1965. Later acts by successors, private conjectures and posthumous norms excluded.",
+    "Technology and contemporary family-policy extrapolations have lower confidence; N is reserved for substantive conflict, not missing evidence."
+  ],
+  "recommendedMetadata": {
+    "status": "no-change",
+    "reason": "Both PT and EN accurately capture government period, nationalisation, NHS, decolonisation, NATO and nuclear/military commitments; existing names and roles accurate."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political exposition; relevant to parliamentary-socialist doctrine. No existing books.json entry. Verified original 1937 and actual Brazilian title, rather than translating title ad hoc.",
+    "book": {
+      "personalityId": "clement-attlee",
+      "title": {
+        "pt": "Bases e fundamentos do trabalhismo",
+        "en": "The Labour Party in Perspective"
+      },
+      "year": 1937,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "bookEN",
+      "bookPT",
+      "bookLink"
+    ]
+  },
+  "processNotes": {
+    "independence": "Read only this saved prompt, metadata, existing research period/source URLs and controlling documents. No answer archives, vectors, similarity reports or numerical targets consulted. One independent audit, no delegation.",
+    "metadataGate": "Coordinator notified before answers: PT/EN accurate, no corrections needed.",
+    "likelyNeighboursAndDistinctions": [
+      "Fabian and democratic-socialist neighbours: shared parliamentary public provision; Attlee is distinguished by actual nationalisation and NHS construction, early Cold War defence and imperial emergencies.",
+      "Keynesian/social-liberal neighbours: shared demand management and constitutional politics, but Attlee accepted broader state ownership and labour organisation.",
+      "Communist neighbours: shared planning language does not imply one-party rule, wholesale collectivisation, or religious repression.",
+      "Conservative Atlanticist neighbours: shared defence alliances and cautious family norms, but sharply different ownership, welfare and trade-union policies."
+    ],
+    "phase": "independent answers and original validation complete; coordinator decision required for duplicate warning",
+    "promptSha256": "5f20175c68145a3c34b92d1e77d39a5d6f1bb1686e2039d3dcf42195bb0be3ac",
+    "answersSha256": "84fe85b48566884bc0e69e9683cf21982232848f58db0a6d8a92a67c40da8de7",
+    "validation": {
+      "command": "python3 profile-audit/validate.py personality clement-attlee",
+      "exitCode": 0,
+      "stdout": "validando personality:clement-attlee\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/clement-attlee.json\n\n[ARQUETIPO] sociedade E · poder C · economia B · mundo B · tecnologia D\n[NEUTROS] total 13/240 = 5.4%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         37.9  centralizado/unitario <-> descentralizado/federal\n  representacao     78.7  autocracia <-> democracia\n  poder             59.1  liberdade civil <-> ordem/vigilancia\n  imigracao         44.8  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        61.2  pacifista <-> militarista\n  intervencao       29.3  nacionalista assertivo <-> nao-intervencionista\n  economia          84.6  privado/mercado <-> publico/coletivo\n  controle          85.3  livre mercado <-> planejamento\n  comercio          51.4  livre comercio/globalista <-> protecionista\n  religiao          57.5  religioso <-> irreligioso/secular\n  moral             28.6  tradicionalista <-> progressista\n  tecnologia        53.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         37.9   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     78.7   | Kim Jong Un=6 .. José Mujica=86\n  poder             59.1   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         44.8   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        61.2   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       29.3   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          84.6   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          85.3   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          51.4   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          57.5   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             28.6   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   96.6%  franklin-roosevelt  <<< aviso\n   92.7%  lyndon-b-johnson\n   92.7%  golda-meir\n\nAVISOS (nao bloqueiam, mas confira):\n  [NEUTROS] tecnologia: 6/20 = 30% de N (perto do limite)\n  [CONTEUDO] 96.6% proximo de 'franklin-roosevelt'\nOK - passou nas tres checagens.\n",
+      "stderr": ""
+    },
+    "promptIntegrity": {
+      "exactReadmeMethodology": true,
+      "exactQuestionTemplate": true,
+      "freshArchetypeBlockAtEnd": true
+    },
+    "neutralCount": 13,
+    "neutralRatePercent": 5.416666666666667,
+    "neutralByAxis": {
+      "estrutura": 0,
+      "representacao": 0,
+      "poder": 0,
+      "imigracao": 1,
+      "diplomacia": 0,
+      "intervencao": 0,
+      "economia": 1,
+      "controle": 0,
+      "comercio": 0,
+      "religiao": 2,
+      "moral": 3,
+      "tecnologia": 6
+    },
+    "warnings": [
+      "[NEUTROS] tecnologia: 6/20 = 30% de N (perto do limite)",
+      "[CONTEUDO] 96.6% proximo de 'franklin-roosevelt'"
+    ],
+    "blockers": {
+      "validator": [],
+      "workflow": [
+        "Duplicate proximity exceeds NEW_PROFILE/README threshold. Requires coordinator/user decision before merge; not resolved by validator exit 0."
+      ]
+    },
+    "noScoreTuning": true,
+    "archetypeChoices": {
+      "sociedade": "E",
+      "poder": "C",
+      "economia": "B",
+      "mundo": "B",
+      "tecnologia": "D"
+    },
+    "neutralReasoning": {
+      "imigracao_02": "Plural cultural citizenship and regional identities coexist with common national language expectations.",
+      "economia_12": "Public-service continuity/protection versus retention of disciplinary removal; blanket elimination of tenure overstates either side.",
+      "religiao_05": "Religious charity and voluntary social provision merit accommodation, but commercial organisations remain accountable.",
+      "religiao_14": "Marriage can have religious social meaning without being exclusively a religious legal institution.",
+      "moral_09": "Social-health compassion versus cautious family/sexual morality; neither unconditional moral condemnation nor unrestricted acceptance inferred.",
+      "moral_19": "Artistic expression versus traditional standards of public modesty across the question’s different contexts.",
+      "moral_18": "Equal-pay principle and women’s public role coexist with conventional family expectations.",
+      "tecnologia_13": "Planned modern urban living and access to countryside are both public goods, without blanket metropolitan superiority.",
+      "tecnologia_18": "Same city/countryside tension assessed from the reverse proposition.",
+      "tecnologia_08": "National-parks protection and urgent industrial reconstruction are both documented objectives; blanket ordering rejected.",
+      "tecnologia_15": "Medical innovation and public oversight conflict when elective capability enhancement lacks a health rationale.",
+      "tecnologia_06": "Food productivity and protection of human health pull in different directions in a blanket trade-off.",
+      "tecnologia_09": "Disease prevention and elective intelligence enhancement are materially distinct; this combined proposition conflicts with cautious medical modernisation."
+    },
+    "scope": "Only assigned prompt, staged answer and process-review research written; no archive/vector/STATE/shared metadata/books changes; no project tests; coordinator integrates."
+  }
+}

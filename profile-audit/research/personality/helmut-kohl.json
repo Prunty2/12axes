@@ -1,0 +1,323 @@
+{
+  "id": "helmut-kohl",
+  "country": "Germany",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Chancellorship, 1982–1998; later disclosure of the period’s donations scandal retained as context.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Kohl: subsidiarity, family and humane technological progress",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/30-mai-1986/",
+      "factDate": "1986-05-30",
+      "accessedOn": "2026-10-01",
+      "evidence": "Advocates local and Land autonomy, delegated European competences, family support and individual responsibility; couples social-market welfare with scientific progress subject to human dignity. Nuclear safety and protection against genetic manipulation are explicit. Defends NATO and conscription alongside arms reduction."
+    },
+    {
+      "id": "S2",
+      "title": "Bundestag: Kohl retrospective and donations",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2017/kw25-de-kohl-510862",
+      "factDate": "2017-06-22",
+      "accessedOn": "2026-10-01",
+      "evidence": "Documents parliamentary election as chancellor in 1982, repeated electoral contests and defeat in 1998, negotiated reunification, Maastricht, and the 1999 revelations of unreported donations and refusal to identify donors."
+    },
+    {
+      "id": "S3",
+      "title": "bpb: 1998 acoustic surveillance amendment",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/262861/vor-20-jahren-grundgesetzaenderung-fuer-den-grossen-lauschangriff/",
+      "factDate": "2018-01-15",
+      "accessedOn": "2026-10-01",
+      "evidence": "The governing CDU/CSU-FDP coalition with SPD support amended Article 13 in January 1998 to allow acoustic surveillance of homes for serious criminal investigations; civil-liberties objections remained significant."
+    },
+    {
+      "id": "S4",
+      "title": "Bundestag: unity as a task, 1990–1994",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/wahlperioden-12-202286",
+      "factDate": "2010 retrospective; events 1990–1994",
+      "accessedOn": "2026-10-01",
+      "evidence": "Kohl government pursued equal living conditions after reunification, constitutional changes on asylum, gender equality and environmental protection. Asylum restrictions coexist with national reconstruction and constitutional government."
+    },
+    {
+      "id": "S5",
+      "title": "Bundestag asylum amendment debate",
+      "url": "https://dserver.bundestag.de/btp/12/12160.pdf",
+      "factDate": "1993-05-26",
+      "accessedOn": "2026-10-01",
+      "evidence": "Primary parliamentary record of the cross-party asylum compromise and safe-third-country restrictions; evidence for government-era restriction, not a claim that every speaker expresses Kohl personally."
+    },
+    {
+      "id": "S6",
+      "title": "Kohl: Munich Security Conference",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/3-februar-1996/",
+      "factDate": "1996-02-03",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supports NATO collective defence and Bosnia peace deployment, careful enlargement with attention to Russia and Ukraine, European defence cooperation and deeper political integration; denounces revival of old nationalism."
+    },
+    {
+      "id": "S7",
+      "title": "Kohl: Catholic gathering and Europe",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/23-juni-1991/",
+      "factDate": "1991-06-23",
+      "accessedOn": "2026-10-01",
+      "evidence": "Presents Christian faith as a public moral source and defends state responsibility toward unborn life; combines that with reconciliation, freedom and Western alliances."
+    },
+    {
+      "id": "S8",
+      "title": "bpb: repeal of Paragraph 175",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/180263/1994-homosexualitaet-nicht-mehr-strafbar/",
+      "factDate": "2014-03-10; event 1994",
+      "accessedOn": "2026-10-01",
+      "evidence": "Paragraph 175 was abolished in 1994 during Kohl government. Traditional marriage preferences cannot be equated to blanket criminalisation of homosexuality."
+    },
+    {
+      "id": "S9",
+      "title": "Kohl economic and fiscal policy, Reimut Zohlnhöfer",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/wirtschafts-und-finanzpolitik/",
+      "factDate": "undated retrospective; events 1982–1998",
+      "accessedOn": "2026-10-01",
+      "evidence": "Tax cuts, deregulation, Treuhand privatisations and Lufthansa sale; Telekom partial privatisation from 1996. Reform was gradual and institutionally constrained, with major reunification spending and continued welfare commitments."
+    },
+    {
+      "id": "S10",
+      "title": "Kohl: defence of independent Bundesbank",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/27-august-1991/",
+      "factDate": "1991-08-27",
+      "accessedOn": "2026-10-01",
+      "evidence": "Explicitly praises legally guaranteed central-bank independence and monetary stability as foundations for a free economy."
+    },
+    {
+      "id": "S11",
+      "title": "White House: Clinton and Kohl press availability",
+      "url": "https://clintonwhitehouse6.archives.gov/1993/03/1993-03-26-clinton-kohl-press-availability.html",
+      "factDate": "1993-03-26",
+      "accessedOn": "2026-10-01",
+      "evidence": "Kohl endorses successful GATT completion, European union alongside Atlantic ties, science exchanges, support for Russian reform and efforts toward peace in Bosnia."
+    },
+    {
+      "id": "S12",
+      "title": "Kohl social policy history",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/sozialpolitik/",
+      "factDate": "undated retrospective; events 1982–1998",
+      "accessedOn": "2026-10-01",
+      "evidence": "Fiscal restraint and welfare retrenchment coexist with preservation of social insurance and introduction of long-term care insurance in 1995."
+    },
+    {
+      "id": "S13",
+      "title": "Kohl bibliography",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/bibliographie/helmut-kohl-schriften/",
+      "factDate": "undated bibliography; book 1996",
+      "accessedOn": "2026-10-01",
+      "evidence": "Lists Ich wollte Deutschlands Einheit, represented by Kai Diekmann and Ralf Georg Reuth, Berlin 1996; distinguishes later 1998 paperback and French translation. Also lists Kohl memoir volumes."
+    },
+    {
+      "id": "S14",
+      "title": "CVCE: Kohl political memoir excerpt",
+      "url": "https://www.cvce.eu/de/obj/helmut_kohl_i_wanted_german_unity-en-83aea836-6f4c-4c32-b036-a78aba3b8a6d.html",
+      "factDate": "book 1996; archive undated",
+      "accessedOn": "2026-10-01",
+      "evidence": "Search-index record identifies Kohl memoir of European negotiations on German unity, Propyläen-Verlag 1996, with Diekmann/Reuth assistance. Full page returned tool error; corroboration used from bibliography."
+    },
+    {
+      "id": "S15",
+      "title": "Kohl: scientific progress and ethical limits",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/26-mai-1987/",
+      "factDate": "1987-05-26",
+      "accessedOn": "2026-10-01",
+      "evidence": "Speech on technological progress and ethical limits; evidence supplements the directly read 1986 discussion of research, nuclear safety and human dignity."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "S1",
+        "S4"
+      ],
+      "facts": [
+        "In 1986 Kohl explicitly advocated subsidiarity for municipalities, Länder, federal government and European institutions.",
+        "Reunification used a federal constitutional framework with national solidarity."
+      ],
+      "tension": "Federalism is not secession; equal living conditions and European competences limit local autonomy."
+    },
+    "representacao": {
+      "sourceIds": [
+        "S2"
+      ],
+      "facts": [
+        "Parliament elected Kohl in 1982, elections confirmed him and the 1998 election ended his government.",
+        "Donations from his governing years were concealed, and he later refused to identify donors."
+      ],
+      "tension": "Democratic institutions coexist with patronage and deficient financial accountability; do not turn those failings into support for dictatorship."
+    },
+    "poder": {
+      "sourceIds": [
+        "S3",
+        "S1"
+      ],
+      "facts": [
+        "The 1998 governing coalition backed expanded residential surveillance against organised crime.",
+        "His public framework remained the democratic rule of law."
+      ],
+      "tension": "Security powers are subject to law; surveillance support does not imply death penalty, arbitrary detention or unlimited executive censorship."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "S5",
+        "S1"
+      ],
+      "facts": [
+        "The 1993 government-backed asylum compromise restricted entry through safe third countries.",
+        "Kohl defended national cultural belonging alongside European openness."
+      ],
+      "tension": "Restrictive asylum and integration preferences do not mean racial exclusion or compulsory erasure of private cultural traditions."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "S6",
+        "S1"
+      ],
+      "facts": [
+        "In 1996 Kohl supported NATO collective defence, its Bosnia mission and European military capacity.",
+        "His 1986 speech defended conscription while seeking East-West balance with fewer weapons."
+      ],
+      "tension": "Armed deterrence and alliance obligations coexist with negotiated peace and opposition to aggressive nationalism."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "S6",
+        "S11"
+      ],
+      "facts": [
+        "Kohl supported international peace deployments, Russian reform assistance and deeper European institutions.",
+        "He expressly rejected return to the old sovereign nationalist state."
+      ],
+      "tension": "He rejects isolationism and unilateral national supremacy alike; allied intervention does not mean imperial domination of neighbours."
+    },
+    "economia": {
+      "sourceIds": [
+        "S9",
+        "S12"
+      ],
+      "facts": [
+        "Government privatised Lufthansa, Treuhand assets and part of Telekom.",
+        "It preserved social insurance and added long-term care insurance in 1995."
+      ],
+      "tension": "Private enterprise and property with a social safety net; neither nationalisation of all strategic sectors nor privatisation of police/courts."
+    },
+    "controle": {
+      "sourceIds": [
+        "S9",
+        "S10"
+      ],
+      "facts": [
+        "Tax reductions and liberalisation remained policy aims amid reunification costs.",
+        "In August 1991 Kohl explicitly defended Bundesbank independence and monetary stability."
+      ],
+      "tension": "Market allocation with social and legal regulation, rather than either a command economy or unregulated private money."
+    },
+    "comercio": {
+      "sourceIds": [
+        "S11",
+        "S6"
+      ],
+      "facts": [
+        "At the March 1993 White House press conference Kohl sought successful GATT completion.",
+        "European economic integration was central to his government."
+      ],
+      "tension": "Trade liberalisation through negotiated institutions; does not require abolishing all safeguards overnight."
+    },
+    "religiao": {
+      "sourceIds": [
+        "S7",
+        "S1"
+      ],
+      "facts": [
+        "His 1991 Catholic address treated faith and protection of unborn life as politically relevant.",
+        "In 1986 he explicitly criticised costs of secularisation while supporting constitutional democracy."
+      ],
+      "tension": "Christian democratic public ethics differs from clerical government or exclusion of nonbelievers."
+    },
+    "moral": {
+      "sourceIds": [
+        "S7",
+        "S1",
+        "S8"
+      ],
+      "facts": [
+        "He publicly defended unborn life in 1991 and traditional family support in 1986.",
+        "His government era included the 1994 repeal of the criminal provision against male homosexuality."
+      ],
+      "tension": "Traditional family norms do not justify assuming all consensual adult relationships should be criminalised; working mothers were acknowledged."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "S1",
+        "S15",
+        "S4"
+      ],
+      "facts": [
+        "In 1986 he defended research, industry and modern medicine while insisting on nuclear safety and limits on human genetic manipulation.",
+        "His government period included environmental constitutional protection."
+      ],
+      "tension": "Technological optimism is bounded by environmental stewardship and Christian bioethics, not transhumanist acceleration."
+    }
+  },
+  "uncertainties": [
+    "Historical persona, not current German CDU policy. Later private positions excluded; later evidence of governing-period donations retained.",
+    "Digital surveillance, AI, cryptocurrency, gender identity, Brazilian quotas and Amazon mining require analogical judgments; no direct Kohl statement claimed. N reserved for real balanced preferences, not undocumented topics.",
+    "Coalition legislation is evidence of governing practice but does not establish Kohl personally endorsed every detail. Foundation sources have a CDU affiliation and are cross-checked with Bundestag, bpb and White House records.",
+    "Original CVCE book page failed to open; its indexed bibliographic record was corroborated by the Kohl bibliography. No Brazilian or English full-edition translation verified; use original title."
+  ],
+  "distinctions": {
+    "record": "profile-audit/research/process-review/helmut-kohl.json",
+    "note": "Qualitative pre-answer distinctions and process are recorded in this independent review."
+  },
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Helmut_Kohl_1989.jpg",
+    "author": "CDU / KAS-ACDP, 10-030:200",
+    "license": "CC BY-SA 3.0 DE",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Helmut_Kohl_1989.jpg",
+    "date": "1989",
+    "note": "Existing Commons portrait from the CDU European election poster, recompressed from 87 KB to 42 KB; remains under CC BY-SA 3.0 DE.",
+    "visuallyChecked": true
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/helmut-kohl.json",
+    "answerArchive": "profile-audit/answers/personality/helmut-kohl.json",
+    "agent": "/root/independent_kohl",
+    "answersSha256": "7e84cd8453c4e593eeb434d922851a4825653dda8e345e477a3b592a2a55bb0d",
+    "validation": "Independent review complete. User requested retaining the full 32-person scope after the overlap report; current upstream validator results are recorded separately."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Authored political memoir of reunification, especially relevant to defining political achievement. Kohl is the memoir voice; Kai Diekmann and Ralf Georg Reuth are credited as presenting/editing collaborators. First edition 1996 confirmed; later paperback is not first publication. No verified PT-BR or English book edition found, so retain German original in both fields. Existing books catalog has no Kohl entry.",
+    "book": {
+      "personalityId": "helmut-kohl",
+      "title": {
+        "pt": "Ich wollte Deutschlands Einheit",
+        "en": "Ich wollte Deutschlands Einheit"
+      },
+      "year": 1996,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "S13",
+      "S14"
+    ]
+  },
+  "religionMetadataReview": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 21.0,
+    "sourceIds": [
+      "S7",
+      "S1"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  }
+}

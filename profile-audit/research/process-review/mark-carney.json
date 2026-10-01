@@ -1,0 +1,405 @@
+{
+  "id": "mark-carney",
+  "profilePeriod": "Premiership, March 2025–September 2026, with dated earlier monetary principles.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "One Canadian Economy Act",
+      "url": "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2025_2/page-1.html?txthl=indigenous",
+      "date": "2025-06-26",
+      "accessed": "2026-10-01",
+      "evidence": "Cabinet designates national-interest projects; exclusive provincial jurisdiction requires written provincial consent. Constitutional Indigenous rights remain recognized."
+    },
+    {
+      "id": "S2",
+      "title": "BCAFN criticism of Bill C-5",
+      "url": "https://www.bcafn.ca/news/federal-government-rushes-bill-c-5-through-parliament-violating-first-nations-rights-its-own",
+      "date": "2025-06-18",
+      "accessed": "2026-10-01",
+      "evidence": "First Nations organization criticized accelerated passage, inadequate consultation and excessive cabinet discretion; its objection is evidence of contested consent, not a judicial finding."
+    },
+    {
+      "id": "S3",
+      "title": "Canada-Australia joint statement",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/03/05/joint-statement-prime-minister-mark-carney-and-prime-minister-anthony",
+      "date": "2026-03-05",
+      "accessed": "2026-10-01",
+      "evidence": "Carney endorsed parliamentary democracy, multiculturalism, equality before law and First Nations cultures, with open trade and strategic cooperation."
+    },
+    {
+      "id": "S4",
+      "title": "Bail and sentencing reforms become law",
+      "url": "https://www.canada.ca/en/department-justice/news/2026/06/canadas-sweeping-bail-and-sentencing-reforms-become-law.html",
+      "date": "2026-06-16",
+      "accessed": "2026-10-01",
+      "evidence": "Reverse-onus bail for specified repeat/violent offences and tougher sentencing; provinces retain justice administration responsibilities."
+    },
+    {
+      "id": "S5",
+      "title": "Lawful access",
+      "url": "https://www.canada.ca/en/services/policing/police/crime-and-crime-prevention/lawful-access.html",
+      "date": "2026-06-23",
+      "accessed": "2026-10-01",
+      "evidence": "Government seeks expanded lawful-access capability in Bill C-22; describes judicial warrants and differentiated thresholds, rather than unlimited warrantless interception."
+    },
+    {
+      "id": "S6",
+      "title": "National Day Against Gun Violence",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/06/05/statement-prime-minister-carney-national-day-against-gun-violence",
+      "date": "2026-06-05",
+      "accessed": "2026-10-01",
+      "evidence": "Carney backs assault-style firearm compensation, red-flag removal and additional RCMP and border personnel."
+    },
+    {
+      "id": "S7",
+      "title": "Controlled immigration increase discussion",
+      "url": "https://toronto.citynews.ca/2026/09/29/carney-suggests-immigration-increase-is-on-the-horizon-in-new-york-times-interview/",
+      "date": "2026-09-29",
+      "accessed": "2026-10-01",
+      "evidence": "Canadian Press reports Carney considering when controlled population growth can resume after curbing student and temporary-worker admissions; no new target announced."
+    },
+    {
+      "id": "S8",
+      "title": "Canadian Multiculturalism Day",
+      "url": "https://www.pm.gc.ca/en/news/statements/2025/06/27/statement-prime-minister-carney-canadian-multiculturalism",
+      "date": "2025-06-27",
+      "accessed": "2026-10-01",
+      "evidence": "Carney explicitly values bilingual, multicultural Canadian nationhood, cultural and linguistic traditions, and reconciliation."
+    },
+    {
+      "id": "S9",
+      "title": "NATO Summit defence partnerships",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/07/08/prime-minister-carney-secures-new-defence-partnerships-2026-nato",
+      "date": "2026-07-08",
+      "accessed": "2026-10-01",
+      "evidence": "Carney supports NATO collective defence, Arctic security, expanded procurement, deterrence and Ukraine, with a path toward the alliance spending commitment."
+    },
+    {
+      "id": "S10",
+      "title": "UN General Assembly priorities",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/23/prime-minister-carney-advances-collective-security-climate-and-peace-priorities",
+      "date": "2026-09-23",
+      "accessed": "2026-10-01",
+      "evidence": "Carney backed UN cooperation and international law, Palestinian humanitarian assistance and two-state diplomacy; government also imposed targeted Iranian human-rights sanctions."
+    },
+    {
+      "id": "S11",
+      "title": "Canada Strong Fund",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/04/27/prime-minister-carney-announces-canada-strong-fund-canadas-first",
+      "date": "2026-04-27",
+      "accessed": "2026-10-01",
+      "evidence": "A public sovereign fund was announced to invest alongside private capital in infrastructure, minerals, agriculture and conventional and clean energy."
+    },
+    {
+      "id": "S12",
+      "title": "Canada Investment Summit remarks",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2026/09/15/prime-minister-carney-delivers-opening-remarks-canada-investment-summit",
+      "date": "2026-09-15",
+      "accessed": "2026-10-01",
+      "evidence": "Carney touts tax reductions, regulatory acceleration, private investment and operating restraint while preserving social programs; favors nuclear, resource exports and carbon capture."
+    },
+    {
+      "id": "S13",
+      "title": "Lambda, lambda, lambda",
+      "url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2017/lambda.pdf",
+      "date": "2017-01-16",
+      "accessed": "2026-10-01",
+      "evidence": "Carney defends operational monetary independence under democratically set objectives and parliamentary accountability; distinguishes delegated expertise from unlimited discretion."
+    },
+    {
+      "id": "S14",
+      "title": "China strategic partnership remarks",
+      "url": "https://www.pm.gc.ca/en/news/speeches/2026/01/16/prime-minister-carney-delivers-remarks-after-forging-new-strategic",
+      "date": "2026-01-16",
+      "accessed": "2026-10-01",
+      "evidence": "Carney announced a quota of 49,000 Chinese EVs at a 6.1% tariff, linking affordable imports to investment and domestic industrial development."
+    },
+    {
+      "id": "S15",
+      "title": "Deeper European partnership",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/17/prime-minister-carney-deepens-ties-trusted-allies-visit-france-and",
+      "date": "2026-09-17",
+      "accessed": "2026-10-01",
+      "evidence": "Carney seeks greater EU economic integration and defence cooperation, including critical minerals and technology, as means to strategic autonomy."
+    },
+    {
+      "id": "S16",
+      "title": "Faith and service after papal Mass",
+      "url": "https://www.catholicregister.org/item/2278-prime-minister-reflects-on-faith-service-after-pope-s-inaugural-mass",
+      "date": "2025-05-22",
+      "accessed": "2026-10-01",
+      "evidence": "Carney says Catholic faith motivates public service but does not determine government policies; he personally participates in Catholic worship."
+    },
+    {
+      "id": "S17",
+      "title": "Pride flag ceremony",
+      "url": "https://toronto.citynews.ca/2026/06/09/carney-mps-raise-pride-flag-on-parliament-hill/",
+      "date": "2026-06-09",
+      "accessed": "2026-10-01",
+      "evidence": "Canadian Press reports Carney defending LGBTQ dignity, inclusion and representation, and funding security for Pride festivals."
+    },
+    {
+      "id": "S18",
+      "title": "Digital Transformation Canada",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/03/prime-minister-carney-launches-digital-transformation-canada-deliver",
+      "date": "2026-09-03",
+      "accessed": "2026-10-01",
+      "evidence": "Government promotes responsible AI adoption, digital public services and procurement supporting Canadian technology firms."
+    },
+    {
+      "id": "S19",
+      "title": "Ocean protection investment",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/09/29/prime-minister-carney-announces-historic-investment-protect-canadas",
+      "date": "2026-09-29",
+      "accessed": "2026-10-01",
+      "evidence": "Carney links expanded ports and maritime trade to ecosystem protection, monitoring and conservation funding."
+    },
+    {
+      "id": "S20",
+      "title": "Value(s), publisher record",
+      "url": "https://www.hachettebookgroup.com/titles/mark-carney/values/9781541768710/?lens=publicaffairs",
+      "date": "2021-05-25",
+      "accessed": "2026-10-01",
+      "evidence": "Publisher identifies Mark Carney as author of Value(s): Building a Better World for All, a 2021 political-economic critique of market values and plan for responsible capitalism."
+    },
+    {
+      "id": "S21",
+      "title": "Canada Strong platform",
+      "url": "https://liberal.ca/wp-content/uploads/sites/292/2025/04/Canada-Strong.pdf",
+      "date": "2025-04",
+      "accessed": "2026-10-01",
+      "evidence": "Search-indexed primary platform excerpts support public healthcare expansion and permanent reproductive-health funding. Full PDF fetch failed; claims limited to retrieved excerpts."
+    },
+    {
+      "id": "S22",
+      "title": "Carney public-healthcare pledge",
+      "url": "https://www.westernstandard.news/amp/story/news/carney-pledges-major-spending-to-protect-and-modernize-canadas-public-health-care/64164",
+      "date": "2025-04-21",
+      "accessed": "2026-10-01",
+      "evidence": "Reporting records Carney defending healthcare as a right and promising public-system expansion in cooperation with provinces and Indigenous peoples."
+    },
+    {
+      "id": "S23",
+      "title": "MAID extension deliberation",
+      "url": "https://toronto.citynews.ca/2026/05/06/carney-liberals-say-theyre-waiting-on-committee-report-to-decide-on-maid-extension/",
+      "date": "2026-05-06",
+      "accessed": "2026-10-01",
+      "evidence": "Carney deferred a position on extending assisted dying to mental illness alone pending committee evidence; this is separate from established terminal-illness access."
+    },
+    {
+      "id": "S24",
+      "title": "Defence Industrial Strategy",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/02/17/prime-minister-carney-launches-canadas-first-defence-industrial",
+      "date": "2026-02-17",
+      "accessed": "2026-10-01",
+      "evidence": "Carney favours Canadian procurement, drone innovation and defence industrial capacity, making strategic protection compatible with exports to allies."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "National project approvals coexist with written provincial consent in exclusive jurisdiction (2025).",
+        "Justice administration remains provincial (2026)."
+      ],
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "tension": "Cooperative federalism and Indigenous rights are constrained by accelerated national projects; Indigenous critics dispute meaningful consultation."
+    },
+    "representacao": {
+      "facts": [
+        "Endorsed parliamentary democracy in March 2026.",
+        "Monetary expertise must be democratically delegated and accountable (2017)."
+      ],
+      "sources": [
+        "S3",
+        "S13",
+        "S2"
+      ],
+      "tension": "Technocratic executive administration is not support for abolishing elections; project discretion still provokes oversight criticism."
+    },
+    "poder": {
+      "facts": [
+        "Tougher bail/sentences, expanded policing and gun restrictions in June 2026.",
+        "Lawful interception is supported with legal safeguards."
+      ],
+      "sources": [
+        "S4",
+        "S5",
+        "S6",
+        "S23"
+      ],
+      "tension": "Personal medical choice coexists with coercive public safety; mental-illness MAID extension was explicitly unresolved."
+    },
+    "imigracao": {
+      "facts": [
+        "Explicitly celebrates multiple languages and cultures (2025).",
+        "September 2026 remarks contemplate controlled increases after intake reductions."
+      ],
+      "sources": [
+        "S7",
+        "S8",
+        "S3"
+      ],
+      "tension": "Capacity limits and national identity do not imply ethnic assimilation or open borders."
+    },
+    "diplomacia": {
+      "facts": [
+        "NATO procurement, deterrence and Ukrainian support increased in 2026.",
+        "September UN diplomacy supports negotiated peace."
+      ],
+      "sources": [
+        "S9",
+        "S10",
+        "S24"
+      ],
+      "tension": "Armed collective security alongside multilateralism; neither absolute pacifism nor preventive conquest."
+    },
+    "intervencao": {
+      "facts": [
+        "September 2026 sanctions and international partnerships advance influence.",
+        "Supports UN Charter and a two-state settlement."
+      ],
+      "sources": [
+        "S10",
+        "S15"
+      ],
+      "tension": "Assertive Canadian sovereignty and alliances coexist with rejection of coercive great-power domination."
+    },
+    "economia": {
+      "facts": [
+        "Public healthcare remains a commitment.",
+        "Sovereign fund co-invests with private businesses; September agenda prioritizes investment and operating restraint."
+      ],
+      "sources": [
+        "S11",
+        "S12",
+        "S22"
+      ],
+      "tension": "No blanket nationalization or universal privatization: social services and productive investment have different ownership logics."
+    },
+    "controle": {
+      "facts": [
+        "2017 monetary doctrine protects operational independence.",
+        "2026 combines tax reductions/regulatory reform with strategic public investment."
+      ],
+      "sources": [
+        "S11",
+        "S12",
+        "S13"
+      ],
+      "tension": "Market allocation and independent stabilization coexist with industrial policy; regulation is not comprehensive planning."
+    },
+    "comercio": {
+      "facts": [
+        "January 2026 China EV agreement retains quota and tariff while expanding access.",
+        "September EU integration and February domestic procurement favor diversified but secure trade."
+      ],
+      "sources": [
+        "S14",
+        "S15",
+        "S24"
+      ],
+      "tension": "Reject both autarky and unconditional tariff abolition; calibrated openness protects selected domestic capacities."
+    },
+    "religiao": {
+      "facts": [
+        "May 2025 Catholic worship and explicit separation of personal faith from policies."
+      ],
+      "sources": [
+        "S16"
+      ],
+      "tension": "Personal faith and service are sincere; secular legislation does not entail hostility to religion or removal of religious tradition."
+    },
+    "moral": {
+      "facts": [
+        "June 2026 Pride speech endorses LGBTQ equality.",
+        "2025 reproductive-health commitment and Catholicism coexist."
+      ],
+      "sources": [
+        "S17",
+        "S21",
+        "S16"
+      ],
+      "tension": "Liberal civil rights do not establish strong opinions about every sexual practice or deny families a moral role."
+    },
+    "tecnologia": {
+      "facts": [
+        "September 2026 AI modernization and industrial energy strategy.",
+        "September ocean investment protects ecosystems while supporting infrastructure."
+      ],
+      "sources": [
+        "S18",
+        "S19",
+        "S12"
+      ],
+      "tension": "Growth through technology is bounded by environmental and ethical safeguards; no verified advocacy of unrestricted human enhancement."
+    }
+  },
+  "limitations": [
+    "A modeled response set, not a questionnaire personally completed by Carney. Questions naming Brazil are transferred to analogous Canadian institutions and general policy principles.",
+    "Current-date searches conducted on 2026-10-01; preserve explicit source profile period March 2025–September 2026. Announcements establish preferences, not proof of delivery.",
+    "No direct personal statements verified for embryo enhancement, brain implants, polyamory, facial recognition, racial quotas as a specific mechanism or Brazilian agrarian reform. Such answers are lower-confidence inferences from stated rights, regulated innovation and property principles; N is reserved for competing considerations.",
+    "Platform PDF and party healthcare page failed full fetch; retrieved primary search excerpts plus independent healthcare reporting are identified separately.",
+    "Brazilian-edition searches for Mark Carney Valores and Value(s) Brasil found translations of the title in commentary and original-language listings, but no verified Brazilian published translation. Preserve original title."
+  ],
+  "recommendedMetadata": {
+    "status": "current PT and EN accurate; no changes needed",
+    "communicatedBeforeAnswers": true
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political economy; publisher confirms 2021. No existing catalog book. No verified Brazilian translation, so original title in both languages.",
+    "book": {
+      "personalityId": "mark-carney",
+      "title": {
+        "pt": "Value(s): Building a Better World for All",
+        "en": "Value(s): Building a Better World for All"
+      },
+      "year": 2021,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "S20"
+    ]
+  },
+  "processNotes": {
+    "independence": "One fresh isolated audit; no archives, vectors, similarity reviews or scores inspected before answering. Existing research read only profilePeriod and source URLs. Unrelated Harris URLs discarded.",
+    "likelyNeighbours": [
+      "Trudeau: shared Liberal rights/public-health commitments, but Carney emphasizes capital investment, strategic supply chains and controlled migration.",
+      "Macron: expert-led market/state combination, but Carney operates within Canadian provincial jurisdiction and bilingual multicultural federalism.",
+      "Starmer: institutional centre-left and collective defence; Carney has a distinct central-banking doctrine and resource-based investment program."
+    ],
+    "answerGeneration": "240 independent answers generated after completed research, metadata review and saved enriched prompt; five archetypes chosen by wording. No numerical targets, vector inspection or similarity tuning.",
+    "neutralRationale": {
+      "estrutura_18": "National unity versus a constitutionally negotiated democratic secession; rejects an absolute rule.",
+      "poder_20": "Privacy and self-incrimination versus lawful judicial compulsion.",
+      "poder_06": "Consensual autonomy versus regulated drugs and exploitation risks.",
+      "imigracao_01": "Supports language integration but not obligatory cultural assimilation.",
+      "economia_03": "Public stakes and security interests versus private operation of strategic sectors.",
+      "religiao_02": "Personal moral faith versus explicit nonreligious policy formation.",
+      "religiao_14": "Marriage has personal religious significance and equal secular legal status.",
+      "moral_02": "Values his own family tradition without a compulsory exclusive social model.",
+      "moral_13": "Worker dignity and consensual freedom versus exploitation and regulation.",
+      "tecnologia_13": "Urban productivity and rural resource communities both valued; no universal lifestyle ranking.",
+      "tecnologia_18": "Same genuine balance between urban and rural life.",
+      "tecnologia_09": "Disease prevention versus enhancement of intelligence in a compound proposition."
+    },
+    "hashes": {
+      "promptSha256": "8ae51166b84e67f240567d9500bb56426db1c3423b4f9dc17a5968c7689fd2c4",
+      "answersSha256": "67e19e93ec01257157029cb6d35e1239a7dc6d3a973e8382fc50438101165b7a"
+    },
+    "neutralCount": 12,
+    "validation": {
+      "command": "python3 profile-audit/validate.py personality mark-carney",
+      "exitCode": 1,
+      "stdout": "validando personality:mark-carney\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/mark-carney.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 12/240 = 5.0%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         60.5  centralizado/unitario <-> descentralizado/federal\n  representacao     81.1  autocracia <-> democracia\n  poder             46.0  liberdade civil <-> ordem/vigilancia\n  imigracao         28.3  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        52.9  pacifista <-> militarista\n  intervencao       34.0  nacionalista assertivo <-> nao-intervencionista\n  economia          55.6  privado/mercado <-> publico/coletivo\n  controle          50.9  livre mercado <-> planejamento\n  comercio          43.7  livre comercio/globalista <-> protecionista\n  religiao          56.0  religioso <-> irreligioso/secular\n  moral             78.8  tradicionalista <-> progressista\n  tecnologia        58.2  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         60.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     81.1   | Kim Jong Un=6 .. José Mujica=86\n  poder             46.0   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         28.3   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        52.9   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       34.0   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          55.6   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          50.9   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          43.7   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          56.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             78.8   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        58.2   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.2%  kamala-harris  <<< BLOQUEIA\n   96.0%  hillary-clinton  <<< aviso\n   95.9%  olaf-scholz  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.0% proximo de 'hillary-clinton'\n  [CONTEUDO] 95.9% proximo de 'olaf-scholz'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.2% identico a 'kamala-harris' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "stderr": ""
+    }
+  }
+}

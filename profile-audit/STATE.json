@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-10-01T01:57:31Z",
+  "lastUpdated": "2026-10-01",
   "personality": {
-    "totalProfiles": 408,
+    "totalProfiles": 439,
     "pending": [],
     "done": [
       "lenin",
@@ -412,8 +412,2149 @@
       "auguste-blanqui",
       "swrd-bandaranaike",
       "jose-ii-da-austria",
-      "rei-davi"
-    ]
+      "rei-davi",
+      "anthony-albanese",
+      "pauline-hanson",
+      "angus-taylor",
+      "john-howard",
+      "robert-menzies",
+      "gough-whitlam",
+      "bob-hawke",
+      "paul-keating",
+      "kevin-rudd",
+      "julia-gillard",
+      "tony-abbott",
+      "malcolm-turnbull",
+      "scott-morrison",
+      "margaret-thatcher",
+      "clement-attlee",
+      "boris-johnson",
+      "keir-starmer",
+      "nigel-farage",
+      "rupert-lowe",
+      "kamala-harris",
+      "hillary-clinton",
+      "jimmy-carter",
+      "lyndon-b-johnson",
+      "angela-merkel",
+      "olaf-scholz",
+      "mark-carney",
+      "david-lloyd-george",
+      "helmut-kohl",
+      "lech-walesa",
+      "golda-meir",
+      "joh-bjelke-petersen"
+    ],
+    "expansion": {
+      "startedOn": "2026-09-30",
+      "baseCommit": "811b0ad0447eda27b84bc51ce8257e93edb61f1f",
+      "scope": "Include the requested 32 political figures in the original RomanCypherpunk/12axes repository: add 31 independently reviewed profiles and preserve David Ben-Gurion, now present upstream. Create a new upstream PR as requested on 1 October 2026.",
+      "requiredAustralianIds": [
+        "anthony-albanese",
+        "pauline-hanson",
+        "angus-taylor",
+        "john-howard",
+        "robert-menzies",
+        "gough-whitlam",
+        "bob-hawke",
+        "paul-keating",
+        "kevin-rudd",
+        "julia-gillard",
+        "tony-abbott",
+        "malcolm-turnbull",
+        "scott-morrison",
+        "joh-bjelke-petersen"
+      ],
+      "method": "Individual 240-question and five-archetype simulations, computed with profile_vector.py; bilingual metadata, real compressed portraits and dated per-axis research. Answers are editorial inferences, not claims that the person took the quiz.",
+      "candidates": [
+        {
+          "id": "anthony-albanese",
+          "name": "Anthony Albanese",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "pauline-hanson",
+          "name": "Pauline Hanson",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "angus-taylor",
+          "name": "Angus Taylor",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "john-howard",
+          "name": "John Howard",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "robert-menzies",
+          "name": "Robert Menzies",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "gough-whitlam",
+          "name": "Gough Whitlam",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "bob-hawke",
+          "name": "Bob Hawke",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "paul-keating",
+          "name": "Paul Keating",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "kevin-rudd",
+          "name": "Kevin Rudd",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "julia-gillard",
+          "name": "Julia Gillard",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "tony-abbott",
+          "name": "Tony Abbott",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "malcolm-turnbull",
+          "name": "Malcolm Turnbull",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "scott-morrison",
+          "name": "Scott Morrison",
+          "country": "Australia",
+          "status": "added"
+        },
+        {
+          "id": "margaret-thatcher",
+          "name": "Margaret Thatcher",
+          "country": "United Kingdom",
+          "status": "added"
+        },
+        {
+          "id": "clement-attlee",
+          "name": "Clement Attlee",
+          "country": "United Kingdom",
+          "status": "added"
+        },
+        {
+          "id": "boris-johnson",
+          "name": "Boris Johnson",
+          "country": "United Kingdom",
+          "status": "added"
+        },
+        {
+          "id": "keir-starmer",
+          "name": "Keir Starmer",
+          "country": "United Kingdom",
+          "status": "added"
+        },
+        {
+          "id": "nigel-farage",
+          "name": "Nigel Farage",
+          "country": "United Kingdom",
+          "status": "added"
+        },
+        {
+          "id": "rupert-lowe",
+          "name": "Rupert Lowe",
+          "country": "United Kingdom",
+          "status": "added"
+        },
+        {
+          "id": "kamala-harris",
+          "name": "Kamala Harris",
+          "country": "United States",
+          "status": "added"
+        },
+        {
+          "id": "hillary-clinton",
+          "name": "Hillary Clinton",
+          "country": "United States",
+          "status": "added"
+        },
+        {
+          "id": "jimmy-carter",
+          "name": "Jimmy Carter",
+          "country": "United States",
+          "status": "added"
+        },
+        {
+          "id": "lyndon-b-johnson",
+          "name": "Lyndon B. Johnson",
+          "country": "United States",
+          "status": "added"
+        },
+        {
+          "id": "angela-merkel",
+          "name": "Angela Merkel",
+          "country": "Germany",
+          "status": "added"
+        },
+        {
+          "id": "olaf-scholz",
+          "name": "Olaf Scholz",
+          "country": "Germany",
+          "status": "added"
+        },
+        {
+          "id": "mark-carney",
+          "name": "Mark Carney",
+          "country": "Canada",
+          "status": "added"
+        },
+        {
+          "id": "david-lloyd-george",
+          "name": "David Lloyd George",
+          "country": "United Kingdom",
+          "status": "added"
+        },
+        {
+          "id": "helmut-kohl",
+          "name": "Helmut Kohl",
+          "country": "Germany",
+          "status": "added"
+        },
+        {
+          "id": "lech-walesa",
+          "name": "Lech Wałęsa",
+          "country": "Poland",
+          "status": "added"
+        },
+        {
+          "id": "golda-meir",
+          "name": "Golda Meir",
+          "country": "Israel",
+          "status": "added"
+        },
+        {
+          "id": "joh-bjelke-petersen",
+          "name": "Joh Bjelke-Petersen",
+          "country": "Australia",
+          "status": "added"
+        }
+      ],
+      "scopeRevision": {
+        "date": "2026-09-30",
+        "userRequest": "Decrease the number of people you are doing per country to just the most notable.",
+        "previousCandidateCount": 247,
+        "revisedCandidateCount": 68,
+        "selectionCriteria": [
+          "National or international recognition, lasting historical impact, or major contemporary political significance.",
+          "Account for existing catalogue coverage and retain a mix of historical and contemporary figures across political traditions.",
+          "Preserve all thirteen explicitly requested Australian profiles and all completed work."
+        ],
+        "excludedFromScope": [
+          {
+            "id": "peter-dutton",
+            "name": "Peter Dutton",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "malcolm-fraser",
+            "name": "Malcolm Fraser",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "john-curtin",
+            "name": "John Curtin",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "ben-chifley",
+            "name": "Ben Chifley",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "alfred-deakin",
+            "name": "Alfred Deakin",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "penny-wong",
+            "name": "Penny Wong",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "barnaby-joyce",
+            "name": "Barnaby Joyce",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "jacqui-lambie",
+            "name": "Jacqui Lambie",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "bob-brown",
+            "name": "Bob Brown",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "adam-bandt",
+            "name": "Adam Bandt",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "jim-chalmers",
+            "name": "Jim Chalmers",
+            "country": "Australia",
+            "status": "pending"
+          },
+          {
+            "id": "harold-macmillan",
+            "name": "Harold Macmillan",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "harold-wilson",
+            "name": "Harold Wilson",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "edward-heath",
+            "name": "Edward Heath",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "james-callaghan",
+            "name": "James Callaghan",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "john-major",
+            "name": "John Major",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "gordon-brown",
+            "name": "Gordon Brown",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "david-cameron",
+            "name": "David Cameron",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "theresa-may",
+            "name": "Theresa May",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "liz-truss",
+            "name": "Liz Truss",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "rishi-sunak",
+            "name": "Rishi Sunak",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "kemi-badenoch",
+            "name": "Kemi Badenoch",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "ed-davey",
+            "name": "Ed Davey",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "nicola-sturgeon",
+            "name": "Nicola Sturgeon",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "alex-salmond",
+            "name": "Alex Salmond",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "william-gladstone",
+            "name": "William Gladstone",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "david-lloyd-george",
+            "name": "David Lloyd George",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "neville-chamberlain",
+            "name": "Neville Chamberlain",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "aneurin-bevan",
+            "name": "Aneurin Bevan",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "enoch-powell",
+            "name": "Enoch Powell",
+            "country": "United Kingdom",
+            "status": "pending"
+          },
+          {
+            "id": "gerald-ford",
+            "name": "Gerald Ford",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "herbert-hoover",
+            "name": "Herbert Hoover",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "calvin-coolidge",
+            "name": "Calvin Coolidge",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "warren-g-harding",
+            "name": "Warren G. Harding",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "william-mckinley",
+            "name": "William McKinley",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "ulysses-s-grant",
+            "name": "Ulysses S. Grant",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "john-adams",
+            "name": "John Adams",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "andrew-jackson",
+            "name": "Andrew Jackson",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "ron-desantis",
+            "name": "Ron DeSantis",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "nikki-haley",
+            "name": "Nikki Haley",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "mike-pence",
+            "name": "Mike Pence",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "ted-cruz",
+            "name": "Ted Cruz",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "rand-paul",
+            "name": "Rand Paul",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "mitt-romney",
+            "name": "Mitt Romney",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "john-mccain",
+            "name": "John McCain",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "elizabeth-warren",
+            "name": "Elizabeth Warren",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "alexandria-ocasio-cortez",
+            "name": "Alexandria Ocasio-Cortez",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "nancy-pelosi",
+            "name": "Nancy Pelosi",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "chuck-schumer",
+            "name": "Chuck Schumer",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "mike-johnson",
+            "name": "Mike Johnson",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "robert-f-kennedy-jr",
+            "name": "Robert F. Kennedy Jr.",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "tulsi-gabbard",
+            "name": "Tulsi Gabbard",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "pete-buttigieg",
+            "name": "Pete Buttigieg",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "tim-walz",
+            "name": "Tim Walz",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "josh-shapiro",
+            "name": "Josh Shapiro",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "wes-moore",
+            "name": "Wes Moore",
+            "country": "United States",
+            "status": "pending"
+          },
+          {
+            "id": "jean-marie-le-pen",
+            "name": "Jean-Marie Le Pen",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "jordan-bardella",
+            "name": "Jordan Bardella",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "jean-luc-melenchon",
+            "name": "Jean-Luc Mélenchon",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "francois-hollande",
+            "name": "François Hollande",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "valery-giscard-destaing",
+            "name": "Valéry Giscard d’Estaing",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "georges-pompidou",
+            "name": "Georges Pompidou",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "michel-rocard",
+            "name": "Michel Rocard",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "lionel-jospin",
+            "name": "Lionel Jospin",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "pierre-mendes-france",
+            "name": "Pierre Mendès France",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "leon-blum",
+            "name": "Léon Blum",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "francois-bayrou",
+            "name": "François Bayrou",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "edouard-philippe",
+            "name": "Édouard Philippe",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "gabriel-attal",
+            "name": "Gabriel Attal",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "eric-zemmour",
+            "name": "Éric Zemmour",
+            "country": "France",
+            "status": "pending"
+          },
+          {
+            "id": "helmut-schmidt",
+            "name": "Helmut Schmidt",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "gerhard-schroder",
+            "name": "Gerhard Schröder",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "kurt-georg-kiesinger",
+            "name": "Kurt Georg Kiesinger",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "friedrich-ebert",
+            "name": "Friedrich Ebert",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "gustav-stresemann",
+            "name": "Gustav Stresemann",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "alice-weidel",
+            "name": "Alice Weidel",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "alexander-gauland",
+            "name": "Alexander Gauland",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "sahra-wagenknecht",
+            "name": "Sahra Wagenknecht",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "gregor-gysi",
+            "name": "Gregor Gysi",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "robert-habeck",
+            "name": "Robert Habeck",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "annalena-baerbock",
+            "name": "Annalena Baerbock",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "christian-lindner",
+            "name": "Christian Lindner",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "franz-josef-strauss",
+            "name": "Franz Josef Strauss",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "joschka-fischer",
+            "name": "Joschka Fischer",
+            "country": "Germany",
+            "status": "pending"
+          },
+          {
+            "id": "jean-chretien",
+            "name": "Jean Chrétien",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "paul-martin",
+            "name": "Paul Martin",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "brian-mulroney",
+            "name": "Brian Mulroney",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "lester-b-pearson",
+            "name": "Lester B. Pearson",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "john-diefenbaker",
+            "name": "John Diefenbaker",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "william-lyon-mackenzie-king",
+            "name": "William Lyon Mackenzie King",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "wilfrid-laurier",
+            "name": "Wilfrid Laurier",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "kim-campbell",
+            "name": "Kim Campbell",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "jagmeet-singh",
+            "name": "Jagmeet Singh",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "jack-layton",
+            "name": "Jack Layton",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "tommy-douglas",
+            "name": "Tommy Douglas",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "maxime-bernier",
+            "name": "Maxime Bernier",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "doug-ford",
+            "name": "Doug Ford",
+            "country": "Canada",
+            "status": "pending"
+          },
+          {
+            "id": "chris-hipkins",
+            "name": "Chris Hipkins",
+            "country": "New Zealand",
+            "status": "pending"
+          },
+          {
+            "id": "john-key",
+            "name": "John Key",
+            "country": "New Zealand",
+            "status": "pending"
+          },
+          {
+            "id": "helen-clark",
+            "name": "Helen Clark",
+            "country": "New Zealand",
+            "status": "pending"
+          },
+          {
+            "id": "winston-peters",
+            "name": "Winston Peters",
+            "country": "New Zealand",
+            "status": "pending"
+          },
+          {
+            "id": "david-seymour",
+            "name": "David Seymour",
+            "country": "New Zealand",
+            "status": "pending"
+          },
+          {
+            "id": "robert-muldoon",
+            "name": "Robert Muldoon",
+            "country": "New Zealand",
+            "status": "pending"
+          },
+          {
+            "id": "david-lange",
+            "name": "David Lange",
+            "country": "New Zealand",
+            "status": "pending"
+          },
+          {
+            "id": "romano-prodi",
+            "name": "Romano Prodi",
+            "country": "Italy",
+            "status": "pending"
+          },
+          {
+            "id": "mario-draghi",
+            "name": "Mario Draghi",
+            "country": "Italy",
+            "status": "pending"
+          },
+          {
+            "id": "matteo-renzi",
+            "name": "Matteo Renzi",
+            "country": "Italy",
+            "status": "pending"
+          },
+          {
+            "id": "giuseppe-conte",
+            "name": "Giuseppe Conte",
+            "country": "Italy",
+            "status": "pending"
+          },
+          {
+            "id": "enrico-berlinguer",
+            "name": "Enrico Berlinguer",
+            "country": "Italy",
+            "status": "pending"
+          },
+          {
+            "id": "alcide-de-gasperi",
+            "name": "Alcide De Gasperi",
+            "country": "Italy",
+            "status": "pending"
+          },
+          {
+            "id": "aldo-moro",
+            "name": "Aldo Moro",
+            "country": "Italy",
+            "status": "pending"
+          },
+          {
+            "id": "bettino-craxi",
+            "name": "Bettino Craxi",
+            "country": "Italy",
+            "status": "pending"
+          },
+          {
+            "id": "luigi-einaudi",
+            "name": "Luigi Einaudi",
+            "country": "Italy",
+            "status": "pending"
+          },
+          {
+            "id": "jose-luis-rodriguez-zapatero",
+            "name": "José Luis Rodríguez Zapatero",
+            "country": "Spain",
+            "status": "pending"
+          },
+          {
+            "id": "mariano-rajoy",
+            "name": "Mariano Rajoy",
+            "country": "Spain",
+            "status": "pending"
+          },
+          {
+            "id": "adolfo-suarez",
+            "name": "Adolfo Suárez",
+            "country": "Spain",
+            "status": "pending"
+          },
+          {
+            "id": "santiago-abascal",
+            "name": "Santiago Abascal",
+            "country": "Spain",
+            "status": "pending"
+          },
+          {
+            "id": "alberto-nunez-feijoo",
+            "name": "Alberto Núñez Feijóo",
+            "country": "Spain",
+            "status": "pending"
+          },
+          {
+            "id": "pablo-iglesias",
+            "name": "Pablo Iglesias",
+            "country": "Spain",
+            "status": "pending"
+          },
+          {
+            "id": "anibal-cavaco-silva",
+            "name": "Aníbal Cavaco Silva",
+            "country": "Portugal",
+            "status": "pending"
+          },
+          {
+            "id": "luis-montenegro",
+            "name": "Luís Montenegro",
+            "country": "Portugal",
+            "status": "pending"
+          },
+          {
+            "id": "andre-ventura",
+            "name": "André Ventura",
+            "country": "Portugal",
+            "status": "pending"
+          },
+          {
+            "id": "pedro-passos-coelho",
+            "name": "Pedro Passos Coelho",
+            "country": "Portugal",
+            "status": "pending"
+          },
+          {
+            "id": "pim-fortuyn",
+            "name": "Pim Fortuyn",
+            "country": "Netherlands",
+            "status": "pending"
+          },
+          {
+            "id": "jan-peter-balkenende",
+            "name": "Jan Peter Balkenende",
+            "country": "Netherlands",
+            "status": "pending"
+          },
+          {
+            "id": "joop-den-uyl",
+            "name": "Joop den Uyl",
+            "country": "Netherlands",
+            "status": "pending"
+          },
+          {
+            "id": "frans-timmermans",
+            "name": "Frans Timmermans",
+            "country": "Netherlands",
+            "status": "pending"
+          },
+          {
+            "id": "dilan-yesilgoz",
+            "name": "Dilan Yeşilgöz",
+            "country": "Netherlands",
+            "status": "pending"
+          },
+          {
+            "id": "rob-jetten",
+            "name": "Rob Jetten",
+            "country": "Netherlands",
+            "status": "pending"
+          },
+          {
+            "id": "bart-de-wever",
+            "name": "Bart De Wever",
+            "country": "Belgium",
+            "status": "pending"
+          },
+          {
+            "id": "alexander-de-croo",
+            "name": "Alexander De Croo",
+            "country": "Belgium",
+            "status": "pending"
+          },
+          {
+            "id": "charles-michel",
+            "name": "Charles Michel",
+            "country": "Belgium",
+            "status": "pending"
+          },
+          {
+            "id": "bertie-ahern",
+            "name": "Bertie Ahern",
+            "country": "Ireland",
+            "status": "pending"
+          },
+          {
+            "id": "micheal-martin",
+            "name": "Micheál Martin",
+            "country": "Ireland",
+            "status": "pending"
+          },
+          {
+            "id": "simon-harris",
+            "name": "Simon Harris",
+            "country": "Ireland",
+            "status": "pending"
+          },
+          {
+            "id": "mary-lou-mcdonald",
+            "name": "Mary Lou McDonald",
+            "country": "Ireland",
+            "status": "pending"
+          },
+          {
+            "id": "tage-erlander",
+            "name": "Tage Erlander",
+            "country": "Sweden",
+            "status": "pending"
+          },
+          {
+            "id": "fredrik-reinfeldt",
+            "name": "Fredrik Reinfeldt",
+            "country": "Sweden",
+            "status": "pending"
+          },
+          {
+            "id": "stefan-lofven",
+            "name": "Stefan Löfven",
+            "country": "Sweden",
+            "status": "pending"
+          },
+          {
+            "id": "magdalena-andersson",
+            "name": "Magdalena Andersson",
+            "country": "Sweden",
+            "status": "pending"
+          },
+          {
+            "id": "ulf-kristersson",
+            "name": "Ulf Kristersson",
+            "country": "Sweden",
+            "status": "pending"
+          },
+          {
+            "id": "jimmie-akesson",
+            "name": "Jimmie Åkesson",
+            "country": "Sweden",
+            "status": "pending"
+          },
+          {
+            "id": "jens-stoltenberg",
+            "name": "Jens Stoltenberg",
+            "country": "Norway",
+            "status": "pending"
+          },
+          {
+            "id": "erna-solberg",
+            "name": "Erna Solberg",
+            "country": "Norway",
+            "status": "pending"
+          },
+          {
+            "id": "lars-lkke-rasmussen",
+            "name": "Lars Løkke Rasmussen",
+            "country": "Denmark",
+            "status": "pending"
+          },
+          {
+            "id": "helle-thorning-schmidt",
+            "name": "Helle Thorning-Schmidt",
+            "country": "Denmark",
+            "status": "pending"
+          },
+          {
+            "id": "pia-kjrsgaard",
+            "name": "Pia Kjærsgaard",
+            "country": "Denmark",
+            "status": "pending"
+          },
+          {
+            "id": "alexander-stubb",
+            "name": "Alexander Stubb",
+            "country": "Finland",
+            "status": "pending"
+          },
+          {
+            "id": "sauli-niinisto",
+            "name": "Sauli Niinistö",
+            "country": "Finland",
+            "status": "pending"
+          },
+          {
+            "id": "urho-kekkonen",
+            "name": "Urho Kekkonen",
+            "country": "Finland",
+            "status": "pending"
+          },
+          {
+            "id": "bruno-kreisky",
+            "name": "Bruno Kreisky",
+            "country": "Austria",
+            "status": "pending"
+          },
+          {
+            "id": "herbert-kickl",
+            "name": "Herbert Kickl",
+            "country": "Austria",
+            "status": "pending"
+          },
+          {
+            "id": "jorg-haider",
+            "name": "Jörg Haider",
+            "country": "Austria",
+            "status": "pending"
+          },
+          {
+            "id": "ruth-dreifuss",
+            "name": "Ruth Dreifuss",
+            "country": "Switzerland",
+            "status": "pending"
+          },
+          {
+            "id": "andreas-papandreou",
+            "name": "Andreas Papandreou",
+            "country": "Greece",
+            "status": "pending"
+          },
+          {
+            "id": "konstantinos-karamanlis",
+            "name": "Konstantinos Karamanlis",
+            "country": "Greece",
+            "status": "pending"
+          },
+          {
+            "id": "jarosaw-kaczynski",
+            "name": "Jarosław Kaczyński",
+            "country": "Poland",
+            "status": "pending"
+          },
+          {
+            "id": "andrzej-duda",
+            "name": "Andrzej Duda",
+            "country": "Poland",
+            "status": "pending"
+          },
+          {
+            "id": "vaclav-klaus",
+            "name": "Václav Klaus",
+            "country": "Czechia",
+            "status": "pending"
+          },
+          {
+            "id": "andrej-babis",
+            "name": "Andrej Babiš",
+            "country": "Czechia",
+            "status": "pending"
+          },
+          {
+            "id": "fumio-kishida",
+            "name": "Fumio Kishida",
+            "country": "Japan",
+            "status": "pending"
+          },
+          {
+            "id": "shigeru-ishiba",
+            "name": "Shigeru Ishiba",
+            "country": "Japan",
+            "status": "pending"
+          },
+          {
+            "id": "sanae-takaichi",
+            "name": "Sanae Takaichi",
+            "country": "Japan",
+            "status": "pending"
+          },
+          {
+            "id": "yoshida-shigeru",
+            "name": "Yoshida Shigeru",
+            "country": "Japan",
+            "status": "pending"
+          },
+          {
+            "id": "kakuei-tanaka",
+            "name": "Kakuei Tanaka",
+            "country": "Japan",
+            "status": "pending"
+          },
+          {
+            "id": "roh-moo-hyun",
+            "name": "Roh Moo-hyun",
+            "country": "South Korea",
+            "status": "pending"
+          },
+          {
+            "id": "yoon-suk-yeol",
+            "name": "Yoon Suk Yeol",
+            "country": "South Korea",
+            "status": "pending"
+          },
+          {
+            "id": "lee-jae-myung",
+            "name": "Lee Jae-myung",
+            "country": "South Korea",
+            "status": "pending"
+          },
+          {
+            "id": "lai-ching-te",
+            "name": "Lai Ching-te",
+            "country": "Taiwan",
+            "status": "pending"
+          },
+          {
+            "id": "ma-ying-jeou",
+            "name": "Ma Ying-jeou",
+            "country": "Taiwan",
+            "status": "pending"
+          },
+          {
+            "id": "chen-shui-bian",
+            "name": "Chen Shui-bian",
+            "country": "Taiwan",
+            "status": "pending"
+          },
+          {
+            "id": "lawrence-wong",
+            "name": "Lawrence Wong",
+            "country": "Singapore",
+            "status": "pending"
+          },
+          {
+            "id": "goh-chok-tong",
+            "name": "Goh Chok Tong",
+            "country": "Singapore",
+            "status": "pending"
+          },
+          {
+            "id": "shimon-peres",
+            "name": "Shimon Peres",
+            "country": "Israel",
+            "status": "pending"
+          },
+          {
+            "id": "menachem-begin",
+            "name": "Menachem Begin",
+            "country": "Israel",
+            "status": "pending"
+          },
+          {
+            "id": "ariel-sharon",
+            "name": "Ariel Sharon",
+            "country": "Israel",
+            "status": "pending"
+          },
+          {
+            "id": "golda-meir",
+            "name": "Golda Meir",
+            "country": "Israel",
+            "status": "pending"
+          },
+          {
+            "id": "naftali-bennett",
+            "name": "Naftali Bennett",
+            "country": "Israel",
+            "status": "pending"
+          },
+          {
+            "id": "yair-lapid",
+            "name": "Yair Lapid",
+            "country": "Israel",
+            "status": "pending"
+          }
+        ],
+        "exclusionNote": "These candidates were removed to narrow the workload at the user's request. Exclusion is not an evidence-quality finding and does not count as a researched skip."
+      },
+      "scopeAmendments": [
+        {
+          "date": "2026-09-30",
+          "userRequest": "Send me your full list. Also add Rupert Lowe.",
+          "addedIds": [
+            "rupert-lowe"
+          ],
+          "previousCandidateCount": 68,
+          "candidateCount": 69
+        },
+        {
+          "date": "2026-09-30",
+          "userRequest": "Cut most of those because they are not noteable enough except for the US ones. Add Tredeau, Carney. Add Merkel, Scholz. Add Dominik Tarczynski. Add Xi Jinping if he's there. If he's not there, add Kim Jong Un if he's not there. You can cut most of those less notable European ones.",
+          "previousCandidateCount": 69,
+          "candidateCount": 26,
+          "removedFromScopeCount": 43,
+          "excludedFromScope": [
+            {
+              "id": "marine-le-pen",
+              "name": "Marine Le Pen",
+              "country": "France",
+              "status": "pending"
+            },
+            {
+              "id": "francois-mitterrand",
+              "name": "François Mitterrand",
+              "country": "France",
+              "status": "pending"
+            },
+            {
+              "id": "jacques-chirac",
+              "name": "Jacques Chirac",
+              "country": "France",
+              "status": "pending"
+            },
+            {
+              "id": "nicolas-sarkozy",
+              "name": "Nicolas Sarkozy",
+              "country": "France",
+              "status": "pending"
+            },
+            {
+              "id": "helmut-kohl",
+              "name": "Helmut Kohl",
+              "country": "Germany",
+              "status": "pending"
+            },
+            {
+              "id": "willy-brandt",
+              "name": "Willy Brandt",
+              "country": "Germany",
+              "status": "pending"
+            },
+            {
+              "id": "pierre-poilievre",
+              "name": "Pierre Poilievre",
+              "country": "Canada",
+              "status": "pending"
+            },
+            {
+              "id": "stephen-harper",
+              "name": "Stephen Harper",
+              "country": "Canada",
+              "status": "pending"
+            },
+            {
+              "id": "pierre-trudeau",
+              "name": "Pierre Trudeau",
+              "country": "Canada",
+              "status": "pending"
+            },
+            {
+              "id": "john-a-macdonald",
+              "name": "John A. Macdonald",
+              "country": "Canada",
+              "status": "pending"
+            },
+            {
+              "id": "jacinda-ardern",
+              "name": "Jacinda Ardern",
+              "country": "New Zealand",
+              "status": "pending"
+            },
+            {
+              "id": "christopher-luxon",
+              "name": "Christopher Luxon",
+              "country": "New Zealand",
+              "status": "pending"
+            },
+            {
+              "id": "giorgia-meloni",
+              "name": "Giorgia Meloni",
+              "country": "Italy",
+              "status": "pending"
+            },
+            {
+              "id": "silvio-berlusconi",
+              "name": "Silvio Berlusconi",
+              "country": "Italy",
+              "status": "pending"
+            },
+            {
+              "id": "jose-maria-aznar",
+              "name": "José María Aznar",
+              "country": "Spain",
+              "status": "pending"
+            },
+            {
+              "id": "felipe-gonzalez",
+              "name": "Felipe González",
+              "country": "Spain",
+              "status": "pending"
+            },
+            {
+              "id": "mario-soares",
+              "name": "Mário Soares",
+              "country": "Portugal",
+              "status": "pending"
+            },
+            {
+              "id": "antonio-costa",
+              "name": "António Costa",
+              "country": "Portugal",
+              "status": "pending"
+            },
+            {
+              "id": "mark-rutte",
+              "name": "Mark Rutte",
+              "country": "Netherlands",
+              "status": "pending"
+            },
+            {
+              "id": "geert-wilders",
+              "name": "Geert Wilders",
+              "country": "Netherlands",
+              "status": "pending"
+            },
+            {
+              "id": "guy-verhofstadt",
+              "name": "Guy Verhofstadt",
+              "country": "Belgium",
+              "status": "pending"
+            },
+            {
+              "id": "leo-varadkar",
+              "name": "Leo Varadkar",
+              "country": "Ireland",
+              "status": "pending"
+            },
+            {
+              "id": "eamon-de-valera",
+              "name": "Éamon de Valera",
+              "country": "Ireland",
+              "status": "pending"
+            },
+            {
+              "id": "carl-bildt",
+              "name": "Carl Bildt",
+              "country": "Sweden",
+              "status": "pending"
+            },
+            {
+              "id": "gro-harlem-brundtland",
+              "name": "Gro Harlem Brundtland",
+              "country": "Norway",
+              "status": "pending"
+            },
+            {
+              "id": "mette-frederiksen",
+              "name": "Mette Frederiksen",
+              "country": "Denmark",
+              "status": "pending"
+            },
+            {
+              "id": "sanna-marin",
+              "name": "Sanna Marin",
+              "country": "Finland",
+              "status": "pending"
+            },
+            {
+              "id": "sebastian-kurz",
+              "name": "Sebastian Kurz",
+              "country": "Austria",
+              "status": "pending"
+            },
+            {
+              "id": "christoph-blocher",
+              "name": "Christoph Blocher",
+              "country": "Switzerland",
+              "status": "pending"
+            },
+            {
+              "id": "alexis-tsipras",
+              "name": "Alexis Tsipras",
+              "country": "Greece",
+              "status": "pending"
+            },
+            {
+              "id": "kyriakos-mitsotakis",
+              "name": "Kyriakos Mitsotakis",
+              "country": "Greece",
+              "status": "pending"
+            },
+            {
+              "id": "donald-tusk",
+              "name": "Donald Tusk",
+              "country": "Poland",
+              "status": "pending"
+            },
+            {
+              "id": "lech-waesa",
+              "name": "Lech Wałęsa",
+              "country": "Poland",
+              "status": "pending"
+            },
+            {
+              "id": "vaclav-havel",
+              "name": "Václav Havel",
+              "country": "Czechia",
+              "status": "pending"
+            },
+            {
+              "id": "kaja-kallas",
+              "name": "Kaja Kallas",
+              "country": "Estonia",
+              "status": "pending"
+            },
+            {
+              "id": "shinzo-abe",
+              "name": "Shinzo Abe",
+              "country": "Japan",
+              "status": "pending"
+            },
+            {
+              "id": "junichiro-koizumi",
+              "name": "Junichiro Koizumi",
+              "country": "Japan",
+              "status": "pending"
+            },
+            {
+              "id": "kim-dae-jung",
+              "name": "Kim Dae-jung",
+              "country": "South Korea",
+              "status": "pending"
+            },
+            {
+              "id": "moon-jae-in",
+              "name": "Moon Jae-in",
+              "country": "South Korea",
+              "status": "pending"
+            },
+            {
+              "id": "tsai-ing-wen",
+              "name": "Tsai Ing-wen",
+              "country": "Taiwan",
+              "status": "pending"
+            },
+            {
+              "id": "lee-hsien-loong",
+              "name": "Lee Hsien Loong",
+              "country": "Singapore",
+              "status": "pending"
+            },
+            {
+              "id": "yitzhak-rabin",
+              "name": "Yitzhak Rabin",
+              "country": "Israel",
+              "status": "pending"
+            },
+            {
+              "id": "david-ben-gurion",
+              "name": "David Ben-Gurion",
+              "country": "Israel",
+              "status": "pending"
+            }
+          ],
+          "retainedPendingIds": [
+            "kamala-harris",
+            "hillary-clinton",
+            "jimmy-carter",
+            "lyndon-b-johnson",
+            "angela-merkel",
+            "olaf-scholz",
+            "mark-carney"
+          ],
+          "requestedAlreadyPresentIds": [
+            "justin-trudeau",
+            "dominik-tarczynski",
+            "xi-jinping",
+            "kim-jong-un"
+          ],
+          "interpretation": "Trudeau means Justin Trudeau. Retain all four US candidates from the current shortlist and the three explicitly requested missing profiles. Other pending candidates are removed from this expansion; completed additions and existing catalogue entries are retained. Justin Trudeau, Dominik Tarczyński, Xi Jinping and Kim Jong Un were verified to already have PT/EN metadata, twelve-axis profiles and portraits.",
+          "exclusionNote": "Scope reduction requested by the user; these are not researched evidence-quality skips."
+        },
+        {
+          "date": "2026-09-30",
+          "userRequest": "Add historical people too who have been significantly notable for example Winston Churchill if they are not already there.",
+          "previousCandidateCount": 26,
+          "candidateCount": 31,
+          "addedIds": [
+            "david-lloyd-george",
+            "helmut-kohl",
+            "lech-walesa",
+            "david-ben-gurion",
+            "golda-meir"
+          ],
+          "requestedAlreadyPresentIds": [
+            "winston-churchill"
+          ],
+          "selectionCriteria": "A small historical supplement focused on internationally consequential leaders: wartime British leadership, German reunification, the Polish Solidarity movement and the founding and early leadership of Israel. Preserve the narrowed contemporary shortlist rather than restore all excluded country lists.",
+          "alreadyPresentExamples": [
+            "charles-de-gaulle",
+            "franklin-roosevelt",
+            "abraham-lincoln",
+            "george-washington",
+            "napoleao-bonaparte",
+            "nelson-mandela",
+            "mikhail-gorbachev",
+            "margaret-thatcher"
+          ],
+          "historicalExclusionNote": "Earlier scope exclusions remain as history. This amendment restores these five people to active work; Lech Wałęsa uses the corrected transliterated slug lech-walesa, replacing the never-added candidate slug lech-waesa."
+        },
+        {
+          "date": "2026-10-01",
+          "userRequest": "Add Joh Bjelke",
+          "previousCandidateCount": 31,
+          "candidateCount": 32,
+          "addedIds": [
+            "joh-bjelke-petersen"
+          ]
+        }
+      ],
+      "processReview": {
+        "startedOn": "2026-10-01",
+        "baselineCommit": "1838ef06a130c1502fe5149c6e450d386086ea28",
+        "status": "complete",
+        "method": "Correct each PR addition through the new-personality skill, using one independent subagent per personality; preserve existing answer archives. Original duplicate guardrails restored.",
+        "pending": [],
+        "reviewed": [
+          "joh-bjelke-petersen",
+          "anthony-albanese",
+          "pauline-hanson",
+          "robert-menzies",
+          "john-howard",
+          "angus-taylor",
+          "gough-whitlam",
+          "bob-hawke",
+          "paul-keating",
+          "kevin-rudd",
+          "julia-gillard",
+          "tony-abbott",
+          "malcolm-turnbull",
+          "scott-morrison",
+          "margaret-thatcher",
+          "clement-attlee",
+          "boris-johnson",
+          "keir-starmer",
+          "nigel-farage",
+          "rupert-lowe",
+          "kamala-harris",
+          "hillary-clinton",
+          "jimmy-carter",
+          "lyndon-b-johnson",
+          "angela-merkel",
+          "olaf-scholz",
+          "mark-carney",
+          "david-lloyd-george",
+          "helmut-kohl",
+          "lech-walesa",
+          "david-ben-gurion",
+          "golda-meir"
+        ],
+        "activeAnswerArchives": {
+          "anthony-albanese": "profile-audit/answers/personality/anthony-albanese.json",
+          "pauline-hanson": "profile-audit/answers/personality/pauline-hanson.json",
+          "angus-taylor": "profile-audit/answers/personality/angus-taylor.json",
+          "john-howard": "profile-audit/answers/personality/john-howard.json",
+          "robert-menzies": "profile-audit/answers/personality/robert-menzies.json",
+          "gough-whitlam": "profile-audit/answers/personality/gough-whitlam.json",
+          "bob-hawke": "profile-audit/answers/personality/bob-hawke.json",
+          "paul-keating": "profile-audit/answers/personality/paul-keating.json",
+          "kevin-rudd": "profile-audit/answers/personality/kevin-rudd.json",
+          "julia-gillard": "profile-audit/answers/personality/julia-gillard.json",
+          "tony-abbott": "profile-audit/answers/personality/tony-abbott.json",
+          "malcolm-turnbull": "profile-audit/answers/personality/malcolm-turnbull.json",
+          "scott-morrison": "profile-audit/answers/personality/scott-morrison.json",
+          "margaret-thatcher": "profile-audit/answers/personality/margaret-thatcher.json",
+          "clement-attlee": "profile-audit/answers/personality/clement-attlee.json",
+          "boris-johnson": "profile-audit/answers/personality/boris-johnson.json",
+          "keir-starmer": "profile-audit/answers/personality/keir-starmer.json",
+          "nigel-farage": "profile-audit/answers/personality/nigel-farage.json",
+          "rupert-lowe": "profile-audit/answers/personality/rupert-lowe.json",
+          "kamala-harris": "profile-audit/answers/personality/kamala-harris.json",
+          "hillary-clinton": "profile-audit/answers/personality/hillary-clinton.json",
+          "jimmy-carter": "profile-audit/answers/personality/jimmy-carter.json",
+          "lyndon-b-johnson": "profile-audit/answers/personality/lyndon-b-johnson.json",
+          "angela-merkel": "profile-audit/answers/personality/angela-merkel.json",
+          "olaf-scholz": "profile-audit/answers/personality/olaf-scholz.json",
+          "mark-carney": "profile-audit/answers/personality/mark-carney.json",
+          "david-lloyd-george": "profile-audit/answers/personality/david-lloyd-george.json",
+          "helmut-kohl": "profile-audit/answers/personality/helmut-kohl.json",
+          "lech-walesa": "profile-audit/answers/personality/lech-walesa.json",
+          "golda-meir": "profile-audit/answers/personality/golda-meir.json",
+          "joh-bjelke-petersen": "profile-audit/answers/personality/joh-bjelke-petersen.json"
+        },
+        "originalAnswerSha256": {
+          "anthony-albanese": "997b9e9fb01bfca6dc3d1a439518cfeefbf1e8890da76ae485e70651a29f6296",
+          "pauline-hanson": "9c131224818a5b41581e7978f28470b86ab349a20f3d9cb40fba8be837147be7",
+          "angus-taylor": "834ce0358ab62cc81fe0f8efad6b59cc7d0393269e259bb859d7794d1f5ea0d3",
+          "john-howard": "bb50b1b7f043f2d29ceb284d0cf6138d0873487dfb342551a7e8c4078a5e9a7a",
+          "robert-menzies": "13a077e849dbd5ea253aaa4b28bd21de37eb1a02c90594838eaa5c9bd0e58b7e",
+          "gough-whitlam": "a9026282c073a8304bc8ad1e3796dcce388f8b8a31e9f4b2c7e8d939536b7ed5",
+          "bob-hawke": "345d9368c2322c5d223b546552096ba046909db2cf56fb93c70b9c9810bcb7d3",
+          "paul-keating": "026b3a922395f2e69a94381515bbe8912992b37827e77525308584b649f4a193",
+          "kevin-rudd": "65594c500144015baccf602272f9e66c8f59c3128b8887bad74a57844c7fb812",
+          "julia-gillard": "4c2efc0b78f14859f75c5b4cf87712d1abbd28c39eb3464bfea0f94961676846",
+          "tony-abbott": "2bd93c58bac970b2dc5f7b5945ffdd9f3ebd41b2c71e331765ee486f6fe9c270",
+          "malcolm-turnbull": "9f750a27b1df42b8a73b4d10326db0f08d596e1f539df053c1f6c1e5d769ce0e",
+          "scott-morrison": "268cb12992eb4b5fff2c7f577ceddc0637eda189c4c17249f50af384678503d7",
+          "margaret-thatcher": "5858f6e308283827fb5cb42c638a0b4a0bb63328437b8598c54027f4e3231d67",
+          "clement-attlee": "6daffe428b8e7389e30aa3b7f4c6d061eb6c6c152a924cd8984acfcf1d375e9d",
+          "boris-johnson": "e8735cbb71929d8fd24ab60c6bcdbefaafb1466dd819c3b226d1d03117739415",
+          "keir-starmer": "6bc8c906884958a13f92d29feea5316fa8fa06535fc345fd1baf15464935e505",
+          "nigel-farage": "a82a9e73e355b6da307b292b587648abb113d372e14558ebcd99c23236d868df",
+          "rupert-lowe": "4043de1755c8e37d6d02fa59426594abbf2d635e1c0243f3f417db1fde7bd0fd",
+          "kamala-harris": "c4934c5cad610c20a41d52cf44a3ddf40f28d678dbae0b8e140a6761fa15093f",
+          "hillary-clinton": "ef9926b3ac4482de3469487079d4b10088b5372d7737f38eeb6f049f269bb7da",
+          "jimmy-carter": "850e4f073f8ca85d459b0f69113a7a8559368b2daf64887e68701634ba5f047f",
+          "lyndon-b-johnson": "7d4c58a9ee49212e1bf5b01e0ba71b6682385bb26ae6cdbd2cae8f29376c811e",
+          "angela-merkel": "1cdfdea4720f12a0643042f0552e366ffc1a386a864cfd351b76e718608f436c",
+          "olaf-scholz": "7cfae1c8c932042cf4a7089a8d3557d00c70bfccc0daf511659b1f2facc12c64",
+          "mark-carney": "5021e77720e00a68901e06b3ea63f703817c3d7648a26a68f659cf606931d014",
+          "david-lloyd-george": "3fcb9f12e40b0e1783700b35fe34bfab5c0804014223fd18da90d2e1a69d19c7",
+          "helmut-kohl": "b132d8371de4e2cd0b19f730bae188154e7987ba66677b533ea49a541eac73fd",
+          "lech-walesa": "191027946c0f49341c89a245e6124f745ed9ac3445097bada55884bfc70ddab9",
+          "david-ben-gurion": "ebbe0b39dc502a620a21b6006c753ea96e6a22b6d2c14cfb7d1d08ff3c5fbf3c",
+          "golda-meir": "134caf8c2295c84386dc5c144b4aee6f184a1b55ff7fed4339c4f5fa3b9ec0c8",
+          "joh-bjelke-petersen": "709e96d9e467e88e1112bbf84948d8aea83590532839b5f7c328c04b3925ea97"
+        },
+        "runs": {
+          "joh-bjelke-petersen": {
+            "agent": "/root/independent_joh",
+            "status": "merged",
+            "validationPassed": true,
+            "answerSha256": "9fe7f6503db25783a5b7e8557f7c595a556720944f6cb293ade1022031f5d7d3",
+            "researchPath": "profile-audit/research/process-review/joh-bjelke-petersen.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "anthony-albanese": {
+            "agent": "/root/independent_albanese",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "fc939d80a041d4b3b1cf5c6a5cf49993b0086439abc770e9a26627fc01a755d6",
+            "researchPath": "profile-audit/research/process-review/anthony-albanese.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "pauline-hanson": {
+            "agent": "/root/independent_hanson",
+            "status": "merged",
+            "validationPassed": true,
+            "answerSha256": "be57df2c4b0be270d29db1ce0ee796d4494ef598fcc1c7fe8a65e5b4310bda40",
+            "researchPath": "profile-audit/research/process-review/pauline-hanson.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "angus-taylor": {
+            "agent": "/root/independent_taylor",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "9a3c68a0e4270ba9061cb43548f32dbe79c91d33393a69289de820b258edb3d6",
+            "researchPath": "profile-audit/research/process-review/angus-taylor.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "john-howard": {
+            "agent": "/root/independent_howard",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "6a882cfdd9f73c0940e430c7886e791b28b9f603c988913a3d8f0cd2780b7ae1",
+            "researchPath": "profile-audit/research/process-review/john-howard.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "robert-menzies": {
+            "agent": "/root/independent_menzies",
+            "status": "merged",
+            "validationPassed": true,
+            "answerSha256": "f6789b703c13c28c345b6b4c34c6b455ac945ae58002584d06ccec31c67972b8",
+            "researchPath": "profile-audit/research/process-review/robert-menzies.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "gough-whitlam": {
+            "agent": "/root/independent_whitlam",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "d75e91c0ecdf9e1cacb10ab3f395bc36cac2512023cf755244145770d0263bfc",
+            "researchPath": "profile-audit/research/process-review/gough-whitlam.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "bob-hawke": {
+            "agent": "/root/independent_hawke",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "421408b51d1587bd8620452b5086481313144c0bf996c2b321713937dae83f72",
+            "researchPath": "profile-audit/research/process-review/bob-hawke.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "paul-keating": {
+            "agent": "/root/independent_keating",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "b4daa3138a68cc0a4468473885fe6f480c84e23beff37e66e90d473c0141972c",
+            "researchPath": "profile-audit/research/process-review/paul-keating.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "kevin-rudd": {
+            "agent": "/root/independent_rudd",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "fd810292c5d70cc44c64028d01167f0b73a7ead5152458f29c8572c342f29208",
+            "researchPath": "profile-audit/research/process-review/kevin-rudd.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "julia-gillard": {
+            "agent": "/root/independent_gillard",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "474e4e141cf29c6cdc1525cedce97883b1e35c58422f4d2c329319c5c0a481c1",
+            "researchPath": "profile-audit/research/process-review/julia-gillard.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "tony-abbott": {
+            "agent": "/root/independent_abbott",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "69f0abcb3694a33e0960707bef5714044783ec23c043d431a6250dc7ff64a2f5",
+            "researchPath": "profile-audit/research/process-review/tony-abbott.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "malcolm-turnbull": {
+            "agent": "/root/independent_turnbull",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "08fc2f7ca9801e73e6fde7a212f5f2978754c1a9e8ec362ca75d2a32081c24b3",
+            "researchPath": "profile-audit/research/process-review/malcolm-turnbull.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "scott-morrison": {
+            "agent": "/root/independent_morrison",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "028d18b13c541ddba244f4db46e77559b209d3dd1d0a4adc94abdb4221651c31",
+            "researchPath": "profile-audit/research/process-review/scott-morrison.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "margaret-thatcher": {
+            "agent": "/root/independent_thatcher",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "784cf7be73f285b63cac8302eda859038fa43d54a5cdeff50bdf3d6f611103cf",
+            "researchPath": "profile-audit/research/process-review/margaret-thatcher.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "clement-attlee": {
+            "agent": "/root/independent_attlee",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "84fe85b48566884bc0e69e9683cf21982232848f58db0a6d8a92a67c40da8de7",
+            "researchPath": "profile-audit/research/process-review/clement-attlee.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "boris-johnson": {
+            "agent": "/root/independent_johnson",
+            "status": "merged",
+            "validationPassed": true,
+            "answerSha256": "43fa13c53d72b49c9273a05f66aa64f6b65a170a474f747623597a76716e85e0",
+            "researchPath": "profile-audit/research/process-review/boris-johnson.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "keir-starmer": {
+            "agent": "/root/independent_starmer",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "b20352b68edf7c70dfc91db02b397b0f9c244992946b37a3e3b9126199744b3f",
+            "researchPath": "profile-audit/research/process-review/keir-starmer.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "nigel-farage": {
+            "agent": "/root/independent_farage",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "853d64f6aa9e0f69c0eb87335c4f743840d40c2e5d2d122528d9fe2dc1d23b97",
+            "researchPath": "profile-audit/research/process-review/nigel-farage.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "rupert-lowe": {
+            "agent": "/root/independent_lowe",
+            "status": "merged",
+            "validationPassed": true,
+            "answerSha256": "c234068083427b7fde59da18d468b4a67f9c864444b9ec52b2b699b1908311f4",
+            "researchPath": "profile-audit/research/process-review/rupert-lowe.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "kamala-harris": {
+            "agent": "/root/independent_harris",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "641bbbd6edfcbdff6501adc33d7592196b3943b98d25a0cf48b1fd59046012d7",
+            "researchPath": "profile-audit/research/process-review/kamala-harris.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "hillary-clinton": {
+            "agent": "/root/independent_clinton",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "dddd0ca706f72eb3e9fcf1ef45b364b63eb9bbab6edeb2f459bb0e7538f25549",
+            "researchPath": "profile-audit/research/process-review/hillary-clinton.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "jimmy-carter": {
+            "agent": "/root/independent_carter",
+            "status": "merged",
+            "validationPassed": true,
+            "answerSha256": "0145e3721ca0429111d5728ddbe46184da9ed6ff8e6fa6ce29e9ce8ff34636ee",
+            "researchPath": "profile-audit/research/process-review/jimmy-carter.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "lyndon-b-johnson": {
+            "agent": "/root/independent_lbj",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "d1dd1084b34f5672adb455bb3fb923ee0c7bc0eb5f22e9b832bbd9506e68d0a9",
+            "researchPath": "profile-audit/research/process-review/lyndon-b-johnson.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "angela-merkel": {
+            "agent": "/root/independent_merkel",
+            "status": "merged",
+            "validationPassed": true,
+            "answerSha256": "b20bd7e489d7bbb91d1c566e8f2fad6129bb74f480950d1039ea11875d9b1f8c",
+            "researchPath": "profile-audit/research/process-review/angela-merkel.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "olaf-scholz": {
+            "agent": "/root/independent_scholz",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "05be00fcdc9df6ea1d483a005ea8f4a5fe32283a39a75a0a60ba948209f2b3cb",
+            "researchPath": "profile-audit/research/process-review/olaf-scholz.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "mark-carney": {
+            "agent": "/root/independent_carney",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "67e19e93ec01257157029cb6d35e1239a7dc6d3a973e8382fc50438101165b7a",
+            "researchPath": "profile-audit/research/process-review/mark-carney.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "david-lloyd-george": {
+            "agent": "/root/independent_lloyd_george",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "c43d8cc714a5b78d6e720c126aea40287b568c942ef6f97538f945ee51daa9d0",
+            "researchPath": "profile-audit/research/process-review/david-lloyd-george.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "helmut-kohl": {
+            "agent": "/root/independent_kohl",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "7e84cd8453c4e593eeb434d922851a4825653dda8e345e477a3b592a2a55bb0d",
+            "researchPath": "profile-audit/research/process-review/helmut-kohl.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "lech-walesa": {
+            "agent": "/root/independent_walesa",
+            "status": "merged",
+            "validationPassed": true,
+            "answerSha256": "7c7d3c52627a8b4a72ff837dbb6acfe69cded917016e15e3a356e6b3d10bad4a",
+            "researchPath": "profile-audit/research/process-review/lech-walesa.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          },
+          "david-ben-gurion": {
+            "agent": "/root/independent_ben_gurion",
+            "status": "already_present_upstream",
+            "validationPassed": false,
+            "answerSha256": "f5fabcd4ce9c05bcec74097b8729c049f2207c098daf32dab881b77fd2d6ab81",
+            "researchPath": "profile-audit/research/process-review/david-ben-gurion.json",
+            "independentReviewArchive": "profile-audit/answers/personality/revisions/2026-10-01/david-ben-gurion-independent.json"
+          },
+          "golda-meir": {
+            "agent": "/root/independent_golda",
+            "status": "merged",
+            "validationPassed": false,
+            "answerSha256": "78862aa9f847ec026b1922fd60278c9ff27d5fc3665d359f9bcaffb8c8bf6895",
+            "researchPath": "profile-audit/research/process-review/golda-meir.json",
+            "validationReport": "profile-audit/reports/politician-validation.json"
+          }
+        },
+        "disposition": {
+          "status": "approved",
+          "date": "2026-10-01",
+          "userInstruction": "I want you to make these politicians a new PR on the original repo so that these 32 political figures can be added.",
+          "context": "User reiterated inclusion of all 32 after receiving the complete overlap report and requests for a retain/reduce decision. Retain researched answers without tuning; preserve validator warnings and disclose them in the PR.",
+          "scope": [
+            "anthony-albanese",
+            "pauline-hanson",
+            "angus-taylor",
+            "john-howard",
+            "robert-menzies",
+            "gough-whitlam",
+            "bob-hawke",
+            "paul-keating",
+            "kevin-rudd",
+            "julia-gillard",
+            "tony-abbott",
+            "malcolm-turnbull",
+            "scott-morrison",
+            "margaret-thatcher",
+            "clement-attlee",
+            "boris-johnson",
+            "keir-starmer",
+            "nigel-farage",
+            "rupert-lowe",
+            "kamala-harris",
+            "hillary-clinton",
+            "jimmy-carter",
+            "lyndon-b-johnson",
+            "angela-merkel",
+            "olaf-scholz",
+            "mark-carney",
+            "david-lloyd-george",
+            "helmut-kohl",
+            "lech-walesa",
+            "david-ben-gurion",
+            "golda-meir",
+            "joh-bjelke-petersen"
+          ]
+        },
+        "originalAnswerArchives": {
+          "anthony-albanese": "profile-audit/answers/personality/revisions/initial-expansion/anthony-albanese.json",
+          "pauline-hanson": "profile-audit/answers/personality/revisions/initial-expansion/pauline-hanson.json",
+          "angus-taylor": "profile-audit/answers/personality/revisions/initial-expansion/angus-taylor.json",
+          "john-howard": "profile-audit/answers/personality/revisions/initial-expansion/john-howard.json",
+          "robert-menzies": "profile-audit/answers/personality/revisions/initial-expansion/robert-menzies.json",
+          "gough-whitlam": "profile-audit/answers/personality/revisions/initial-expansion/gough-whitlam.json",
+          "bob-hawke": "profile-audit/answers/personality/revisions/initial-expansion/bob-hawke.json",
+          "paul-keating": "profile-audit/answers/personality/revisions/initial-expansion/paul-keating.json",
+          "kevin-rudd": "profile-audit/answers/personality/revisions/initial-expansion/kevin-rudd.json",
+          "julia-gillard": "profile-audit/answers/personality/revisions/initial-expansion/julia-gillard.json",
+          "tony-abbott": "profile-audit/answers/personality/revisions/initial-expansion/tony-abbott.json",
+          "malcolm-turnbull": "profile-audit/answers/personality/revisions/initial-expansion/malcolm-turnbull.json",
+          "scott-morrison": "profile-audit/answers/personality/revisions/initial-expansion/scott-morrison.json",
+          "margaret-thatcher": "profile-audit/answers/personality/revisions/initial-expansion/margaret-thatcher.json",
+          "clement-attlee": "profile-audit/answers/personality/revisions/initial-expansion/clement-attlee.json",
+          "boris-johnson": "profile-audit/answers/personality/revisions/initial-expansion/boris-johnson.json",
+          "keir-starmer": "profile-audit/answers/personality/revisions/initial-expansion/keir-starmer.json",
+          "nigel-farage": "profile-audit/answers/personality/revisions/initial-expansion/nigel-farage.json",
+          "rupert-lowe": "profile-audit/answers/personality/revisions/initial-expansion/rupert-lowe.json",
+          "kamala-harris": "profile-audit/answers/personality/revisions/initial-expansion/kamala-harris.json",
+          "hillary-clinton": "profile-audit/answers/personality/revisions/initial-expansion/hillary-clinton.json",
+          "jimmy-carter": "profile-audit/answers/personality/revisions/initial-expansion/jimmy-carter.json",
+          "lyndon-b-johnson": "profile-audit/answers/personality/revisions/initial-expansion/lyndon-b-johnson.json",
+          "angela-merkel": "profile-audit/answers/personality/revisions/initial-expansion/angela-merkel.json",
+          "olaf-scholz": "profile-audit/answers/personality/revisions/initial-expansion/olaf-scholz.json",
+          "mark-carney": "profile-audit/answers/personality/revisions/initial-expansion/mark-carney.json",
+          "david-lloyd-george": "profile-audit/answers/personality/revisions/initial-expansion/david-lloyd-george.json",
+          "helmut-kohl": "profile-audit/answers/personality/revisions/initial-expansion/helmut-kohl.json",
+          "lech-walesa": "profile-audit/answers/personality/revisions/initial-expansion/lech-walesa.json",
+          "david-ben-gurion": "profile-audit/answers/personality/revisions/initial-expansion/david-ben-gurion.json",
+          "golda-meir": "profile-audit/answers/personality/revisions/initial-expansion/golda-meir.json",
+          "joh-bjelke-petersen": "profile-audit/answers/personality/revisions/initial-expansion/joh-bjelke-petersen.json"
+        },
+        "upstreamBase": "811b0ad0447eda27b84bc51ce8257e93edb61f1f",
+        "completionNote": "Independent review, inclusion decision and integration complete. Original validator similarity failures are disclosed; the upstream backend flag-source failure reproduces without this change. Completion here does not claim a clean validator or all-green backend suite."
+      },
+      "alreadyPresentUpstream": [
+        "david-ben-gurion"
+      ],
+      "requestedProfileIds": [
+        "anthony-albanese",
+        "pauline-hanson",
+        "angus-taylor",
+        "john-howard",
+        "robert-menzies",
+        "gough-whitlam",
+        "bob-hawke",
+        "paul-keating",
+        "kevin-rudd",
+        "julia-gillard",
+        "tony-abbott",
+        "malcolm-turnbull",
+        "scott-morrison",
+        "margaret-thatcher",
+        "clement-attlee",
+        "boris-johnson",
+        "keir-starmer",
+        "nigel-farage",
+        "rupert-lowe",
+        "kamala-harris",
+        "hillary-clinton",
+        "jimmy-carter",
+        "lyndon-b-johnson",
+        "angela-merkel",
+        "olaf-scholz",
+        "mark-carney",
+        "david-lloyd-george",
+        "helmut-kohl",
+        "lech-walesa",
+        "david-ben-gurion",
+        "golda-meir",
+        "joh-bjelke-petersen"
+      ],
+      "originalAuditBase": "a1dc5b4"
+    }
   },
   "ideology": {
     "totalProfiles": 243,

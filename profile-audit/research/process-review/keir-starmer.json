@@ -1,0 +1,452 @@
+{
+  "id": "keir-starmer",
+  "profilePeriod": "July 2024–July 2026 premiership; earlier abortion and personal religious context explicitly dated.",
+  "sources": [
+    {
+      "id": "period",
+      "title": "Final speech as Prime Minister",
+      "url": "https://www.gov.uk/government/speeches/keir-starmers-final-speech-as-prime-minister-20-july-2026",
+      "date": "2026-07-20",
+      "accessed": "2026-10-01",
+      "evidence": "Starmer announces resignation and ends his premiership; profile keeps July 2024–July 2026 scope. Official farewell reiterates Ukraine support and shared national identity."
+    },
+    {
+      "id": "devolution",
+      "title": "English Devolution White Paper",
+      "url": "https://www.gov.uk/government/publications/english-devolution-white-paper-power-and-partnership-foundations-for-growth/english-devolution-white-paper",
+      "date": "2024-12-16",
+      "accessed": "2026-10-01",
+      "evidence": "Widened mayoral authority and funding, housing, transport and skills powers; central government sets framework. Devolution is not sovereign federal states or a right of secession."
+    },
+    {
+      "id": "constitution",
+      "title": "Serving the country, Labour manifesto",
+      "url": "https://labour.org.uk/change/serving-the-country/",
+      "date": "2024-06",
+      "accessed": "2026-10-01",
+      "evidence": "Pledges removal of hereditary Lords, stronger parliamentary standards, and cooperation with devolved governments; rejects Scottish independence and another referendum."
+    },
+    {
+      "id": "votes",
+      "title": "16 year olds to be given right to vote through election reforms",
+      "url": "https://www.gov.uk/government/news/16-year-olds-to-be-given-right-to-vote-through-seismic-government-election-reforms",
+      "date": "2025-07-17",
+      "accessed": "2026-10-01",
+      "evidence": "Government proposes votes at 16, broader accepted voter identification and easier registration, with foreign-donation safeguards; these are proposals at announcement, not proof of completed implementation."
+    },
+    {
+      "id": "police",
+      "title": "White paper sets out reforms to policing",
+      "url": "https://www.gov.uk/government/news/white-paper-sets-out-reforms-to-policing",
+      "date": "2026-01-26",
+      "accessed": "2026-10-01",
+      "evidence": "Government proposes merging forces, national capabilities, ministerial interventions in failing forces, and a fivefold expansion to 50 live-facial-recognition vans, while retaining local policing."
+    },
+    {
+      "id": "disorder",
+      "title": "Prime Minister launches clampdown on violent disorder",
+      "url": "https://www.gov.uk/government/news/prime-minister-launches-new-clamp-down-on-criminal-and-violent-disorder",
+      "date": "2024-08-01",
+      "accessed": "2026-10-01",
+      "evidence": "Starmer launches National Violent Disorder Programme and greater use of live facial recognition following violent disorder."
+    },
+    {
+      "id": "dying",
+      "title": "UK lawmakers back assisted dying bill",
+      "url": "https://apnews.com/article/f8d2986e8e3fa6afb1b8bd2cf19ba5e2",
+      "date": "2025-06-20",
+      "accessed": "2026-10-01",
+      "evidence": "AP independently records Starmer voting for assisted dying for terminally ill adults; government was neutral and colleagues differed. This supports regulated choice, not unrestricted euthanasia."
+    },
+    {
+      "id": "drugs",
+      "title": "Written question 36759 on cannabis regulation",
+      "url": "https://questions-statements.parliament.uk/written-questions/detail/2025-03-10/36759/",
+      "date": "2025-03",
+      "accessed": "2026-10-01",
+      "evidence": "Government retains cannabis criminal controls; no general drug liberalisation can be inferred from his human-rights background."
+    },
+    {
+      "id": "migration",
+      "title": "PM remarks at Immigration White Paper press conference",
+      "url": "https://www.gov.uk/government/speeches/pm-remarks-at-immigration-white-paper-press-conference-12-may-2025",
+      "date": "2025-05-12",
+      "accessed": "2026-10-01",
+      "evidence": "Tighter routes, English requirements and reduced net migration, alongside acknowledgment that migration is part of British history. Integration and common rules are stressed rather than ethnic exclusion."
+    },
+    {
+      "id": "migration-crosscheck",
+      "title": "Fewer study and work visas halve net migration",
+      "url": "https://apnews.com/article/14d91a9f74648887cbf4c621ad9973eb",
+      "date": "2025-05-22",
+      "accessed": "2026-10-01",
+      "evidence": "AP corroborates Starmer tightening work/study visas and English standards while noting earlier Conservative restrictions contributed to the fall. Do not credit all observed reduction to Starmer."
+    },
+    {
+      "id": "defence",
+      "title": "PM defence spending announcement",
+      "url": "https://www.gov.uk/government/news/prime-minister-sets-out-biggest-sustained-increase-in-defence-spending-since-the-cold-war-protecting-british-people-in-new-era-for-national-security",
+      "date": "2025-02-25",
+      "accessed": "2026-10-01",
+      "evidence": "Defence spending planned at 2.5 percent of GDP by April 2027; domestic defence industrial capacity and new technology supported."
+    },
+    {
+      "id": "nuclear-defence",
+      "title": "UK to buy nuclear-capable F-35 jets",
+      "url": "https://apnews.com/article/c8b609a34c84ba7b5d786307f141bb01",
+      "date": "2025-06-25",
+      "accessed": "2026-10-01",
+      "evidence": "Starmer announced purchase of 12 F-35A jets and participation in NATO shared nuclear mission, alongside expanded security spending ambitions. These are commitments, not already-delivered aircraft."
+    },
+    {
+      "id": "palestine",
+      "title": "PM statement recognising Palestine",
+      "url": "https://www.gov.uk/government/speeches/pm-statement-on-the-recognition-of-palestine-21-september-2025",
+      "date": "2025-09-21",
+      "accessed": "2026-10-01",
+      "evidence": "Recognises Palestine to advance negotiated two-state peace; condemns Israeli bombardment and humanitarian restrictions and calls for Hamas hostage release and sanctions. Assertive diplomacy with allies is not non-interventionism or conquest."
+    },
+    {
+      "id": "steel",
+      "title": "British Steel enters public ownership",
+      "url": "https://www.gov.uk/government/news/government-brings-british-steel-into-public-ownership-to-protect-uk-steelmaking",
+      "date": "2026-07-16",
+      "accessed": "2026-10-01",
+      "evidence": "British Steel transferred to public ownership to secure domestic steelmaking; government explicitly retains possible future private investment."
+    },
+    {
+      "id": "nhs",
+      "title": "NHS and independent-sector agreement",
+      "url": "https://www.gov.uk/government/news/deal-between-nhs-and-independent-sector-to-cut-nhs-waiting-lists",
+      "date": "2025-01-06",
+      "accessed": "2026-10-01",
+      "evidence": "Government uses independent-sector capacity to reduce NHS waits while preserving publicly funded access; this is neither general privatisation nor exclusion of private providers."
+    },
+    {
+      "id": "energy",
+      "title": "Introducing Great British Energy",
+      "url": "https://www.gov.uk/government/publications/introducing-great-british-energy",
+      "date": "2024-07-25",
+      "accessed": "2026-10-01",
+      "evidence": "New publicly owned energy company intended to accelerate clean energy and domestic energy security."
+    },
+    {
+      "id": "workers",
+      "title": "Employment Rights Act receives Royal Assent",
+      "url": "https://www.gov.uk/government/news/new-lawsbringthe-world-of-work-into-the-21stcentury",
+      "date": "2025-12-18",
+      "accessed": "2026-10-01",
+      "evidence": "Stronger sick pay, parental leave, dismissal protections and action on exploitative zero-hours contracts; implementation phased over two years, with business and union consultation."
+    },
+    {
+      "id": "investment",
+      "title": "International Investment Summit",
+      "url": "https://www.gov.uk/government/news/major-investment-deals-set-to-be-announced-at-governments-inaugural-international-investment-summit-as-pm-vows-to-remove-needless-regulation-declar",
+      "date": "2024-10-14",
+      "accessed": "2026-10-01",
+      "evidence": "Starmer welcomes private and foreign investment and promises to reduce needless regulatory barriers, alongside a state growth strategy."
+    },
+    {
+      "id": "manifesto",
+      "title": "Change, Labour Party Manifesto 2024",
+      "url": "https://labour.org.uk/wp-content/uploads/2024/06/Change-Labour-manifesto-2024-screen-reader.pdf",
+      "date": "2024-06",
+      "accessed": "2026-10-01",
+      "evidence": "Fiscal discipline and independent Bank of England with 2 percent inflation target; public railway operations and strategic investment; equality commitments. Used as starting-period policy where later evidence does not supersede it."
+    },
+    {
+      "id": "india",
+      "title": "UK concludes trade deal with India",
+      "url": "https://www.gov.uk/government/news/uk-signs-trade-deal-with-india",
+      "date": "2025-05-06",
+      "accessed": "2026-10-01",
+      "evidence": "Free-trade agreement concluded with reductions on most Indian tariff lines affecting UK exports; supports reciprocal liberalisation rather than autarky."
+    },
+    {
+      "id": "ebikes",
+      "title": "Tariffs on non-folding Chinese e-bikes revoked",
+      "url": "https://www.gov.uk/government/news/tariffs-on-non-folding-e-bikes-from-china-revoked",
+      "date": "2025-02-06",
+      "accessed": "2026-10-01",
+      "evidence": "Government removes anti-dumping/countervailing tariffs on non-folding e-bikes following economic-interest assessment while preserving measures on folding bikes; sector-specific protection is not universal protectionism."
+    },
+    {
+      "id": "religion",
+      "title": "Starmer interview with ITV",
+      "url": "https://www.itv.com/news/2024-06-25/sir-keir-starmer-tells-itv-he-wants-to-be-prime-minister-for-a-decade",
+      "date": "2024-06-25",
+      "accessed": "2026-10-01",
+      "evidence": "Starmer says he is not personally religious but participates in Jewish family prayers, synagogue visits and traditions, stressing faith matters to his family. This earlier context is explicitly dated."
+    },
+    {
+      "id": "gender",
+      "title": "Starmer on Supreme Court gender ruling",
+      "url": "https://www.itv.com/news/2025-04-23/badenoch-says-pm-doesnt-have-the-balls-to-share-his-views-in-trans-debate",
+      "date": "2025-04-23",
+      "accessed": "2026-10-01",
+      "evidence": "Welcomes biological-sex ruling and single-sex protections while explicitly promising respect and dignity for trans people. Respect for identities is not equivalent to self-identification overriding sex-based law."
+    },
+    {
+      "id": "nuclear",
+      "title": "Government expands nuclear planning",
+      "url": "https://www.gov.uk/government/news/government-rips-up-rules-to-fire-up-nuclear-power",
+      "date": "2025-02-06",
+      "accessed": "2026-10-01",
+      "evidence": "Supports small modular reactors and wider nuclear siting, removes planning obstacles, and retains safety and environmental standards."
+    },
+    {
+      "id": "ai",
+      "title": "AI Opportunities Action Plan government response",
+      "url": "https://www.gov.uk/government/publications/ai-opportunities-action-plan-government-response",
+      "date": "2025-01-13",
+      "accessed": "2026-10-01",
+      "evidence": "Government backs AI adoption for productivity and public services; technological optimism does not prove support for unregulated human enhancement."
+    },
+    {
+      "id": "precision",
+      "title": "Precision breeding plant varieties consultation",
+      "url": "https://www.gov.uk/government/consultations/plant-varieties-and-seeds-framework-for-precision-bred-plant-varieties-in-england",
+      "date": "2025-02-17",
+      "accessed": "2026-10-01",
+      "evidence": "Government continues implementing regulated precision-bred crops under Genetic Technology Act; plant biotechnology must not be conflated with designer human embryos."
+    },
+    {
+      "id": "book-publisher",
+      "title": "The Three Pillars of Liberty, Routledge",
+      "url": "https://www.routledge.com/x/x/p/book/9780415096416",
+      "date": "1996",
+      "accessed": "2026-10-01",
+      "evidence": "Publisher identifies first edition, 1996, and authors Francesca Klug, Keir Starmer and Stuart Weir. Book audits UK political rights, liberties, surveillance, protest, trade unionism and electoral rights."
+    },
+    {
+      "id": "book-library",
+      "title": "The Three Pillars of Liberty, Berkeley Law catalog",
+      "url": "https://lawcat.berkeley.edu/record/483334",
+      "date": "1996",
+      "accessed": "2026-10-01",
+      "evidence": "University library corroborates all three authors, full title, Routledge and 1996 publication."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "2024 devolution programme expands elected mayors’ regional powers.",
+        "2026 police reform consolidates national capabilities and ministerial intervention; 2024 manifesto rejects a second Scottish independence referendum."
+      ],
+      "sources": [
+        "devolution",
+        "constitution",
+        "police"
+      ],
+      "tension": "Devolved administration within a preserved union; neither sovereign federalism nor uniform central administration in every service."
+    },
+    "representacao": {
+      "facts": [
+        "2025 voting reforms extend democratic participation to 16-year-olds and ease registration.",
+        "2024 manifesto removes hereditary legislative rights and promotes parliamentary standards."
+      ],
+      "sources": [
+        "votes",
+        "constitution"
+      ],
+      "tension": "Representative parliamentary democracy with legal safeguards; not rule by experts or permanent assembly government, and not unrestricted plebiscites."
+    },
+    "poder": {
+      "facts": [
+        "2024 disorder response and 2026 white paper expand police coordination and facial recognition.",
+        "Starmer personally voted for terminally ill adults’ assisted dying in June 2025; government retains cannabis controls."
+      ],
+      "sources": [
+        "police",
+        "disorder",
+        "dying",
+        "drugs"
+      ],
+      "tension": "Order and surveillance coexist with legal due process and specific bodily autonomy, not capital punishment or indefinite arbitrary detention."
+    },
+    "imigracao": {
+      "facts": [
+        "May 2025 white paper tightens visas and English-language integration requirements.",
+        "Starmer acknowledges the national contribution of migration and plural origins."
+      ],
+      "sources": [
+        "migration",
+        "migration-crosscheck"
+      ],
+      "tension": "Controlled integration is distinct from ethnically selective entry or suppression of immigrants’ private customs."
+    },
+    "diplomacia": {
+      "facts": [
+        "February 2025 defence expansion and June nuclear-capable aircraft announcement strengthen NATO deterrence.",
+        "September 2025 Palestine recognition advocates negotiated peace."
+      ],
+      "sources": [
+        "defence",
+        "nuclear-defence",
+        "palestine"
+      ],
+      "tension": "Strong armed forces and deterrence with diplomacy and lawful action; neither pacifism nor unconditional pre-emptive war."
+    },
+    "intervencao": {
+      "facts": [
+        "NATO shared nuclear role, continuing support for Ukraine, and sanctions on Hamas show active external engagement.",
+        "Palestine recognition and ceasefire diplomacy support multilateral political settlement."
+      ],
+      "sources": [
+        "nuclear-defence",
+        "period",
+        "palestine"
+      ],
+      "tension": "National interest and allied engagement do not imply territorial conquest or rejecting international law whenever inconvenient."
+    },
+    "economia": {
+      "facts": [
+        "GB Energy and July 2026 British Steel nationalisation provide strategic public ownership.",
+        "January 2025 NHS arrangement uses private capacity within public provision."
+      ],
+      "sources": [
+        "energy",
+        "steel",
+        "nhs",
+        "workers"
+      ],
+      "tension": "Mixed ownership, private investment and labour protections; not worker expropriation of all enterprises or prioritising private healthcare."
+    },
+    "controle": {
+      "facts": [
+        "Employment Rights Act regulates labour relations and expands statutory protections.",
+        "Manifesto preserves central-bank independence while investment summit promises regulatory simplification."
+      ],
+      "sources": [
+        "workers",
+        "manifesto",
+        "investment"
+      ],
+      "tension": "Sectoral state planning and worker protection coexist with market pricing, monetary independence and growth-minded deregulation."
+    },
+    "comercio": {
+      "facts": [
+        "May 2025 India trade deal and October 2024 investment summit support international integration.",
+        "February 2025 removes tariffs on non-folding Chinese e-bikes but keeps measures on folding bikes; July 2026 steel intervention protects strategic supply."
+      ],
+      "sources": [
+        "india",
+        "investment",
+        "ebikes",
+        "steel"
+      ],
+      "tension": "Free trade with industrial-security exceptions, not zero tariffs regardless of disruption or national production of everything."
+    },
+    "religiao": {
+      "facts": [
+        "June 2024 ITV interview distinguishes personal nonbelief from valued Jewish family observance.",
+        "Constitutional programme supports plural democracy rather than clerical government."
+      ],
+      "sources": [
+        "religion",
+        "constitution"
+      ],
+      "tension": "Secular decision-making and protection for religious communities; atheism does not mean banning faith education, symbols or holidays."
+    },
+    "moral": {
+      "facts": [
+        "April 2025 supports sex-based protections while insisting on trans dignity.",
+        "June 2025 assisted-dying vote supports regulated personal autonomy; manifesto supports equality."
+      ],
+      "sources": [
+        "gender",
+        "dying",
+        "manifesto"
+      ],
+      "tension": "Social equality with limits on gender self-identification and other harm-sensitive regulation, not blanket cultural libertarianism."
+    },
+    "tecnologia": {
+      "facts": [
+        "January 2025 AI plan and February nuclear expansion put technology at centre of growth.",
+        "2025 regulated precision breeding advances crop technology."
+      ],
+      "sources": [
+        "ai",
+        "nuclear",
+        "precision"
+      ],
+      "tension": "Pro-innovation and pro-industry with safety and environmental oversight; no verified commitment to unrestricted designer babies or technological acceleration without limits."
+    }
+  },
+  "limitations": [
+    "Profile period preserved exactly from existing research; only its period and source URLs were read. Earlier abortion context is not independently relied upon in this audit; personal-faith evidence is explicitly dated June 2024.",
+    "Searches made through 2026-10-01; policy commitments are distinguished from implementation. The profile intentionally ends at July 2026 and does not attribute later governments’ policies to Starmer.",
+    "Answers to Brazil-specific examples are analogical applications to equivalent British institutions, not claims of a Starmer position on Brazilian statehood, indigenous jurisdiction or Amazon mining.",
+    "No verified personal pronouncements on every question: human enhancement, racial quotas, polyamory and municipal fiscal allocation require cautious principle-based inference. N is reserved for genuine competing principles, not missing evidence.",
+    "Primary government/party sources establish policy commitments but not independent measures of success. ITV, AP, parliamentary records and library/publisher sources provide independent cross-checks.",
+    "No Brazilian translation of The Three Pillars of Liberty was found in searches of its exact title with Brasil, português and tradução; preserve original title rather than invent a Portuguese one."
+  ],
+  "recommendedMetadata": {
+    "status": "unchanged",
+    "reason": "Existing PT/EN description correctly covers July 2024–July 2026 premiership and defining verified policies; names and former-PM roles remain accurate. Coordinator notified before answers."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Political civil-liberties book coauthored by Starmer with Francesca Klug and Stuart Weir; selected for direct relevance to constitutional and political thought over a technical European human-rights law handbook. First edition 1996 verified by publisher and library; no Brazilian edition verified. Existing books.json has no Starmer entry.",
+    "book": {
+      "personalityId": "keir-starmer",
+      "title": {
+        "pt": "The Three Pillars of Liberty: Political Rights and Freedoms in the United Kingdom",
+        "en": "The Three Pillars of Liberty: Political Rights and Freedoms in the United Kingdom"
+      },
+      "year": 1996,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book-publisher",
+      "book-library"
+    ]
+  },
+  "processNotes": [
+    "Independent single-profile audit; no stored answers, vectors, similarity reviews or score reports read before answering.",
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, new-personality/SKILL.md and README.md; saved prompt read.",
+    "Research and metadata check completed before answering; descriptions remain unchanged.",
+    "Likely neighbours considered by factual differences only: Blair shares Atlanticism but Starmer adds strategic public ownership; Brown shares fiscal/social-democratic governance but newer AI/nuclear and migration policy distinguish this period; Macron shares investment orientation but Starmer protects union rights and public provision.",
+    "No numerical targets, score tuning or further delegation.",
+    "Generated all 240 answers independently in the exact shuffled template order, then selected archetypes by their wording.",
+    "Original validator exited 1: duplicate blockers Julia Gillard 97.2 percent and Olaf Scholz 97.1 percent; Mark Carney 96.8 percent warning. No answers were changed after viewing validation. Strict completion is blocked; coordinator must handle repository-required user decision.",
+    "No shared metadata, books, vectors, STATE or archived answers were modified."
+  ],
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality keir-starmer",
+    "exitCode": 1,
+    "stdout": "validando personality:keir-starmer\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/keir-starmer.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 13/240 = 5.4%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         52.1  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             58.0  liberdade civil <-> ordem/vigilancia\n  imigracao         43.8  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        57.6  pacifista <-> militarista\n  intervencao       30.5  nacionalista assertivo <-> nao-intervencionista\n  economia          65.1  privado/mercado <-> publico/coletivo\n  controle          55.7  livre mercado <-> planejamento\n  comercio          37.7  livre comercio/globalista <-> protecionista\n  religiao          61.9  religioso <-> irreligioso/secular\n  moral             69.3  tradicionalista <-> progressista\n  tecnologia        64.1  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         52.1   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             58.0   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         43.8   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        57.6   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       30.5   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          65.1   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          55.7   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          37.7   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          61.9   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             69.3   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        64.1   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.2%  julia-gillard  <<< BLOQUEIA\n   97.1%  olaf-scholz  <<< BLOQUEIA\n   96.8%  mark-carney  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.8% proximo de 'mark-carney'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.2% identico a 'julia-gillard' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.1% identico a 'olaf-scholz' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": ""
+  },
+  "hashes": {
+    "algorithm": "sha256",
+    "prompt": "91ad6d63ebe7551d9c96ff9dd78e2783fd69d04051509ff3fd5aa1486534f41f",
+    "answers": "b20352b68edf7c70dfc91db02b397b0f9c244992946b37a3e3b9126199744b3f"
+  },
+  "neutralCount": {
+    "total": 13,
+    "outOf": 240,
+    "perAxis": {
+      "estrutura": 2,
+      "representacao": 0,
+      "poder": 1,
+      "imigracao": 1,
+      "diplomacia": 0,
+      "intervencao": 0,
+      "economia": 2,
+      "controle": 1,
+      "comercio": 0,
+      "religiao": 2,
+      "moral": 1,
+      "tecnologia": 3
+    }
+  },
+  "promptChecks": {
+    "exactReadmeMethodology": true,
+    "exactQuestionTemplate": true,
+    "freshArchetypeBlockAtEnd": true
+  }
+}

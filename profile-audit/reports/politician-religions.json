@@ -1,0 +1,321 @@
+{
+  "anthony-albanese": {
+    "religions": [],
+    "religionAxis": 57.1,
+    "sourceIds": [
+      "religion",
+      "religion_tension",
+      "lgbt"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "pauline-hanson": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 39.0,
+    "sourceIds": [
+      "religion",
+      "secular",
+      "controversy"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "angus-taylor": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 37.7,
+    "sourceIds": [
+      "AT07",
+      "AT08",
+      "AT03"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "john-howard": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 37.7,
+    "sourceIds": [
+      "S14"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "robert-menzies": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 28.2,
+    "sourceIds": [
+      "religion",
+      "policy1963"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "gough-whitlam": {
+    "religions": [],
+    "religionAxis": 66.7,
+    "sourceIds": [
+      "s3",
+      "s1"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "bob-hawke": {
+    "religions": [],
+    "religionAxis": 61.9,
+    "sourceIds": [
+      "religion",
+      "multi"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "paul-keating": {
+    "religions": [],
+    "religionAxis": 57.1,
+    "sourceIds": [
+      "faith",
+      "dying",
+      "privacy-act"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "kevin-rudd": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 35.7,
+    "sourceIds": [
+      "faith",
+      "ru486",
+      "marriage"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "julia-gillard": {
+    "religions": [],
+    "religionAxis": 65.5,
+    "sourceIds": [
+      "faith",
+      "education2025"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "tony-abbott": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 26.0,
+    "sourceIds": [
+      "cpac",
+      "family",
+      "abortion",
+      "monarchy"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "malcolm-turnbull": {
+    "religions": [],
+    "religionAxis": 53.6,
+    "sourceIds": [
+      "multifaith",
+      "abortion",
+      "marriage"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "scott-morrison": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 27.0,
+    "sourceIds": [
+      "s11",
+      "s19",
+      "s23",
+      "s26"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "margaret-thatcher": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 16.4,
+    "sourceIds": [
+      "S5"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "clement-attlee": {
+    "religions": [],
+    "religionAxis": 57.5,
+    "sourceIds": [
+      "religion",
+      "education",
+      "manifesto"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "boris-johnson": {
+    "religions": [],
+    "religionAxis": 46.9,
+    "sourceIds": [
+      "S16",
+      "S17"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "keir-starmer": {
+    "religions": [],
+    "religionAxis": 61.9,
+    "sourceIds": [
+      "religion",
+      "constitution"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "nigel-farage": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 30.6,
+    "sourceIds": [
+      "faith",
+      "heritage"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "rupert-lowe": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 26.0,
+    "sourceIds": [
+      "S4",
+      "S17"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "kamala-harris": {
+    "religions": [],
+    "religionAxis": 54.8,
+    "sourceIds": [
+      "faith",
+      "faithchoice"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "hillary-clinton": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 52.4,
+    "sourceIds": [
+      "faith",
+      "lgbt",
+      "health"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "jimmy-carter": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 39.3,
+    "sourceIds": [
+      "faith",
+      "interview"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "lyndon-b-johnson": {
+    "religions": [],
+    "religionAxis": 39.3,
+    "sourceIds": [
+      "faith",
+      "crime"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "angela-merkel": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 38.9,
+    "sourceIds": [
+      "faith"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "olaf-scholz": {
+    "religions": [],
+    "religionAxis": 65.5,
+    "sourceIds": [
+      "religion"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "mark-carney": {
+    "religions": [],
+    "religionAxis": 56.0,
+    "sourceIds": [
+      "S16"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "david-lloyd-george": {
+    "religions": [],
+    "religionAxis": 44.0,
+    "sourceIds": [
+      "S10",
+      "S11"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "helmut-kohl": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 21.0,
+    "sourceIds": [
+      "S7",
+      "S1"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "lech-walesa": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 17.6,
+    "sourceIds": [
+      "pace",
+      "jta"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  },
+  "golda-meir": {
+    "religions": [],
+    "religionAxis": 51.2,
+    "sourceIds": [
+      "S5",
+      "S6"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  },
+  "joh-bjelke-petersen": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 8.1,
+    "sourceIds": [
+      "qld-register",
+      "religion",
+      "tax-hospitals"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "id": "hillary-clinton",
+  "profilePeriod": "2015–2016 presidential campaign, informed by her 2009–2013 diplomatic record; earlier positions dated explicitly and later public remarks checked through September 2026.",
+  "sources": [
+    {
+      "id": "voting",
+      "title": "Campaign voting-rights proposal",
+      "url": "https://www.hillaryclinton.com/issues/voting-rights/",
+      "date": "2016 (archived campaign platform)",
+      "accessed": "2026-10-01",
+      "evidence": "Automatic voter registration, restored Voting Rights Act, national early-voting minimum, voting rights restored after sentences."
+    },
+    {
+      "id": "justice",
+      "title": "Campaign criminal-justice proposal",
+      "url": "https://www.hillaryclinton.com/issues/criminal-justice-reform/",
+      "date": "2016 (archived campaign platform)",
+      "accessed": "2026-10-01",
+      "evidence": "National police use-of-force guidelines and oversight, local police retained, mandatory-minimum reform, treatment instead of incarceration for minor drug offenses, states as marijuana laboratories, end private prisons."
+    },
+    {
+      "id": "immigration",
+      "title": "Campaign immigration proposal",
+      "url": "https://www.hillaryclinton.com/issues/immigration-reform/",
+      "date": "2016 (archived campaign platform)",
+      "accessed": "2026-10-01",
+      "evidence": "Citizenship pathway, DACA/DAPA, humane targeted enforcement and border protection, end family/private detention, English and citizenship education alongside integration."
+    },
+    {
+      "id": "security",
+      "title": "Campaign national-security proposal",
+      "url": "https://www.hillaryclinton.com/issues/national-security/",
+      "date": "2016 (archived campaign platform)",
+      "accessed": "2026-10-01",
+      "evidence": "Supports NATO, Israel defense, sanctions against Iran and Russia, Iran nuclear agreement, Cuba engagement and lifting embargo, New START, diplomacy and military counterterrorism."
+    },
+    {
+      "id": "health",
+      "title": "Campaign health-care proposal",
+      "url": "https://www.hillaryclinton.com/issues/health-care/",
+      "date": "2016 (archived campaign platform)",
+      "accessed": "2026-10-01",
+      "evidence": "ACA and public option, Medicare buy-in from 55, Medicaid expansion incentives, community health centers, competition and drug-price penalties; legal abortion."
+    },
+    {
+      "id": "finance",
+      "title": "Campaign Wall Street reform",
+      "url": "https://www.hillaryclinton.com/issues/wall-street/",
+      "date": "2016 (archived campaign platform)",
+      "accessed": "2026-10-01",
+      "evidence": "Risk fee for large banks, stronger Volcker rule, authority to break risky financial firms apart, tax on harmful high-frequency trading, prosecution of fraud."
+    },
+    {
+      "id": "manufacturing",
+      "title": "Campaign manufacturing proposal",
+      "url": "https://www.hillaryclinton.com/issues/manufacturing/",
+      "date": "2016 (archived campaign platform)",
+      "accessed": "2026-10-01",
+      "evidence": "Buy American, manufacturing partnerships and tax incentives, reject TPP in its concluded form, enforce trade rules against Chinese steel practices, penalize offshoring; still compete in global markets."
+    },
+    {
+      "id": "faith",
+      "title": "TIME: Clinton explains Christianity and politics",
+      "url": "https://time.com/4193231/hillary-clinton-faith-christianity-iowa/",
+      "date": "2016-01-26",
+      "accessed": "2026-10-01",
+      "evidence": "Identifies as Methodist Christian; religious obligations of charity, care for prisoners and strangers guide politics; rejects harsh religious condemnation."
+    },
+    {
+      "id": "lgbt",
+      "title": "Campaign LGBT equality",
+      "url": "https://www.hillaryclinton.com/issues/lgbt-equality/",
+      "date": "2016 (archived campaign platform)",
+      "accessed": "2026-10-01",
+      "evidence": "Supports same-sex marriage and adoption equality, Equality Act, gender-identity protections, transgender military service, end conversion therapy for minors."
+    },
+    {
+      "id": "tech",
+      "title": "Campaign technology and innovation",
+      "url": "https://www.hillaryclinton.com/issues/technology-and-innovation/",
+      "date": "2016 (archived campaign platform)",
+      "accessed": "2026-10-01",
+      "evidence": "STEM, broadband, research, startups and technology exports; net neutrality, privacy safeguards and competition."
+    },
+    {
+      "id": "climate",
+      "title": "Campaign climate proposal",
+      "url": "https://www.hillaryclinton.com/issues/climate/",
+      "date": "2016 (archived campaign platform)",
+      "accessed": "2026-10-01",
+      "evidence": "Renewables and efficiency, cut oil consumption and energy waste, preserve public lands, sensitive areas off limits to production; clean industrial growth rather than deindustrialization."
+    },
+    {
+      "id": "science",
+      "title": "ACS C&EN: candidates answer ScienceDebate",
+      "url": "https://cen.acs.org/articles/94/web/2016/09/Trump-Clinton-Stein-answer-20.html",
+      "date": "2016-09-13",
+      "accessed": "2026-10-01",
+      "evidence": "Candidate responses endorse research partnerships and advanced space program; scientific research and commercialization drive growth."
+    },
+    {
+      "id": "tribal",
+      "title": "Native American campaign agenda",
+      "url": "https://www.presidency.ucsb.edu/documents/hillary-clinton-campaign-press-release-hillary-clintons-native-american-agenda-provide",
+      "date": "2007-11-06",
+      "accessed": "2026-10-01",
+      "evidence": "Earlier dated position: tribal sovereignty, government-to-government relations, tribal environmental regulation, native-language early education, federal funding partnerships."
+    },
+    {
+      "id": "death",
+      "title": "CNN town hall transcript",
+      "url": "https://cnnpressroom.blogs.cnn.com/2016/03/13/full-rush-transcript-hillary-clinton-partcnn-tv-one-democratic-presidential-town-hall/",
+      "date": "2016-03-13",
+      "accessed": "2026-10-01",
+      "evidence": "Would welcome state death-penalty abolition but retain very limited federal terrorism cases; reform incarceration and regulate fracking."
+    },
+    {
+      "id": "encryption",
+      "title": "CNN transcript: counterterror speech",
+      "url": "https://transcripts.cnn.com/show/cnr/date/2016-03-23/segment/06",
+      "date": "2016-03-23",
+      "accessed": "2026-10-01",
+      "evidence": "Intelligence surge and analysis of ISIS networks; encryption has security benefits and investigatory costs, favors commission and cooperation to protect safety and privacy."
+    },
+    {
+      "id": "fed",
+      "title": "Reuters: Clinton criticizes Trump Fed comments",
+      "url": "https://finance.yahoo.com/news/clinton-slams-trump-commenting-fed-174821282.html",
+      "date": "2016-09-06",
+      "accessed": "2026-10-01",
+      "evidence": "Search-index excerpt: Fed monetary-policy comments should be off limits for presidents/candidates. Full page fetch rate-limited; narrower indexed evidence only."
+    },
+    {
+      "id": "syria",
+      "title": "Council on Foreign Relations remarks",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-and-question-and-answer-session-the-council-foreign-relations-new-york-city",
+      "date": "2015-11-19",
+      "accessed": "2026-10-01",
+      "evidence": "Proposed northern Syrian no-fly zone, protected refuges and special forces against ISIS; regional autonomy within a reconstructed Syrian state."
+    },
+    {
+      "id": "current",
+      "title": "Washington Post: Clinton on press ban",
+      "url": "https://www.washingtonpost.com/business/2026/09/23/hillary-clinton-says-trumps-media-ban-is-deeply-disturbing/",
+      "date": "2026-09-23",
+      "accessed": "2026-10-01",
+      "evidence": "Later public check: she condemned White House restrictions on news outlets."
+    },
+    {
+      "id": "book-en",
+      "title": "Hard Choices official publisher page",
+      "url": "https://www.simonandschuster.com/books/Hard-Choices/Hillary-Rodham-Clinton/9781476751450",
+      "date": "2014-06-10",
+      "accessed": "2026-10-01",
+      "evidence": "Publisher credits Hillary Rodham Clinton; political memoir of her secretary-of-state tenure. Publication date June 10, 2014."
+    },
+    {
+      "id": "book-pt",
+      "title": "ÉPOCA: Brazilian release and foreign-policy excerpts",
+      "url": "https://epoca.globo.com/tempo/noticia/2016/06/o-que-pensa-hillary-clinton-primeira-mulher-candidata-presidencia-dos-eua.html",
+      "date": "2016-06",
+      "accessed": "2026-10-01",
+      "evidence": "Brazilian edition named Escolhas difíceis, Globo Livros, 766 pages; discusses intervention doctrine with excerpts."
+    },
+    {
+      "id": "book-isbn",
+      "title": "Sebo do Messias Brazilian edition listing",
+      "url": "https://sebodomessias.com.br/livro/biografia/escolhas-dificeis-12",
+      "date": "Undated catalogue; edition 2016",
+      "accessed": "2026-10-01",
+      "evidence": "Credits Hillary Rodham Clinton, Globo, 2016, ISBN 9788525060341, Brazilian title Escolhas Difíceis."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "2016: local policing and state marijuana experiments survive national civil-rights guidelines.",
+        "2007: recognizes tribal sovereignty and native-language schools; 2016 health program incentivizes state Medicaid expansion."
+      ],
+      "sources": [
+        "justice",
+        "tribal",
+        "health"
+      ],
+      "tension": "Cooperative federalism with national rights floors, not either secession or a unitary police/education system."
+    },
+    "representacao": {
+      "facts": [
+        "2016: automatic registration and equal voting access.",
+        "2026-09-23: condemns media exclusion."
+      ],
+      "sources": [
+        "voting",
+        "current"
+      ],
+      "tension": "Institutional representative democracy and constitutional protections, not rule by plebiscite or leader decree."
+    },
+    "poder": {
+      "facts": [
+        "2016: reduce nonviolent incarceration, protect due process and police accountability.",
+        "2016: retain narrow federal capital punishment; intelligence surge and encryption compromise."
+      ],
+      "sources": [
+        "justice",
+        "death",
+        "encryption"
+      ],
+      "tension": "Civil-rights liberalism coexists with security powers and restrictive gun policy; not libertarian abolition of criminal law."
+    },
+    "imigracao": {
+      "facts": [
+        "2016: citizenship pathway, asylum hearings, family unity, cultural integration.",
+        "2016: English education and deportation of violent threats remain."
+      ],
+      "sources": [
+        "immigration"
+      ],
+      "tension": "Pluralism and lawful borders; neither forced cultural assimilation nor unrestricted entry."
+    },
+    "diplomacia": {
+      "facts": [
+        "2016: NATO and military capacity with diplomacy, Iran agreement and New START.",
+        "2015: Syrian no-fly zone and special forces."
+      ],
+      "sources": [
+        "security",
+        "syria"
+      ],
+      "tension": "Hawkish liberal internationalism, not pacifism, but deterrence is not an exclusive theory of peace."
+    },
+    "intervencao": {
+      "facts": [
+        "2016: sanctions, military alliances and counterterrorism outside US borders.",
+        "2015: Syrian no-fly zone and safe areas."
+      ],
+      "sources": [
+        "security",
+        "syria"
+      ],
+      "tension": "International institutions and allied cooperation are tools for active US leadership, not neutrality or isolation."
+    },
+    "economia": {
+      "facts": [
+        "2016: ACA mixed-insurance system plus public option, Medicaid and community clinics.",
+        "2016: end private prisons; industrial partnerships with businesses."
+      ],
+      "sources": [
+        "health",
+        "justice",
+        "manufacturing"
+      ],
+      "tension": "Regulated private enterprise with public obligations, not worker ownership or wholesale privatization."
+    },
+    "controle": {
+      "facts": [
+        "2016: financial risk fees, Volcker-rule strengthening, regulation and industrial incentives.",
+        "2016-09-06: defends Fed monetary-policy independence."
+      ],
+      "sources": [
+        "finance",
+        "manufacturing",
+        "fed"
+      ],
+      "tension": "Government steering and redistribution without comprehensive command planning or political control of all monetary policy."
+    },
+    "comercio": {
+      "facts": [
+        "2016: rejects concluded TPP, backs Buy American and trade enforcement.",
+        "2016: technology exports and global-market competition remain desired."
+      ],
+      "sources": [
+        "manufacturing",
+        "tech"
+      ],
+      "tension": "Selective worker/strategic protection inside international integration, not autarky or unconditional tariff abolition."
+    },
+    "religiao": {
+      "facts": [
+        "2016-01-25: describes Methodist faith and Christian charity as political motivations.",
+        "2016: marriage, transgender and reproductive rights independent of religious doctrine."
+      ],
+      "sources": [
+        "faith",
+        "lgbt",
+        "health"
+      ],
+      "tension": "Personal faith and religious pluralism alongside secular equal-rights law; neither theocracy nor anti-religious secularism."
+    },
+    "moral": {
+      "facts": [
+        "2016: LGBT equality including adoption and gender identity; legal abortion.",
+        "2016: anti-trafficking remains part of foreign-policy record."
+      ],
+      "sources": [
+        "lgbt",
+        "health",
+        "security"
+      ],
+      "tension": "Equal-rights progressivism does not demonstrate endorsement of every sexual practice or commercial sex; 1990s/2000s marriage positions are not substituted for 2016."
+    },
+    "tecnologia": {
+      "facts": [
+        "2016: science funding, digital infrastructure, innovation and space exploration.",
+        "2016: conservation, oil-use reduction, pollution standards and clean-energy manufacturing."
+      ],
+      "sources": [
+        "tech",
+        "science",
+        "climate"
+      ],
+      "tension": "Technology with environmental and privacy safeguards; no demonstrated unrestricted transhumanist program."
+    }
+  },
+  "limitations": [
+    "Research checked through 2026-10-01; later press-freedom statement corroborates institutional commitments, not a comprehensive new campaign platform.",
+    "Campaign pages are primary advocacy sources, checked against CNN transcripts, TIME reporting, ACS candidate questionnaire, Reuters indexed reporting and Washington Post reporting.",
+    "Brazil-specific questions are interpreted through analogous US institutional principles; not claims Clinton endorsed Brazilian legislation.",
+    "Brain implants, embryo enhancement, cultivated meat, euthanasia and polyamory have sparse direct evidence. Answers must be labelled principled inferences; N only where competing commitments genuinely balance.",
+    "Earlier 2007 tribal agenda is dated explicitly; 2016 federalism is independently supported by state marijuana experiments and state Medicaid policy.",
+    "Reuters Fed page fetch failed with 429; only retrieved search excerpt supports that narrow finding."
+  ],
+  "recommendedMetadata": {
+    "needed": false,
+    "reason": "Current PT/EN role, name and compact description remain accurate for the preserved campaign-era profile. Coordinator notified before any answers."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political/diplomatic memoir directly relevant to her foreign-policy doctrine. Existing books catalogue contains no entry for this personality. Publisher credits Hillary Rodham Clinton; Brazilian title verified against Globo-associated coverage and Brazilian edition listing. Selected for political relevance, not an unsupported claim of highest sales.",
+    "book": {
+      "personalityId": "hillary-clinton",
+      "title": {
+        "pt": "Escolhas difíceis",
+        "en": "Hard Choices"
+      },
+      "year": 2014,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book-en",
+      "book-pt",
+      "book-isbn"
+    ]
+  },
+  "processNotes": [
+    "Independent single-profile review. No existing answers, profile vectors or score reports read.",
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, new-personality skill and README. No delegation.",
+    "Likely neighbours: Obama/Biden share institutional liberalism but Clinton advocated a Syria no-fly zone; Sanders differs on insurance system and force; Merkel differs on 2016 trade opposition and reproductive rights. These distinctions are factual, not numerical targets.",
+    "Research and metadata review completed before answers. Dedicated checks covered federalism, religion, security-versus-liberty, central-bank independence, technology and current remarks.",
+    "Each answer chosen in the unchanged template display order, then mapped to question ID. No numerical vector target was chosen.",
+    "Neutral choices express mixed commitments: national curriculum/local control; autonomy/end-of-life safeguards; partial decriminalization; cultural integration; multilateralism/power; mixed health provision and welfare design; distributional tax choices; personal faith/secular governance; family autonomy/child rights; research/environment and therapeutic/enhancement tradeoffs.",
+    "Sparse-evidence affirmative/disagree responses on implants, cultivated meat, spatial lifestyle and Brazilian policy analogies are reasoned extrapolations from documented scientific, environmental and institutional commitments, not reported explicit endorsements.",
+    "Original validator blocks merge for similarity to Kamala Harris and Mark Carney. No answers modified after viewing validation; no score tuning, no exception and no merge. Coordinator must resolve the explicit duplicate-profile consent requirement with the user."
+  ],
+  "neutralCount": {
+    "total": 21,
+    "of": 240,
+    "percent": 8.75,
+    "perAxis": {
+      "estrutura": 1,
+      "representacao": 0,
+      "poder": 2,
+      "imigracao": 1,
+      "diplomacia": 0,
+      "intervencao": 1,
+      "economia": 3,
+      "controle": 2,
+      "comercio": 0,
+      "religiao": 3,
+      "moral": 3,
+      "tecnologia": 5
+    }
+  },
+  "hashes": {
+    "promptSha256": "1120d8d565ed656f5fdd76c436cc34017c03a1a8a4238a2392f9add32a753613",
+    "answersSha256": "dddd0ca706f72eb3e9fcf1ef45b364b63eb9bbab6edeb2f459bb0e7538f25549"
+  },
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality hillary-clinton",
+    "exitCode": 1,
+    "stdout": "validando personality:hillary-clinton\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/hillary-clinton.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 21/240 = 8.8%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         54.5  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             49.6  liberdade civil <-> ordem/vigilancia\n  imigracao         26.0  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        52.9  pacifista <-> militarista\n  intervencao       19.8  nacionalista assertivo <-> nao-intervencionista\n  economia          56.8  privado/mercado <-> publico/coletivo\n  controle          53.3  livre mercado <-> planejamento\n  comercio          48.4  livre comercio/globalista <-> protecionista\n  religiao          52.4  religioso <-> irreligioso/secular\n  moral             76.4  tradicionalista <-> progressista\n  tecnologia        54.8  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         54.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             49.6   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         26.0   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        52.9   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       19.8   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          56.8   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          53.3   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          48.4   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          52.4   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             76.4   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        54.8   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.8%  kamala-harris  <<< BLOQUEIA\n   98.0%  mark-carney  <<< BLOQUEIA\n   96.6%  joe-biden  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [NEUTROS] tecnologia: 5/20 = 25% de N (perto do limite)\n  [CONTEUDO] 96.6% proximo de 'joe-biden'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.8% identico a 'kamala-harris' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 98.0% identico a 'mark-carney' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": "",
+    "blockers": [
+      "[CONTEUDO] 98.8% identico a kamala-harris - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 98.0% identico a mark-carney - perfil redundante, nao acrescenta nada ao catalogo"
+    ],
+    "warnings": [
+      "[NEUTROS] tecnologia: 5/20 = 25% de N (perto do limite)",
+      "[CONTEUDO] 96.6% proximo de joe-biden"
+    ]
+  }
+}

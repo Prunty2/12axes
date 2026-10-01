@@ -2562,5 +2562,191 @@
     "role": "King of Israel",
     "lifespan": "c. 1040–970 BCE",
     "description": "According to the Bible, David united the tribes of Israel, conquered Jerusalem and made it his capital, defeated the Philistines, brought the Ark to the city and built a centralized kingdom, and tradition attributes the Psalms to him and the line of the Messiah."
+  },
+  {
+    "id": "anthony-albanese",
+    "name": "Anthony Albanese",
+    "role": "Australian prime minister",
+    "description": "Labor prime minister since 2022, he expanded support for Medicare and domestic industry. He backs multiculturalism, LGBT rights and renewable energy while maintaining migration controls and the AUKUS defence partnership."
+  },
+  {
+    "id": "pauline-hanson",
+    "name": "Pauline Hanson",
+    "role": "Australian senator and One Nation leader",
+    "description": "One Nation founder and Queensland senator, she advocates restricted immigration, cultural assimilation and traditional values. She combines industrial protection and strategic public ownership with support for small business and nuclear energy."
+  },
+  {
+    "id": "angus-taylor",
+    "name": "Angus Taylor",
+    "role": "Australian opposition leader",
+    "description": "Liberal opposition leader since 2026 and former energy minister, he advocates lower taxes and regulation, migration tied to Australian values, and stronger AUKUS capabilities. He supports fossil fuels and opening the way to nuclear energy."
+  },
+  {
+    "id": "john-howard",
+    "name": "John Howard",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister from 1996 to 2007, Howard combined privatisation and labour reform with social conservatism, gun controls, strict border policies and military support for the United States."
+  },
+  {
+    "id": "robert-menzies",
+    "name": "Robert Menzies",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister and Liberal Party founder, Menzies championed private enterprise, monarchy and anti-communism while retaining industrial protection and expanding universities; he backed White Australia and the Vietnam War."
+  },
+  {
+    "id": "gough-whitlam",
+    "name": "Gough Whitlam",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister from 1972 to 1975, Whitlam introduced Medibank, abolished university fees and conscription, advanced Indigenous rights and racial equality, and cut tariffs while expanding federal responsibilities."
+  },
+  {
+    "id": "bob-hawke",
+    "name": "Bob Hawke",
+    "role": "Former Australian prime minister",
+    "description": "Labor prime minister from 1983 to 1991, he combined Medicare and union accords with freer trade and financial deregulation. He championed multiculturalism and conservation, later backing nuclear power and marriage equality."
+  },
+  {
+    "id": "paul-keating",
+    "name": "Paul Keating",
+    "role": "Former Australian prime minister",
+    "description": "Labor prime minister from 1991 to 1996, he advanced market reform, compulsory superannuation and Indigenous rights. He championed a republic and closer Asian ties, later opposing AUKUS and nuclear power."
+  },
+  {
+    "id": "kevin-rudd",
+    "name": "Kevin Rudd",
+    "role": "Former Australian prime minister",
+    "description": "Labor prime minister in 2007–2010 and 2013, he led crisis stimulus, the apology to Indigenous Australians and Kyoto ratification. He combines social protection, Christian faith and multilateral diplomacy with support for AUKUS."
+  },
+  {
+    "id": "julia-gillard",
+    "name": "Julia Gillard",
+    "role": "Former Australian prime minister",
+    "description": "Australia’s first female prime minister, she led Labor from 2010 to 2013. She introduced carbon pricing and disability insurance, advanced education reform, and advocates gender equality within a regulated market economy."
+  },
+  {
+    "id": "tony-abbott",
+    "name": "Tony Abbott",
+    "role": "Former Australian prime minister",
+    "description": "Prime minister from 2013 to 2015, he privatised Medibank Private and repealed carbon pricing. He advocates Christian tradition, lower immigration, nuclear power, free trade and a strong US military alliance."
+  },
+  {
+    "id": "malcolm-turnbull",
+    "name": "Malcolm Turnbull",
+    "role": "Former Australian prime minister",
+    "description": "Prime minister from 2015 to 2018, a republican and supporter of marriage equality. He backs markets, free trade, renewable energy and medical research, alongside strict security policies and greater Australian autonomy within the US alliance."
+  },
+  {
+    "id": "scott-morrison",
+    "name": "Scott Morrison",
+    "role": "Former Australian prime minister",
+    "description": "Australian prime minister from 2018 to 2022, Morrison combined Christian conservatism, support for business and controlled migration with pandemic wage subsidies, AUKUS and technology-led climate targets."
+  },
+  {
+    "id": "margaret-thatcher",
+    "name": "Margaret Thatcher",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 1979 to 1990, Thatcher pursued privatisation, fiscal restraint and trade union restrictions. She championed NATO, parliamentary sovereignty and traditional family values while retaining the publicly funded NHS."
+  },
+  {
+    "id": "clement-attlee",
+    "name": "Clement Attlee",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 1945 to 1951, Attlee nationalised key industries and established the NHS. He combined parliamentary socialism and colonial independence with NATO, overseas military operations and Britain’s nuclear programme."
+  },
+  {
+    "id": "boris-johnson",
+    "name": "Boris Johnson",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 2019 to 2022, Johnson led Brexit, promoted free trade and regional investment, supported the public NHS, and combined immigration controls with strong military support for Ukraine."
+  },
+  {
+    "id": "keir-starmer",
+    "name": "Keir Starmer",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 2024 to 2026, Starmer combined strategic public ownership and private investment, workers’ rights, immigration controls and defence expansion, while backing AI and nuclear power."
+  },
+  {
+    "id": "nigel-farage",
+    "name": "Nigel Farage",
+    "role": "Reform UK leader",
+    "description": "Reform UK leader and Brexit campaigner, Farage combines national sovereignty, restricted immigration and lower taxes with a tax-funded NHS, strong defence and criticism of judicial checks on a parliamentary mandate."
+  },
+  {
+    "id": "rupert-lowe",
+    "name": "Rupert Lowe",
+    "role": "Restore Britain leader",
+    "description": "Restore Britain leader Lowe advocates net-negative immigration, Christian heritage and a smaller state, combining free speech and self-defence with strict criminal penalties and national sovereignty."
+  },
+  {
+    "id": "kamala-harris",
+    "name": "Kamala Harris",
+    "role": "Former US vice president",
+    "description": "US vice president from 2021 to 2025, Harris advocates reproductive rights, economic regulation and social protection alongside private enterprise, border enforcement and US-led military alliances."
+  },
+  {
+    "id": "hillary-clinton",
+    "name": "Hillary Clinton",
+    "role": "Former US secretary of state",
+    "description": "US secretary of state from 2009 to 2013 and presidential nominee in 2016. Clinton advocates civil rights, affordable health care and regulated markets, combining military alliances and foreign intervention with diplomacy."
+  },
+  {
+    "id": "jimmy-carter",
+    "name": "Jimmy Carter",
+    "role": "Former US president",
+    "description": "US president from 1977 to 1981. Carter combined deregulation and social protection with conservation and human-rights diplomacy. His Baptist faith shaped his humanitarian work and moral convictions."
+  },
+  {
+    "id": "lyndon-b-johnson",
+    "name": "Lyndon B. Johnson",
+    "role": "Former US president",
+    "description": "US president from 1963 to 1969. His Great Society expanded civil rights, education and public health insurance through Medicare and Medicaid. Johnson combined a regulated private economy with military escalation in Vietnam."
+  },
+  {
+    "id": "angela-merkel",
+    "name": "Angela Merkel",
+    "role": "Former German chancellor",
+    "description": "German chancellor from 2005 to 2021. A Christian Democrat, she combined a social market economy and fiscal restraint with European integration, refugee reception and the nuclear phase-out."
+  },
+  {
+    "id": "olaf-scholz",
+    "name": "Olaf Scholz",
+    "role": "Former German chancellor",
+    "description": "German chancellor from 2021 to 2025. A Social Democrat, he raised the minimum wage, supported industry and expanded civil rights. He strengthened defence and aid to Ukraine while resisting a direct war with Russia."
+  },
+  {
+    "id": "mark-carney",
+    "name": "Mark Carney",
+    "role": "Prime Minister of Canada",
+    "description": "Canadian prime minister since 2025 and former central banker. Combines private investment and public services with stronger defence, trade integration and strategic-sector protection. Supports civil rights and technology for the climate transition."
+  },
+  {
+    "id": "david-lloyd-george",
+    "name": "David Lloyd George",
+    "role": "Former British prime minister",
+    "description": "British prime minister from 1916 to 1922, Lloyd George expanded social insurance and wealth taxation, combining reforming liberalism, wartime industrial mobilisation and imperial power with negotiated peace and Irish self-government."
+  },
+  {
+    "id": "helmut-kohl",
+    "name": "Helmut Kohl",
+    "role": "Former German chancellor",
+    "description": "German chancellor from 1982 to 1998, he led reunification and European integration. A Christian Democrat, he combined a social-market economy, privatisation and social insurance with conservative family values and commitment to NATO."
+  },
+  {
+    "id": "lech-walesa",
+    "name": "Lech Wałęsa",
+    "role": "Former Polish president",
+    "description": "Solidarity leader and Polish president from 1990 to 1995, he helped end communist rule. He combined independent trade unionism, market transition, Catholic values and closer ties with European and Atlantic institutions."
+  },
+  {
+    "id": "golda-meir",
+    "name": "Golda Meir",
+    "role": "Former Israeli prime minister",
+    "description": "Israeli prime minister from 1969 to 1974, she emerged from Labour Zionism and expanded social protection. She backed Jewish immigration and military security, retained religious compromises and accepted disengagement agreements after the 1973 war."
+  },
+  {
+    "id": "joh-bjelke-petersen",
+    "name": "Joh Bjelke-Petersen",
+    "role": "Former Premier of Queensland, Australia",
+    "description": "Queensland premier (1968–1987) who backed state rights, private investment and Christian values; promoted mining, retained free hospitals and restricted protest under an electoral system favouring rural areas."
   }
 ]

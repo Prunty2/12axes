@@ -1,0 +1,384 @@
+{
+  "id": "malcolm-turnbull",
+  "country": "Australia",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Political career and published positions through September 2026; prime minister 2015–2018.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "federal",
+      "title": "States unwilling to take responsibility for increasing taxes",
+      "url": "https://www.abc.net.au/news/2016-04-03/states-unwilling-to-take-responsibility-for-increasing-taxes-pm/7295154",
+      "factDate": "2016-04-03",
+      "accessedOn": "2026-10-01",
+      "evidence": "Proposed states levy income tax to match responsibility for schools and hospitals; proposal rejected by states."
+    },
+    {
+      "id": "security",
+      "title": "National Security Statement",
+      "url": "https://www.malcolmturnbull.com.au/media/national-security-statement-tuesday-13-june-2017",
+      "factDate": "2017-06-13",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supported control orders, continued detention of high-risk convicted terrorists, restrictions on bail/parole, metadata and access to encrypted communications; defended anti-IS military operations."
+    },
+    {
+      "id": "multifaith",
+      "title": "The Politics of Love, McCosker Oration",
+      "url": "https://www.malcolmturnbull.com.au/media/the-politics-of-love-mccosker-oration-australian-parliament-house",
+      "factDate": "2026-08-12",
+      "accessedOn": "2026-10-01",
+      "evidence": "Practising Catholic praises Christian love and charity; rejects Christian nationalism and ethnic/religious tests for migrants; defends pluralism, opposition rights and compromise. Reaffirms that he did not intend to sell Medicare."
+    },
+    {
+      "id": "aukus",
+      "title": "Submission to the AUKUS public inquiry",
+      "url": "https://www.malcolmturnbull.com.au/media/submission-to-the-aukus-public-inquiry",
+      "factDate": "2026-08-13 (submission dated 2026-07-02)",
+      "accessedOn": "2026-10-01",
+      "evidence": "Criticises AUKUS submarine dependence, reduced sovereign control and inadequate parliamentary scrutiny; calls for alternate French submarine acquisition, retaining defence capability."
+    },
+    {
+      "id": "energy",
+      "title": "BNEF Summit New York 2026",
+      "url": "https://www.malcolmturnbull.com.au/media/bnef-summit-new-york-2026-22-april-2026",
+      "factDate": "2026-04-22",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supports renewable electrification, batteries and pumped hydro on engineering/economic grounds; cooperation between middle powers and continued US alliance; alarmed by proliferation risks."
+    },
+    {
+      "id": "snowy",
+      "title": "Historic Snowy Deal",
+      "url": "https://www.malcolmturnbull.com.au/media/historic-snowy-deal",
+      "factDate": "2018-03-02",
+      "accessedOn": "2026-10-01",
+      "evidence": "Federal acquisition of all Snowy Hydro shares, retaining public ownership and supporting pumped hydro; agreed state sale proceeds invested in infrastructure."
+    },
+    {
+      "id": "tax",
+      "title": "Press Conference on enterprise tax plan",
+      "url": "https://www.malcolmturnbull.com.au/media/press-conference-with-the-minister-for-finance-senator-the-hon-mathias-corm",
+      "factDate": "2018-08-22 (published 2018-08-23)",
+      "accessedOn": "2026-10-01",
+      "evidence": "Defends company tax reductions for investment/jobs; abandons extension to large firms after Senate rejects; retains energy supplement."
+    },
+    {
+      "id": "trade",
+      "title": "Keynote Address to the 2017 Asia Pacific Regional Conference",
+      "url": "https://www.malcolmturnbull.com.au/media/keynote-address-to-the-2017-asia-pacific-regional-conference-perth-4-novemb",
+      "factDate": "2017-11-04",
+      "accessedOn": "2026-10-01",
+      "evidence": "Defends open markets, TPP11, RCEP, EU and Peru negotiations; opposes protectionism and rival closed blocs."
+    },
+    {
+      "id": "citizen",
+      "title": "Strengthening integrity of Australian citizenship",
+      "url": "https://minister.homeaffairs.gov.au/peterdutton/Pages/Strengthening-the-integrity-of-Australian-citizenship.aspx",
+      "factDate": "2017-04-20",
+      "accessedOn": "2026-10-01",
+      "evidence": "Joint PM release proposed competent English, four years permanent residence, Australian civic values; explicitly celebrates multicultural immigration."
+    },
+    {
+      "id": "workers",
+      "title": "Putting Australian workers first",
+      "url": "https://www.malcolmturnbull.com.au/media/putting-australian-workers-first",
+      "factDate": "2017-04-18",
+      "accessedOn": "2026-10-01",
+      "evidence": "Replaced 457 visa with tighter skills-shortage visas and English/criminal checks; prioritised resident workers while retaining migration."
+    },
+    {
+      "id": "abortion",
+      "title": "Turnbull talks abortion at Christian conference",
+      "url": "https://www.abc.net.au/news/2008-11-08/turnbull-talks-abortion-at-christian-conference/198912",
+      "factDate": "2008-11-08",
+      "accessedOn": "2026-10-01",
+      "evidence": "Catholic faith alongside abortion choice and anti-discrimination. His then opposition to gay marriage was subsequently superseded."
+    },
+    {
+      "id": "marriage",
+      "title": "Speech introducing same-sex marriage plebiscite bill",
+      "url": "https://www.malcolmturnbull.com.au/media/speech-introduction-of-the-plebiscite-same-sex-marriage-bill-2016",
+      "factDate": "2016-09-14",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supports marriage equality while proposing popular plebiscite and protections for religious celebrants."
+    },
+    {
+      "id": "biotech",
+      "title": "Human embryo research bill second reading",
+      "url": "https://www.openaustralia.org.au/debate/?id=2006-12-05.54.2",
+      "factDate": "2006-12-05",
+      "accessedOn": "2026-10-01",
+      "evidence": "Turnbull supports somatic cell nuclear transfer and therapeutic research, distinguishing it from reproductive human cloning."
+    },
+    {
+      "id": "euthanasia",
+      "title": "Assisted dying: Victoria approves bill",
+      "url": "https://www.theguardian.com/society/2017/oct/20/assisted-dying-victoria-votes-to-approve-voluntary-euthanasia-bill",
+      "factDate": "2017-10-20",
+      "accessedOn": "2026-10-01",
+      "evidence": "Turnbull opposed euthanasia, but respected Victorian jurisdiction."
+    },
+    {
+      "id": "voice",
+      "title": "I will be voting yes to establish an Indigenous voice",
+      "url": "https://www.malcolmturnbull.com.au/media/i-will-be-voting-yes-to-establish-an-indigenous-voice-to-parliament",
+      "factDate": "2022-08-16",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supports a constitutionally enshrined advisory Indigenous Voice, not a chamber with a parliamentary veto. Reversed his government’s 2017 rejection; retains reservations about constitutionally reserved representation."
+    },
+    {
+      "id": "vaccine",
+      "title": "No jab no play no pay",
+      "url": "https://www.malcolmturnbull.com.au/media/no-jab-no-play-no-pay",
+      "factDate": "2015",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supports making vaccination a condition of family payments and childcare participation."
+    },
+    {
+      "id": "face",
+      "title": "Facial recognition is not mass surveillance: Turnbull",
+      "url": "https://www.abc.net.au/listen/programs/pm/facial-recognition-is-not-mass-surveillance-turnbull/9020418",
+      "factDate": "2017-10-05",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supports biometric identification data-sharing; said CCTV images would not be included in national database."
+    },
+    {
+      "id": "archive",
+      "title": "Malcolm Turnbull, National Archives of Australia",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/malcolm-turnbull",
+      "factDate": "undated",
+      "accessedOn": "2026-10-01",
+      "evidence": "Independent institutional biographical record for 29th prime minister, 2015–2018."
+    },
+    {
+      "id": "book",
+      "title": "A Bigger Picture by Malcolm Turnbull, Hardie Grant",
+      "url": "https://publishing.hardiegrant.com/en-au/books/a-bigger-picture-by-malcolm-turnbull/9781743586310/",
+      "factDate": "2020",
+      "accessedOn": "2026-10-01",
+      "evidence": "Publisher identifies self-authored bestselling political memoir of 2020. No Brazilian translation located by dedicated Portuguese title search; retain original title."
+    },
+    {
+      "id": "latest",
+      "title": "Media index",
+      "url": "https://www.malcolmturnbull.com.au/media",
+      "factDate": "2026-09-18 latest listed interview",
+      "accessedOn": "2026-10-01",
+      "evidence": "Checked through 2026-10-01; September interviews listed, recent policy material includes August AUKUS and Catholic social-services speeches."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "federal",
+        "euthanasia",
+        "snowy"
+      ],
+      "facts": [
+        "2016 state income-tax proposal shifts fiscal responsibility to state governments.",
+        "Respected Victorian assisted-dying legislative jurisdiction despite disagreement.",
+        "Snowy buyout centralised ownership of a national asset."
+      ],
+      "tension": "Federal autonomy is bounded by national coordination and constitutional powers, not unilateral secession."
+    },
+    "representacao": {
+      "sourceIds": [
+        "multifaith",
+        "aukus",
+        "voice",
+        "archive"
+      ],
+      "facts": [
+        "Democratic compromise and minority rights defended in 2026.",
+        "Demands parliamentary scrutiny of AUKUS.",
+        "Supports republic and advisory Indigenous Voice."
+      ],
+      "tension": "Parliamentary democracy with checks, not permanent assemblies or unelected expert rule; referendums supplement institutions."
+    },
+    "poder": {
+      "sourceIds": [
+        "security",
+        "vaccine",
+        "face",
+        "euthanasia"
+      ],
+      "facts": [
+        "2017 expansion of surveillance/control orders/detention and encryption access.",
+        "Vaccination-linked benefits.",
+        "Biometric sharing with stated limits, and reservations about assisted dying."
+      ],
+      "tension": "Security-oriented liberal democrat: due process and political opposition coexist with exceptional counterterror powers; convicted-offender detention is not evidence for limitless detention of any suspect."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "citizen",
+        "workers",
+        "multifaith"
+      ],
+      "facts": [
+        "2017 English/civic integration and skills restrictions.",
+        "2026 explicitly rejects race, religion or nationality as tests of immigrant character."
+      ],
+      "tension": "Celebrates pluralism while rejecting unrestricted borders and demanding common civic duties; cultural difference alone is not grounds for exclusion."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "security",
+        "aukus",
+        "energy"
+      ],
+      "facts": [
+        "Military participation against IS in 2017.",
+        "2026 insists on viable submarine defence and warns of proliferation."
+      ],
+      "tension": "Armed defence and allied cooperation coexist with skepticism about avoidable war and dependence; no pacifism or nuclear-weapons advocacy."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "security",
+        "aukus",
+        "energy",
+        "trade"
+      ],
+      "facts": [
+        "Anti-IS intervention and training Iraqi forces.",
+        "2026 demands sovereign decision-making rather than US-directed submarine dependence.",
+        "Supports middle-power cooperation and rules-based international system."
+      ],
+      "tension": "Rejects both isolation and subordination to great-power adventurism; national interest operates within alliances and international law."
+    },
+    "economia": {
+      "sourceIds": [
+        "tax",
+        "snowy",
+        "multifaith"
+      ],
+      "facts": [
+        "Company tax reductions for private investment.",
+        "Federal public ownership of Snowy explicitly guaranteed.",
+        "Rejects privatising Medicare."
+      ],
+      "tension": "Private enterprise with public healthcare, safety net and selected strategic infrastructure, not socialist ownership or privatisation of everything."
+    },
+    "controle": {
+      "sourceIds": [
+        "tax",
+        "snowy",
+        "energy"
+      ],
+      "facts": [
+        "Tax competitiveness and private investment.",
+        "State-supported infrastructure, energy transition and retained energy supplement."
+      ],
+      "tension": "Market-led growth accepts regulation, central banking, safety nets and coordination where infrastructure or externalities require it."
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "workers",
+        "energy"
+      ],
+      "facts": [
+        "TPP11 and wider trade liberalisation explicitly promoted.",
+        "2017 skilled migration restricted to shortages.",
+        "2026 energy independence via renewables."
+      ],
+      "tension": "Strong free-trade outlook does not mean abandoning critical resilience, national-interest investment review or defence procurement."
+    },
+    "religiao": {
+      "sourceIds": [
+        "multifaith",
+        "abortion",
+        "marriage"
+      ],
+      "facts": [
+        "2026 Catholic worship, Gospel and charity explicitly inform his moral language.",
+        "Rejects Christian nationalism.",
+        "Supports abortion choice and marriage equality against conservative doctrine."
+      ],
+      "tension": "Personally religious and positive toward faith communities while upholding plural civil law; neither theocrat nor militant atheist."
+    },
+    "moral": {
+      "sourceIds": [
+        "abortion",
+        "marriage",
+        "voice",
+        "multifaith"
+      ],
+      "facts": [
+        "Abortion choice defended in 2008.",
+        "Later marriage-equality support supersedes his 2008 opposition.",
+        "Supports Indigenous Voice and opposes ethnic/religious prejudice."
+      ],
+      "tension": "Social liberalism coexists with valuing family and reservations about euthanasia; no verified radical position on all contemporary identity questions. His marriage-equality argument values durable family commitment, not a rejection of family institutions."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "biotech",
+        "energy",
+        "multifaith"
+      ],
+      "facts": [
+        "2006 therapeutic embryo research support within limits on reproductive cloning.",
+        "2026 renewables, batteries and pumped hydro development.",
+        "2026 warns digital algorithms can deepen social division."
+      ],
+      "tension": "Technological optimism is bounded by environmental protection and biomedical ethics; not unlimited transhumanism."
+    }
+  },
+  "uncertainties": [
+    "Simulation of 240 responses, not claims of verbatim answers. Brazil-specific items are interpreted by their institutional/policy equivalents.",
+    "Direct evidence is weaker on cryptocurrency, brain implants, cultured meat, polyamory and detailed racial quota design; cautious directional inferences are identified rather than treating silence as neutrality.",
+    "Later explicit positions supersede older positions; prior government actions remain relevant where no renunciation found. Latest-source check performed 2026-10-01.",
+    "Portuguese book search did not establish a Brazilian translated edition. Publisher page opened successfully once, then a later request encountered a redirect limit."
+  ],
+  "distinctions": {
+    "record": "profile-audit/research/process-review/malcolm-turnbull.json",
+    "note": "Qualitative pre-answer distinctions and process are recorded in this independent review."
+  },
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Malcolm_Turnbull_Portrait.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Malcolm_Turnbull_Portrait.jpg",
+    "author": "Commonwealth of Australia; photo credit Tim Bauer in file metadata",
+    "license": "CC BY 3.0 AU",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/au/",
+    "note": "Official portrait published in 2015; resized and compressed. Embedded capture metadata differs from the publication date, so no exact capture date is asserted.",
+    "visuallyChecked": true
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/malcolm-turnbull.json",
+    "answerArchive": "profile-audit/answers/personality/malcolm-turnbull.json",
+    "agent": "/root/independent_turnbull",
+    "answersSha256": "08fc2f7ca9801e73e6fde7a212f5f2978754c1a9e8ec362ca75d2a32081c24b3",
+    "validation": "Independent review complete. User requested retaining the full 32-person scope after the overlap report; current upstream validator results are recorded separately."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political memoir; publisher calls it a bestselling political memoir of 2020. No existing entry was found; original title retained without verified Brazilian translation.",
+    "book": {
+      "personalityId": "malcolm-turnbull",
+      "title": {
+        "pt": "A Bigger Picture",
+        "en": "A Bigger Picture"
+      },
+      "year": 2020,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book"
+    ]
+  },
+  "religionMetadataReview": {
+    "religions": [],
+    "religionAxis": 53.6,
+    "sourceIds": [
+      "multifaith",
+      "abortion",
+      "marriage"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  }
+}

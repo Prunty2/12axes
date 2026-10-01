@@ -1,0 +1,379 @@
+{
+  "id": "bob-hawke",
+  "country": "Australia",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Premiership 1983–1991, interpreted alongside explicitly identified later public positions through 2017.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "nma",
+      "title": "Bob Hawke — National Museum of Australia",
+      "url": "https://www.nma.gov.au/explore/features/prime-ministers/bob-hawke",
+      "factDate": "undated; events 1983–1994",
+      "accessedOn": "2026-10-01",
+      "evidence": "Four election wins; consensus with employers and unions; financial deregulation; national educational standards; political memoirs published in 1994."
+    },
+    {
+      "id": "naa",
+      "title": "Robert Hawke: during office — National Archives of Australia",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/robert-hawke/during-office",
+      "factDate": "undated; events 1983–1991",
+      "accessedOn": "2026-10-01",
+      "evidence": "Created Australian Electoral Commission; Medicare; Accord; tariff and banking liberalisation; federal environmental intervention; Sex Discrimination Act 1984; Indigenous treaty proposal and ATSIC; supported UN action against Iraq."
+    },
+    {
+      "id": "federal",
+      "title": "Towards a closer partnership — Hawke speech",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-8059",
+      "factDate": "1990-07-19",
+      "accessedOn": "2026-10-01",
+      "evidence": "Proposed Commonwealth/state/local cooperation, national standards and economic management, while allowing state delivery and less tied funding; explicitly supported parliamentary democracy, individual freedom and rule of law."
+    },
+    {
+      "id": "multi",
+      "title": "National Agenda for a Multicultural Australia — Hawke speech",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7690",
+      "factDate": "1989-07-26",
+      "accessedOn": "2026-10-01",
+      "evidence": "Defended cultural diversity and equal access, within shared Australian allegiance and institutions; English language recognition accompanied cultural and language rights."
+    },
+    {
+      "id": "religion",
+      "title": "Brian White interview — Hawke",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7983",
+      "factDate": "1990-03-21",
+      "accessedOn": "2026-10-01",
+      "evidence": "Called himself agnostic rather than atheist, acknowledged lifelong influence of Christian principles, and denied a return to religious belief."
+    },
+    {
+      "id": "guns",
+      "title": "Gun control agreement — Hawke media statement",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7266",
+      "factDate": "1987-12-22",
+      "accessedOn": "2026-10-01",
+      "evidence": "Announced Commonwealth/state gun-control cooperation, import restrictions on automatic and semi-automatic rifles, and measures limiting access by violence-prone people."
+    },
+    {
+      "id": "death",
+      "title": "Midday Show interview — Hawke",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-6962",
+      "factDate": "1986-06-24",
+      "accessedOn": "2026-10-01",
+      "evidence": "Explicitly opposed capital punishment and supported efforts to prevent the execution of Australian drug offenders in Malaysia while respecting judicial guilt findings."
+    },
+    {
+      "id": "card",
+      "title": "Willesee interview — Hawke",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-6727",
+      "factDate": "1985; exact release day not reconfirmed",
+      "accessedOn": "2026-10-01",
+      "evidence": "Defended proposed Australia Card against privacy objections as a tax-compliance measure. This supports administrative enforcement, not unlimited surveillance."
+    },
+    {
+      "id": "drugs",
+      "title": "Illicit drugs report chapter 4 — Australian Parliament",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees?url=fhs%2Fillicitdrugs%2Freport%2Fchapter4.htm",
+      "factDate": "2007; historical discussion of 1985",
+      "accessedOn": "2026-10-01",
+      "evidence": "Records harm minimisation in national drug strategy documents from early Hawke government in 1985; does not establish support for blanket drug legalisation."
+    },
+    {
+      "id": "abortion",
+      "title": "Radio 8DN talkback interview with Col Krohn — Hawke",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-6507",
+      "factDate": "1984-10-16",
+      "accessedOn": "2026-10-01",
+      "evidence": "Defended individual choice in abortion and MPs’ conscience votes, while rejecting wholly unlimited freedom in the area."
+    },
+    {
+      "id": "rights",
+      "title": "Brisbane press conference — Hawke",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-6524",
+      "factDate": "1984-10-24",
+      "accessedOn": "2026-10-01",
+      "evidence": "Rejected claims that proposed rights protection simply entailed compulsory changes to marriage and abortion; his response is not evidence of a marriage-equality policy in office."
+    },
+    {
+      "id": "science",
+      "title": "Statement to Parliament on science and technology — Hawke",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7590",
+      "factDate": "1989-05-08",
+      "accessedOn": "2026-10-01",
+      "evidence": "Praised medical/reproductive research, computing and industrial innovation; created PM Science Council and Chief Scientist; insisted innovation serve human and environmental needs."
+    },
+    {
+      "id": "trade",
+      "title": "CEDA speech — Hawke",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-8274",
+      "factDate": "1991-03-15",
+      "accessedOn": "2026-10-01",
+      "evidence": "Defended tariff cuts including vehicle/textile sectors, competitiveness, retraining and business tax reductions; rejected a wage free-for-all and continued coordinated reform."
+    },
+    {
+      "id": "ownership",
+      "title": "Change is not Optional — Hawke, John Curtin Memorial Lecture",
+      "url": "https://john.curtin.edu.au/jcmemlect/hawke1991.html",
+      "factDate": "1991",
+      "accessedOn": "2026-10-01",
+      "evidence": "Defended partial Commonwealth Bank float and fiscal discipline, while maintaining Labor social objectives and cooperative union bargaining."
+    },
+    {
+      "id": "public",
+      "title": "Perth press conference — Hawke",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-7956",
+      "factDate": "1990-03-13",
+      "accessedOn": "2026-10-01",
+      "evidence": "Opposed ideological hostility to public ownership and ruled out privatising Telecom or Australia Post under his government; supports selective rather than universal privatisation."
+    },
+    {
+      "id": "war",
+      "title": "Gulf War & Iraq War — Australian War Memorial",
+      "url": "https://www.awm.gov.au/articles/atwar/gulf",
+      "factDate": "undated; events 1990–1991",
+      "accessedOn": "2026-10-01",
+      "evidence": "Australia joined the US-led multinational Gulf response after Iraq invaded Kuwait, with naval forces enforcing UN sanctions and participating in the 1991 war."
+    },
+    {
+      "id": "nuclear2016",
+      "title": "Bob Hawke pushes nuclear power at Woodford — ABC eyewitness report",
+      "url": "https://www.abc.net.au/news/2016-12-28/we-must-embrace-nuclear-power-bob-hawke-divides-audience/8151346",
+      "factDate": "2016-12-28",
+      "accessedOn": "2026-10-01",
+      "evidence": "Later public position: advocated nuclear power against global warming, paid international waste storage with proceeds aiding Indigenous people, and abolition of state governments."
+    },
+    {
+      "id": "marriage2012",
+      "title": "Hawke and Howard in new accord — ABC",
+      "url": "https://www.abc.net.au/news/2012-11-21/old-sparring-partners-hawke-howard/4382472",
+      "factDate": "2012-11-21",
+      "accessedOn": "2026-10-01",
+      "evidence": "Later public position: supported same-sex marriage, contrasting with Howard at a joint Lifeline fundraising appearance."
+    },
+    {
+      "id": "marriage2017",
+      "title": "Hawke criticises marriage postal survey — ABC",
+      "url": "https://www.abc.net.au/news/2017-10-04/bob-hawke-labels-same-sex-postal-survey-worst-economic-decision/9016266",
+      "factDate": "2017-10-04",
+      "accessedOn": "2026-10-01",
+      "evidence": "Later public position: supported marriage equality and condemned the cost and damage of the postal survey; preferred parliamentary action."
+    },
+    {
+      "id": "assisted2016",
+      "title": "Better Off Dead episode 17 transcript — Bob Hawke interview",
+      "url": "https://assets.nationbuilder.com/dwdnsw/pages/459/attachments/original/1673692734/BOD-episode-17-transcript.pdf?1673692734=",
+      "factDate": "2016-04-13",
+      "accessedOn": "2026-10-01",
+      "evidence": "Hawke explicitly supported legal assisted dying for irremediable suffering, judging forced suffering unjustifiable; a later public position, not an in-office policy."
+    },
+    {
+      "id": "book",
+      "title": "The Hawke memoirs — Supreme Court Library Queensland catalogue",
+      "url": "https://sclqld.org.au/catalogue/records/13169",
+      "factDate": "1994 publication; catalogue undated",
+      "accessedOn": "2026-10-01",
+      "evidence": "Lists Robert James Lee Hawke as author, Heinemann Australia 1994, and Australian politics/government subjects."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "federal",
+        "naa",
+        "nuclear2016"
+      ],
+      "facts": [
+        "1990 cooperative federalism sought common standards, national economic coordination and improved state service delivery.",
+        "1983 Franklin intervention overrode state development policy.",
+        "2016 publicly advocated abolishing state governments; later centralising view is explicitly included, not backdated."
+      ],
+      "tension": "National uniformity and eventual state abolition coexist with local delivery and Indigenous autonomy; do not infer dictatorship."
+    },
+    "representacao": {
+      "sourceIds": [
+        "nma",
+        "naa",
+        "federal",
+        "marriage2017"
+      ],
+      "facts": [
+        "Won four elections; electoral reform established the AEC in 1984.",
+        "1990 expressly affirmed parliamentary democracy and rule of law.",
+        "2017 opposed a marriage postal survey in favour of parliamentary responsibility."
+      ],
+      "tension": "Representative democracy and institutional safeguards, rather than assemblies, sortition or plebiscitary rule."
+    },
+    "poder": {
+      "sourceIds": [
+        "guns",
+        "card",
+        "death",
+        "drugs",
+        "assisted2016"
+      ],
+      "facts": [
+        "1987 gun restrictions and 1985 Australia Card show real willingness to regulate and enforce.",
+        "1986 explicitly opposed executions; 1985 drug policy included harm minimisation.",
+        "2016 supported assisted dying."
+      ],
+      "tension": "Administrative security and public health alongside civil liberties; neither punitive authoritarianism nor blanket personal deregulation."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "multi"
+      ],
+      "facts": [
+        "1989 Agenda celebrated diverse cultures and equality while keeping common Australian citizenship and English."
+      ],
+      "tension": "Multicultural nationalism is not unlimited migration or abolition of national identity."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "war",
+        "naa"
+      ],
+      "facts": [
+        "1990–1991 UN-sanctioned Gulf deployment demonstrates willingness to use armed force with allies.",
+        "National Archives records active peace diplomacy in the Middle East."
+      ],
+      "tension": "Armed collective security and negotiation, not pacifism or war for prestige."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "war",
+        "naa"
+      ],
+      "facts": [
+        "Joined US-led coalition and UN sanctions against Iraq after invasion of Kuwait.",
+        "Used diplomacy to raise Australian international standing."
+      ],
+      "tension": "International engagement and allies reject permanent neutrality, but do not support domination of neighbours or unilateral conquest."
+    },
+    "economia": {
+      "sourceIds": [
+        "naa",
+        "ownership",
+        "public"
+      ],
+      "facts": [
+        "Medicare and social wage remained core.",
+        "1991 supported partial bank sale; 1990 defended public Telecom/Post."
+      ],
+      "tension": "Mixed ownership, welfare and unions coexist with private enterprise and selective asset sales."
+    },
+    "controle": {
+      "sourceIds": [
+        "naa",
+        "trade",
+        "ownership"
+      ],
+      "facts": [
+        "1983 floating dollar and financial deregulation.",
+        "Accord coordinated wages; 1991 rejected wage free-for-all.",
+        "Fiscal discipline and business tax relief accompanied welfare priorities."
+      ],
+      "tension": "Strong labour coordination does not imply comprehensive price/currency controls or total planning."
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade"
+      ],
+      "facts": [
+        "1991 argued tariffs impoverished consumers and hindered exports; reduced vehicle/textile protection with transition assistance."
+      ],
+      "tension": "Trade opening with adjustment support, not autarky or an immediate unregulated world market."
+    },
+    "religiao": {
+      "sourceIds": [
+        "religion",
+        "multi"
+      ],
+      "facts": [
+        "1990 explicitly agnostic, retaining Christian moral influence.",
+        "1989 recognised citizens across religions within common institutions."
+      ],
+      "tension": "Secular law and personal ethical inheritance; neither theocracy nor eradication of religion."
+    },
+    "moral": {
+      "sourceIds": [
+        "naa",
+        "abortion",
+        "marriage2012",
+        "marriage2017"
+      ],
+      "facts": [
+        "1984 sex-discrimination legislation and affirmative action advanced women’s equality.",
+        "1984 abortion choice with conscience-vote protection.",
+        "2012 and 2017 supported marriage equality."
+      ],
+      "tension": "Equal civic rights do not automatically establish agreement with every contemporary cultural practice."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "science",
+        "naa",
+        "nuclear2016"
+      ],
+      "facts": [
+        "1989 funded science, industrial and medical innovation while highlighting environmental control.",
+        "1983 Franklin protection constrained development.",
+        "2016 advocated nuclear climate solutions and waste storage."
+      ],
+      "tension": "Technological optimism coexists with protection of sensitive ecosystems and ethical limits; no transhumanist platform verified."
+    }
+  },
+  "uncertainties": [
+    "Scope: premiership 1983–1991 interpreted alongside explicitly identified later public positions through 2017, as confirmed by coordinator. Later nuclear/marriage/assisted-dying/state-abolition views are not in-office achievements.",
+    "Questions about AI, facial recognition, Bitcoin, embryo enhancement, neutral language and Brazilian institutions require transparent analogous judgements, not claimed direct statements.",
+    "Specific positions on universal adoption equality, polyamory, cultivated meat and neural implants were not established; answers are restrained inferences from civil equality, science and safeguards. N is reserved for genuine competing principles, not missing evidence.",
+    "No Brazilian translation of The Hawke Memoirs was verified by title/Portuguese searches; original title retained.",
+    "Primary transcript OCR contains errors. Dates follow transcript metadata where present; the 1991 Curtin lecture year is verified, exact day not used."
+  ],
+  "distinctions": {
+    "record": "profile-audit/research/process-review/bob-hawke.json",
+    "note": "Qualitative pre-answer distinctions and process are recorded in this independent review."
+  },
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Bob_Hawke-1983.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bob_Hawke-1983.jpg",
+    "localPath": "frontend/public/personalities/portraits/bob-hawke.jpg",
+    "note": "Real 1983 portrait; optimized and visually inspected.",
+    "visuallyChecked": true
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/bob-hawke.json",
+    "answerArchive": "profile-audit/answers/personality/bob-hawke.json",
+    "agent": "/root/independent_hawke",
+    "answersSha256": "421408b51d1587bd8620452b5086481313144c0bf996c2b321713937dae83f72",
+    "validation": "Independent review complete. User requested retaining the full 32-person scope after the overlap report; current upstream validator results are recorded separately."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political memoir, first published 1994; verified library author and politics subjects. No existing entry. No Brazilian translation verified; retain original title in both locales.",
+    "book": {
+      "personalityId": "bob-hawke",
+      "title": {
+        "pt": "The Hawke Memoirs",
+        "en": "The Hawke Memoirs"
+      },
+      "year": 1994,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book",
+      "nma"
+    ]
+  },
+  "religionMetadataReview": {
+    "religions": [],
+    "religionAxis": 61.9,
+    "sourceIds": [
+      "religion",
+      "multi"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  }
+}

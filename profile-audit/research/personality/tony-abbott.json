@@ -1,0 +1,386 @@
+{
+  "id": "tony-abbott",
+  "country": "Australia",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Political career through September 2026; prime minister 2013–2015, with later published positions explicitly included.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "federal",
+      "title": "Abbott signals greater sovereignty for states",
+      "url": "https://www.abc.net.au/news/2014-06-28/states-need-greater-sovereignty%2C-abbott-says/5557146",
+      "factDate": "2014-06-28",
+      "accessedOn": "2026-10-01",
+      "evidence": "Released federation white-paper terms; proposed each level becoming sovereign within its sphere to reduce duplication."
+    },
+    {
+      "id": "fed-tension",
+      "title": "Fixing the federation: a tale of two Tonys",
+      "url": "https://www.abc.net.au/news/2014-07-18/steketee-fixing-the-federation/5604928",
+      "factDate": "2014-07-18",
+      "accessedOn": "2026-10-01",
+      "evidence": "Contrasts 2009 Battlelines proposal to expand Commonwealth legal authority with 2014 decentralizing reform language."
+    },
+    {
+      "id": "griffith",
+      "title": "Address to Samuel Griffith Society",
+      "url": "https://tonyabbott.com.au/2016/08/transcript-of-the-hon-tony-abbott-mp-address-to-the-samuel-griffith-society-stamford-plaza-hotel-adelaide/",
+      "factDate": "2016-08",
+      "accessedOn": "2026-10-01",
+      "evidence": "Still advocates separate sovereign spheres; defends welfare eligibility restraint, GP co-payment, budget repair and trade agreements; opposes expansive racial speech prosecutions."
+    },
+    {
+      "id": "monarchy",
+      "title": "Abbott hopes Australian republic never happens",
+      "url": "https://www.sbs.com.au/news/article/abbott-hopes-australian-republic-never-happens/pxbbrvabo",
+      "factDate": "2018-10-06",
+      "accessedOn": "2026-10-01",
+      "evidence": "Defends constitutional monarchy as an evolved democratic system with a Crown above party politics."
+    },
+    {
+      "id": "cpac",
+      "title": "My Address to CPAC",
+      "url": "https://tonyabbott.com.au/2025/09/my-address-to-cpac/",
+      "factDate": "2025-09-24",
+      "accessedOn": "2026-10-01",
+      "evidence": "Advocates nuclear energy, industry and lower taxes; praises carbon-tax repeal and trade agreements; supports party members choosing candidates and debating policy; argues immigration must fall and newcomers assimilate. Rejects net zero while supporting limited-cost conservation. Continues opposition to same-sex marriage."
+    },
+    {
+      "id": "migration",
+      "title": "Australia Must Rethink Immigration",
+      "url": "https://www.tonyabbott.au/p/our-immigration-system-is-destroying",
+      "factDate": "2026-02-22",
+      "accessedOn": "2026-10-01",
+      "evidence": "Describes indissoluble federal Commonwealth under Crown, indigenous heritage, British foundation and immigrant character; calls for tighter migration control. Available opening text only."
+    },
+    {
+      "id": "family",
+      "title": "Family First, Migration Second",
+      "url": "https://tonyabbott.com.au/2026/04/family-first-migration-second/",
+      "factDate": "2026-04-01",
+      "accessedOn": "2026-10-01",
+      "evidence": "Calls for much lower immigration, tougher citizenship tests and longer probation; prioritizes childbearing and family tax/leave support. Acknowledges unconventional families can be loving and migration can benefit a nation; criticizes self-declared gender and multicultural fragmentation."
+    },
+    {
+      "id": "security",
+      "title": "Joint press conference on data retention",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-24171",
+      "factDate": "2015-02-05",
+      "accessedOn": "2026-10-01",
+      "evidence": "Personally advocates mandatory metadata retention for counterterrorism, child-abuse and other crime investigations; legislation considered by parliamentary intelligence committee."
+    },
+    {
+      "id": "speech",
+      "title": "Free speech under siege, Australia’s Future S5E14",
+      "url": "https://australiasfuture.podbean.com/e/free-speech-under-siege-flatlining-productivity-why-our-flag-matters-australia-s-future-s5e14/",
+      "factDate": "2026-09-07",
+      "accessedOn": "2026-10-01",
+      "evidence": "Episode description, recorded September 3, identifies Abbott opposing Digital Duty of Care and section 18C restrictions on speech. Audio not independently transcribed."
+    },
+    {
+      "id": "guns",
+      "title": "Abbott on gun control",
+      "url": "https://www.youtube.com/watch?v=dkNzuvUa6sk",
+      "factDate": "2016-10-19",
+      "accessedOn": "2026-10-01",
+      "evidence": "ABC interview description directly records Abbott opposing importation of rapid-fire weapons."
+    },
+    {
+      "id": "death",
+      "title": "Bali Nine mercy",
+      "url": "https://www.theguardian.com/world/2015/jan/20/bali-nine-mercy-must-be-part-of-every-justice-system-says-tony-abbott",
+      "factDate": "2015-01-20",
+      "accessedOn": "2026-10-01",
+      "evidence": "Opposed capital punishment domestically and abroad."
+    },
+    {
+      "id": "covid",
+      "title": "Abbott criticizes pandemic response",
+      "url": "https://www.theguardian.com/australia-news/2024/apr/11/tony-abbott-scott-morrison-covid-19-pandemic-response-overreaction-vaccination",
+      "factDate": "2024-04-11",
+      "accessedOn": "2026-10-01",
+      "evidence": "Criticized pandemic restrictions as disproportionate."
+    },
+    {
+      "id": "vaccine",
+      "title": "No jab no play and no pay interview",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-24355",
+      "factDate": "2015-04-13",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supported vaccination-conditioned childcare benefits and childcare safety."
+    },
+    {
+      "id": "taiwan",
+      "title": "Taiwan Matters Too",
+      "url": "https://tonyabbott.com.au/2023/09/taiwan-matters-too/",
+      "factDate": "2023-09-21",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supports deterrence through Australian deployments in Japan, assisting Taiwanese defences, reducing Chinese intermediate goods in strategic supply chains; separates criticism of Beijing from Chinese Australians."
+    },
+    {
+      "id": "iran",
+      "title": "Political Managerialism Weakens Australia",
+      "url": "https://www.tonyabbott.au/p/albanese-weakens-australia",
+      "factDate": "2026-03-08",
+      "accessedOn": "2026-10-01",
+      "evidence": "Approves US-Israeli preemptive action against Iranian regime, faults Australian reluctance to assist US; advocates immediate defence capacity including drones and allied Taiwan contingency planning."
+    },
+    {
+      "id": "privatization",
+      "title": "Promise check: sale of Medibank Private",
+      "url": "https://www.abc.net.au/news/2014-07-28/sale-of-medibank-private-promise-check/5392384",
+      "factDate": "2014-07-28; updated 2016-05-09",
+      "accessedOn": "2026-10-01",
+      "evidence": "Checks successful sale of all Commonwealth Medibank Private shares in November 2014, distinguishing insurer from Medicare."
+    },
+    {
+      "id": "trade",
+      "title": "The Ailing of the West",
+      "url": "https://tonyabbott.com.au/2025/09/the-ailing-of-the-west/",
+      "factDate": "2025-09-19",
+      "accessedOn": "2026-10-01",
+      "evidence": "Says freer trade enriches the world, yet acknowledges China’s relative strategic gains. Defends welfare restraint, industrial energy and American-led defeat of Islamic State."
+    },
+    {
+      "id": "abortion",
+      "title": "NSW abortion changes",
+      "url": "https://www.abc.net.au/news/2025-05-13/nsw-politicians-to-vote-changes-abortion-bill-what-are-they/105282854",
+      "factDate": "2025-05-13",
+      "accessedOn": "2026-10-01",
+      "evidence": "Abbott spoke at anti-abortion rally opposing mandated referrals as infringement of freedom of conscience."
+    },
+    {
+      "id": "embryos",
+      "title": "Abbott remains unconvinced of stem cell benefits",
+      "url": "https://www.abc.net.au/news/2006-08-20/abbott-remains-unconvinced-of-stem-cell-benefits/1243164",
+      "factDate": "2006-08-20",
+      "accessedOn": "2026-10-01",
+      "evidence": "Opposed therapeutic cloning and creating potential human life for research; this limits extrapolation from industrial enthusiasm to biotechnology."
+    },
+    {
+      "id": "book-publisher",
+      "title": "Battlelines official publisher listing",
+      "url": "https://www.simonandschuster.co.uk/books/Battlelines/Tony-Abbott/9780522864250",
+      "factDate": "2013 edition",
+      "accessedOn": "2026-10-01",
+      "evidence": "Identifies Tony Abbott as author and describes Liberal Party policy manifesto plus political development; this is political writing, not a personal-only memoir."
+    },
+    {
+      "id": "book-year",
+      "title": "Battlelines library catalogue",
+      "url": "https://search.worldcat.org/title/495595123",
+      "factDate": "2009",
+      "accessedOn": "2026-10-01",
+      "evidence": "Catalogue verifies author Tony Abbott, English title, Melbourne University Publishing and 2009 publication."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "federal",
+        "fed-tension",
+        "griffith",
+        "migration"
+      ],
+      "facts": [
+        "2014 and 2016 support autonomy of each governmental tier.",
+        "2009 advocated stronger Commonwealth authority; 2026 retains indissoluble federation."
+      ],
+      "tension": "Administrative federalism does not imply secession, cultural legal enclaves or abolition of national standards."
+    },
+    "representacao": {
+      "sourceIds": [
+        "monarchy",
+        "cpac"
+      ],
+      "facts": [
+        "Defends parliamentary constitutional monarchy.",
+        "2025 asks party members to debate policy and choose candidates; recognizes voters must renew party legitimacy."
+      ],
+      "tension": "Hereditary symbolic head of state is not endorsement of unelected executive government; dislikes excessive party faction control."
+    },
+    "poder": {
+      "sourceIds": [
+        "security",
+        "guns",
+        "vaccine",
+        "death",
+        "covid",
+        "speech"
+      ],
+      "facts": [
+        "Supported metadata retention, restrictive guns and vaccine benefit conditions.",
+        "Opposed death penalty; 2024 criticized pandemic restrictions; 2026 opposed digital speech regulation."
+      ],
+      "tension": "National-security coercion coexists with free speech and later opposition to sweeping health restrictions; no support for universal arbitrary detention inferred."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "migration",
+        "family",
+        "cpac"
+      ],
+      "facts": [
+        "2026 wants lower migration, tougher citizenship tests, assimilation and family formation.",
+        "Acknowledges migrant nation and benefits of suitable newcomers."
+      ],
+      "tension": "Selective immigration and cultural assimilation, not blanket exclusion of every migrant or private ancestral practice."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "taiwan",
+        "iran"
+      ],
+      "facts": [
+        "2023 proposes active Taiwan deterrence and Australian deployments in Japan.",
+        "2026 advocates modern defence capabilities and approves preemptive action against Iran."
+      ],
+      "tension": "Alliance-based military readiness does not mean compulsory conscription, nuclear proliferation or automatic war over every dispute."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "iran",
+        "taiwan",
+        "trade"
+      ],
+      "facts": [
+        "Advocates assisting US wars and allied defence of Taiwan.",
+        "Approves pressure on Iranian regime and external deployments."
+      ],
+      "tension": "Assertive allied intervention differs from territorial annexation or rejection of all international agreements."
+    },
+    "economia": {
+      "sourceIds": [
+        "privatization",
+        "griffith",
+        "family"
+      ],
+      "facts": [
+        "Privatized Medibank Private.",
+        "Defended welfare restraint and GP co-payment; still advocates family tax and parental-leave support."
+      ],
+      "tension": "Private enterprise preference does not mean privatizing police, abolishing Medicare or rejecting every redistributive safety net."
+    },
+    "controle": {
+      "sourceIds": [
+        "cpac",
+        "griffith",
+        "family"
+      ],
+      "facts": [
+        "Advocates smaller government, lower taxes and deregulation.",
+        "Supported public infrastructure; favors selective family supports."
+      ],
+      "tension": "Not anarcho-capitalist; conventional monetary institutions and safety net remain; no detailed cryptocurrency position verified."
+    },
+    "comercio": {
+      "sourceIds": [
+        "cpac",
+        "trade",
+        "taiwan"
+      ],
+      "facts": [
+        "Praises free-trade agreements and global gains from trade.",
+        "Advocates removing Chinese goods from strategic supply chains."
+      ],
+      "tension": "General free trade with security exceptions, not indiscriminate tariffs and not borderless strategic dependence."
+    },
+    "religiao": {
+      "sourceIds": [
+        "cpac",
+        "family",
+        "abortion",
+        "monarchy"
+      ],
+      "facts": [
+        "Defends Judaeo-Christian ethos, religious conscience, family and inherited institutions."
+      ],
+      "tension": "Religious public morality within constitutional democracy; no verified proposal for clerical rule or civil disenfranchisement of unbelievers."
+    },
+    "moral": {
+      "sourceIds": [
+        "cpac",
+        "family",
+        "abortion"
+      ],
+      "facts": [
+        "Continues objections to same-sex marriage and gender self-identification.",
+        "Opposes abortion referral compulsion; supports natality and traditional family."
+      ],
+      "tension": "Explicitly recognizes loving unconventional families; traditionalism does not require criminalizing all affection or excluding women from careers."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "cpac",
+        "embryos"
+      ],
+      "facts": [
+        "Advocates nuclear power and productive industry over rapid emissions cuts.",
+        "Opposed therapeutic cloning and instrumental use of embryos."
+      ],
+      "tension": "Industrial modernity plus moral limits on human enhancement; chips, cultured meat and specific AI deployment remain inferred, not direct quotations."
+    }
+  },
+  "uncertainties": [
+    "Checked public material through 2026-10-01; latest directly relevant item accessed is September 2026 speech-policy episode description. Absence of later position is not proven.",
+    "Brazil-specific questions are analogical applications to Australian institutions, not invented claims about Brazil.",
+    "Unspecified technology, cryptocurrency, municipal schooling and jury-selection policy answers are reasoned extrapolations with moderate strength, never claimed direct positions.",
+    "2006 embryo opposition is dated, with no verified later reversal. 2009 centralizing federation argument is weighed against explicit 2014/2016 decentralizing reform.",
+    "Some PM transcript follow-up retrievals timed out; no claims depend on unavailable portions.",
+    "Three independent reporting/catalogue institutions consulted: ABC, SBS/AAP and WorldCat, alongside primary speeches, government transcripts and publisher."
+  ],
+  "distinctions": {
+    "record": "profile-audit/research/process-review/tony-abbott.json",
+    "note": "Qualitative pre-answer distinctions and process are recorded in this independent review."
+  },
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Tony_Abbott_official_portrait.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/archive/5/57/20260226081305%21Prime_Minister_Tony_Abbott_official_portrait.jpg",
+    "author": "Commonwealth of Australia",
+    "license": "CC BY 3.0 AU",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/au/",
+    "note": "2013 official portrait, using the archived cropped/rotated Commons version; resized and compressed. Commons summary and EXIF disagree on the exact February day, so only the year is asserted.",
+    "visuallyChecked": true
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/tony-abbott.json",
+    "answerArchive": "profile-audit/answers/personality/tony-abbott.json",
+    "agent": "/root/independent_abbott",
+    "answersSha256": "69f0abcb3694a33e0960707bef5714044783ec23c043d431a6250dc7ff64a2f5",
+    "validation": "Independent review complete. User requested retaining the full 32-person scope after the overlap report; current upstream validator results are recorded separately."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Battlelines is Abbott’s own substantial policy manifesto and political memoir, first published 2009; chosen over narrower constitutional works. No existing books.json item. Portuguese/Brazilian edition searches yielded no verified translation, so retain original title. No book file modified.",
+    "book": {
+      "personalityId": "tony-abbott",
+      "title": {
+        "pt": "Battlelines",
+        "en": "Battlelines"
+      },
+      "year": 2009,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book-publisher",
+      "book-year"
+    ]
+  },
+  "religionMetadataReview": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 26.0,
+    "sourceIds": [
+      "cpac",
+      "family",
+      "abortion",
+      "monarchy"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  }
+}

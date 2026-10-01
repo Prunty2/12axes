@@ -1,0 +1,305 @@
+{
+  "id": "joh-bjelke-petersen",
+  "country": "Australia",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Queensland premiership, 1968–1987, including the 1987 federal tax campaign.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "qld-register",
+      "title": "Queensland Parliament, former member register",
+      "url": "https://www.parliament.qld.gov.au/Members/Former-Members/Former-Members-Register/Former-Member-Details?id=1543517032",
+      "factDate": "Undated; retrieved 2026-10-01",
+      "accessedOn": "2026-10-01",
+      "evidence": "Premiership, Lutheran affiliation and promotion of development; search-index text available, page returned 403."
+    },
+    {
+      "id": "secession-1985",
+      "title": "Queensland Hansard",
+      "url": "https://documents.parliament.qld.gov.au/events/han/1985/1985_03_26.pdf",
+      "factDate": "1985-03-26",
+      "accessedOn": "2026-10-01",
+      "evidence": "His own answer connects possible separation with federal taxation and unequal treatment of Queensland."
+    },
+    {
+      "id": "secession-1973",
+      "title": "Queensland Hansard",
+      "url": "https://documents.parliament.qld.gov.au/events/han/1973/1973_08_02.pdf",
+      "factDate": "1973-08-02",
+      "accessedOn": "2026-10-01",
+      "evidence": "He denied advocating secession when challenged; do not infer a universal secession doctrine."
+    },
+    {
+      "id": "slq-protest",
+      "title": "State Library of Queensland",
+      "url": "https://www.slq.qld.gov.au/blog/freedom-freeways-and-brisbane-protest-seventies",
+      "factDate": "2017; retrieved 2026-10-01",
+      "accessedOn": "2026-10-01",
+      "evidence": "Street-march prohibition, police actions, rural electoral weighting and mining conflict on Aboriginal land."
+    },
+    {
+      "id": "indigenous",
+      "title": "Australian Human Rights Commission, Native Title Report",
+      "url": "https://humanrights.gov.au/sites/default/files/content/pdf/social_justice/native_title_report_97.pdf",
+      "factDate": "1997",
+      "accessedOn": "2026-10-01",
+      "evidence": "Aurukun control and Koowarta lease refusal show state autonomy did not imply Indigenous self-government."
+    },
+    {
+      "id": "vietnam",
+      "title": "Queensland Hansard",
+      "url": "https://documents.parliament.qld.gov.au/events/han/1975/1975_04_10.pdf",
+      "factDate": "1975-04-10",
+      "accessedOn": "2026-10-01",
+      "evidence": "His condemnation of recognition of the North Vietnamese takeover demonstrates anti-communist alignment, not pacifism."
+    },
+    {
+      "id": "iwasaki-speech",
+      "title": "Queensland Hansard",
+      "url": "https://documents.parliament.qld.gov.au/events/han/1978/1978_04_26.pdf",
+      "factDate": "1978-04-26",
+      "accessedOn": "2026-10-01",
+      "evidence": "He explicitly welcomes overseas investment for jobs and resource development; states obligations on investor for works and environmental repair."
+    },
+    {
+      "id": "iwasaki-research",
+      "title": "Queensland Historical Atlas",
+      "url": "https://qhatlas.com.au/content/iwasaki-project",
+      "factDate": "2010; retrieved 2026-10-01",
+      "accessedOn": "2026-10-01",
+      "evidence": "1978 franchise agreement granted special concessions and planning exemptions; state intervention supported private foreign capital."
+    },
+    {
+      "id": "tax-hospitals",
+      "title": "Queensland parliamentary condolences",
+      "url": "https://documents.parliament.qld.gov.au/events/han/2005/2005_05_10_WEEKLY.pdf",
+      "factDate": "2005-05-10",
+      "accessedOn": "2026-10-01",
+      "evidence": "Colleagues cite free hospitals, coal and power infrastructure, no state fuel tax, abolition of death duties, Christian faith and opposition to Sunday trading. Retrospective favorable testimony, not neutral evaluation."
+    },
+    {
+      "id": "prices",
+      "title": "Prime Ministerial archive, Whitlam statement",
+      "url": "https://pmtranscripts.pmc.gov.au/sites/default/files/original/00003484_0.pdf",
+      "factDate": "1974",
+      "accessedOn": "2026-10-01",
+      "evidence": "Political opponent criticises his refusal of price-control powers and federal assistance. Used narrowly for disagreement on controls, not as neutral character judgment."
+    },
+    {
+      "id": "sex-policy",
+      "title": "Queensland State Archives",
+      "url": "https://blogs.archives.qld.gov.au/2023/04/24/legalising-condoms/amp/",
+      "factDate": "2023-04-24",
+      "accessedOn": "2026-10-01",
+      "evidence": "1978 school sex-education restrictions and 1987 removal of condom vending machines despite Health Minister support."
+    },
+    {
+      "id": "religion",
+      "title": "University of Queensland report on Rae Wear research",
+      "url": "https://news.uq.edu.au/1999-06-04-study-examines-sir-johs-life-and-times",
+      "factDate": "1999-06-04",
+      "accessedOn": "2026-10-01",
+      "evidence": "Religion central to political self-understanding; rural upbringing not sufficient evidence of anti-industrialism."
+    },
+    {
+      "id": "book-library",
+      "title": "Supreme Court Library Queensland",
+      "url": "https://sclqld.org.au/catalogue/records/2190",
+      "factDate": "1990 publication record; retrieved 2026-10-01",
+      "accessedOn": "2026-10-01",
+      "evidence": "Publication North Ryde, Angus & Robertson, 1990; political-government subject headings."
+    },
+    {
+      "id": "book-object",
+      "title": "Victorian Collections, Unions Ballarat object record",
+      "url": "https://victoriancollections.net.au/items/5b28926d21ea6912bc2dd7f3",
+      "factDate": "1990 object; retrieved 2026-10-01",
+      "accessedOn": "2026-10-01",
+      "evidence": "Catalogues Joh Bjelke-Petersen as author/creator of his memoirs."
+    },
+    {
+      "id": "book-review",
+      "title": "Australian Financial Review, Nicholas Way review",
+      "url": "https://www.afr.com/companies/sir-joh-power-without-glory-19900511-kamtx",
+      "factDate": "1990-05-11",
+      "accessedOn": "2026-10-01",
+      "evidence": "Contemporary review describes political career and premiership, establishing substantive political content."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "secession-1985",
+        "secession-1973",
+        "indigenous"
+      ],
+      "facts": "Defendeu prerrogativas de Queensland contra Canberra e em 1985 condicionou a possibilidade de separação ao tratamento fiscal federal; em 1973 negou defender secessão. Não concedia a mesma autonomia às comunidades aborígenes.",
+      "tension": "Federalismo estadual seletivo, não municipalismo irrestrito nem separatismo universal."
+    },
+    "representacao": {
+      "sourceIds": [
+        "qld-register",
+        "slq-protest"
+      ],
+      "facts": "Disputou eleições parlamentares, mas o período incluiu distribuição eleitoral favorável ao interior, nomeação contestada para vaga trabalhista no Senado e restrição a protestos.",
+      "tension": "Legitimação eleitoral real coexistia com enfraquecimento da igualdade do voto e da fiscalização; não presumir partido único."
+    },
+    "poder": {
+      "sourceIds": [
+        "slq-protest",
+        "sex-policy"
+      ],
+      "facts": "Proibição de passeatas e operações policiais repressivas são evidência concreta de primazia da ordem; restrições morais alcançavam a esfera privada.",
+      "tension": "Livre empresa não significa liberdade civil; perguntas digitais são extrapolações limitadas."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "indigenous",
+        "iwasaki-speech"
+      ],
+      "facts": "A política indígena recusava autonomia e aquisição de terras; ao mesmo tempo recebeu capital e empreendedores japoneses, defendendo o projeto Iwasaki.",
+      "tension": "Assimilação cultural e ordem cristã não equivalem a rejeição de todo estrangeiro; política indígena é contexto cultural, não prova direta de posição migratória."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "vietnam"
+      ],
+      "facts": "Em abril de 1975 condenou o reconhecimento da vitória norte-vietnamita como apoio comunista e invocou a defesa do modo de vida livre.",
+      "tension": "Anticomunismo e alinhamento ocidental permitem inferir defesa forte; premiê estadual não tinha comando da defesa nacional nem doutrina nuclear documentada aqui."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "vietnam",
+        "secession-1985",
+        "indigenous"
+      ],
+      "facts": "Seu discurso sobre Vietnã era anticomunista, enquanto a resistência ao poder federal e a tratados que ampliavam essa intervenção afirmava a soberania estadual.",
+      "tension": "Não extrapolar soberania estadual para expansionismo militar; admite aliados e pressões externas sem doutrina de conquista."
+    },
+    "economia": {
+      "sourceIds": [
+        "iwasaki-speech",
+        "tax-hospitals"
+      ],
+      "facts": "Defendeu propriedade privada e investimento estrangeiro; aboliu direitos sucessórios, mas manteve hospitais públicos gratuitos e infraestrutura pública.",
+      "tension": "Pró-empresa não equivale à privatização total de saúde, polícia, tribunais ou energia."
+    },
+    "controle": {
+      "sourceIds": [
+        "prices",
+        "iwasaki-research",
+        "tax-hospitals"
+      ],
+      "facts": "Oposição a controles de preços e tributação coexistiu com concessões legislativas a investidores e coordenação de infraestrutura; a restrição de comércio dominical atendia à moral religiosa.",
+      "tension": "Mercado com intervenção discricionária desenvolvimentista, não laissez-faire consistente."
+    },
+    "comercio": {
+      "sourceIds": [
+        "iwasaki-speech",
+        "iwasaki-research"
+      ],
+      "facts": "Em 1978 acolheu explicitamente investimento estrangeiro para desenvolver recursos e gerar empregos; garantiu condições especiais ao empreendimento japonês Iwasaki.",
+      "tension": "Abertura ao capital e comércio não prova apoio ao desaparecimento de todas as fronteiras econômicas ou abandono da agricultura local."
+    },
+    "religiao": {
+      "sourceIds": [
+        "qld-register",
+        "religion",
+        "tax-hospitals"
+      ],
+      "facts": "Luterano; pesquisa biográfica destaca peso da religião; oposição ao comércio dominical baseada na família e fé.",
+      "tension": "Fé molda política e costumes sem evidência de um programa de teocracia clerical."
+    },
+    "moral": {
+      "sourceIds": [
+        "sex-policy"
+      ],
+      "facts": "Restringiu educação sexual em 1978 e ordenou retirada de máquinas de preservativos em 1987 mesmo diante da preocupação sanitária do ministro.",
+      "tension": "Conservadorismo sexual firme; não confundir modernização econômica com progressismo moral."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "iwasaki-research",
+        "slq-protest",
+        "tax-hospitals",
+        "sex-policy"
+      ],
+      "facts": "Promoveu mineração, energia e grandes empreendimentos; preferiu projetos de desenvolvimento a objeções ambientais, mas recusava liberalização em saúde sexual.",
+      "tension": "Entusiasmo industrial e raízes rurais coexistem; não há defesa documentada de transumanismo, edição de embriões ou IA."
+    }
+  },
+  "uncertainties": [
+    "As 240 respostas são simulações históricas, não citações; Brasil e instituições contemporâneas são tratados por analogia funcional australiana.",
+    "Perguntas de IA, armas autônomas, criptomoedas e engenharia genética exigem inferência explícita a partir de desenvolvimento, autoridade e moral religiosa.",
+    "Defesa e imigração eram competências federais; a pesquisa não estabelece posição pessoal específica em cada alternativa.",
+    "Não foram consultadas respostas, vetores nem revisões de similaridade anteriores.",
+    "Não atribuir a Joh declarações de sua esposa nem converter acusações partidárias em fatos comprovados."
+  ],
+  "distinctions": [
+    {
+      "profile": "Ronald Reagan / conservadorismo liberal",
+      "distinction": "Joh baseou poder num governo estadual com eleitorados rurais favorecidos e conservou hospitais gratuitos; não comandava uma superpotência militar."
+    },
+    {
+      "profile": "Margaret Thatcher / conservadorismo de mercado",
+      "distinction": "Joh defendia prerrogativas estaduais dentro de uma federação e usava concessões específicas ao capital; sua prática não corresponde a uma campanha britânica de privatização nacional."
+    },
+    {
+      "profile": "Lee Kuan Yew / desenvolvimentismo pró-empresa",
+      "distinction": "Joh combinava fé cristã e base agrária com direitos estaduais; não governava uma cidade-Estado centralizada nem justificava políticas pela mesma tecnocracia."
+    }
+  ],
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Joh_Bjelke-Petersen.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Joh_Bjelke-Petersen.jpg",
+    "author": "Premier’s Department, State Public Relations Bureau, Photographic Unit; State of Queensland",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "date": "circa 1980",
+    "changes": "Commons centering crop; locally resized and compressed",
+    "visuallyChecked": true
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/joh-bjelke-petersen.json",
+    "answerArchive": "profile-audit/answers/personality/joh-bjelke-petersen.json",
+    "agent": "/root/independent_joh",
+    "answersSha256": "9fe7f6503db25783a5b7e8557f7c595a556720944f6cb293ade1022031f5d7d3",
+    "validation": "Independent review complete. User requested retaining the full 32-person scope after the overlap report; current upstream validator results are recorded separately."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Autobiografia de autoria catalogada com conteúdo substancial sobre governo e carreira política; não são memórias apenas pessoais.",
+    "book": {
+      "personalityId": "joh-bjelke-petersen",
+      "title": {
+        "pt": "Don't You Worry About That! The Joh Bjelke-Petersen Memoirs",
+        "en": "Don't You Worry About That! The Joh Bjelke-Petersen Memoirs"
+      },
+      "year": 1990,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book-library",
+      "book-object",
+      "book-review"
+    ],
+    "translationNote": "Não foi localizada edição brasileira; conservar título original, sem inventar tradução.",
+    "scopeNote": "Publicado após o mandato; usado para decisão bibliográfica, não como evidência de posições atuais."
+  },
+  "religionMetadataReview": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 8.1,
+    "sourceIds": [
+      "qld-register",
+      "religion",
+      "tax-hospitals"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "id": "boris-johnson",
+  "country": "United Kingdom",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Primarily 2019–2022 premiership; earlier religious context and explicitly dated 2023 accountability finding and 2026 Ukraine update.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Levelling Up speech",
+      "url": "https://www.gov.uk/government/speeches/the-prime-ministers-levelling-up-speech-15-july-2021",
+      "factDate": "2021-07-15",
+      "accessedOn": "2026-10-01",
+      "evidence": "Johnson calls Britain overcentralised and proposes flexible English devolution, elected local leadership and private investment."
+    },
+    {
+      "id": "S2",
+      "title": "Union of the United Kingdom: Under stress?",
+      "url": "https://lordslibrary.parliament.uk/union-of-the-united-kingdom-under-stress/",
+      "factDate": "2022",
+      "accessedOn": "2026-10-01",
+      "evidence": "Parliamentary research records Johnson rejecting in January 2020 a transfer of powers for another Scottish independence referendum."
+    },
+    {
+      "id": "S3",
+      "title": "Miller / Cherry judgment",
+      "url": "https://www.bailii.org/uk/cases/UKSC/2019/41.html",
+      "factDate": "2019-09-24",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supreme Court held his advice to prorogue Parliament unlawful because it frustrated parliamentary functions without reasonable justification."
+    },
+    {
+      "id": "S4",
+      "title": "Privileges Committee final report",
+      "url": "https://publications.parliament.uk/pa/cm5803/cmselect/cmprivi/564/summary.html",
+      "factDate": "2023-06-15",
+      "accessedOn": "2026-10-01",
+      "evidence": "Committee found deliberate misleading of House and committee, undermining parliamentary process and complicity in intimidation. This is a dated later accountability finding, not a claim Johnson endorsed its conclusions."
+    },
+    {
+      "id": "S5",
+      "title": "Beating Crime Plan announcement",
+      "url": "https://www.gov.uk/government/news/crime-plan-to-protect-victims-and-make-streets-safer",
+      "factDate": "2021-07-27",
+      "accessedOn": "2026-10-01",
+      "evidence": "Government expanded electronic monitoring and relaxed stop-and-search conditions; combined enforcement with prevention."
+    },
+    {
+      "id": "S6",
+      "title": "Plan B statement",
+      "url": "https://www.gov.uk/government/speeches/pm-opening-statement-at-covid-19-press-conference-8-december-2021",
+      "factDate": "2021-12-08",
+      "accessedOn": "2026-10-01",
+      "evidence": "Johnson required masks and Covid passes in large venues; a negative test remained an alternative to vaccination."
+    },
+    {
+      "id": "S7",
+      "title": "Points-based immigration policy statement",
+      "url": "https://www.gov.uk/government/publications/the-uks-points-based-immigration-system-policy-statement",
+      "factDate": "2020-02-19",
+      "accessedOn": "2026-10-01",
+      "evidence": "Introduced salary and skills thresholds and intended reduction in lower-skilled immigration."
+    },
+    {
+      "id": "S8",
+      "title": "Migration and Rwanda speech",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-on-action-to-tackle-illegal-migration-14-april-2022",
+      "factDate": "2022-04-14",
+      "accessedOn": "2026-10-01",
+      "evidence": "Promoted Rwanda relocation and controlled borders; simultaneously praised immigrant contributions and legal refuge for Hong Kong, Afghan, Syrian and Ukrainian arrivals."
+    },
+    {
+      "id": "S9",
+      "title": "Integrated Review nuclear deterrent",
+      "url": "https://www.gov.uk/guidance/integrated-review-of-security-defence-development-and-foreign-policy-2021-nuclear-deterrent",
+      "factDate": "2021-03-16",
+      "accessedOn": "2026-10-01",
+      "evidence": "Raised nuclear stockpile ceiling to 260, while describing deterrence and NATO commitments rather than unlimited aggressive war."
+    },
+    {
+      "id": "S10",
+      "title": "Address to Ukrainian Parliament",
+      "url": "https://www.gov.uk/government/speeches/prime-minister-boris-johnsons-address-to-the-ukrainian-parliament-3-may-2022",
+      "factDate": "2022-05-03",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supported Ukrainian resistance with British military aid and condemned Russian invasion."
+    },
+    {
+      "id": "S11",
+      "title": "YES annual meeting day two summary",
+      "url": "https://yes-ukraine.org/en/news/peace-through-strength-now-pidsumki-drugogo-dnya-shchorichnoyi-zustrichi-yaltinskoyi-yevropeyskoyi-strategiyi-yes",
+      "factDate": "2026-09-13",
+      "accessedOn": "2026-10-01",
+      "evidence": "Event organiser records Johnson on 12 September calling for Western strategic clarity and condemning Russia’s imperial aims against Ukraine."
+    },
+    {
+      "id": "S12",
+      "title": "Economy speech in Dudley",
+      "url": "https://www.gov.uk/government/speeches/pm-economy-speech-30-june-2020",
+      "factDate": "2020-06-30",
+      "accessedOn": "2026-10-01",
+      "evidence": "Praised furlough protection and public investment in post-pandemic recovery, alongside enterprise and infrastructure."
+    },
+    {
+      "id": "S13",
+      "title": "Health and social care statement",
+      "url": "https://www.gov.uk/government/speeches/pm-statement-at-press-conference-on-health-and-social-care-7-september-2021",
+      "factDate": "2021-09-07",
+      "accessedOn": "2026-10-01",
+      "evidence": "Defended NHS financed through taxes and announced a health/social-care levy; explicitly acknowledged breaking a no-tax-rise pledge."
+    },
+    {
+      "id": "S14",
+      "title": "Greenwich free-trade speech",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-in-greenwich-3-february-2020",
+      "factDate": "2020-02-03",
+      "accessedOn": "2026-10-01",
+      "evidence": "Promoted comparative advantage and global free trade while reclaiming regulatory sovereignty, protecting NHS and maintaining labour/environmental standards."
+    },
+    {
+      "id": "S15",
+      "title": "Steel safeguard statement",
+      "url": "https://www.gov.uk/government/speeches/uk-steel-safeguard-international-trade-secretarys-statement-29-june-2022",
+      "factDate": "2022-06-29",
+      "accessedOn": "2026-10-01",
+      "evidence": "Johnson government extended safeguards across fifteen steel categories, showing sectoral exceptions to free-trade rhetoric."
+    },
+    {
+      "id": "S16",
+      "title": "High Profiles interview, originally Third Way",
+      "url": "https://highprofiles.info/interview/boris-johnson/",
+      "factDate": "2004-10",
+      "accessedOn": "2026-10-01",
+      "evidence": "Described religion as private, variable faith and mixed family religious heritage; valued spiritual life but declined categorical answers on embryological research."
+    },
+    {
+      "id": "S17",
+      "title": "Christmas message",
+      "url": "https://www.gov.uk/government/speeches/prime-minister-boris-johnsons-christmas-message-24-december-2019",
+      "factDate": "2019-12-24",
+      "accessedOn": "2026-10-01",
+      "evidence": "Celebrated Christ’s birth and religious freedom for persecuted Christians; addressed the wider population inclusively."
+    },
+    {
+      "id": "S18",
+      "title": "Pride Month at Downing Street",
+      "url": "https://www.gov.uk/government/news/celebrating-pride-month-june-2021",
+      "factDate": "2021-06",
+      "accessedOn": "2026-10-01",
+      "evidence": "Proud of same-sex marriage across UK; met LGBT people and supported inclusion, conversion-therapy ban commitment and restored military medals."
+    },
+    {
+      "id": "S19",
+      "title": "Reuters: abortion decision response",
+      "url": "https://www.euronews.com/2022/06/25/uk-usa-abortion-britain",
+      "factDate": "2022-06-25",
+      "accessedOn": "2026-10-01",
+      "evidence": "Johnson criticised overturning Roe v Wade and defended women’s choice."
+    },
+    {
+      "id": "S20",
+      "title": "ITV: comments on transgender sport",
+      "url": "https://www.itv.com/news/2022-04-06/biological-males-should-not-be-competing-in-womens-sports-boris-johnson-says",
+      "factDate": "2022-04-06",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supported sex-based female sporting categories and parental involvement in irreversible treatment, alongside sympathy for people transitioning."
+    },
+    {
+      "id": "S21",
+      "title": "UN General Assembly technology speech",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-to-the-un-general-assembly-24-september-2019",
+      "factDate": "2019-09-24",
+      "accessedOn": "2026-10-01",
+      "evidence": "Optimistic about AI, regenerative medicine, neural interfaces and genomics, but warned against surveillance, censorship and uncontrolled technological consequences."
+    },
+    {
+      "id": "S22",
+      "title": "Ten-point green industrial plan announcement",
+      "url": "https://www.gov.uk/government/news/pm-outlines-his-ten-point-plan-for-a-green-industrial-revolution-for-250000-jobs",
+      "factDate": "2020-11-18",
+      "accessedOn": "2026-10-01",
+      "evidence": "Combined nuclear power, innovation, electric transport and nature restoration in a growth-oriented net-zero programme."
+    },
+    {
+      "id": "S23",
+      "title": "Genetic technologies regulation response",
+      "url": "https://www.gov.uk/government/consultations/genetic-technologies-regulation/outcome/genetic-technologies-regulation-government-response-explainer",
+      "factDate": "2021-09-29",
+      "accessedOn": "2026-10-01",
+      "evidence": "Government sought to ease plant gene-editing research restrictions under proportionate scientific regulation."
+    },
+    {
+      "id": "B1",
+      "title": "Unleashed publisher catalogue",
+      "url": "https://harpercollins.co.uk/products/unleashed-boris-johnson",
+      "factDate": "2024",
+      "accessedOn": "2026-10-01",
+      "evidence": "Publisher lists Boris Johnson as author of Unleashed, a political memoir covering his elected offices and premiership."
+    },
+    {
+      "id": "B2",
+      "title": "HarperCollins Frankfurt rights guide",
+      "url": "https://www.harpercollinsrights.co.uk/wp-content/uploads/sites/47/2024/10/Non-Fiction-Frankfurt-2024-Rights-Guide.pdf",
+      "factDate": "2024-10",
+      "accessedOn": "2026-10-01",
+      "evidence": "Indexed publisher catalogue gives first publication as 10 October 2024; full PDF fetch exceeded web tool size limit."
+    },
+    {
+      "id": "B3",
+      "title": "Brazilian coverage of Unleashed",
+      "url": "https://www.jornalopcao.com.br/colunas-e-blogs/imprensa/critico-detona-as-memorias-do-ex-primeiro-ministro-britanico-boris-johnson-644309/",
+      "factDate": "2024-10",
+      "accessedOn": "2026-10-01",
+      "evidence": "Brazilian coverage names memoir by original title Unleashed and treats Libertado as literal translation; no Brazilian published translation verified."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "S1",
+        "S2"
+      ],
+      "facts": [
+        "2021: flexible local devolution and metro mayors.",
+        "2020: refused new Scottish secession referendum powers."
+      ],
+      "tension": "Local administrative empowerment inside a protected Union; neither unrestricted secession nor uniform central administration."
+    },
+    "representacao": {
+      "sourceIds": [
+        "S3",
+        "S4",
+        "S14"
+      ],
+      "facts": [
+        "Electoral parliamentary politician; Brexit justified through public mandate.",
+        "2019 unlawful prorogation; 2023 parliamentary findings of misleading Parliament."
+      ],
+      "tension": "Commitment to popular electoral authority coexists with executive pressure on parliamentary oversight; do not erase either."
+    },
+    "poder": {
+      "sourceIds": [
+        "S5",
+        "S6",
+        "S21"
+      ],
+      "facts": [
+        "2021: expanded stop-and-search and electronic monitoring.",
+        "2021: Covid passes with testing alternative.",
+        "2019: denounced digital authoritarianism and defended expression/privacy."
+      ],
+      "tension": "Law-and-order government with civil-libertarian rhetoric; neither police-state absolutism nor unrestricted private drug use follows."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "S7",
+        "S8"
+      ],
+      "facts": [
+        "2020: selected migration through skills/salary thresholds.",
+        "2022: Rwanda removals alongside praise for lawful migration and refugee routes."
+      ],
+      "tension": "National border control does not imply ethnic exclusion or compulsory abandonment of every immigrant custom."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "facts": [
+        "2021: expanded nuclear ceiling.",
+        "2022: armed Ukraine; 2026: continued opposition to Russian imperialism."
+      ],
+      "tension": "Deterrence and allied military support, not pacifism; defence of sovereignty differs from unlimited preventive conquest."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "S10",
+        "S11",
+        "S14"
+      ],
+      "facts": [
+        "2020: restored British sovereignty and autonomous external policy.",
+        "2022: actively supported Ukraine; September 2026 reiterated need for Western resolve."
+      ],
+      "tension": "British national agency and active alliances, not isolationism; sovereign choice also recognised for Ukraine."
+    },
+    "economia": {
+      "sourceIds": [
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "facts": [
+        "2020: enterprise and free trade with NHS protected.",
+        "2021: defended public tax-funded healthcare."
+      ],
+      "tension": "Supports private enterprise without privatising every public function or abolishing the social safety net."
+    },
+    "controle": {
+      "sourceIds": [
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "facts": [
+        "2020: furlough and public infrastructure recovery.",
+        "2021: raised taxes for NHS/social care despite prior pledge.",
+        "2020: defended minimum wage and labour standards while rejecting wholesale EU regulatory alignment."
+      ],
+      "tension": "Regulated capitalism and selective intervention; neither comprehensive planning nor consistently minimal taxation."
+    },
+    "comercio": {
+      "sourceIds": [
+        "S14",
+        "S15"
+      ],
+      "facts": [
+        "2020: explicitly opposed protectionist global trend and sought trade agreements.",
+        "2022: maintained steel safeguards."
+      ],
+      "tension": "Free trade qualified by sovereignty, strategic industry and standards; Brexit is not evidence of economic autarky."
+    },
+    "religiao": {
+      "sourceIds": [
+        "S16",
+        "S17"
+      ],
+      "facts": [
+        "2004: fluctuating private faith and plural family heritage.",
+        "2019: celebrated Christianity and protection against religious persecution."
+      ],
+      "tension": "Cultural Christian attachment and religious freedom coexist with personal uncertainty and non-theocratic government."
+    },
+    "moral": {
+      "sourceIds": [
+        "S18",
+        "S19",
+        "S20"
+      ],
+      "facts": [
+        "2021: supported same-sex marriage and LGBT inclusion.",
+        "2022: defended abortion choice.",
+        "2022: supported sex-based sports categories and parental involvement."
+      ],
+      "tension": "Social liberalism on marriage/abortion does not establish every progressive identity or family-policy position."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "S21",
+        "S22",
+        "S23"
+      ],
+      "facts": [
+        "2019: praised medical/neural/genomic innovation while warning against abuses.",
+        "2020: nuclear and green industry alongside nature protection.",
+        "2021: plant gene-editing liberalisation."
+      ],
+      "tension": "Technological optimism with environmental and ethical boundaries; no verified endorsement of unrestricted human enhancement."
+    }
+  },
+  "uncertainties": [
+    "Profile period preserved verbatim from existing research; earlier answers, vectors and score reports were not consulted.",
+    "Research checked through 2026-10-01; newest verified substantive statement used is 2026-09-12. Later Ukraine statements confirm continuity; not all domestic positions were restated in 2026.",
+    "Government speeches evidence stated priorities, not successful implementation; court, Parliament, independent interviews and reporting provide cross-checks.",
+    "Brazil-specific questions are translated by functional analogy into UK policy; no invented view on Brazilian constitutional particulars.",
+    "Questions on embryo enhancement, polyamory, racial quotas and cryptocurrency require cautious inference from documented principles; absence of a statement alone is not neutral.",
+    "No verified Brazilian translation of Unleashed found after title/author/translation searches; use original title, not an invented literal Portuguese title. Publisher PDF date was available in search extract, while full fetch failed due to size."
+  ],
+  "distinctions": {
+    "record": "profile-audit/research/process-review/boris-johnson.json",
+    "note": "Qualitative pre-answer distinctions and process are recorded in this independent review."
+  },
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait.jpg",
+    "author": "Ben Shread / Cabinet Office, Crown copyright",
+    "license": "Open Government Licence v3.0",
+    "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Boris_Johnson_official_portrait.jpg",
+    "date": "2019",
+    "note": "Official Cabinet Office portrait. Contains public sector information licensed under the Open Government Licence v3.0. Resized/compressed for the site; no face alteration.",
+    "visuallyChecked": true
+  },
+  "validationReview": {
+    "date": "2026-09-30",
+    "neutralAnswers": 14,
+    "technologyNeutralAnswers": 5,
+    "notes": "Validator warnings reviewed: five mixed technology answers balance innovation with safeguards, rather than asserting specific enhancement policies. Closest people remain below the 95% review threshold: Turnbull 94.8%, Morrison 94.5%, Blair 94.3%. Brexit sovereignty and institutional conflicts, public NHS funding and selective protection, and abortion/LGBT positions distinguish this independently answered profile. No answer changes were made to manipulate similarity.",
+    "computedMatches": {
+      "personalities": [
+        {
+          "id": "malcolm-turnbull",
+          "compatibility": 94.8
+        },
+        {
+          "id": "scott-morrison",
+          "compatibility": 94.5
+        }
+      ],
+      "ideologies": [
+        {
+          "id": "atlantismo",
+          "compatibility": 95.7
+        },
+        {
+          "id": "terceira-via",
+          "compatibility": 91.7
+        }
+      ],
+      "countries": [
+        {
+          "id": "reino-unido",
+          "compatibility": 98.3
+        },
+        {
+          "id": "eua-washington-dc",
+          "compatibility": 96.4
+        }
+      ]
+    },
+    "archetype": {
+      "sociedade": "C",
+      "poder": "C",
+      "economia": "C",
+      "mundo": "B",
+      "tecnologia": "D"
+    }
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/boris-johnson.json",
+    "answerArchive": "profile-audit/answers/personality/boris-johnson.json",
+    "agent": "/root/independent_johnson",
+    "answersSha256": "43fa13c53d72b49c9273a05f66aa64f6b65a170a474f747623597a76716e85e0",
+    "validation": "Independent review complete. User requested retaining the full 32-person scope after the overlap report; current upstream validator results are recorded separately."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political memoir directly covering his premiership and political ideas; more directly relevant to this profile than his Churchill biography. No existing books.json entry; no verified Brazilian translation.",
+    "book": {
+      "personalityId": "boris-johnson",
+      "title": {
+        "pt": "Unleashed",
+        "en": "Unleashed"
+      },
+      "year": 2024,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "B1",
+      "B2",
+      "B3"
+    ]
+  },
+  "religionMetadataReview": {
+    "religions": [],
+    "religionAxis": 46.9,
+    "sourceIds": [
+      "S16",
+      "S17"
+    ],
+    "reason": "Secular governance or private/cultural faith without the strong public religious identity required for tagging above the threshold; no religion tag inferred from ethnicity."
+  }
+}

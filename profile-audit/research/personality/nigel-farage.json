@@ -1,0 +1,370 @@
+{
+  "id": "nigel-farage",
+  "country": "United Kingdom",
+  "researchedOn": "2026-10-01",
+  "profilePeriod": "Reform UK leadership, 2024–30 September 2026; dated earlier personal and ideological context.",
+  "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
+  "sources": [
+    {
+      "id": "policies",
+      "title": "Reform UK current policies",
+      "url": "https://www.reformparty.uk/policies",
+      "factDate": "2026-09 (current platform)",
+      "accessedOn": "2026-10-01",
+      "evidence": "Tax-funded NHS; stricter visas and English fluency; expanded stop-and-search and prisons; lower taxes; nuclear energy; defence spending commitment. Party proposals, not proven policy effects."
+    },
+    {
+      "id": "emergency",
+      "title": "Farage: first 100 days conference speech",
+      "url": "https://www.reformparty.uk/news/we-ll-declare-a-national-emergency-to-fix-broken-britain-in-100-days",
+      "factDate": "2026-09-05",
+      "accessedOn": "2026-10-01",
+      "evidence": "Proposes parliamentary emergency sittings, adding peers or a Lords referendum, limiting judicial obstacles and removing obstructive officials; seeks an electoral majority."
+    },
+    {
+      "id": "scotland",
+      "title": "Reform UK Scotland manifesto",
+      "url": "https://reformuk.scot/wp-content/uploads/2026/04/Reform-UK-Scotland-Manifesto-2026.pdf",
+      "factDate": "2026-04",
+      "accessedOn": "2026-10-01",
+      "evidence": "Pages 9–10 support councils raising and retaining revenues; page 17 criticises police centralisation; NHS remains tax-funded; local public housing and public-private infrastructure coexist with rent deregulation."
+    },
+    {
+      "id": "union",
+      "title": "Farage on first ministers meeting",
+      "url": "https://www.the-independent.com/news/uk/home-news/scottish-nigel-farage-prime-minister-wales-lbc-b3057674.html",
+      "factDate": "2026-09-28",
+      "accessedOn": "2026-10-01",
+      "evidence": "PA report quotes Farage treating Scottish independence as settled for a generation following its referendum."
+    },
+    {
+      "id": "speech",
+      "title": "Farage on anti-disinformation unit",
+      "url": "https://reformparty.uk/news/nigel-farage-burnham-s-orwellian-anti-disinformation-unit-will-be-used-to-clamp-down-on-free-speech",
+      "factDate": "2026-09-23",
+      "accessedOn": "2026-10-01",
+      "evidence": "Acknowledges foreign bots but opposes state policing of lawful political speech."
+    },
+    {
+      "id": "cannabis",
+      "title": "ITV direct interview on cannabis and defence",
+      "url": "https://www.itv.com/news/2024-06-21/free-university-cannabis-replacing-the-tories-farage-answers-your-questions",
+      "factDate": "2024-06-21",
+      "accessedOn": "2026-10-01",
+      "evidence": "Withdraws earlier enthusiasm for cannabis decriminalisation inquiry; supports stronger forces facing Russia-China-North Korea; favours publicly funded STEM tuition."
+    },
+    {
+      "id": "death",
+      "title": "Farage authored column against capital punishment",
+      "url": "https://www.the-independent.com/voices/comment/i-m-against-the-death-penalty-but-i-think-we-should-be-free-to-debate-it-9669991.html",
+      "factDate": "2014-08-14",
+      "accessedOn": "2026-10-01",
+      "evidence": "Personally opposes the death penalty while defending public debate; earlier context rather than a new pledge."
+    },
+    {
+      "id": "iran",
+      "title": "Farage on IRGC",
+      "url": "https://www.reformparty.uk/news/the-threat-from-iran-is-a-national-emergency",
+      "factDate": "2026-09-29",
+      "accessedOn": "2026-10-01",
+      "evidence": "Demands IRGC terrorist proscription and stronger response to Iranian threats against British security."
+    },
+    {
+      "id": "restraint",
+      "title": "LBC interview: Britain should not join Iran war",
+      "url": "https://www.lbc.co.uk/article/nigel-farage-oil-prices-trump-iran-5HjdW94_2/",
+      "factDate": "2026 (page accessed 2026-10-01)",
+      "accessedOn": "2026-10-01",
+      "evidence": "Headline and interview establish reluctance to join American war in Iran; distinguishes allied solidarity from automatic participation. Exact publication date not recovered."
+    },
+    {
+      "id": "business",
+      "title": "Reform small-business plan",
+      "url": "https://www.reformparty.uk/news/reform-s-plan-to-rescue-britain-s-small-businesses",
+      "factDate": "2026-08-26",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supports SMEs through lighter regulation, tax relief and easier financing."
+    },
+    {
+      "id": "trade",
+      "title": "Farage interview on US tariffs",
+      "url": "https://www.standard.co.uk/news/politics/nigel-farage-interview-us-tariffs-elon-musk-donald-trump-b1219322.html",
+      "factDate": "2025-03-27",
+      "accessedOn": "2026-10-01",
+      "evidence": "Direct remarks advocate UK-US free trade deal and criticise failure to escape American import duties; trade openness does not imply EU political membership."
+    },
+    {
+      "id": "crypto",
+      "title": "Reform crypto bill executive summary",
+      "url": "https://www.reformparty.uk/Reform-crypto-bill.pdf",
+      "factDate": "2025-05",
+      "accessedOn": "2026-10-01",
+      "evidence": "Search-indexed primary executive summary promotes UK cryptocurrency and blockchain innovation. Direct PDF open failed; relied only on visible indexed text."
+    },
+    {
+      "id": "faith",
+      "title": "High Profile direct interview",
+      "url": "https://highprofiles.info/interview/nigel-farage/",
+      "factDate": "2011-12-02",
+      "accessedOn": "2026-10-01",
+      "evidence": "Christian values treated as cultural and moral resources; recalls adult nonbelief and uncertainty following a plane crash; not a claim of present devout faith."
+    },
+    {
+      "id": "heritage",
+      "title": "Reform proposal to protect Christian heritage",
+      "url": "https://www.christianpost.com/news/reform-uk-party-vows-to-save-churches-turning-into-mosques.html",
+      "factDate": "2026-03-01",
+      "accessedOn": "2026-10-01",
+      "evidence": "Reports Reform spokesman Yusuf proposing protected church status and preserving Christian national heritage. Party context, not evidence of Farage personal theology."
+    },
+    {
+      "id": "abortion",
+      "title": "Farage abortion remarks",
+      "url": "https://news.sky.com/story/nigel-farage-says-it-is-utterly-ludicrous-to-allow-abortion-up-to-24-weeks-13375431",
+      "factDate": "2025-05-27",
+      "accessedOn": "2026-10-01",
+      "evidence": "Calls himself pro-choice but objects to 24-week limit; indexed reporting recovered despite direct open failure."
+    },
+    {
+      "id": "marriage",
+      "title": "Farage LBC remarks on same-sex marriage",
+      "url": "https://www.thepinknews.com/2025/07/04/nigel-farage-same-sex-gay-marriage-wrong/",
+      "factDate": "2025-07-04",
+      "accessedOn": "2026-10-01",
+      "evidence": "Opposed introduction and preferred civil partnerships; now treats legal same-sex marriage as settled rather than proposing repeal."
+    },
+    {
+      "id": "ai",
+      "title": "ITV Border direct interview on AI data centres",
+      "url": "https://www.itv.com/news/border/2026-09-29/what-now-for-ai-data-centres-after-nigel-farage-calls-for-a-pause",
+      "factDate": "2026-09-29",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supports pause on hyperscale centres after reconsidering effects on people and farms, differing from Reform MSPs."
+    },
+    {
+      "id": "book",
+      "title": "The Purple Revolution publisher listing",
+      "url": "https://www.bitebackpublishing.com/books/the-purple-revolution",
+      "factDate": "2015-03-17",
+      "accessedOn": "2026-10-01",
+      "evidence": "Nigel Farage author; subtitle The Year That Changed Everything; book on UKIP strategy, EU and sovereignty; first publication 2015."
+    },
+    {
+      "id": "bookpt",
+      "title": "Portuguese-market listing of original-language book",
+      "url": "https://www.bertrand.pt/livro/the-purple-revolution-nigel-farage/16207247",
+      "factDate": "2015",
+      "accessedOn": "2026-10-01",
+      "evidence": "Searches for Brazilian or Portuguese translation found only original title and unrelated works; no verified Brazilian translation."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "scotland",
+        "union"
+      ],
+      "facts": [
+        "Party promotes local fiscal autonomy in Scotland (April 2026).",
+        "Farage opposes reopening Scottish independence (September 2026)."
+      ],
+      "tension": "Local service autonomy within a sovereign union; Brexit is not evidence for unlimited regional secession."
+    },
+    "representacao": {
+      "sourceIds": [
+        "emergency",
+        "speech"
+      ],
+      "facts": [
+        "Seeks elections and plebiscites but would weaken judicial and Lords resistance to a mandate (September 2026)."
+      ],
+      "tension": "Majoritarian representative democracy, not permanent unelected dictatorship or leaderless assemblies."
+    },
+    "poder": {
+      "sourceIds": [
+        "policies",
+        "speech",
+        "cannabis",
+        "death"
+      ],
+      "facts": [
+        "Tough policing coexists with opposition to speech censorship.",
+        "Cannabis caution (2024) and personal opposition to execution (2014)."
+      ],
+      "tension": "Civil liberties are selective; do not equate security policy with universal state surveillance."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "policies",
+        "union"
+      ],
+      "facts": [
+        "September platform requires English fluency and restricts immigration."
+      ],
+      "tension": "Assimilation and national borders, not abolition of all personal cultural customs."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "cannabis",
+        "iran",
+        "policies"
+      ],
+      "facts": [
+        "Strong armed forces and deterrence (2024–2026); IRGC proscription urged September 2026."
+      ],
+      "tension": "Defence strength is compatible with reluctance about particular wars."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "iran",
+        "restraint",
+        "trade"
+      ],
+      "facts": [
+        "British sovereignty and threats from Iran central to current rhetoric; opposes automatic UK participation in Iran war."
+      ],
+      "tension": "Assertive national interests and close US links coexist with war restraint."
+    },
+    "economia": {
+      "sourceIds": [
+        "policies",
+        "business",
+        "scotland"
+      ],
+      "facts": [
+        "September platform retains NHS taxation; August business plan favours private enterprise."
+      ],
+      "tension": "Mixed provision and social housing prevent treating him as an anarchocapitalist."
+    },
+    "controle": {
+      "sourceIds": [
+        "business",
+        "scotland",
+        "crypto"
+      ],
+      "facts": [
+        "Tax cuts and deregulation prominent; Scotland programme also uses public-private infrastructure and local housing."
+      ],
+      "tension": "Market-led economy with targeted national-sector intervention, not total laissez-faire or full planning."
+    },
+    "comercio": {
+      "sourceIds": [
+        "trade",
+        "policies"
+      ],
+      "facts": [
+        "March 2025 remarks explicitly seek US free trade."
+      ],
+      "tension": "National energy security and British-worker preference temper openness; exiting EU political authority does not mean autarky."
+    },
+    "religiao": {
+      "sourceIds": [
+        "faith",
+        "heritage"
+      ],
+      "facts": [
+        "Personal faith uncertainty in 2011; Christian heritage policy in 2026."
+      ],
+      "tension": "Cultural Christianity rather than divine law overruling elected statute; personal contemporary belief uncertain."
+    },
+    "moral": {
+      "sourceIds": [
+        "abortion",
+        "marriage",
+        "heritage"
+      ],
+      "facts": [
+        "2025 remarks accept early abortion choice but seek shorter limit; gay marriage treated as settled despite previous opposition."
+      ],
+      "tension": "Traditionalism does not entail criminalising all private adult conduct."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "policies",
+        "crypto",
+        "ai"
+      ],
+      "facts": [
+        "Pro-nuclear and crypto policies; September 2026 AI-centre pause after local-impact concerns."
+      ],
+      "tension": "Industrial modernisation with constraints; no sourced transhumanist or embryo-enhancement platform."
+    }
+  },
+  "uncertainties": [
+    "Simulation, not actual survey responses. Brazilian examples are translated functionally into British institutions and interests.",
+    "Weak direct evidence on facial recognition, weapons ownership, central-bank design, embryo editing and brain implants. Modest answers are contextual inferences, not attributed quotations; N reserved for genuine competing commitments.",
+    "Older individual statements are dated and subordinate to current positions. Regional party programme is contextual evidence and not automatically a personal endorsement of every detail.",
+    "Research refreshed through 2026-10-01; retained explicit endpoint 30 September 2026. No relevant 1 October change identified. Failed PDF/article opens are distinguished from indexed evidence."
+  ],
+  "distinctions": {
+    "record": "profile-audit/research/process-review/nigel-farage.json",
+    "note": "Qualitative pre-answer distinctions and process are recorded in this independent review."
+  },
+  "portrait": {
+    "article": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Nigel_Farage_MP_crop_2.jpg",
+    "author": "Laurie Noble",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Official_portrait_of_Nigel_Farage_MP_crop_2.jpg",
+    "date": "2024-07-11",
+    "note": "Official parliamentary portrait by Laurie Noble, via Wikimedia Commons. Commons crop resized and compressed; no facial alteration.",
+    "visuallyChecked": true
+  },
+  "validationReview": {
+    "nearestPersonality": "angus-taylor",
+    "compatibilityPercent": 96.0,
+    "alsoReviewed": [
+      "tony-abbott",
+      "friedrich-merz"
+    ],
+    "reason": "All three share conservative and market-oriented principles, but the computed profile preserves substantial differences. Farage versus Taylor: representation 71.6 vs 82.3, immigration 86.2 vs 69.5, trade 38.7 vs 24.6 and technology 50.0 vs 64.1. Versus Abbott: intervention 32.9 vs 16.2, religion 30.6 vs 20.0 and moral 31.3 vs 19.6. Versus Merz: structure 41.4 vs 56.2, immigration 86.2 vs 70.0 and technology 50.0 vs 67.5. The constitutional, settlement, tariff, personal-faith and recent AI evidence supports these differences. No answers changed to manufacture separation.",
+    "sourceIds": [
+      "elections",
+      "emergency",
+      "policies",
+      "reuters",
+      "faith-interview",
+      "ai"
+    ],
+    "neutralReview": "Five technology neutrals reflect actual bundled tensions: resource extraction versus rural stewardship; industrial growth versus local environmental costs; therapeutic uses versus enhancement; and productivity versus biological limits. Their presence is not a substitute for missing research."
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/nigel-farage.json",
+    "answerArchive": "profile-audit/answers/personality/nigel-farage.json",
+    "agent": "/root/independent_farage",
+    "answersSha256": "853d64f6aa9e0f69c0eb87335c4f743840d40c2e5d2d122528d9fe2dc1d23b97",
+    "validation": "Independent review complete. User requested retaining the full 32-person scope after the overlap report; current upstream validator results are recorded separately."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political account of UKIP strategy and sovereignty. More directly political than Fighting Bull/Flying Free. Publisher confirms authorship and 2015 first edition; no verified Brazilian translation, so retain original. No existing entry to alter.",
+    "book": {
+      "personalityId": "nigel-farage",
+      "title": {
+        "pt": "The Purple Revolution: The Year That Changed Everything",
+        "en": "The Purple Revolution: The Year That Changed Everything"
+      },
+      "year": 2015,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book",
+      "bookpt"
+    ]
+  },
+  "religionMetadataReview": {
+    "religions": [
+      "christianity"
+    ],
+    "religionAxis": 30.6,
+    "sourceIds": [
+      "faith",
+      "heritage"
+    ],
+    "reason": "Public Christian commitments form part of the documented political or religious position; this is not inferred from ancestry or the vector."
+  }
+}
