@@ -37,16 +37,20 @@ class ExpandedPersonalityTest {
     List<DynamicTest> archivedAnswersProduceTheAddedPersonInBothLanguages() throws Exception {
         Path cwd = Path.of(System.getProperty("user.dir")).toAbsolutePath();
         Path root = Files.isDirectory(cwd.resolve("profile-audit")) ? cwd : cwd.getParent();
-        JsonNode candidates = mapper.readTree(root.resolve("profile-audit/STATE.json").toFile())
-                .path("personality").path("expansion").path("candidates");
+        JsonNode expansion = mapper.readTree(root.resolve("profile-audit/STATE.json").toFile())
+                .path("personality").path("expansion");
+        JsonNode candidates = expansion.path("candidates");
+        JsonNode activeArchives = expansion.path("processReview").path("activeAnswerArchives");
         assertThat(candidates.isArray()).isTrue();
         List<DynamicTest> tests = new ArrayList<>();
         for (JsonNode candidate : candidates) {
             if (!candidate.path("status").asText().equals("added")) continue;
             String id = candidate.path("id").asText();
             tests.add(DynamicTest.dynamicTest(id, () -> {
-                JsonNode archive = mapper.readTree(root.resolve(
-                        "profile-audit/answers/personality/" + id + ".json").toFile());
+                Path archivePath = root.resolve(activeArchives.path(id).asText(
+                        "profile-audit/answers/personality/" + id + ".json")).normalize();
+                assertThat(archivePath.startsWith(root.resolve("profile-audit/answers/personality"))).isTrue();
+                JsonNode archive = mapper.readTree(archivePath.toFile());
                 var request = mapper.createObjectNode().put("variant", "extreme");
                 var answers = request.putArray("answers");
                 for (var axis : dataService.getAxes()) {

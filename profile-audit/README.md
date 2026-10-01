@@ -332,19 +332,7 @@ No prompt do subagente, diga explicitamente que `N` é só para indiferença **g
 "não falou disso" ou "é anacrônico" — e peça que ele **conte os N antes de gravar**.
 
 ### 2. Duplicata de perfil existente
-Para personalidades reais distintas, compatibilidade alta não prova identidade.
-A expansão internacional solicitada em setembro de 2026 mantém comparações próximas
-quando há uma revisão explícita em `research/personality/<id>.json`, no campo
-`similarityReview`. Cada revisão identifica o vizinho, explica diferenças apoiadas
-por fontes e eixos efetivamente diferentes, e registra os hashes das respostas e
-do vetor vizinho (calculados por `similarity_review.fingerprint`). Se qualquer um
-mudar, a revisão precisa ser refeita. Vetores exatamente iguais continuam
-bloqueados; ideologias e países não têm essa exceção. Nunca altere respostas apenas
-para reduzir a compatibilidade. A revisão aceita uma semelhança documentada,
-não certifica que cada resposta hipotética seja um fato histórico.
-
-Sem diferenças justificadas, um perfil novo com compatibilidade de ~97% pode
-ser redundante. Esse percentual mede proximidade política, não identidade.
+Um perfil novo que sai ~97% idêntico a outro não acrescenta nada ao catálogo.
 
 > "Sindicalismo Revolucionário" saiu 90% igual a `anarcossindicalismo` e `sindicalismo`, ambos já
 > existentes — e só 63% compatível com Sorel, que dá nome à corrente.

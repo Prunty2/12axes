@@ -1,0 +1,419 @@
+{
+  "id": "lyndon-b-johnson",
+  "profilePeriod": "Presidency, November 1963–January 1969; Great Society, civil-rights reforms, Cold War intervention and contemporary social attitudes.",
+  "sources": [
+    {
+      "id": "great-society",
+      "title": "Remarks at the University of Michigan",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-university-michigan",
+      "date": "1964-05-22",
+      "accessed": "2026-10-01",
+      "evidence": "Johnson proposed federal-local cooperation, education and poverty programmes, while opposing unbridled growth that destroys communities and nature."
+    },
+    {
+      "id": "indian",
+      "title": "The Forgotten American",
+      "url": "https://www.presidency.ucsb.edu/documents/special-message-the-congress-the-problems-the-american-indian-the-forgotten-american",
+      "date": "1968-03-06",
+      "accessed": "2026-10-01",
+      "evidence": "Called for tribal self-determination, community school boards, tribal consent to state jurisdiction, federal coordination and resource development."
+    },
+    {
+      "id": "voting",
+      "title": "The American Promise",
+      "url": "https://www.presidency.ucsb.edu/documents/special-message-the-congress-the-american-promise",
+      "date": "1965-03-15",
+      "accessed": "2026-10-01",
+      "evidence": "Demanded equal voting rights, federal registration when states obstructed access, and constitutional enforcement through Congress."
+    },
+    {
+      "id": "crime",
+      "title": "Signing the Omnibus Crime Control and Safe Streets Act",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-upon-signing-the-omnibus-crime-control-and-safe-streets-act-1968",
+      "date": "1968-06-19",
+      "accessed": "2026-10-01",
+      "evidence": "Funded local policing, urged stronger gun controls, rejected a national takeover of local police, and opposed broad wiretapping outside safeguarded national-security cases."
+    },
+    {
+      "id": "immigration",
+      "title": "Signing the Immigration Bill",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-signing-the-immigration-bill-liberty-island-new-york",
+      "date": "1965-10-03",
+      "accessed": "2026-10-01",
+      "evidence": "Abolished national-origins preferences, praised cultural contributions, retained controlled skills/family admission and offered refuge to Cubans."
+    },
+    {
+      "id": "vietnam",
+      "title": "Address announcing limits to the Vietnam War",
+      "url": "https://lbjlibrary.org/object/text/presidents-address-nation-03-31-1968",
+      "date": "1968-03-31",
+      "accessed": "2026-10-01",
+      "evidence": "Limited bombing and sought talks while maintaining South Vietnam commitments, a huge expeditionary force, and additional support troops; declined reelection."
+    },
+    {
+      "id": "dominican",
+      "title": "Notes of meeting with Congressional leaders on the Dominican Republic",
+      "url": "https://history.state.gov/historicaldocuments/frus1964-68v32/d35",
+      "date": "1965-04-28",
+      "accessed": "2026-10-01",
+      "evidence": "Johnson justified immediate deployment, sought congressional leaders support, and incorporated reference to the OAS; meeting discussed communist takeover and citizen protection."
+    },
+    {
+      "id": "medicare",
+      "title": "Medicare and Medicaid Act",
+      "url": "https://www.archives.gov/milestone-documents/medicare-and-medicaid-act",
+      "date": "1965-07-30",
+      "accessed": "2026-10-01",
+      "evidence": "Created public medical insurance and assistance with federal-state administration, free patient choice and private carriers/providers rather than nationalizing healthcare."
+    },
+    {
+      "id": "fed",
+      "title": "From the Treasury-Fed Accord to the Mid-1960s",
+      "url": "https://www.federalreservehistory.org/essays/treas-fed-accord-to-mid1960s",
+      "date": "2013-11-22 (covers 1963–1968)",
+      "accessed": "2026-10-01",
+      "evidence": "Federal Reserve history documents the 1964 tax cut, administration pressure for low unemployment and accommodative money, and the 1968 tax surcharge."
+    },
+    {
+      "id": "labor",
+      "title": "Fair Labor Standards Amendments signing",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-signing-the-fair-labor-standards-amendments-1966",
+      "date": "1966-09-23",
+      "accessed": "2026-10-01",
+      "evidence": "Johnson backed raising the federal minimum wage and extending statutory protection to additional workers."
+    },
+    {
+      "id": "trade",
+      "title": "Kennedy Round Trade Negotiations Proclamation",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-upon-signing-the-kennedy-round-trade-negotiations-proclamation",
+      "date": "1967-12-16",
+      "accessed": "2026-10-01",
+      "evidence": "Celebrated reciprocal tariff reductions, cheaper imports and exports, opposed protectionist retreat, affirmed NATO and nuclear non-proliferation negotiations."
+    },
+    {
+      "id": "capital",
+      "title": "Program for the balance of payments",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-outlining-program-action-deal-with-the-balance-payments-problem",
+      "date": "1968-01-01",
+      "accessed": "2026-10-01",
+      "evidence": "Imposed mandatory restraints on outward direct investment to defend the dollar; capital control coexisted with commercial liberalization."
+    },
+    {
+      "id": "prices",
+      "title": "Restraint by business and labor",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-the-need-for-restraint-business-and-labor-the-interest-economic",
+      "date": "1968-07-23",
+      "accessed": "2026-10-01",
+      "evidence": "Appealed to business and unions for wage-price restraint and emphasized taxation/expenditure measures, without imposing a general price freeze."
+    },
+    {
+      "id": "work",
+      "title": "To Earn a Living: The Right of Every American",
+      "url": "https://www.presidency.ucsb.edu/documents/special-message-the-congress-earn-living-the-right-every-american",
+      "date": "1968-01-23",
+      "accessed": "2026-10-01",
+      "evidence": "Proposed manpower training, job placement and occupational safety; poverty policy emphasized access to employment."
+    },
+    {
+      "id": "faith",
+      "title": "Commencement Address at Catholic University",
+      "url": "https://www.presidency.ucsb.edu/documents/commencement-address-catholic-university",
+      "date": "1965-06-06",
+      "accessed": "2026-10-01",
+      "evidence": "Affirmed church-state separation while grounding public duty and equality in religious morality and national purpose."
+    },
+    {
+      "id": "sex-equality",
+      "title": "Executive Order 11375",
+      "url": "https://www.presidency.ucsb.edu/documents/executive-order-11375-amending-executive-order-no-11246-relating-equal-employment",
+      "date": "1967-10-13",
+      "accessed": "2026-10-01",
+      "evidence": "Extended federal equal employment and affirmative-action provisions to sex discrimination."
+    },
+    {
+      "id": "jenkins",
+      "title": "Johnson-Hoover conversation about Walter Jenkins",
+      "url": "https://lbjtapes.org/conversation/i-think-he-ought-be-institutionalized",
+      "date": "1964-10-23",
+      "accessed": "2026-10-01",
+      "evidence": "Contemporaneous taped discussion following Jenkins morals arrest shows homosexuality treated as pathological; not evidence for modern LGBT equality."
+    },
+    {
+      "id": "family",
+      "title": "Committee on Population and Family Planning",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-upon-appointing-the-committee-population-and-family-planning",
+      "date": "1968-07-16",
+      "accessed": "2026-10-01",
+      "evidence": "Supported federal reproductive research, contraceptive development and access to family-planning information and services."
+    },
+    {
+      "id": "apollo",
+      "title": "Managing America to the Moon",
+      "url": "https://www.nasa.gov/history/SP-4219/Chapter8.html",
+      "date": "1998 (covers Johnson presidency)",
+      "accessed": "2026-10-01",
+      "evidence": "NASA history records commitment to Apollo and cautious, budget-limited post-Apollo planning rather than unlimited space expenditure."
+    },
+    {
+      "id": "book",
+      "title": "The Vantage Point: first edition catalogue",
+      "url": "https://search.worldcat.org/title/1036916843",
+      "date": "1971",
+      "accessed": "2026-10-01",
+      "evidence": "WorldCat identifies Lyndon B. Johnson as author, Holt Rinehart and Winston as publisher and 1971 as first edition; presidential political memoir."
+    },
+    {
+      "id": "book-editions",
+      "title": "The Vantage Point: edition record",
+      "url": "https://openlibrary.org/works/OL1616397W/The_Vantage_Point",
+      "date": "1971",
+      "accessed": "2026-10-01",
+      "evidence": "Catalogue confirms author, political subject matter, original English title and 1971 first publication; targeted Portuguese searches did not verify a Brazilian translation."
+    },
+    {
+      "id": "drugs",
+      "title": "LSD possession and trafficking law",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-the-president-upon-signing-bill-relating-traffic-or-possession-drugs-such-lsd",
+      "date": "1968-10-25",
+      "accessed": "2026-10-01",
+      "evidence": "Signed on October 24, announced October 25: criminalized LSD possession, increased trafficking penalties, and combined enforcement with treatment and education."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "Creative federalism combined federal funding/enforcement with local administration.",
+        "The 1968 police statement explicitly retained local responsibility; Indian message protected tribal choice."
+      ],
+      "sources": [
+        "great-society",
+        "crime",
+        "indian",
+        "voting"
+      ],
+      "tension": "National civil-rights standards do not imply abolishing states or replacing all local institutions."
+    },
+    "representacao": {
+      "facts": [
+        "In 1965 he demanded equal voting access and federal enforcement against disenfranchisement.",
+        "He legislated through Congress and left office through the constitutional succession in the modeled period."
+      ],
+      "sources": [
+        "voting",
+        "vietnam",
+        "dominican"
+      ],
+      "tension": "A bargaining president favoring strong executive leadership was not an advocate of direct assembly rule or unconstrained autocracy."
+    },
+    "poder": {
+      "facts": [
+        "1968 crime legislation funded stronger policing and sought tighter guns regulation.",
+        "Signing statement opposed expansive wiretaps and preserved suspect rights, while retaining national-security exceptions."
+      ],
+      "sources": [
+        "crime",
+        "jenkins",
+        "drugs"
+      ],
+      "tension": "Public civil liberties and national-security latitude coexist; neither libertarian nor blanket surveillance rule."
+    },
+    "imigracao": {
+      "facts": [
+        "The 1965 reform rejected discriminatory national-origin admission.",
+        "Johnson praised diversity and welcomed Cuban refugees while explicitly retaining limited admissions."
+      ],
+      "sources": [
+        "immigration",
+        "indian"
+      ],
+      "tension": "Pluralism and equal admission rules did not mean open borders or the abandonment of national identity."
+    },
+    "diplomacia": {
+      "facts": [
+        "1968 address sustained large Vietnam forces and additional support deployment.",
+        "At the same time he limited bombing, sought negotiations, and backed non-proliferation."
+      ],
+      "sources": [
+        "vietnam",
+        "trade"
+      ],
+      "tension": "Do not flatten negotiated restraint into pacifism, or intervention into enthusiasm for unlimited nuclear escalation."
+    },
+    "intervencao": {
+      "facts": [
+        "1965 Dominican meeting justified immediate military intervention and congressional consultation.",
+        "NATO and South Vietnam commitments projected American power outside its borders."
+      ],
+      "sources": [
+        "dominican",
+        "vietnam",
+        "trade"
+      ],
+      "tension": "International organizations and alliance consultation constrained presentation but did not prohibit unilateral action."
+    },
+    "economia": {
+      "facts": [
+        "Medicare/Medicaid financed access without nationalizing hospitals or eliminating private carriers.",
+        "Great Society public programmes and employment-oriented antipoverty measures coexisted with private enterprise."
+      ],
+      "sources": [
+        "medicare",
+        "great-society",
+        "work"
+      ],
+      "tension": "Public financing is distinct from worker ownership or a socialist revolution; income guarantees must be weighed against work emphasis."
+    },
+    "controle": {
+      "facts": [
+        "Expanded the minimum wage in 1966 and used fiscal stimulus in 1964.",
+        "Capital controls in 1968 and pressure on monetary policy show direction, while 1968 taxation and voluntary price restraint show limits."
+      ],
+      "sources": [
+        "labor",
+        "fed",
+        "capital",
+        "prices"
+      ],
+      "tension": "Not a centrally planned economy; pro-growth tax cuts and opposition to general compulsory price controls qualify state activism."
+    },
+    "comercio": {
+      "facts": [
+        "December 1967 Kennedy Round proclamation defended reciprocal tariff cuts and resisted protectionist retaliation.",
+        "January 1968 limited outward capital flows to defend the monetary system."
+      ],
+      "sources": [
+        "trade",
+        "capital"
+      ],
+      "tension": "Trade liberalization was negotiated and security-conscious, not unconditional abolition of every economic border."
+    },
+    "religiao": {
+      "facts": [
+        "June 1965 Catholic University speech affirmed church-state separation and God-centered public morality.",
+        "1968 crime statement enlisted churches and parents in moral education."
+      ],
+      "sources": [
+        "faith",
+        "crime"
+      ],
+      "tension": "Religious public language does not authorize a state church or religious tests for equal citizenship."
+    },
+    "moral": {
+      "facts": [
+        "Voting/civil rights and the 1967 sex-equality order supported racial and employment equality.",
+        "1964 Jenkins tape illustrates contemporary sexual conservatism; 1968 family-planning research shows openness to contraception."
+      ],
+      "sources": [
+        "voting",
+        "sex-equality",
+        "jenkins",
+        "family"
+      ],
+      "tension": "Neither contemporary progressive LGBT positions nor absolute clerical opposition to reproductive science should be attributed to him."
+    },
+    "tecnologia": {
+      "facts": [
+        "Apollo support and reproductive research demonstrate practical scientific optimism.",
+        "The 1964 Great Society speech defended nature and communities against unlimited growth; space expansion faced budgets."
+      ],
+      "sources": [
+        "apollo",
+        "family",
+        "great-society"
+      ],
+      "tension": "Technological development with conservation and social safeguards, not transhumanist acceleration or rejection of industry."
+    }
+  },
+  "limitations": [
+    "Historical model confined to November 1963–January 1969. Contemporary sources checked as of 2026-10-01; later private views are excluded.",
+    "Brazilian questions are applied by institutional/policy analogy to the United States; modern technologies, LGBT family rights, genetic enhancement and digital surveillance were not literal presidential proposals. These answers are reasoned historical extrapolations with lower confidence.",
+    "No direct presidential position on every specific modern abortion, gender-language, synthetic-meat or brain-implant scenario was verified. Religious-family norms, recorded sexual attitudes, scientific policy and conservation supply bounded analogies rather than invented quotations.",
+    "Speeches express advocacy and self-presentation; archival legislation and State Department/recorded material provide cross-checks. Three independent custodians (APP/UCSB, National Archives/LBJ, Federal Reserve; additionally State and NASA) were consulted.",
+    "No Brazilian edition of The Vantage Point was verified in targeted Portuguese title/author searches and bibliographic catalogues; original English title retained, not a fabricated translation."
+  ],
+  "recommendedMetadata": {
+    "needed": false,
+    "reason": "Existing PT/EN descriptions accurately cover period, Great Society, regulated private economy and Vietnam escalation; coordinator notified before answers."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political presidential memoir, most directly relevant major book; first publication 1971. No pre-existing books entry. Original title retained because no Brazilian translation verified. Bibliographic author: Lyndon B. Johnson; editorial assistance does not make this a third-party biography.",
+    "book": {
+      "personalityId": "lyndon-b-johnson",
+      "title": {
+        "pt": "The Vantage Point: Perspectives of the Presidency, 1963–1969",
+        "en": "The Vantage Point: Perspectives of the Presidency, 1963–1969"
+      },
+      "year": 1971,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book",
+      "book-editions"
+    ]
+  },
+  "processNotes": [
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, new-personality skill, README and saved prompt.",
+    "Consulted existing research only for explicit profilePeriod and source URLs; no previous answers, vectors or score reports read.",
+    "Researched all axes and notified coordinator metadata accurate before answering.",
+    "Likely neighbours considered before answering: FDR (less explicit racial-rights action), JFK (less enacted Great Society and smaller Vietnam commitment), Truman (different welfare scope), Nixon (less central Great Society/civil-rights programme). These qualitative distinctions supply no numerical target.",
+    "One independent generation; no delegation or answer tuning for proximity.",
+    "All 240 responses were independently chosen from shuffled questions after research/prompt generation; no later answer edits were made after validation exposed comparisons.",
+    "Original validator passes all three checks but warns of 96.4% similarity to harry-truman, 94.5% to kevin-rudd and 93.7% to scott-morrison. README treats continuing a new near-duplicate as a user decision; coordinator must resolve before final integration. No similarity exception or threshold change was made.",
+    "Only prompt, staged answers and process-review research were written. No archives, metadata, books, vectors or STATE were changed."
+  ],
+  "neutralCount": {
+    "total": 13,
+    "percentage": 5.416666666666667,
+    "perAxis": {
+      "estrutura": 0,
+      "representacao": 0,
+      "poder": 1,
+      "imigracao": 1,
+      "diplomacia": 0,
+      "intervencao": 0,
+      "economia": 3,
+      "controle": 2,
+      "comercio": 0,
+      "religiao": 1,
+      "moral": 2,
+      "tecnologia": 3
+    }
+  },
+  "neutralRationales": {
+    "poder_15": "Tension between penal enforcement and constitutional/rehabilitative restraint; no verified categorical presidential death-penalty pronouncement, so this mixed judgement has low confidence.",
+    "imigracao_01": "English/civic integration is favored but compulsory abandonment of ethnic customs is not.",
+    "economia_03": "Strategic public institutions and private production coexist.",
+    "economia_11": "Public protection against poverty coexists with insistence on training and private employment.",
+    "economia_08": "Private inheritance is legitimate, but progressive taxation is also legitimate.",
+    "controle_11": "Strategic industrial support coexists with competition rather than a general national-champion doctrine.",
+    "controle_09": "Emergency intervention and affordable housing concern coexist with reluctance toward compulsory general freezes.",
+    "religiao_07": "Religious public symbolism and institutional separation pull in different directions.",
+    "moral_11": "Family moral authority coexists with publicly supported contraceptive information.",
+    "moral_18": "Conventional family roles coexist with explicit employment equality for women.",
+    "tecnologia_13": "Urban development and valued rural community are both central to Great Society aims.",
+    "tecnologia_16": "Apollo and preservation are both public priorities; their absolute ranking is not warranted.",
+    "tecnologia_09": "Disease-prevention research is favored while elective human intelligence engineering raises limits."
+  },
+  "hashes": {
+    "algorithm": "sha256",
+    "prompt": "7ce7da06d0f993c95713ce1259c76fd1a0bbbb9c5af14cf9134ccbe5795d28ad",
+    "answers": "d1dd1084b34f5672adb455bb3fb923ee0c7bc0eb5f22e9b832bbd9506e68d0a9"
+  },
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality lyndon-b-johnson",
+    "exitCode": 0,
+    "stdout": "validando personality:lyndon-b-johnson\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/lyndon-b-johnson.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo A · tecnologia C\n[NEUTROS] total 13/240 = 5.4%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         51.0  centralizado/unitario <-> descentralizado/federal\n  representacao     78.7  autocracia <-> democracia\n  poder             55.6  liberdade civil <-> ordem/vigilancia\n  imigracao         36.7  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        66.0  pacifista <-> militarista\n  intervencao       15.0  nacionalista assertivo <-> nao-intervencionista\n  economia          59.1  privado/mercado <-> publico/coletivo\n  controle          64.0  livre mercado <-> planejamento\n  comercio          35.3  livre comercio/globalista <-> protecionista\n  religiao          39.3  religioso <-> irreligioso/secular\n  moral             34.8  tradicionalista <-> progressista\n  tecnologia        53.6  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         51.0   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     78.7   | Kim Jong Un=6 .. José Mujica=86\n  poder             55.6   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         36.7   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        66.0   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       15.0   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          59.1   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          64.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          35.3   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          39.3   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             34.8   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.6   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   96.4%  harry-truman  <<< aviso\n   94.5%  kevin-rudd  <<< aviso\n   93.7%  scott-morrison  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.4% proximo de 'harry-truman'\n  [CONTEUDO] 94.5% proximo de 'kevin-rudd'\n  [CONTEUDO] 93.7% proximo de 'scott-morrison'\nOK - passou nas tres checagens.\n",
+    "stderr": "",
+    "warnings": [
+      "[CONTEUDO] 96.4% proximo de 'harry-truman'",
+      "[CONTEUDO] 94.5% proximo de 'kevin-rudd'",
+      "[CONTEUDO] 93.7% proximo de 'scott-morrison'"
+    ],
+    "blockers": [],
+    "workflowGate": "Near-duplicate harry-truman exceeds README 95% criterion: coordinator must obtain user decision before continuing integration; strict final compliance not claimed."
+  }
+}

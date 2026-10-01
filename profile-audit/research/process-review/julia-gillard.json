@@ -1,0 +1,394 @@
+{
+  "id": "julia-gillard",
+  "profilePeriod": "Career emphasis on deputy premiership 2007–2010 and premiership 2010–2013, with explicitly dated later positions on marriage equality and education through October 2025; sources checked September 2026.",
+  "sources": [
+    {
+      "id": "naa",
+      "title": "National Archives: Julia Gillard during office",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/julia-gillard/during-office",
+      "date": "undated; events 2010–2013",
+      "accessed": "2026-10-01",
+      "evidence": "Minority government formed by parliamentary negotiation; departure after losing caucus ballot. NBN, carbon pricing, mining tax, NDIS and needs-based school funding were enacted. Afghanistan deployment continued. NDIS directed public funding to individual choice of services."
+    },
+    {
+      "id": "health",
+      "title": "A better deal for patients",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17661",
+      "date": "2011-02-11",
+      "accessed": "2026-10-01",
+      "evidence": "National standards and pooled hospital funding combined with state partnership and greater local hospital and clinical control. Commonwealth did not seek to take back state GST revenue."
+    },
+    {
+      "id": "school",
+      "title": "National curriculum press conference",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17090",
+      "date": "2010-03-01",
+      "accessed": "2026-10-01",
+      "evidence": "Gillard insisted on a national curriculum as a condition of extra school funding. She opposed state fragmentation while supporting consultation, evidence and local teachers."
+    },
+    {
+      "id": "democracy",
+      "title": "Michael Kirby Oration",
+      "url": "https://content.vu.edu.au/sites/default/files/hon-julia-gillard-oration-transcript.pdf",
+      "date": "2015-08-26",
+      "accessed": "2026-10-01",
+      "evidence": "Defended parliamentary democratic decision-making against substituting plebiscites for legislative responsibility; explicitly changed to support same-sex marriage. Earlier opposition reflected her preference for a new civil-union institution, not religious faith."
+    },
+    {
+      "id": "guns",
+      "title": "National Plan to Tackle Gangs, Organised Crime and the Illegal Firearms Market",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-19129",
+      "date": "2013-03-06",
+      "accessed": "2026-10-01",
+      "evidence": "Sought state referrals for national anti-gang and unexplained-wealth laws, and stronger controls against firearms trafficking. Supports enforcement and national coordination, not abolition of constitutional state institutions."
+    },
+    {
+      "id": "drugs",
+      "title": "Carr joins calls for rethink of drugs laws",
+      "url": "https://www.abc.net.au/news/2012-04-03/eminent-group-calls-for-end-to-drug-prohibition/3928706",
+      "date": "2012-04-03",
+      "accessed": "2026-10-01",
+      "evidence": "Gillard rejected decriminalisation and treated drugs as destructive to lives and families, alongside the need for treatment."
+    },
+    {
+      "id": "euthanasia",
+      "title": "Interview, Australian Agenda",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17746",
+      "date": "2011-03-20",
+      "accessed": "2026-10-01",
+      "evidence": "Gillard understood end-of-life choice but found safeguards inadequate. Defended UN-authorised protection of Libyan civilians. Described cultural traditionalism (thrift, duty, discipline), not religious belief; supported knowledge of Bible stories as cultural literacy."
+    },
+    {
+      "id": "multicultural",
+      "title": "Australian Multicultural Council lecture",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18809",
+      "date": "2012-09-19",
+      "accessed": "2026-10-01",
+      "evidence": "Celebrated multiculturalism and rights to retain language, religion and customs, paired with learning English, work, respect for Australian heritage, gender equality, democracy and rule of law."
+    },
+    {
+      "id": "asylum",
+      "title": "Refugee program increased to 20,000 places",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18752",
+      "date": "2012-08-23",
+      "accessed": "2026-10-01",
+      "evidence": "Raised humanitarian intake to 20,000 for 2012–13 and funded UNHCR capacity building."
+    },
+    {
+      "id": "detention",
+      "title": "Human Rights Commission: detention policy 2004–2014",
+      "url": "https://humanrights.gov.au/resource-hub/by-resource-type/reviews-and-inquiries/appendix-1-review-detention-policy-and-practices-2004-2014",
+      "date": "2014; policy dates 2012–2013",
+      "accessed": "2026-10-01",
+      "evidence": "Gillard reintroduced offshore processing in 2012: Nauru transfers in September and Manus in November. The absolute no-settlement rule announced in July 2013 was Rudd’s, and is not attributed to Gillard."
+    },
+    {
+      "id": "security",
+      "title": "Australia’s National Security Beyond the 9/11 Decade",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-19005",
+      "date": "2013-01-23",
+      "accessed": "2026-10-01",
+      "evidence": "Strong military and US alliance, Afghan training and possible special-forces contribution, regional engagement and cyber coordination; simultaneously defended multilateral rules, diplomacy, rights and peaceful dispute settlement. National interests remain distinctively Australian."
+    },
+    {
+      "id": "rba",
+      "title": "Doorstop interview Sydney",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18360",
+      "date": "2012-01-31",
+      "accessed": "2026-10-01",
+      "evidence": "Affirmed Reserve Bank independence while discussing exchange-rate pressures and jobs."
+    },
+    {
+      "id": "trade",
+      "title": "Joint communiqué with Thai prime minister",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18599",
+      "date": "2012-05-28",
+      "accessed": "2026-10-01",
+      "evidence": "Supported expanded trade and investment, review of TAFTA and reduction of trade impediments, plus the regional free-trade agenda."
+    },
+    {
+      "id": "cars",
+      "title": "Holden Cruze launch",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17700",
+      "date": "2011-02-28",
+      "accessed": "2026-10-01",
+      "evidence": "Welcomed Australian-made Holden Cruze backed by $149 million public investment in the New Car Plan; strategic manufacturing assistance coexists with trade liberalisation."
+    },
+    {
+      "id": "faith",
+      "title": "Prime Minister puts her faith in chaplaincy",
+      "url": "https://www.abc.net.au/news/2010-08-10/the-prime-minister-puts-her-faith-in-chaplaincy/938248",
+      "date": "2010-08-10",
+      "accessed": "2026-10-01",
+      "evidence": "Publicly atheist and respectful of believers; extended school chaplaincy funding. Irreligiosity does not imply removing all religious services or traditions."
+    },
+    {
+      "id": "marriageconfirm",
+      "title": "Gillard admits she got it wrong on marriage equality",
+      "url": "https://www.abc.net.au/news/2023-05-16/julia-gillard-same-sex-marriage-feminism-debate/102290962",
+      "date": "2023-05-16",
+      "accessed": "2026-10-01",
+      "evidence": "Reaffirmed marriage-equality support and acknowledged her earlier parliamentary opposition was wrong."
+    },
+    {
+      "id": "education2025",
+      "title": "University of Sydney occasional address",
+      "url": "https://www.sydney.edu.au/content/dam/corporate/images/news-and-opinion/news/2025/october/julia-gillard-occasional-address.pdf",
+      "date": "2025-10-15",
+      "accessed": "2026-10-01",
+      "evidence": "Defended access to education, girls’ opportunities, secular admissions and effective DEI. Criticised authoritarian politics, concentrated wealth and backlash against gender equality. Recognised opportunities and risks of AI."
+    },
+    {
+      "id": "currentcheck",
+      "title": "Women Deliver speech reported by SBS",
+      "url": "https://www.sbs.com.au/news/article/julia-gillard-manosphere-requires-new-approach-to-gender-equality/9kmi5qu0l",
+      "date": "2026-04-27",
+      "accessed": "2026-10-01",
+      "evidence": "Current-date discovery confirms continuing gender-equality advocacy. Used only as freshness check: substantive profile period remains the existing October 2025 cutoff."
+    },
+    {
+      "id": "nuclear",
+      "title": "Press conference on uranium and India",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18271",
+      "date": "2011-11-15",
+      "accessed": "2026-10-01",
+      "evidence": "Favoured uranium sales to India for jobs and strategic ties with safeguards, but considered domestic nuclear energy unnecessary given other resources and clean-energy alternatives."
+    },
+    {
+      "id": "cleanenergy",
+      "title": "Great clean energy future address",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-18004",
+      "date": "2011-07-14",
+      "accessed": "2026-10-01",
+      "evidence": "Used a carbon price and investment-driven technological transition toward cleaner energy, rather than rejecting industrial growth."
+    },
+    {
+      "id": "book",
+      "title": "Publisher: My Story ebook",
+      "url": "https://www.penguin.com.au/books/my-story-9780857983916",
+      "date": "2014-09-24",
+      "accessed": "2026-10-01",
+      "evidence": "Publisher credits Julia Gillard as author and gives first ebook publication 24 September 2014. The work addresses her government, hung parliament, economic policy, education, disability reform and alliances; a qualifying political memoir."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "National curriculum imposed common requirements (2010).",
+        "Health reform paired national standards/funding with state and local control (2011).",
+        "National anti-gang coordination sought state referrals (2013)."
+      ],
+      "sources": [
+        "health",
+        "school",
+        "guns"
+      ],
+      "tension": "Cooperative federalism with forceful Commonwealth policy leadership, not state abolition or secessionism."
+    },
+    "representacao": {
+      "facts": [
+        "Parliamentary minority coalition and acceptance of leadership defeat (2010–13).",
+        "Explicit defence of representative democracy over plebiscites (2015)."
+      ],
+      "sources": [
+        "naa",
+        "democracy",
+        "education2025"
+      ],
+      "tension": "Strong reform leadership is not autocracy; she resists direct-democratic shortcuts as well as authoritarianism."
+    },
+    "poder": {
+      "facts": [
+        "Tough firearms and anti-gang enforcement (2013).",
+        "Opposed drug decriminalisation (2012).",
+        "Euthanasia safeguard objections (2011)."
+      ],
+      "sources": [
+        "guns",
+        "drugs",
+        "euthanasia",
+        "security"
+      ],
+      "tension": "Security measures and paternalistic health rules coexist with rule-of-law and political rights; not libertarian or totalitarian."
+    },
+    "imigracao": {
+      "facts": [
+        "Cultural and language pluralism explicitly defended (2012).",
+        "Required English and equal rights; expanded refugee intake alongside offshore processing (2012)."
+      ],
+      "sources": [
+        "multicultural",
+        "asylum",
+        "detention"
+      ],
+      "tension": "Civic integration and controlled asylum channels must not be confused with ethnic exclusion or open borders."
+    },
+    "diplomacia": {
+      "facts": [
+        "Continued Afghan military engagement and supported strong defence/US alliance (2010–13).",
+        "Diplomacy and peaceful multilateral order stressed in 2013."
+      ],
+      "sources": [
+        "naa",
+        "security"
+      ],
+      "tension": "Credible armed defence plus diplomacy, not pacifist disarmament or unrestricted preventive war."
+    },
+    "intervencao": {
+      "facts": [
+        "National-interest-led regional engagement and Afghan training were defended (2013).",
+        "Supported international institutions and rules, not unconditional neutrality."
+      ],
+      "sources": [
+        "security"
+      ],
+      "tension": "Active allied middle power; rejects both isolationism and coercive domination of neighbours."
+    },
+    "economia": {
+      "facts": [
+        "NDIS public insurance with individual choice and needs-based education (2013).",
+        "Public broadband and public hospitals coexist with market incentives (2011)."
+      ],
+      "sources": [
+        "naa",
+        "health"
+      ],
+      "tension": "Mixed economy and universal services do not entail collectivising firms or abolishing private property."
+    },
+    "controle": {
+      "facts": [
+        "Carbon price, mining tax and public investment (2011–13).",
+        "Independent Reserve Bank explicitly respected (2012).",
+        "Manufacturing subsidy to Holden (2011)."
+      ],
+      "sources": [
+        "naa",
+        "rba",
+        "cars",
+        "cleanenergy"
+      ],
+      "tension": "Regulation and social protection alongside competition, independent money and fiscal constraints; no full command economy."
+    },
+    "comercio": {
+      "facts": [
+        "Promoted TAFTA, investment and regional trade expansion (2012).",
+        "Subsidised car production domestically (2011)."
+      ],
+      "sources": [
+        "trade",
+        "cars"
+      ],
+      "tension": "Open trade with selective industry support, not autarky or blanket tariff protection."
+    },
+    "religiao": {
+      "facts": [
+        "Atheist yet funded chaplaincy and recognised religious contribution (2010).",
+        "Secular education access praised in 2025."
+      ],
+      "sources": [
+        "faith",
+        "education2025"
+      ],
+      "tension": "Secular personal/public reasoning plus accommodation of religious citizens, not militant erasure."
+    },
+    "moral": {
+      "facts": [
+        "Gender equality and DEI affirmed (2012, 2025).",
+        "Marriage equality supported in 2015 and reaffirmed 2023 after earlier opposition."
+      ],
+      "sources": [
+        "democracy",
+        "marriageconfirm",
+        "education2025",
+        "euthanasia"
+      ],
+      "tension": "Preserve dated reversal; do not portray her premiership as having enacted marriage equality or infer all lifestyle issues from feminism."
+    },
+    "tecnologia": {
+      "facts": [
+        "NBN and clean-energy industrial innovation supported (2011).",
+        "Domestic nuclear viewed as unnecessary while uranium exports supported (2011).",
+        "Recognised AI opportunities and risks (2025)."
+      ],
+      "sources": [
+        "naa",
+        "cleanenergy",
+        "nuclear",
+        "education2025"
+      ],
+      "tension": "Scientific modernisation bounded by regulation and environmental protection; no evidence for unlimited human enhancement."
+    }
+  },
+  "limitations": [
+    "A simulated answer is an inference, not a quotation or recorded response. Questions naming Brazil are interpreted through analogous Australian institutions and principles.",
+    "Profile period is preserved verbatim; 2026 reporting was checked for description freshness and is not silently substituted for historical policies.",
+    "No direct position was verified on neural augmentation, designer embryos, cultivated meat, cryptocurrency competition, facial recognition, inheritance tax or polyamory; those answers use bounded inference from regulated scientific progress, civic liberties and mixed-economy practice.",
+    "No verified Brazilian edition of My Story was located in dedicated Portuguese-title searches; retain original title rather than invent a translation.",
+    "Official announcements evidence commitments, not proof of all implementation outcomes."
+  ],
+  "recommendedMetadata": {
+    "status": "unchanged",
+    "reason": "PT/EN metadata accurately states tenure, carbon price, NDIS, education and gender equality; coordinator notified before answers."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political memoir most directly covers her political thought in government; no existing catalogue book; original title retained without verified Brazilian translation.",
+    "book": {
+      "personalityId": "julia-gillard",
+      "title": {
+        "pt": "My Story",
+        "en": "My Story"
+      },
+      "year": 2014,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book"
+    ]
+  },
+  "processNotes": [
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, skill and README plus this profile prompt. Never read archived answers, vectors, score reports or similarity reviews. Prior research read only profilePeriod/source URLs.",
+    "Metadata, research and factual neighbours documented before answering.",
+    "Likely neighbours: Kevin Rudd, Anthony Albanese, Bob Hawke and mainstream social democrats. Distinctions: Gillard’s national education/NDIS/NBN programme; tough drug/asylum policy; atheist accommodation of chaplaincy; US-aligned defence; dated marriage equality reversal. No numerical target or desired distance used.",
+    "Answered all 240 statements in shuffled order with individual judgments and five fresh archetype choices; no score computation or comparison before answers. Unknown topical details use declared bounded inference, not default neutrality.",
+    "Original validator blocks merge on similarity: Olaf Scholz 98.3%, Anthony Albanese 97.9%, Keir Starmer 97.5%. No answers altered to affect similarity, no bypass, no merge. Coordinator must present the unresolved gate under README duplicate procedure."
+  ],
+  "neutralCount": {
+    "total": 7,
+    "perAxis": {
+      "estrutura": 0,
+      "representacao": 0,
+      "poder": 0,
+      "imigracao": 0,
+      "diplomacia": 0,
+      "intervencao": 0,
+      "economia": 2,
+      "controle": 2,
+      "comercio": 0,
+      "religiao": 2,
+      "moral": 1,
+      "tecnologia": 0
+    },
+    "totalPercent": 2.9166666666666665
+  },
+  "neutralRationales": {
+    "economia_02": "Competition can justify private delivery but she retains public provision and public accountability: mixed institutional preference, not general privatisation.",
+    "economia_08": "Family security/property protection coexists with redistribution and equality, without treating either as an absolute.",
+    "controle_06": "Targeted tax relief and growth coexist with adequate revenue for social insurance and services.",
+    "controle_09": "Crisis housing protection can justify intervention, but freezing market prices conflicts with her price-signal approach.",
+    "religiao_05": "Secular equal treatment is balanced against support for faith-based charitable services; a blanket tax on all religious organisations is not her clear governing principle.",
+    "religiao_07": "Secular public authority coexists with cultural/religious accommodation; institutional neutrality does not settle every public symbol.",
+    "moral_15": "Animal welfare concern and acceptance of ordinary meat consumption make moral endorsement of dietary reduction conditional."
+  },
+  "promptSha256": "068c10da55fb853c0085f491c1cb0422dfd032199ffd319c5bb3d9c3bda7dca0",
+  "answersSha256": "474e4e141cf29c6cdc1525cedce97883b1e35c58422f4d2c329319c5c0a481c1",
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality julia-gillard",
+    "exitCode": 1,
+    "stdout": "validando personality:julia-gillard\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/julia-gillard.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 7/240 = 2.9%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         43.8  centralizado/unitario <-> descentralizado/federal\n  representacao     83.5  autocracia <-> democracia\n  poder             62.7  liberdade civil <-> ordem/vigilancia\n  imigracao         34.3  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        45.7  pacifista <-> militarista\n  intervencao       28.1  nacionalista assertivo <-> nao-intervencionista\n  economia          67.5  privado/mercado <-> publico/coletivo\n  controle          54.5  livre mercado <-> planejamento\n  comercio          31.8  livre comercio/globalista <-> protecionista\n  religiao          65.5  religioso <-> irreligioso/secular\n  moral             76.4  tradicionalista <-> progressista\n  tecnologia        52.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         43.8   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     83.5   | Kim Jong Un=6 .. José Mujica=86\n  poder             62.7   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         34.3   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        45.7   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       28.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          67.5   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          54.5   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          31.8   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          65.5   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             76.4   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        52.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.3%  olaf-scholz  <<< BLOQUEIA\n   97.9%  anthony-albanese  <<< BLOQUEIA\n   97.5%  keir-starmer  <<< BLOQUEIA\n\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.3% identico a 'olaf-scholz' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.9% identico a 'anthony-albanese' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.5% identico a 'keir-starmer' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": ""
+  }
+}

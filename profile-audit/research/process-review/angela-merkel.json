@@ -1,0 +1,405 @@
+{
+  "id": "angela-merkel",
+  "profilePeriod": "Chancellorship, November 2005–December 2021, with greater weight on the later governing record and explicit earlier context.",
+  "sources": [
+    {
+      "id": "federal",
+      "title": "Merkel speech on federalism reform",
+      "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-von-bundeskanzlerin-dr-angela-merkel-793928",
+      "date": "2006-06-30",
+      "accessed": "2026-10-01",
+      "evidence": "Supported returning legislative responsibilities to Länder, clearer division of powers, and joint educational evaluation; federalism includes national responsibilities."
+    },
+    {
+      "id": "democracy",
+      "title": "Merkel on the first free Volkskammer election",
+      "url": "https://www.bundesregierung.de/breg-de/suche/rede-von-bundeskanzlerin-dr-angela-merkel-1930280",
+      "date": "2021-06-16",
+      "accessed": "2026-10-01",
+      "evidence": "Commemorated free elections and rejection of SED rule; parliamentary representation, freedom and pluralism are foundational."
+    },
+    {
+      "id": "social-market",
+      "title": "Policy statement by Chancellor Merkel",
+      "url": "https://www.bundesregierung.de/breg-en/news/policy-statement-by-federal-chancellor-angela-merkel-803174",
+      "date": "2014-01-29",
+      "accessed": "2026-10-01",
+      "evidence": "Defends social market economy, employers and unions, balanced budgets, regulated finance, minimum wage with employment safeguards, social insurance and nuclear exit."
+    },
+    {
+      "id": "privacy",
+      "title": "Germany is a country of freedom",
+      "url": "https://www.bundesregierung.de/breg-en/service/germany-is-a-country-of-freedom-421444",
+      "date": "2013-07-19",
+      "accessed": "2026-10-01",
+      "evidence": "Rejects unlimited technically possible surveillance; security is bounded by law and proportionality."
+    },
+    {
+      "id": "emergency",
+      "title": "Emergency brake to be rigorously applied",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/covid-19-decision-22-03-1880174",
+      "date": "2021-03-23",
+      "accessed": "2026-10-01",
+      "evidence": "Merkel and Länder leaders agreed restrictions and possible curfews in high-incidence districts."
+    },
+    {
+      "id": "court",
+      "title": "Constitutional Court on federal emergency brake",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2021/bvg21-101.html",
+      "date": "2021-11-30",
+      "accessed": "2026-10-01",
+      "evidence": "Court upheld time-limited federal pandemic curfews/contact restrictions; national coordination coexisted with constitutional judicial scrutiny."
+    },
+    {
+      "id": "vaccine",
+      "title": "Federation-Länder decision",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/federation-laender-decision-1987282",
+      "date": "2021-12-02",
+      "accessed": "2026-10-01",
+      "evidence": "Final-period government supported stronger restrictions and a parliamentary decision on compulsory vaccination; do not mistake a proposed mandate for an enacted universal mandate."
+    },
+    {
+      "id": "cannabis",
+      "title": "Merkel gegen Legalisierung von Cannabis (dpa)",
+      "url": "https://www.aerzteblatt.de/news/merkel-gegen-legalisierung-von-cannabis-08ba120c-85de-40b1-af0d-fe0818158b37",
+      "date": "2017-08-28",
+      "accessed": "2026-10-01",
+      "evidence": "Direct Merkel interview rejects recreational legalisation while retaining limited medical use."
+    },
+    {
+      "id": "integration",
+      "title": "Focus on participation",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/archive/focus-on-participation-423214",
+      "date": "2016-11-14",
+      "accessed": "2026-10-01",
+      "evidence": "Integration requires German language and constitutional values, alongside participation and belonging in an immigration society."
+    },
+    {
+      "id": "asylum",
+      "title": "Merkel refugee policy statement",
+      "url": "https://www.bundeskanzler.de/bk-de/suche/regierungserklaerung-von-bundeskanzlerin-merkel-798026",
+      "date": "2015-09-24",
+      "accessed": "2026-10-01",
+      "evidence": "Combines protection and integration of genuine refugees with external borders, faster asylum procedures and returns for those without residence prospects."
+    },
+    {
+      "id": "nato",
+      "title": "Merkel Munich Security Conference speech",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/speech-by-federal-chancellor-dr-angela-merkel-during-the-munich-security-conference-special-edition-on-19-february-2021-video-conference--1861248?view=renderNewsletterHtml",
+      "date": "2021-02-19",
+      "accessed": "2026-10-01",
+      "evidence": "Supports NATO, European defence, Lithuania deployment, engagement in Iraq and careful Afghanistan policy; proposes UN Chapter VII support against terrorism."
+    },
+    {
+      "id": "trade",
+      "title": "Making the case for free trade",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/archive/making-the-case-for-free-trade-436664",
+      "date": "2017-05-03",
+      "accessed": "2026-10-01",
+      "evidence": "Calls protectionism and isolationism damaging to competition and innovation; favours openness and coordinated global rules."
+    },
+    {
+      "id": "recovery",
+      "title": "Franco-German recovery initiative",
+      "url": "https://www.elysee.fr/en/emmanuel-macron/2020/05/18/french-german-initiative-for-the-european-recovery-from-the-coronavirus-crisis",
+      "date": "2020-05-18",
+      "accessed": "2026-10-01",
+      "evidence": "Joint Merkel-Macron initiative proposes EU borrowing financing grants, an exceptional fiscal response rather than permanent state planning."
+    },
+    {
+      "id": "ecb",
+      "title": "Draghi farewell remarks",
+      "url": "https://www.ecb.europa.eu/press/key/date/2019/html/ecb.sp191028~7e8b444d6f.en.html",
+      "date": "2019-10-28",
+      "accessed": "2026-10-01",
+      "evidence": "Draghi specifically credits Merkel with consistently defending central-bank independence despite political pressure."
+    },
+    {
+      "id": "faith",
+      "title": "Merkel speech on Reformation anniversary",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/archive/speech-given-by-federal-chancellor-dr-angela-merkel-in-lutherstadt-wittenberg-on-31-october-2017-on-the-occasion-of-the-500th-anniversary-of-the-reformation-798224",
+      "date": "2017-10-31",
+      "accessed": "2026-10-01",
+      "evidence": "Values Christian roots, faith and social responsibility while explicitly defending religious neutrality of the state and equal freedom of belief."
+    },
+    {
+      "id": "marriage",
+      "title": "Reuters: Merkel voted against gay marriage",
+      "url": "https://finance.yahoo.com/news/germanys-merkel-voted-against-gay-073932886.html",
+      "date": "2017-06-30",
+      "accessed": "2026-10-01",
+      "evidence": "Voted against marriage equality because she regarded marriage as male-female, while welcoming respect and social cohesion after its passage."
+    },
+    {
+      "id": "adoption",
+      "title": "Bundestag beschließt Ehe für alle (epd/KNA)",
+      "url": "https://www.kirche-und-leben.de/bundestag-beschliesst-ehe-fuer-alle",
+      "date": "2017-06-30",
+      "accessed": "2026-10-01",
+      "evidence": "Reports her changed support for adoption by same-sex couples despite opposing the marriage bill."
+    },
+    {
+      "id": "ai",
+      "title": "AI a brand for Germany",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/ai-a-brand-for-germany-1551432",
+      "date": "2018-11-15",
+      "accessed": "2026-10-01",
+      "evidence": "Champions German/European AI leadership and research investment, subject to ethical, legal and social constraints."
+    },
+    {
+      "id": "embryos",
+      "title": "BMJ: German MPs to vote on preimplantation genetic diagnosis",
+      "url": "https://www.bmj.com/content/341/bmj.c6017",
+      "date": "2010-11-02",
+      "accessed": "2026-10-01",
+      "evidence": "Reports Merkel opposing embryo screening and allowing a conscience vote; concrete caution about reproductive biotechnology."
+    },
+    {
+      "id": "book-br",
+      "title": "Planeta Brasil: Liberdade",
+      "url": "https://www.planetadelivros.com.br/livro-liberdade/411261?soporte=411261",
+      "date": "2026 edition listing; exact publication day not verified",
+      "accessed": "2026-10-01",
+      "evidence": "Brazilian publisher lists Liberdade by Angela Merkel and Beate Baumann; synopsis explicitly covers governing decisions and international politics. Search-index content was available; direct open failed."
+    },
+    {
+      "id": "book-de",
+      "title": "Kiepenheuer & Witsch: Freiheit",
+      "url": "https://www.kiwi-verlag.de/buch/angela-merkel-beate-baumann-freiheit-9783462005134",
+      "date": "2024",
+      "accessed": "2026-10-01",
+      "evidence": "Original publisher credits both Angela Merkel and Beate Baumann."
+    },
+    {
+      "id": "book-en",
+      "title": "Macmillan: Freedom",
+      "url": "https://us.macmillan.com/books/9781250319906/freedom/",
+      "date": "2024-11-26",
+      "accessed": "2026-10-01",
+      "evidence": "English publisher gives subtitle Memoirs 1954–2021 and on-sale date; describes political decisions and diplomacy."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "2006 reform devolved legislative competences; later pandemic required coordinated national measures."
+      ],
+      "sources": [
+        "federal",
+        "emergency",
+        "court"
+      ],
+      "tension": "Federal cooperation and national minimum rules, not secession or uniform central command."
+    },
+    "representacao": {
+      "facts": [
+        "2021 defence of free elections and parliamentary freedom; pandemic legislation remained reviewable by courts."
+      ],
+      "sources": [
+        "democracy",
+        "court"
+      ],
+      "tension": "Representative constitutional government, not direct popular assemblies or unelected technocracy."
+    },
+    "poder": {
+      "facts": [
+        "2013 rejects indiscriminate surveillance; 2017 opposes recreational cannabis; 2021 supports curfews and vaccine obligations through law."
+      ],
+      "sources": [
+        "privacy",
+        "cannabis",
+        "emergency",
+        "vaccine"
+      ],
+      "tension": "Civil liberties with proportionate security and public-health restrictions, not unlimited coercion."
+    },
+    "imigracao": {
+      "facts": [
+        "2015 refugee protection accompanied by border administration and returns; 2016 integration stresses language and constitution."
+      ],
+      "sources": [
+        "integration",
+        "asylum"
+      ],
+      "tension": "Cultural coexistence and humanitarian welcome alongside civic integration; rejects both ethnic exclusion and unrestricted entry."
+    },
+    "diplomacia": {
+      "facts": [
+        "2021 supports NATO, European defence and deployed forces within multilateral diplomacy."
+      ],
+      "sources": [
+        "nato"
+      ],
+      "tension": "Neither unilateral war nor disarmament pacifism; negotiations with credible defence."
+    },
+    "intervencao": {
+      "facts": [
+        "2021 supports external deployments and UN mandate against terrorism."
+      ],
+      "sources": [
+        "nato",
+        "recovery"
+      ],
+      "tension": "Treaty-bound European influence and collective missions rather than unconditional neutrality or unilateral domination."
+    },
+    "economia": {
+      "facts": [
+        "2014 social market combines private enterprise, unions and social insurance."
+      ],
+      "sources": [
+        "social-market"
+      ],
+      "tension": "Private ownership and enterprise coexist with public responsibilities; neither collectivisation nor wholesale privatisation."
+    },
+    "controle": {
+      "facts": [
+        "2014 fiscal restraint and minimum wage safeguards; 2020 exceptional EU debt/grants; 2019 ECB independence."
+      ],
+      "sources": [
+        "social-market",
+        "recovery",
+        "ecb"
+      ],
+      "tension": "Ordoliberal rules plus crisis intervention; neither laissez-faire nor command economy."
+    },
+    "comercio": {
+      "facts": [
+        "2017 explicitly attacks protectionism as harmful to innovation."
+      ],
+      "sources": [
+        "trade"
+      ],
+      "tension": "Open markets governed by common standards, not autarky or absence of all safeguards."
+    },
+    "religiao": {
+      "facts": [
+        "2017 affirms Christian roots and explicitly religiously neutral state protecting all faiths."
+      ],
+      "sources": [
+        "faith"
+      ],
+      "tension": "Public value of religion without theocracy; personal Christianity does not imply discriminatory laws."
+    },
+    "moral": {
+      "facts": [
+        "2017 opposes same-sex marriage but accepts gay adoption; supports respect after reform."
+      ],
+      "sources": [
+        "marriage",
+        "adoption"
+      ],
+      "tension": "Traditional family ideal coexists with civil equality and gradual accommodation; not a blanket progressive or reactionary agenda."
+    },
+    "tecnologia": {
+      "facts": [
+        "2018 supports AI leadership under ethics; nuclear exit and earlier opposition to embryo selection show technological limits."
+      ],
+      "sources": [
+        "ai",
+        "social-market",
+        "embryos"
+      ],
+      "tension": "Pro-innovation scientist with environmental and reproductive constraints, not transhumanist acceleration or rejection of industry."
+    }
+  },
+  "limitations": [
+    "Scope is chancellorship November 2005–December 2021, with later governing record weighted more. Later statements are not substituted for that historical profile. Research accessed 2026-10-01.",
+    "Some questions are Brazilian or speculative. Answer through analogous governing principles, not invented statements on Brazilian territorial groups, Amazon mining, cryptocurrency, implants or cultured meat. Moderate agreement/disagreement marks extrapolation; N only actual competing principles.",
+    "Coalition policy does not always equal personal preference. Individual marriage, embryo and cannabis statements distinguish Merkel from coalition compromises.",
+    "Nuclear exit is not opposition to AI or science; Christian faith is not theocracy; refugee reception is not rejection of language integration.",
+    "Brazilian publisher listing verifies title Liberdade without a subtitle; do not import a Portuguese-edition subtitle as though Brazilian."
+  ],
+  "recommendedMetadata": {
+    "changesNeeded": false,
+    "reason": "Existing PT and EN accurately describe the historical chancellorship; communicated to coordinator before answering."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political memoir with Beate Baumann, covering governing and diplomatic decisions. Verified first publication 2024 and Brazilian publisher title; no existing entry to preserve.",
+    "book": {
+      "personalityId": "angela-merkel",
+      "title": {
+        "pt": "Liberdade",
+        "en": "Freedom: Memoirs 1954–2021"
+      },
+      "year": 2024,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book-br",
+      "book-de",
+      "book-en"
+    ]
+  },
+  "processNotes": {
+    "independence": "Read only existing metadata, saved prompt, prior profilePeriod and source URLs; no old answers, vectors, similarities or score reports.",
+    "likelyNeighboursAndDistinctions": [
+      "Christian democracy and social-market traditions of Kohl/Adenauer are plausible neighbours; Merkel differs through nuclear exit and 2015 refugee reception.",
+      "Macron shares European cooperation and market institutions, but Merkel has stronger explicit Christian/traditional-marriage commitments and federal institutions.",
+      "Cameron shares private-enterprise/fiscal-restraint positions, but Merkel endorses euro integration and organised social partnership. No neighbouring answers or vectors consulted."
+    ],
+    "researchBeforeAnswers": true,
+    "metadataConfirmedBeforeAnswers": true,
+    "validation": {
+      "command": "python3 profile-audit/validate.py personality angela-merkel",
+      "exitCode": 1,
+      "stdout": "validando personality:angela-merkel\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/angela-merkel.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo C · tecnologia C\n[NEUTROS] total 10/240 = 4.2%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         58.1  centralizado/unitario <-> descentralizado/federal\n  representacao     83.5  autocracia <-> democracia\n  poder             59.1  liberdade civil <-> ordem/vigilancia\n  imigracao         42.1  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        34.8  pacifista <-> militarista\n  intervencao       35.1  nacionalista assertivo <-> nao-intervencionista\n  economia          55.6  privado/mercado <-> publico/coletivo\n  controle          47.3  livre mercado <-> planejamento\n  comercio          24.6  livre comercio/globalista <-> protecionista\n  religiao          38.9  religioso <-> irreligioso/secular\n  moral             53.9  tradicionalista <-> progressista\n  tecnologia        47.6  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         58.1   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     83.5   | Kim Jong Un=6 .. José Mujica=86\n  poder             59.1   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         42.1   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        34.8   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       35.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          55.6   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          47.3   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          24.6   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          38.9   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             53.9   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        47.6   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.4%  jimmy-carter  <<< BLOQUEIA\n   96.2%  paul-keating  <<< aviso\n   95.8%  malcolm-turnbull  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.2% proximo de 'paul-keating'\n  [CONTEUDO] 95.8% proximo de 'malcolm-turnbull'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.4% identico a 'jimmy-carter' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "stderr": "",
+      "warnings": [
+        "[CONTEUDO] 96.2% proximo de 'paul-keating'",
+        "[CONTEUDO] 95.8% proximo de 'malcolm-turnbull'"
+      ],
+      "blockers": [
+        "[CONTEUDO] 97.4% identico a 'jimmy-carter' - perfil redundante, nao acrescenta nada ao catalogo"
+      ],
+      "disposition": "Unchanged independent answers retained; no similarity-based tuning, threshold changes or exception. Coordinator must not merge without resolving repository duplicate-profile requirement with user.",
+      "validatorSha256": "80559e6b3d068fef84b1968cba177bad19e3eb59a13ba6854db49699fe56943c"
+    },
+    "neutralCounts": {
+      "total": 10,
+      "totalQuestions": 240,
+      "byAxis": {
+        "estrutura": 0,
+        "representacao": 0,
+        "poder": 1,
+        "imigracao": 1,
+        "diplomacia": 1,
+        "intervencao": 0,
+        "economia": 1,
+        "controle": 0,
+        "comercio": 1,
+        "religiao": 0,
+        "moral": 2,
+        "tecnologia": 3
+      }
+    },
+    "archetypes": {
+      "sociedade": "B",
+      "poder": "C",
+      "economia": "C",
+      "mundo": "C",
+      "tecnologia": "C"
+    },
+    "hashes": {
+      "promptSha256": "d8f7f2a0acd4bf485255706d19927b108e4c4bda3c4c1ba33f3992cad52bc0f2",
+      "answersSha256": "b20bd7e489d7bbb91d1c566e8f2fad6129bb74f480950d1039ea11875d9b1f8c"
+    },
+    "neutralRationale": {
+      "poder_20": "Privacy/self-incrimination versus lawful warranted disclosure produce actual competing principles.",
+      "imigracao_07": "Conservation of shared traditions versus accommodation of compatible immigrant customs.",
+      "diplomacia_15": "Defence innovation and drones versus ethical constraints on autonomous lethal decisions.",
+      "economia_03": "Public control depends on sector and crisis, not a single answer for all strategic companies.",
+      "comercio_11": "Food resilience and agricultural community versus gains from open trade.",
+      "moral_09": "Protection of unborn life versus compassionate early-pregnancy exceptions.",
+      "moral_14": "Gradual linguistic conventions versus freedom of expression without a universal state ban.",
+      "tecnologia_01": "Positive AI research, cautious genetics, negative nuclear expansion within this combined question.",
+      "tecnologia_13": "No normative ranking of urban versus rural ways of life; supports both.",
+      "tecnologia_18": "Same genuine refusal to rank rural and urban life as universally preferable."
+    },
+    "questionTemplatePreserved": true,
+    "archetypeBlockFreshlyGenerated": true
+  }
+}

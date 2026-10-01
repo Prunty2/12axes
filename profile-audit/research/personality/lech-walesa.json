@@ -6,198 +6,263 @@
   "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
   "sources": [
     {
-      "id": "bio",
-      "title": "Lech Wałęsa Institute: biography",
-      "url": "https://walesa.org/pl/fundator/biografia",
-      "factDate": "1980–1995; retrospective",
-      "accessedOn": "2026-10-01"
+      "id": "pace",
+      "title": "Wałęsa address and answers to PACE",
+      "url": "https://assembly.coe.int/nw/xml/Speeches/Speech-XML2HTML-EN.asp?SpeechID=249",
+      "factDate": "1992-02-04",
+      "accessedOn": "2026-10-01",
+      "evidence": "Defended democracy, market transition with recession relief, reciprocal European trade, minority language education and Catholic public identity while acknowledging Church-state separation."
     },
     {
       "id": "nobel",
-      "title": "Nobel Peace Prize 1983",
-      "url": "https://www.nobelprize.org/prizes/peace/1983/summary/",
-      "factDate": "1983; nonviolent union and human-rights struggle",
-      "accessedOn": "2026-10-01"
+      "title": "1983 Nobel Peace Prize: Lech Wałęsa",
+      "url": "https://www.nobelpeaceprize.org/prisvinnere/1983-article1375-902.html",
+      "factDate": "1983",
+      "accessedOn": "2026-10-01",
+      "evidence": "Awarded for nonviolent struggle for independent unions and human rights; arrested after Solidarity was banned."
     },
     {
-      "id": "pace",
-      "title": "Wałęsa address and answers to the Council of Europe",
-      "url": "https://assembly.coe.int/nw/xml/Speeches/Speech-XML2HTML-EN.asp?SpeechID=249",
-      "factDate": "1992-02-04",
-      "accessedOn": "2026-10-01"
+      "id": "regulski",
+      "title": "Jerzy Regulski, Local Government Reform in Poland: An Insider’s Story",
+      "url": "https://doczz.net/doc/8589481/local-government-reform-in-poland--an-insider-s-story",
+      "factDate": "2003",
+      "accessedOn": "2026-10-01",
+      "evidence": "Participant history describes the 1995 presidential campaign and Wałęsa presidential constitutional draft proposing three tiers of local government, the most far-reaching local-government draft; not a proposal for sovereign federal states."
     },
     {
-      "id": "presidency",
-      "title": "CIDOB: Lech Walesa",
-      "url": "https://www.cidob.org/en/lider-politico/lech-walesa",
-      "factDate": "Biography covering events through 2001; presidency 1990–1995",
-      "accessedOn": "2026-10-01"
-    },
-    {
-      "id": "local",
-      "title": "RFE/RL: establishment of the Lech Wałęsa Institute",
-      "url": "https://www.rferl.org/a/1141103.html",
-      "factDate": "1996-02-06; decentralisation and Catholic social teaching",
-      "accessedOn": "2026-10-01"
-    },
-    {
-      "id": "rights",
-      "title": "Amnesty International report on Poland in 1995",
+      "id": "amnesty",
+      "title": "Amnesty International Report 1996: Poland",
       "url": "https://www.refworld.org/reference/annualreport/amnesty/1996/en/72202",
-      "factDate": "1996; 1995 events and death-penalty moratorium",
-      "accessedOn": "2026-10-01"
+      "factDate": "1996-01-01",
+      "accessedOn": "2026-10-01",
+      "evidence": "Reporting 1995: Wałęsa opposed reduction of presidential powers. Death-penalty moratorium entered force in November, but report does not establish his personal position on capital punishment."
     },
     {
-      "id": "minorities",
-      "title": "Wałęsa renounces antisemitism in meeting with American Jews",
-      "url": "https://www.jta.org/archive/walesa-renounces-anti-semitism-in-meeting-with-american-jews",
-      "factDate": "1990-12-14",
-      "accessedOn": "2026-10-01"
+      "id": "veto",
+      "title": "Wałęsa blocks abortion liberalisation",
+      "url": "https://www.lemonde.fr/archives/article/1994/07/06/pologne-lech-walesa-bloque-la-loi-sur-l-avortement_3820876_1819218.html",
+      "factDate": "1994-07-06",
+      "accessedOn": "2026-10-01",
+      "evidence": "Vetoed amendment on July 4 allowing abortion for serious material or personal hardship."
     },
     {
-      "id": "reconciliation",
-      "title": "Wałęsa vows to fight antisemitism",
+      "id": "jta",
+      "title": "Wałęsa vows to fight antisemitism, acknowledging his contribution",
       "url": "https://www.jta.org/archive/walesa-vows-to-fight-anti-semitism-blaming-himself-partly-for-revival",
       "factDate": "1991-03-25",
-      "accessedOn": "2026-10-01"
+      "accessedOn": "2026-10-01",
+      "evidence": "Acknowledged campaign wording identifying himself as wholly Polish had encouraged antisemitic impressions; pledged reconciliation with Jews and grounded it in religion."
     },
     {
-      "id": "nato",
-      "title": "NATO: Poland and NATO",
-      "url": "https://www.nato.int/cps/fr/natohq/declassified_223582.htm",
-      "factDate": "1990–1999; retrospective",
-      "accessedOn": "2026-10-01"
+      "id": "clinton",
+      "title": "Joint remarks in Warsaw",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-following-discussions-with-president-lech-walesa-poland-and-exchange-with",
+      "factDate": "1994-07-06",
+      "accessedOn": "2026-10-01",
+      "evidence": "Wałęsa invited General Motors and General Electric investment and welcomed US security assurances; joint discussion covered NATO Partnership for Peace, market transition and relief for unemployed workers."
     },
     {
-      "id": "russia",
-      "title": "Library of Congress country study: Soviet Union and Russia",
-      "url": "https://www.countrystudies.us/poland/89.htm",
-      "factDate": "1992; troop withdrawal and bilateral cooperation",
-      "accessedOn": "2026-10-01"
+      "id": "un",
+      "title": "Poland country report to Earth Summit",
+      "url": "https://www.un.org/esa/earthsummit/pold-cp.htm",
+      "factDate": "1997",
+      "accessedOn": "2026-10-01",
+      "evidence": "Records Wałęsa’s presidential patronage of the 1994 environmental community contest, organised with provincial offices to encourage local sustainable-development action."
     },
     {
-      "id": "abortion",
-      "title": "Le Monde/AFP: Wałęsa vetoes abortion amendment",
-      "url": "https://www.lemonde.fr/archives/article/1994/07/06/pologne-lech-walesa-bloque-la-loi-sur-l-avortement_3820876_1819218.html",
-      "factDate": "1994-07-06; veto on July 4",
-      "accessedOn": "2026-10-01"
+      "id": "pbs",
+      "title": "Commanding Heights interview with Lech Walesa",
+      "url": "https://www.pbs.org/wgbh/commandingheights/shared/minitext/int_lechwalesa.html",
+      "factDate": "2000",
+      "accessedOn": "2026-10-01",
+      "evidence": "Retrospective account of market transition: communist investment ignored economic viability, modern equipment could be badly located and systemic change hurt workers. Used only as retrospective testimony about the defined period."
     },
     {
-      "id": "technology",
-      "title": "Wałęsa oral history: Winning the Development Battle",
-      "url": "https://www.bushcenter.org/freedom-collection/lech-walesa-winning-the-development-battle",
-      "factDate": "Retrospective interview on communications technology and communism",
-      "accessedOn": "2026-10-01"
+      "id": "interview",
+      "title": "Le Monde interview on reforms and union independence",
+      "url": "https://www.lemonde.fr/archives/article/1990/04/18/un-entretien-avec-m-lech-walesa-les-decisions-du-gouvernement-sont-bonnes-mais-l-homme-de-la-rue-n-en-voit-pas-les-resultats_3960289_1819218.html",
+      "factDate": "1990-04-18",
+      "accessedOn": "2026-10-01",
+      "evidence": "Supported democratic safeguards and market reform but insisted Solidarity should defend workers independently of government; wanted an active president accelerating reform."
     },
     {
-      "id": "investment",
-      "title": "World Bank research on foreign investment in Central and Eastern Europe",
-      "url": "https://documents1.worldbank.org/curated/en/804451468771530709/pdf/multi-page.pdf",
-      "factDate": "1991 investment appeal described retrospectively",
-      "accessedOn": "2026-10-01"
+      "id": "rfe",
+      "title": "RFE/RL Newsline: Constitutional Tribunal and broadcasting",
+      "url": "https://www.rferl.org/a/1140911.html",
+      "factDate": "1995-04-06",
+      "accessedOn": "2026-10-01",
+      "evidence": "Reports tribunal ruling that Wałęsa had unlawfully removed the National Broadcasting Council chairman, complicating a purely civil-libertarian portrayal."
+    },
+    {
+      "id": "fayard",
+      "title": "Un chemin d’espoir: publisher catalogue",
+      "url": "https://www.fayard.fr/livre/un-chemin-despoir-9782213019109/",
+      "factDate": "1987-04-22",
+      "accessedOn": "2026-10-01",
+      "evidence": "Publisher identifies Lech Walesa as author and April 22 1987 publication."
+    },
+    {
+      "id": "tjrj",
+      "title": "Um caminho de esperança: Brazilian library catalogue",
+      "url": "https://www3.tjrj.jus.br/sophia_web/Acervo/Detalhe/315885?guid=1750204809374&returnUrl=%2Fsophia_web%2FHome%2FIndex",
+      "factDate": "1987",
+      "accessedOn": "2026-10-01",
+      "evidence": "TJRJ library identifies Lech Walesa, translator Jusmar Gomes, Best Seller São Paulo 1987, Brazilian title and French original."
+    },
+    {
+      "id": "openlibrary",
+      "title": "A Way of Hope bibliography",
+      "url": "https://openlibrary.org/works/OL3774509W/A_way_of_hope",
+      "factDate": "1987",
+      "accessedOn": "2026-10-01",
+      "evidence": "Henry Holt 1987 English edition; autobiography covering Solidarity and Polish political struggle, not solely personal life."
+    },
+    {
+      "id": "current-excluded",
+      "title": "Wałęsa protests treatment of Zelenskyy",
+      "url": "https://apnews.com/article/eab6a26169183760c844580f7742fd78",
+      "factDate": "2025-03-03",
+      "accessedOn": "2026-10-01",
+      "evidence": "Current-context check confirms later political activity; excluded from this 1980–1995 historical model. Later LGBT and refugee comments were likewise excluded."
     }
   ],
   "axes": {
     "estrutura": {
       "sourceIds": [
-        "local",
-        "presidency"
-      ]
+        "regulski",
+        "un"
+      ],
+      "facts": [
+        "Presidential constitutional proposal envisaged three levels of territorial self-government."
+      ],
+      "tension": "Local autonomy did not mean secession, sovereign state constitutions or abandoning national law."
     },
     "representacao": {
       "sourceIds": [
-        "bio",
-        "presidency",
-        "pace"
-      ]
+        "nobel",
+        "amnesty",
+        "rfe"
+      ],
+      "facts": [
+        "Led the movement for free elections but fought reductions in presidential authority."
+      ],
+      "tension": "Democratic mandate and opposition rights coexist with impatience toward parliamentary and institutional restraint."
     },
     "poder": {
       "sourceIds": [
         "nobel",
-        "rights",
-        "presidency",
-        "technology"
-      ]
+        "rfe"
+      ],
+      "facts": [
+        "Persecuted union organiser; later presidential interference with broadcasting was ruled unlawful."
+      ],
+      "tension": "Opposition to political repression did not imply libertarian permissiveness on drugs, euthanasia or policing."
     },
     "imigracao": {
       "sourceIds": [
         "pace",
-        "minorities",
-        "reconciliation"
-      ]
+        "jta"
+      ],
+      "facts": [
+        "Defended minority language education and repudiated antisemitism after divisive campaign language."
+      ],
+      "tension": "Pluralism alongside strong Polish Catholic identity; no basis for importing 2015 refugee opinions."
     },
     "diplomacia": {
       "sourceIds": [
         "nobel",
-        "nato",
-        "russia"
-      ]
+        "clinton"
+      ],
+      "facts": [
+        "Nonviolent resistance and support for Western collective security."
+      ],
+      "tension": "Negotiation first while retaining armed defense; neither unilateral disarmament nor aggressive warfare."
     },
     "intervencao": {
       "sourceIds": [
-        "bio",
-        "nato",
-        "russia"
-      ]
+        "clinton",
+        "pace"
+      ],
+      "facts": [
+        "Sought American security commitments and NATO integration."
+      ],
+      "tension": "Rejects Soviet domination and aggressive nationalism, but not alliances or diplomatic pressure."
     },
     "economia": {
       "sourceIds": [
-        "pace",
-        "presidency",
-        "bio"
-      ]
+        "clinton",
+        "interview",
+        "pbs"
+      ],
+      "facts": [
+        "Supported privatisation and foreign investors while maintaining independent worker representation."
+      ],
+      "tension": "Private enterprise does not entail privatising police or eliminating the safety net."
     },
     "controle": {
       "sourceIds": [
         "pace",
-        "presidency"
-      ]
+        "interview",
+        "pbs"
+      ],
+      "facts": [
+        "Supported market transition but called for more active state financial resources against recession."
+      ],
+      "tension": "Neither central planning nor absolute laissez-faire; labour bargaining and public stabilisation remain legitimate."
     },
     "comercio": {
       "sourceIds": [
         "pace",
-        "investment"
-      ]
+        "clinton"
+      ],
+      "facts": [
+        "Pressed Western Europe to open markets reciprocally and invited US industrial investment."
+      ],
+      "tension": "Open trade with concerns about one-sided import competition and social costs, not autarky."
     },
     "religiao": {
       "sourceIds": [
-        "presidency",
-        "local",
-        "pace"
-      ]
+        "pace",
+        "jta"
+      ],
+      "facts": [
+        "Invoked Catholic identity publicly but also affirmed Church-state separation."
+      ],
+      "tension": "Strong personal and public religious values without a straightforward endorsement of theocracy."
     },
     "moral": {
       "sourceIds": [
-        "abortion",
-        "presidency",
-        "local"
-      ]
+        "veto",
+        "pace"
+      ],
+      "facts": [
+        "Vetoed abortion liberalisation in 1994."
+      ],
+      "tension": "Catholic family morality should not be confused with all later views on sexuality; exact positions on modern identity policies remain inferred."
     },
     "tecnologia": {
       "sourceIds": [
-        "technology",
-        "pace",
-        "local"
-      ]
+        "clinton",
+        "un",
+        "pbs"
+      ],
+      "facts": [
+        "Sought modern industrial investment; sponsored local environmental projects in 1994."
+      ],
+      "tension": "Industrial modernisation combined with environmental stewardship and Catholic bioethical limits, not unbounded transhumanism."
     }
   },
   "uncertainties": [
-    "This is a historical profile of Solidarity leadership and the 1990–1995 presidency, not a claim about every opinion expressed in retirement. The early-1996 institute principles corroborate the preceding period. Later retrospective interviews are used only to explain his earlier experience.",
-    "Local self-government does not imply a federation of sovereign provinces or secession. Central police, common labour guarantees and presidential coordination coexist with municipal discretion. Indigenous-law questions are analogies to protected minority autonomy within a national legal order.",
-    "His democratic achievement does not erase executive overreach: he sought stronger presidential powers, clashed with cabinets and resisted constraints. Electoral legitimacy, opposition and universal suffrage remain distinct from enthusiasm for parliamentary checks in every crisis. A qualified agreement on emergency executive authority reflects that tension, not endorsement of permanent dictatorship.",
-    "Death-penalty neutrality balances the continuing penal framework and the moratorium during the end of his presidency; no personal categorical statement was verified. The rights source describes Poland, not every measure as his personal initiative. Public-health and weapons answers apply ordinary public-safety limits; surveillance and preventive detention are constrained by his experience of repression. Facial-recognition neutrality balances crime prevention and monitoring abuse.",
-    "Conservative drug and euthanasia answers apply his Catholic social principles, not a verified personal vote on each hypothetical. Phone unlocking and payments questions stress resistance to general surveillance, without asserting that all judicial investigation is illegitimate.",
-    "The minority record is mixed: his public repudiation of antisemitism and subsequent acknowledgement of responsibility matter alongside contentious campaign rhetoric. Protected language education and heritage do not mean unlimited immigration. Neutral cultural preference and migration caps reflect national identity alongside pluralism; his refugee remarks called for European cooperation, not treating civilians as an invading army.",
-    "Nobel recognition concerns nonviolent resistance, not abolition of national defence. NATO membership was pursued during his presidency and achieved after it. Modern weapons are analogies to accountable defensive capability; independent nuclear weapons are rejected. Preventive-force neutrality distinguishes imminent defence from a speculative war. Military service answers reflect a defence system with civic obligations, not proof of an individual proposal for Brazil.",
-    "International cooperation and sovereignty are simultaneous priorities. Neutral overseas bases and regional leadership distinguish cooperative alliance arrangements from domination. Sanctions may defend sovereignty, but disliking a government is not sufficient by itself. No contemporary conflict position is projected backwards.",
-    "Economic answers retain both union self-organisation and market transition. Worker participation is not mandatory worker ownership of every large firm. Privatisation is selective and sequenced; welfare support is needs-based. National development finance and essential services coexist with commercial competition.",
-    "Currency stability and recession relief can conflict. Neutral exchange-rate control and national champions preserve that balance. Cryptocurrency is a hypothetical application of the need for monetary institutions, not an attributed 1990s statement. Trade answers combine reciprocal European access with transitional industrial and employment protection.",
-    "Catholic public ethics and an acknowledged civil church-state distinction do not imply clerical rule. Religious identity means the Polish cultural context, not imposing Catholicism on a foreign country. Modern gender, adoption, polyamory, language and sex-work questions extrapolate the period’s family ethic; racial-quota neutrality balances equal citizenship with remedies for exclusion.",
-    "Technology answers support modernisation while applying environmental and Catholic ethical limits. No individual statement on AI, embryo selection, cultivated meat or brain chips is claimed. Neutral automation weighs productivity against workers’ displacement; neutral urban/rural preferences value both settings. Therapeutic medicine is distinguished from unrestricted enhancement. Environmental commitments were explicitly qualified by economic capacity."
+    "Historical model: later public positions excluded even though current activity checked through 2026-10-01.",
+    "Modern Brazil-specific items, AI, crypto and gene enhancement require analogical judgments, not claimed direct historical statements.",
+    "No verified personal death-penalty statement in the period; state moratorium is not attributed as personal advocacy.",
+    "Technology and detailed migration rules are weaker than economic and constitutional evidence; dedicated searches performed.",
+    "Regulski is a participant account published later; PBS is retrospective testimony, used only for events in the historical period."
   ],
-  "distinctions": [
-    "Potential neighbours are Catholic democrats and anticommunist reformers. Distinguish union leadership, selective privatisation, strong elected presidential power and negotiation from clerical authoritarianism or laissez-faire libertarianism."
-  ],
+  "distinctions": {
+    "record": "profile-audit/research/process-review/lech-walesa.json",
+    "note": "Qualitative pre-answer distinctions and process are recorded in this independent review."
+  },
   "portrait": {
     "article": "https://commons.wikimedia.org/wiki/File:Lech_Wałęsa_prezydent_RP.jpg",
     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lech_Wa%C5%82%C4%99sa_prezydent_RP.jpg",
@@ -207,5 +272,34 @@
     "date": "Undated official presidential portrait",
     "note": "Recompressed from 21 KB to 7 KB; CC BY-SA 3.0 retained.",
     "visuallyChecked": true
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/lech-walesa.json",
+    "answerArchive": "profile-audit/answers/personality/revisions/2026-10-01/lech-walesa.json",
+    "agent": "/root/independent_walesa",
+    "answersSha256": "7c7d3c52627a8b4a72ff837dbb6acfe69cded917016e15e3a356e6b3d10bad4a",
+    "validation": "Passed original validator and below 95% review threshold."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political autobiography about Solidarity and resistance to communist rule; 1987 first edition verified against publisher and Brazilian library. No existing books.json entry found.",
+    "book": {
+      "personalityId": "lech-walesa",
+      "title": {
+        "pt": "Um caminho de esperança: uma autobiografia",
+        "en": "A Way of Hope"
+      },
+      "year": 1987,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "fayard",
+      "tjrj",
+      "openlibrary"
+    ]
   }
 }

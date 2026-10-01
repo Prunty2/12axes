@@ -1,0 +1,399 @@
+{
+  "id": "kamala-harris",
+  "profilePeriod": "2021–2025 vice presidency and 2024 presidential platform; latest public remarks checked through September 2026.",
+  "sources": [
+    {
+      "id": "platform",
+      "title": "A New Way Forward: economic opportunity platform",
+      "url": "https://www.kamalaharris.com/wp-content/uploads/2024/09/Policy-Book-Economic-Opportunity.pdf",
+      "date": "2024-09",
+      "accessed": "2026-10-01",
+      "evidence": "Private enterprise, housing supply incentives, consumer protection, strategic manufacturing investment, Buy American procurement and opposition to blanket tariffs; responsible AI and biotechnology investment."
+    },
+    {
+      "id": "bbc",
+      "title": "Where Harris stands on ten policy issues",
+      "url": "https://feeds.bbci.co.uk/news/articles/cx924r4d5yno",
+      "date": "2024 (exact publication/update day not verified)",
+      "accessed": "2026-10-01",
+      "evidence": "Reproductive rights, tougher border enforcement, climate action and changed position on fracking; platform reflects 2024 rather than every 2019 promise."
+    },
+    {
+      "id": "capitalism",
+      "title": "Harris makes a capitalist pitch",
+      "url": "https://apnews.com/article/bda4bfe7cb02c1c5c2f6232bf05ad670",
+      "date": "2024-09-25",
+      "accessed": "2026-10-01",
+      "evidence": "She publicly described a pragmatic, pro-business economy supporting middle-class opportunity and home ownership."
+    },
+    {
+      "id": "tribal",
+      "title": "Harris at Tribal Nations Summit",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-white-house-tribal-nations-summit-0",
+      "date": "2023-12-06",
+      "accessed": "2026-10-01",
+      "evidence": "Supports tribal self-determination and federal investment; condemns coerced assimilation and suppression of Native languages."
+    },
+    {
+      "id": "vote",
+      "title": "Democratic convention speech transcript",
+      "url": "https://rollcall.com/factbase/harris/transcript/kamala-harris-convention-day-4-hour-5-chicago-august-22-2024",
+      "date": "2024-08-22",
+      "accessed": "2026-10-01",
+      "evidence": "Supports voting-rights legislation, nationwide reproductive freedom, alliance leadership and immigration reform combining a citizenship path with border security."
+    },
+    {
+      "id": "current",
+      "title": "September campaign remarks",
+      "url": "https://www.realclearpolitics.com/video/2026/09/22/kamala_harris_campaigns_for_abdul_el-sayed_the_senate_should_be_a_stopgap_on_the_abuses_of_this_administration.html",
+      "date": "2026-09-22",
+      "accessed": "2026-10-01",
+      "evidence": "Calls for Senate checks on executive abuses and participation in midterm elections."
+    },
+    {
+      "id": "press",
+      "title": "Harris condemns White House press exclusions",
+      "url": "https://apnews.com/article/692e1e171a791be0c9b9c1f56718a0d0",
+      "date": "2026-09-22",
+      "accessed": "2026-10-01",
+      "evidence": "Condemns withdrawal of press credentials and supports scrutiny of executive action."
+    },
+    {
+      "id": "criminal",
+      "title": "ACLU assessment of Harris criminal-justice record",
+      "url": "https://www.aclu.org/harris-on-the-criminal-legal-system",
+      "date": "2024",
+      "accessed": "2026-10-01",
+      "evidence": "Identifies criminal-justice reform commitments alongside prosecutorial experience; advocacy demands in this document must not be mistaken for Harris commitments."
+    },
+    {
+      "id": "surveillance",
+      "title": "ACLU assessment of Harris surveillance record",
+      "url": "https://www.aclu.org/harris-on-surveillance",
+      "date": "2024",
+      "accessed": "2026-10-01",
+      "evidence": "Documents surveillance and privacy concerns; executive law-enforcement powers coexist with constitutional constraints. ACLU proposed reforms are not all Harris policy."
+    },
+    {
+      "id": "cannabis",
+      "title": "Drug Policy Action Harris fact sheet",
+      "url": "https://drugpolicyaction.org/wp-content/uploads/sites/2/2024/08/2024.08.16_DPAction-HarrisFactSheet.pdf",
+      "date": "2024-08-16",
+      "accessed": "2026-10-01",
+      "evidence": "Documents sponsorship of marijuana reform and movement toward legalization; does not establish support for legalizing all drugs."
+    },
+    {
+      "id": "guns",
+      "title": "Gun ownership and safety restrictions",
+      "url": "https://apnews.com/article/212302785990bb21889ee12ff9aea48a",
+      "date": "2024-09-26",
+      "accessed": "2026-10-01",
+      "evidence": "Harris supports personal gun ownership and the Second Amendment alongside an assault-weapons ban and additional safety restrictions."
+    },
+    {
+      "id": "sexwork",
+      "title": "Position on decriminalizing prostitution",
+      "url": "https://www.axios.com/2024/09/24/harris-decriminalize-prostitution-election",
+      "date": "2024-09-24",
+      "accessed": "2026-10-01",
+      "evidence": "Supported decriminalization in 2019; campaign declined to clarify position in 2024."
+    },
+    {
+      "id": "nato",
+      "title": "Harris meets Zelenskyy",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-prior-meeting-with-president-volodymyr-zelenskyy-ukraine-1",
+      "date": "2024-09-26",
+      "accessed": "2026-10-01",
+      "evidence": "Supports Ukraine against Russian aggression and NATO security; emphasizes sovereignty and territorial integrity."
+    },
+    {
+      "id": "iran",
+      "title": "Alliances, military strength and opposition to Iran war",
+      "url": "https://www.realclearpolitics.com/video/2026/04/10/kamala_harris_trump_is_first_president_since_world_war_ii_who_does_not_believe_in_alliances_our_responsibility_to_uphold_international_norms.html",
+      "date": "2026-04-10",
+      "accessed": "2026-10-01",
+      "evidence": "Opposes Iran war of choice while explicitly valuing US military strength, NATO expansion, international norms, human-rights influence and reliable alliances."
+    },
+    {
+      "id": "iran-june",
+      "title": "Harris rejects starting Iran war",
+      "url": "https://www.youtube.com/watch?v=yCElDga9R6w",
+      "date": "2026-06-17",
+      "accessed": "2026-10-01",
+      "evidence": "ABC Australia report and video: at Austrian World Summit, Harris says she would not have started Iran war."
+    },
+    {
+      "id": "fed",
+      "title": "Federal Reserve independence",
+      "url": "https://www.investing.com/news/economy-news/harris-believes-fed-should-make-decisions-independent-of-the-president-cnbc-reports-3565020",
+      "date": "2024-08-09",
+      "accessed": "2026-10-01",
+      "evidence": "Reuters reports support for Federal Reserve independence from presidential decisions."
+    },
+    {
+      "id": "faith",
+      "title": "Baptist faith and religious pluralism",
+      "url": "https://www.pbs.org/newshour/politics/kamala-harris-and-faith-a-baptist-with-a-jewish-spouse-and-ties-to-the-black-church-and-gandhi",
+      "date": "2024 (exact publication/update day not verified)",
+      "accessed": "2026-10-01",
+      "evidence": "Baptist faith, Hindu family influences and Jewish spouse; religious faith informs social justice rather than a uniform state creed."
+    },
+    {
+      "id": "faithchoice",
+      "title": "Faith and reproductive choice",
+      "url": "https://rollcall.com/factbase/harris/transcript/kamala-harris-speech-sigma-gamma-rho-biennial-houston-july-31-2024/",
+      "date": "2024-07-31",
+      "accessed": "2026-10-01",
+      "evidence": "Argues faith and reproductive freedom coexist and government should not dictate reproductive decisions."
+    },
+    {
+      "id": "lgbt",
+      "title": "Harris LGBTQ rights remarks",
+      "url": "https://www.presidency.ucsb.edu/documents/vice-presidential-pool-reports-july-20-2024",
+      "date": "2024-07-20",
+      "accessed": "2026-10-01",
+      "evidence": "Frames LGBTQ equality as a fundamental freedom."
+    },
+    {
+      "id": "ai",
+      "title": "London speech on AI",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-future-artificial-intelligence-london-united-kingdom",
+      "date": "2023-11-01",
+      "accessed": "2026-10-01",
+      "evidence": "Supports AI innovation with rigorous safety testing and safeguards against discrimination and other harms."
+    },
+    {
+      "id": "space",
+      "title": "Harris chairs National Space Council",
+      "url": "https://www.nasa.gov/general/nasa-leadership-participates-in-vice-president-chaired-national-space-council-meeting/",
+      "date": "2023-12-20",
+      "accessed": "2026-10-01",
+      "evidence": "Promotes space exploration, Earth-science benefits and sustainable human presence in space through international partnerships."
+    },
+    {
+      "id": "book-en",
+      "title": "Penguin Random House: The Truths We Hold",
+      "url": "https://www.penguinrandomhouse.com/books/591562/the-truths-we-hold-by-kamala-harris/9781984886224/",
+      "date": "2019-01-08",
+      "accessed": "2026-10-01",
+      "evidence": "Publisher confirms Kamala Harris authorship and original publication date; bestselling political memoir."
+    },
+    {
+      "id": "book-pt",
+      "title": "Intrínseca: As verdades que nos movem",
+      "url": "https://intrinseca.com.br/livro/as-verdades-que-nos-movem/",
+      "date": "2021-06-28",
+      "accessed": "2026-10-01",
+      "evidence": "Brazilian publisher verifies translated title and political substance covering justice, immigration, inequality, health care and national security."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "2023 tribal speech affirms self-determination and federal partnership.",
+        "2024 national reproductive and voting-rights protections imply federal rights floors."
+      ],
+      "sources": [
+        "tribal",
+        "vote"
+      ],
+      "tension": "Federation and local administration remain legitimate; national civil-rights standards do not imply one police force or presidential supremacy over courts."
+    },
+    "representacao": {
+      "facts": [
+        "2024 supports statutory voting-rights protections.",
+        "2026 calls for Senate oversight and condemns excluding journalists."
+      ],
+      "sources": [
+        "vote",
+        "current",
+        "press"
+      ],
+      "tension": "Representative constitutional democracy is not government by experts, permanent popular assemblies or unrestricted plebiscites."
+    },
+    "poder": {
+      "facts": [
+        "Prosecutorial background coexists with reform and marijuana legalization.",
+        "2024 defends gun ownership alongside assault-weapons limits."
+      ],
+      "sources": [
+        "criminal",
+        "surveillance",
+        "cannabis",
+        "guns"
+      ],
+      "tension": "Public safety and legal investigative powers coexist with due process; neither police abolition nor blanket surveillance immunity follows."
+    },
+    "imigracao": {
+      "facts": [
+        "2024 combines citizenship pathways and border enforcement.",
+        "Rejects cultural erasure and values a plural national identity."
+      ],
+      "sources": [
+        "vote",
+        "tribal",
+        "faith"
+      ],
+      "tension": "Border restrictions concern enforcement and capacity, not a demand for ethnic uniformity; multiculturalism does not mean borderlessness."
+    },
+    "diplomacia": {
+      "facts": [
+        "2024 supports armed defense of Ukraine.",
+        "2026 opposes Iran war while retaining strong military and allied security."
+      ],
+      "sources": [
+        "nato",
+        "iran",
+        "iran-june"
+      ],
+      "tension": "Deterrence and defense are supported; preventive regime-change war is not. Diplomatic preference is not abolition of armed forces."
+    },
+    "intervencao": {
+      "facts": [
+        "2024 defends Ukrainian sovereignty.",
+        "2026 values US global influence and NATO but condemns war of choice."
+      ],
+      "sources": [
+        "nato",
+        "iran"
+      ],
+      "tension": "Allied projection and sanctions are compatible with rejecting territorial conquest and unilateral aggression; not neutral isolationism."
+    },
+    "economia": {
+      "facts": [
+        "2024 explicitly endorses capitalism and home ownership.",
+        "Platform supports social protection, unions, affordable health care and competition."
+      ],
+      "sources": [
+        "capitalism",
+        "platform"
+      ],
+      "tension": "Redistribution and public services coexist with private productive property; no general nationalization agenda established."
+    },
+    "controle": {
+      "facts": [
+        "2024 supports strategic industrial subsidies and consumer safeguards.",
+        "Supports independent Federal Reserve."
+      ],
+      "sources": [
+        "platform",
+        "fed"
+      ],
+      "tension": "Regulated competition rather than command planning; national economic coordination does not mean presidential control of interest rates."
+    },
+    "comercio": {
+      "facts": [
+        "2024 promotes domestic manufacturing and Buy American.",
+        "Rejects indiscriminate tariffs and backs productive international commercial relationships."
+      ],
+      "sources": [
+        "platform"
+      ],
+      "tension": "Targeted industrial protection alongside integration; neither autarky nor unconditional free trade."
+    },
+    "religiao": {
+      "facts": [
+        "2024 Baptist faith remains personally significant.",
+        "Explicitly defends reproductive choice without requiring abandonment of faith."
+      ],
+      "sources": [
+        "faith",
+        "faithchoice"
+      ],
+      "tension": "Faith may inspire personal moral service while laws protect people of different faiths or none; no state religion."
+    },
+    "moral": {
+      "facts": [
+        "2024 prioritizes reproductive autonomy and LGBTQ civil rights.",
+        "Sex-work policy has a recorded unresolved shift."
+      ],
+      "sources": [
+        "faithchoice",
+        "lgbt",
+        "sexwork"
+      ],
+      "tension": "Progressive civil rights do not establish enthusiasm for every lifestyle or unrestricted drug commerce; sex-work answer reflects real policy tension."
+    },
+    "tecnologia": {
+      "facts": [
+        "2023 backs AI benefits with safety standards and sustainable space exploration.",
+        "2024 supports advanced industry while retaining environmental protections."
+      ],
+      "sources": [
+        "ai",
+        "space",
+        "platform"
+      ],
+      "tension": "Neither anti-industrial naturalism nor unregulated transhumanist acceleration; therapeutic biotechnology differs from selecting embryos for appearance."
+    }
+  },
+  "limitations": [
+    "The survey is a reasoned persona simulation, not 240 quotations. Brazilian institutions are interpreted through equivalent US governance choices; no claim Harris stated Brazilian policies.",
+    "Preserved explicit period: 2021–2025 vice presidency and 2024 presidential platform; latest public remarks checked through September 2026. Search cutoff 2026-10-01.",
+    "No direct positions were verified on embryo intelligence editing, brain enhancement, cultivated meat, municipal tax allocation or all local-service arrangements. Those answers are qualified inferences from innovation, civil rights and constitutional governance; N is reserved for genuine competing considerations.",
+    "2024 campaign promises supersede incompatible 2019 proposals. Later 2026 remarks strengthen evidence against elective regime-change war without negating alliance commitments.",
+    "ACLU and Drug Policy Action are advocacy organizations; distinguish their descriptions of her record from their requests to a potential administration.",
+    "Searches did not establish a new comprehensive 2026 platform; do not invent one."
+  ],
+  "recommendedMetadata": {
+    "needed": false,
+    "reason": "Existing PT/EN names, former-vice-president roles and descriptions are accurate; communicated to coordinator before answers."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored bestselling political memoir, substantive across political issues; chosen for broad political relevance over the narrower Smart on Crime and retrospective 107 Days. No existing entry was present at review.",
+    "book": {
+      "personalityId": "kamala-harris",
+      "title": {
+        "pt": "As verdades que nos movem",
+        "en": "The Truths We Hold: An American Journey"
+      },
+      "year": 2019,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book-en",
+      "book-pt"
+    ]
+  },
+  "processNotes": [
+    "Read all four controlling documents and original saved prompt. Existing research consulted only for explicit profilePeriod and source URLs; no prior answer archive or stored vector was read.",
+    "Research and metadata review preceded answers. No numerical target or distance tuning.",
+    "Likely neighbours: Biden/Obama share Democratic institutions and alliances; Harris has her prosecutorial record and 2024 platform. Clinton shares civil rights and alliance commitments but has different career and policy period. Sanders/Warren overlap on worker protections; Harris retains a capitalist private-enterprise framework.",
+    "Fresh archetype block generated via profile_vector.py --prompt-block.",
+    "Generated 240 independent choices once; original validator blocked proximity to Mark Carney. Answers were not altered after seeing validation or similarity. No merge performed.",
+    "Neutral rationales: poder_06 mixes consensual autonomy and drug/exploitation controls; poder_05 balances safety innovation and surveillance harms; diplomacia_14 balances international accountability with ally protections; economia_04 reflects mixed public/private health care; comercio_19 balances consumer affordability and strategic sovereignty; religiao_01 balances personal faith-inspired service and secular law; moral_15 does not choose one dietary moral doctrine; moral_13 reflects documented sex-work policy tension; tecnologia_13 and _18 are no inherent urban/rural preference; tecnologia_16 balances terrestrial climate science with space exploration; tecnologia_09 combines therapeutic gene intervention and enhancement.",
+    "Archetypes chosen by meaning: sociedade D; poder C; economia C; mundo B; tecnologia C."
+  ],
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality kamala-harris",
+    "exitCode": 1,
+    "stdout": "validando personality:kamala-harris\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/kamala-harris.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 12/240 = 5.0%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         55.7  centralizado/unitario <-> descentralizado/federal\n  representacao     89.4  autocracia <-> democracia\n  poder             44.9  liberdade civil <-> ordem/vigilancia\n  imigracao         23.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        44.5  pacifista <-> militarista\n  intervencao       31.7  nacionalista assertivo <-> nao-intervencionista\n  economia          61.5  privado/mercado <-> publico/coletivo\n  controle          58.0  livre mercado <-> planejamento\n  comercio          49.6  livre comercio/globalista <-> protecionista\n  religiao          54.8  religioso <-> irreligioso/secular\n  moral             82.4  tradicionalista <-> progressista\n  tecnologia        57.1  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         55.7   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     89.4   | Kim Jong Un=6 .. José Mujica=86\n  poder             44.9   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         23.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        44.5   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       31.7   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          61.5   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          58.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          49.6   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          54.8   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             82.4   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        57.1   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.5%  mark-carney  <<< BLOQUEIA\n   96.4%  hillary-clinton  <<< aviso\n   96.2%  olaf-scholz  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.4% proximo de 'hillary-clinton'\n  [CONTEUDO] 96.2% proximo de 'olaf-scholz'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.5% identico a 'mark-carney' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": ""
+  },
+  "hashes": {
+    "algorithm": "sha256",
+    "prompt": "d69e8dc0d649077d6bc6f7a1134f6c4696f17e7fd1f4b27136eac21bfad03ffd",
+    "answers": "641bbbd6edfcbdff6501adc33d7592196b3943b98d25a0cf48b1fd59046012d7"
+  },
+  "neutralCount": {
+    "total": 12,
+    "byAxis": {
+      "estrutura": 0,
+      "representacao": 0,
+      "poder": 2,
+      "imigracao": 0,
+      "diplomacia": 1,
+      "intervencao": 0,
+      "economia": 1,
+      "controle": 0,
+      "comercio": 1,
+      "religiao": 1,
+      "moral": 2,
+      "tecnologia": 4
+    }
+  }
+}

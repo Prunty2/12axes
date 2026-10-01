@@ -2338,5 +2338,29 @@
       "pt": "",
       "en": ""
     }
+  },
+  {
+    "personalityId": "pauline-hanson",
+    "title": {
+      "pt": "Pauline: In Her Own Words",
+      "en": "Pauline: In Her Own Words"
+    },
+    "year": 2018,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "lech-walesa",
+    "title": {
+      "pt": "Um caminho de esperança: uma autobiografia",
+      "en": "A Way of Hope"
+    },
+    "year": 1987,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
   }
 ]

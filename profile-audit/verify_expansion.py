@@ -5,6 +5,7 @@ candidate reviews and missing explicitly requested Australian personalities.
 This verifies data integrity, not the truth of editorial political judgements.
 """
 import argparse
+import hashlib
 import json
 from pathlib import Path
 
@@ -53,7 +54,17 @@ def verify(require_complete=False):
             assert pt[pid].get(key), (pid, key)
         portrait = ROOT / "frontend/public" / pt[pid]["imagePath"].lstrip("/")
         assert portrait.is_file() and portrait.stat().st_size > 0, f"Missing portrait: {pid}"
-        answers = read(ROOT / f"profile-audit/answers/personality/{pid}.json")
+        review = expansion.get("processReview", {})
+        archive_name = review.get("activeAnswerArchives", {}).get(
+            pid, f"profile-audit/answers/personality/{pid}.json")
+        archive_path = (ROOT / archive_name).resolve()
+        assert archive_path.is_relative_to(ROOT / "profile-audit/answers/personality"), pid
+        answers = read(archive_path)
+        original_hash = review.get("originalAnswerSha256", {}).get(pid)
+        if original_hash:
+            original = ROOT / f"profile-audit/answers/personality/{pid}.json"
+            assert hashlib.sha256(original.read_bytes()).hexdigest() == original_hash, (
+                f"Permanent original answers changed: {pid}")
         assert set(answers) == set(AXIS_ORDER) | {"archetype"}, pid
         assert not archetype_problems(answers), pid
         for axis in AXIS_ORDER:
@@ -78,6 +89,16 @@ def verify(require_complete=False):
     pending = [pid for pid, c in candidates.items() if c["status"] == "pending"]
     skipped = [pid for pid, c in candidates.items() if c["status"] == "skipped"]
     if require_complete:
+        process_review = expansion.get("processReview", {})
+        if process_review:
+            assert process_review.get("status") == "complete", "Process compliance review is unfinished"
+            assert not process_review.get("pending"), "Independent reviews remain pending"
+            assert set(completed) <= set(process_review.get("reviewed", [])), "Missing independent review"
+            runs = process_review.get("runs", {})
+            assert all(runs.get(pid, {}).get("status") == "merged" for pid in completed), "Unmerged independent answers"
+            agents = [runs[pid].get("agent") for pid in completed]
+            assert all(agents) and len(set(agents)) == len(agents), "Each profile needs its own independent agent"
+            assert set(completed) <= set(process_review.get("activeAnswerArchives", {})), "Missing revised archive"
         assert not pending, f"{len(pending)} candidates remain; next: {pending[:5]}"
         assert set(expansion["requiredAustralianIds"]) <= set(completed), "Requested Australians missing"
     return {"added": len(completed), "pending": len(pending), "skipped": len(skipped),

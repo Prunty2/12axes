@@ -1,0 +1,215 @@
+[
+  {
+    "id": "anthony-albanese",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 98.3% identico a 'julia-gillard' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 98.2% identico a 'olaf-scholz' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.4% identico a 'barack-obama' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "pauline-hanson",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "angus-taylor",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 98.8% identico a 'friedrich-merz' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.8% identico a 'john-howard' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "john-howard",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.8% identico a 'angus-taylor' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.1% identico a 'scott-morrison' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.0% identico a 'friedrich-merz' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "robert-menzies",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "gough-whitlam",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "bob-hawke",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.7% identico a 'julia-gillard' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.1% identico a 'barack-obama' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "paul-keating",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.4% identico a 'sergio-mattarella' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.3% identico a 'jimmy-carter' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.0% identico a 'bill-clinton' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "kevin-rudd",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "julia-gillard",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 98.3% identico a 'anthony-albanese' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.7% identico a 'bob-hawke' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.5% identico a 'olaf-scholz' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "tony-abbott",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.2% identico a 'margaret-thatcher' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.0% identico a 'friedrich-merz' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "malcolm-turnbull",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "scott-morrison",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.1% identico a 'john-howard' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "margaret-thatcher",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.2% identico a 'tony-abbott' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "clement-attlee",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "boris-johnson",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "keir-starmer",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.0% identico a 'kamala-harris' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "nigel-farage",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.3% identico a 'rupert-lowe' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "rupert-lowe",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.3% identico a 'nigel-farage' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "kamala-harris",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 98.8% identico a 'hillary-clinton' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.1% identico a 'mark-carney' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.0% identico a 'keir-starmer' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "hillary-clinton",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 98.8% identico a 'kamala-harris' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "jimmy-carter",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.3% identico a 'paul-keating' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.0% identico a 'angela-merkel' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "lyndon-b-johnson",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "angela-merkel",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.0% identico a 'jimmy-carter' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "olaf-scholz",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 98.2% identico a 'anthony-albanese' - perfil redundante, nao acrescenta nada ao catalogo",
+      "[CONTEUDO] 97.5% identico a 'julia-gillard' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "mark-carney",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.1% identico a 'kamala-harris' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "david-lloyd-george",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "helmut-kohl",
+    "passed": false,
+    "blockers": [
+      "[CONTEUDO] 97.3% identico a 'konrad-adenauer' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  },
+  {
+    "id": "lech-walesa",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "david-ben-gurion",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "golda-meir",
+    "passed": true,
+    "blockers": []
+  },
+  {
+    "id": "joh-bjelke-petersen",
+    "passed": true,
+    "blockers": []
+  }
+]

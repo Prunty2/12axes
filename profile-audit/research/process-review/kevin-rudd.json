@@ -1,0 +1,407 @@
+{
+  "id": "kevin-rudd",
+  "profilePeriod": "Premiership 2007–2010 and 2013; 2006 conscience speeches and explicitly dated later positions through September 2026.",
+  "sources": [
+    {
+      "id": "naa",
+      "title": "Kevin Rudd: during office",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/kevin-rudd/during-office",
+      "date": "2007–2013 (retrospective)",
+      "accessed": "2026-10-01",
+      "evidence": "National Archives documents Kyoto ratification, Indigenous apology, crisis response, Fair Work legislation and public participation initiatives."
+    },
+    {
+      "id": "health",
+      "title": "A National Health and Hospitals Network",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-17098",
+      "date": "2010-03-03",
+      "accessed": "2026-10-01",
+      "evidence": "National funding and standards combined with locally run hospital networks; proposed referendum if states refused reforms."
+    },
+    {
+      "id": "party",
+      "title": "Rudd wins Caucus support for party reform",
+      "url": "https://www.abc.net.au/news/2013-07-22/rudd-wins-caucus-support-for-party-reform/4835506",
+      "date": "2013-07-22",
+      "accessed": "2026-10-01",
+      "evidence": "Party members gained half the leadership ballot weight alongside caucus; heightened thresholds also protected the incumbent leader."
+    },
+    {
+      "id": "gfc",
+      "title": "The global financial crisis",
+      "url": "https://www.themonthly.com.au/february-2009/essays/global-financial-crisis",
+      "date": "2009-02",
+      "accessed": "2026-10-01",
+      "evidence": "Rudd argues for social democratic regulation and public action to preserve a functioning market economy, rejecting neoliberal minimal government."
+    },
+    {
+      "id": "npc",
+      "title": "National Press Club Address: The Complacent Country",
+      "url": "https://kevinrudd.com/media/national-press-club-address",
+      "date": "2026-09-10",
+      "accessed": "2026-10-01",
+      "evidence": "Supports AUKUS, US alliance, sovereign naval capability and further defence spending while expanding dialogue with China. Advocates seven sector industry plans, domestic car production and retaining Austal in Australian hands; seeks private venture capital, investment, macroeconomic discipline and post-crisis fiscal repair. AI development includes personal data opt-outs and energy safeguards; elected governments set priorities."
+    },
+    {
+      "id": "ai",
+      "title": "The Significance of AI in US-China Strategic Competition",
+      "url": "https://kevinrudd.com/media/adelaide-ai-speech",
+      "date": "2026-09-16",
+      "accessed": "2026-10-01",
+      "evidence": "Discusses AI as a strategic technological opportunity and risk in US-China competition; latest dated technology speech reviewed."
+    },
+    {
+      "id": "multicultural",
+      "title": "Ethnic Business Awards address",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-16248",
+      "date": "2008-11-18",
+      "accessed": "2026-10-01",
+      "evidence": "Celebrates immigration, ethnic enterprise and multiculturalism as an Australian way of life."
+    },
+    {
+      "id": "png",
+      "title": "Australia and Papua New Guinea Regional Settlement Arrangement",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-22764",
+      "date": "2013-07-19",
+      "accessed": "2026-10-01",
+      "evidence": "Boat arrivals without visas denied Australian settlement; PNG processing and settlement. Retains humanitarian program and possibility of expanding orderly intake."
+    },
+    {
+      "id": "trade",
+      "title": "Largest Australian free trade agreement to begin in 2010",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-16875",
+      "date": "2009-10-25",
+      "accessed": "2026-10-01",
+      "evidence": "Announces ASEAN-Australia-New Zealand agreement eliminating tariffs on most Australian exports to ASEAN."
+    },
+    {
+      "id": "faith",
+      "title": "Faith in Politics",
+      "url": "https://kevinrudd.com/archive/2006-10-01-faith-in-politics",
+      "date": "2006-10",
+      "accessed": "2026-10-01",
+      "evidence": "Christian faith motivates social justice, protection of vulnerable people and internationalism. Rejects reducing Christian politics to sexual morality or partisan allegiance."
+    },
+    {
+      "id": "marriage",
+      "title": "Church and State are able to have different positions on same-sex marriage",
+      "url": "https://kevinrudd.com/media/church-and-state-are-able-to-have-different-positions-on-same-sex-marriage",
+      "date": "2013-05-20",
+      "accessed": "2026-10-01",
+      "evidence": "Reverses prior opposition to civil same-sex marriage; supports secular marriage equality and children in loving same-sex families, with religious institutions exempt from performing such ceremonies."
+    },
+    {
+      "id": "ru486",
+      "title": "RU486 conscience speech",
+      "url": "https://www.openaustralia.org.au/debate/?id=2006-02-15.106.1",
+      "date": "2006-02-15",
+      "accessed": "2026-10-01",
+      "evidence": "Conservative sanctity-of-life views and desire to reduce abortions coexist with supporting expert TGA regulation of RU486, sex education, contraception and family support. Explicitly acknowledges state jurisdiction and reason alongside faith."
+    },
+    {
+      "id": "cloning",
+      "title": "Australian Parliament lifts ban on therapeutic cloning",
+      "url": "https://www.chron.com/news/nation-world/article/australian-parliament-lifts-ban-on-therapeutic-1877427.php",
+      "date": "2006-12-06",
+      "accessed": "2026-10-01",
+      "evidence": "Associated Press reports Rudd opposing creating human embryos solely for experimentation; does not establish opposition to all biotechnology."
+    },
+    {
+      "id": "filter",
+      "title": "Rudd says no apologies for internet filter",
+      "url": "https://itwire.com/government-tech-news/government-tech-policy/rudd-says-no-apologies-for-internet-filter",
+      "date": "2010-02-26",
+      "accessed": "2026-10-01",
+      "evidence": "Reports Rudd personally defending mandatory internet filtering as child protection; policy support rather than completed implementation."
+    },
+    {
+      "id": "death",
+      "title": "Interview on death penalty policy",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-16211",
+      "date": "2008-11",
+      "accessed": "2026-10-01",
+      "evidence": "States opposition to death penalty while distinguishing diplomatic intervention for Australians and foreign citizens."
+    },
+    {
+      "id": "euthanasia",
+      "title": "Australian Prime Minister Explains Why He Opposes Euthanasia",
+      "url": "https://www.lifesitenews.com/news/australian-prime-minister-explains-why-he-opposes-euthanasia/",
+      "date": "2008-05-02",
+      "accessed": "2026-10-01",
+      "evidence": "Reports personal opposition to euthanasia while allowing parliamentary conscience votes. Advocacy outlet; corroborating 2009 South Australian Hansard quotes opposition, so treated cautiously."
+    },
+    {
+      "id": "un",
+      "title": "Address to United Nations General Assembly",
+      "url": "https://unny.mission.gov.au/unny/080929_UNGA_RuddSpeech.html",
+      "date": "2008-09-25",
+      "accessed": "2026-10-01",
+      "evidence": "Advocates cooperation, multilateral institutions and combining national interests with international interests."
+    },
+    {
+      "id": "book",
+      "title": "The Avoidable War — publisher record",
+      "url": "https://www.hachettebookgroup.com/titles/kevin-rudd/the-avoidable-war/9781541701298/",
+      "date": "2022-03-22",
+      "accessed": "2026-10-01",
+      "evidence": "PublicAffairs publisher identifies Kevin Rudd as author and first publication 22 March 2022. Political argument for managed strategic competition to avoid US-China war."
+    },
+    {
+      "id": "ptcheck",
+      "title": "A China de Xi Jinping — Brazilian catalogue",
+      "url": "https://www.martinsfontespaulista.com.br/a-china-de-xi-jinping-1199857/p",
+      "date": "2026 edition",
+      "accessed": "2026-10-01",
+      "evidence": "Author biography calls another work A guerra evitável but supplies no edition record for it. This alone does not verify a Brazilian translation of The Avoidable War."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "2010 reform centralised funding and standards while retaining local hospital delivery.",
+        "2006 RU486 speech recognised constitutional state responsibilities."
+      ],
+      "sources": [
+        "health",
+        "ru486"
+      ],
+      "tension": "National coordination and equal provision do not mean abolishing states, municipalities or all local discretion."
+    },
+    "representacao": {
+      "facts": [
+        "2013 reform widened party-member leadership voting.",
+        "2026 speech assigns elected government policy authority and public servants implementation."
+      ],
+      "sources": [
+        "party",
+        "npc"
+      ],
+      "tension": "Leadership stabilisation and expert administration coexist with elections, parliamentary opposition and accountability; not assembly anarchism or expert rule without votes."
+    },
+    "poder": {
+      "facts": [
+        "Defended internet filtering in 2010.",
+        "Opposed death penalty and personally opposed euthanasia.",
+        "2026 advocated enforceable AI personal-data protections."
+      ],
+      "sources": [
+        "filter",
+        "death",
+        "euthanasia",
+        "npc"
+      ],
+      "tension": "Protective regulation and policing coexist with judicial rights and data privacy; filtering is not proof of support for unlimited censorship or indefinite imprisonment."
+    },
+    "imigracao": {
+      "facts": [
+        "Praised multiculturalism and immigrant enterprise in 2008.",
+        "2013 PNG arrangement excluded unauthorised boat arrivals from settlement while maintaining humanitarian intake."
+      ],
+      "sources": [
+        "multicultural",
+        "png"
+      ],
+      "tension": "Strict border enforcement is not ethnic assimilation or rejection of plural cultures; civic integration is distinct from surrendering ancestral traditions."
+    },
+    "diplomacia": {
+      "facts": [
+        "2026 endorsed AUKUS, naval capacity and higher defence spending.",
+        "UN speech and 2022 book promote diplomacy to avoid catastrophic war."
+      ],
+      "sources": [
+        "npc",
+        "un",
+        "book"
+      ],
+      "tension": "Armed deterrence and allied security, but not preventive wars for prestige, nuclear proliferation or absolute pacifism."
+    },
+    "intervencao": {
+      "facts": [
+        "UN cooperation and international law are central.",
+        "2026 calls for stronger regional defence partnerships and national resilience."
+      ],
+      "sources": [
+        "un",
+        "npc"
+      ],
+      "tension": "Active alliance diplomacy and regional influence coexist with constraints on unilateral domination; not blanket neutrality or withdrawal from peacekeeping."
+    },
+    "economia": {
+      "facts": [
+        "Public crisis intervention, Fair Work and national health funding.",
+        "2026 industry policy explicitly partners with private companies and venture capital."
+      ],
+      "sources": [
+        "naa",
+        "health",
+        "gfc",
+        "npc"
+      ],
+      "tension": "Regulated capitalism and public essential services, neither collective ownership of all production nor privatisation of all services."
+    },
+    "controle": {
+      "facts": [
+        "2009 case for social democratic financial oversight.",
+        "2026 seven sector industry plans, renewable finance, Keynesian countercyclical spending and subsequent fiscal repair."
+      ],
+      "sources": [
+        "gfc",
+        "npc"
+      ],
+      "tension": "Strategic state coordination does not entail a command economy, permanent deficits or abolishing independent market price signals."
+    },
+    "comercio": {
+      "facts": [
+        "2009 ASEAN agreement expands free trade and tariff reduction.",
+        "2026 wants domestic auto and critical supply capabilities and Australian ownership of Austal."
+      ],
+      "sources": [
+        "trade",
+        "npc"
+      ],
+      "tension": "Integration with targeted resilience and ownership safeguards; neither economic autarky nor unconditional free trade regardless of strategic consequences."
+    },
+    "religiao": {
+      "facts": [
+        "2006 Christian social-gospel political argument.",
+        "2013 explicit secular civil marriage alongside religious freedom."
+      ],
+      "sources": [
+        "faith",
+        "ru486",
+        "marriage"
+      ],
+      "tension": "Personal faith and religious public voices without theocracy, official majority religious law or denying nonbelievers moral capacity."
+    },
+    "moral": {
+      "facts": [
+        "2013 accepts marriage equality and same-sex parenting evidence.",
+        "2006 morally conservative abortion language alongside sex education, contraception and RU486 access."
+      ],
+      "sources": [
+        "marriage",
+        "ru486",
+        "naa"
+      ],
+      "tension": "Later equal civil rights should not be erased by early conservatism, nor should religious family/bioethical reservations disappear into unrestricted lifestyle libertarianism."
+    },
+    "tecnologia": {
+      "facts": [
+        "2026 embraces AI, biotechnology, industrial innovation and renewable energy.",
+        "2006 opposed creating embryos for research.",
+        "Kyoto and climate response prioritised."
+      ],
+      "sources": [
+        "npc",
+        "ai",
+        "cloning",
+        "naa"
+      ],
+      "tension": "Technology for growth and climate action with biological ethics and privacy safeguards; neither primitivism nor unconstrained enhancement."
+    }
+  },
+  "limitations": [
+    "Public record does not answer every modern hypothetical: facial recognition, crypto, enhancement, polyamory and Brazilian quotas require bounded interpretation, not invented quotations.",
+    "Brazil-specific institutions and regions are interpreted by political principle in Australian context.",
+    "No verified later reversal of 2006 embryo ethics or 2008 euthanasia stance was found; these are explicitly dated, not asserted as freshly restated in 2026.",
+    "Searches through 2026-10-01 checked recent AUKUS, AI and industry speeches; profile period remains the original explicit scope.",
+    "No Brazilian edition of The Avoidable War was verified after original title, Portuguese title, ISBN and Brazilian retail searches; translated biography mention alone insufficient. Original title retained."
+  ],
+  "recommendedMetadata": {
+    "status": "accurate-no-change",
+    "reason": "PT and EN descriptions remain factually accurate; detailed newer positions belong in prompt context. Coordinator notified before answers."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political strategy book, directly relevant to his international thought; publisher verifies author and first year. No existing books.json entry; original title used because Brazilian translation not verified.",
+    "book": {
+      "personalityId": "kevin-rudd",
+      "title": {
+        "pt": "The Avoidable War: The Dangers of a Catastrophic Conflict between the US and Xi Jinping's China",
+        "en": "The Avoidable War: The Dangers of a Catastrophic Conflict between the US and Xi Jinping's China"
+      },
+      "year": 2022,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book",
+      "ptcheck"
+    ]
+  },
+  "processNotes": {
+    "method": "Single independent audit; read metadata and original research period/source URLs only; no archived answers, stored vectors or similarity reports read.",
+    "likelyNeighboursAndDistinctions": [
+      "Julia Gillard: shared Labor policy but Rudd has explicit Christian social-gospel reasoning and reversed marriage opposition in 2013.",
+      "Paul Keating: shared Asian engagement but Rudd endorses AUKUS and US alliance as continuing security assets.",
+      "Tony Blair: shared regulated markets and Christian engagement, but Rudd emphasises UN diplomacy, Asia and Iraq combat withdrawal.",
+      "Bob Hawke: shared Labor international economic integration, while Rudd is particularly defined by GFC stimulus, broadband and later strategic industrial policy."
+    ],
+    "researchBeforeAnswers": true,
+    "metadataBeforeAnswers": true,
+    "dedicatedWeakAxisSearches": [
+      "federal health structure and local delivery",
+      "party democracy reform",
+      "death penalty, euthanasia, internet filtering",
+      "religious public role and RU486",
+      "embryo research limits",
+      "trade agreements and 2026 industry policy",
+      "Portuguese book edition verification"
+    ],
+    "promptSha256": "03c1f9ebcf11e6a42d22d8e4641916d6e6812373f2073235908c88ef831aa3e8",
+    "answerSha256": "fd810292c5d70cc44c64028d01167f0b73a7ead5152458f29c8572c342f29208",
+    "neutralCounts": {
+      "estrutura": 0,
+      "representacao": 0,
+      "poder": 1,
+      "imigracao": 1,
+      "diplomacia": 0,
+      "intervencao": 0,
+      "economia": 2,
+      "controle": 1,
+      "comercio": 2,
+      "religiao": 1,
+      "moral": 3,
+      "tecnologia": 2
+    },
+    "neutralTotal": 13,
+    "neutralPercentage": 5.416666666666667,
+    "validation": {
+      "command": "python3 profile-audit/validate.py personality kevin-rudd",
+      "exitCode": 1,
+      "stdout": "validando personality:kevin-rudd\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/kevin-rudd.json\n\n[ARQUETIPO] sociedade F · poder C · economia C · mundo B · tecnologia D\n[NEUTROS] total 13/240 = 5.4%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         43.8  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             61.5  liberdade civil <-> ordem/vigilancia\n  imigracao         33.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        38.6  pacifista <-> militarista\n  intervencao       37.6  nacionalista assertivo <-> nao-intervencionista\n  economia          61.5  privado/mercado <-> publico/coletivo\n  controle          58.0  livre mercado <-> planejamento\n  comercio          34.1  livre comercio/globalista <-> protecionista\n  religiao          35.7  religioso <-> irreligioso/secular\n  moral             64.1  tradicionalista <-> progressista\n  tecnologia        53.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         43.8   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             61.5   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         33.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        38.6   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       37.6   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          61.5   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          58.0   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          34.1   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          35.7   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             64.1   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        53.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.2%  sergio-mattarella  <<< BLOQUEIA\n   97.1%  anthony-albanese  <<< BLOQUEIA\n   95.5%  barack-obama  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.5% proximo de 'barack-obama'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.2% identico a 'sergio-mattarella' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.1% identico a 'anthony-albanese' - perfil redundante, nao acrescenta nada ao catalogo\n",
+      "stderr": ""
+    },
+    "archetypes": {
+      "sociedade": "F",
+      "poder": "C",
+      "economia": "C",
+      "mundo": "B",
+      "tecnologia": "D"
+    },
+    "scoreTuning": false,
+    "neutralRationales": {
+      "poder_17": "Internet protection and accountability pull against blanket government authority to remove allegedly false speech.",
+      "imigracao_11": "Civic integration supported, compulsory conformity to all local customs rejected.",
+      "economia_02": "Competition can justify private provision, but core public services retain public obligations.",
+      "economia_19": "Undervaluation is a reason against a particular sale, not necessarily permanent ownership of every asset.",
+      "controle_09": "Emergency protection of tenants competes with preference for workable market incentives; no unconditional freeze preference inferred.",
+      "comercio_07": "General openness conflicts with targeted strategic employment and industrial safeguards.",
+      "comercio_19": "National resilience matters but consumer welfare and integration remain substantive goals.",
+      "religiao_14": "Marriage is religious within churches and simultaneously civil within secular law.",
+      "moral_02": "Family commitment retained while equal legitimacy of same-sex and other loving families accepted.",
+      "moral_09": "Personal sanctity-of-life concern alongside legal reproductive access makes the moral formulation genuinely ambivalent.",
+      "moral_13": "Protection of vulnerable people and lawful autonomy coexist with religious moral reservations about commodification.",
+      "tecnologia_13": "Supports urban economic capacity without treating urban life as inherently superior to rural life.",
+      "tecnologia_15": "Therapeutic technological benefit competes with ethical limits on elective human enhancement."
+    },
+    "promptIntegrity": {
+      "exactReadmeMethodology": true,
+      "exactQuestionsTemplate": true,
+      "questionCount": 240,
+      "freshArchetypeBlockCommand": "python3 profile-audit/profile_vector.py --prompt-block"
+    }
+  }
+}

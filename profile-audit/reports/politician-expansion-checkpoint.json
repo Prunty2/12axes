@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "status": "complete",
+  "status": "awaiting_user_disposition",
   "branch": "feature/expand-politician-comparisons",
   "added": [
     "anthony-albanese",
@@ -49,7 +49,7 @@
     "visual": "All 32 portraits inspected. English profile pages inspected for all additions except Menzies and Whitlam; personality comparison tabs inspected for all except Menzies, Whitlam, Hanson and Taylor. Wałęsa, Ben-Gurion, Meir and Joh Bjelke-Petersen detail pages and comparison tabs passed the final browser spot check. Quiz submissions verified by backend integration tests, not a full browser questionnaire run.",
     "preservation": "All 386 pre-existing PT metadata, EN metadata and saved vector records equal base a1dc5b4 exactly. Runtime quiz/scoring code unchanged. Follow-up also preserves all 417 profiles present at 549333e."
   },
-  "remaining": "None. The requested 32-profile expansion is complete; Joh Bjelke-Petersen is included in the existing draft PR.",
+  "remaining": [],
   "scopeRevision": {
     "date": "2026-09-30",
     "previousCandidateCount": 247,
@@ -132,5 +132,40 @@
     "draft": true,
     "base": "Prunty2/12axes:main",
     "head": "feature/expand-politician-comparisons"
-  }
+  },
+  "independentlyReviewed": 32,
+  "pendingDisposition": [
+    "anthony-albanese",
+    "pauline-hanson",
+    "angus-taylor",
+    "john-howard",
+    "robert-menzies",
+    "gough-whitlam",
+    "bob-hawke",
+    "paul-keating",
+    "kevin-rudd",
+    "julia-gillard",
+    "tony-abbott",
+    "malcolm-turnbull",
+    "scott-morrison",
+    "margaret-thatcher",
+    "clement-attlee",
+    "boris-johnson",
+    "keir-starmer",
+    "nigel-farage",
+    "rupert-lowe",
+    "kamala-harris",
+    "hillary-clinton",
+    "jimmy-carter",
+    "lyndon-b-johnson",
+    "angela-merkel",
+    "olaf-scholz",
+    "mark-carney",
+    "david-lloyd-george",
+    "helmut-kohl",
+    "lech-walesa",
+    "david-ben-gurion",
+    "golda-meir",
+    "joh-bjelke-petersen"
+  ]
 }

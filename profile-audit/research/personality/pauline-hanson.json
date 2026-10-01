@@ -1,295 +1,324 @@
 {
   "id": "pauline-hanson",
   "country": "Australia",
-  "researchedOn": "2026-09-30",
+  "researchedOn": "2026-10-01",
   "profilePeriod": "Federal political positions through September 2026, prioritising June–July 2026 statements and current published policies",
   "scopeNote": "Answers are editorial simulations of documented political principles, not a questionnaire completed by the person. Brazil-specific statements are interpreted in the analogous home-country context. Modern hypothetical technologies require inference.",
   "sources": [
     {
       "id": "principles",
-      "title": "Hanson: biography, federalism and political principles",
+      "title": "Hanson Senate website: federalism, property rights, public bank, political freedoms.",
       "url": "https://www.senatorhanson.com.au/pauline-hanson-senate-website/",
-      "factDate": "Undated standing statement; contains older positions, checked against 2026 platform",
-      "accessedOn": "2026-09-30"
+      "factDate": "Undated source; see evidence context",
+      "accessedOn": "2026-10-01",
+      "evidence": "Hanson Senate website: federalism, property rights, public bank, political freedoms."
     },
     {
-      "id": "referenda",
-      "title": "One Nation: citizen-initiated referenda",
-      "url": "https://www.onenation.org.au/citizen-initiated-referenda",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
-    },
-    {
-      "id": "speech",
-      "title": "One Nation: constitutional free-speech protection",
-      "url": "https://www.onenation.org.au/free-speech-policy",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
-    },
-    {
-      "id": "covid",
-      "title": "One Nation: opposition to vaccine mandates",
-      "url": "https://www.onenation.org.au/covid",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
-    },
-    {
-      "id": "guns",
-      "title": "One Nation: licensed firearms ownership",
-      "url": "https://www.onenation.org.au/firearms",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
-    },
-    {
-      "id": "cannabis",
-      "title": "One Nation: medicinal cannabis",
-      "url": "https://www.onenation.org.au/cannabis",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
-    },
-    {
-      "id": "digital",
-      "title": "One Nation: opposition to digital ID",
-      "url": "https://www.onenation.org.au/the-on-going-digital-id-battle",
-      "factDate": "2024 article, accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
-    },
-    {
-      "id": "territories",
-      "title": "Parliament: Restoring Territory Rights Bill",
-      "url": "https://www.aph.gov.au/sitecore/content/Home/Parliamentary_Business/Bills_Legislation/bd/bd2223a/23bd005",
-      "factDate": "2022 legislative briefing",
-      "accessedOn": "2026-09-30"
-    },
-    {
-      "id": "territory-votes",
-      "title": "They Vote For You: Hanson votes on territory assisted-dying powers",
-      "url": "https://theyvoteforyou.org.au/people/senate/queensland/pauline_hanson/policies/190",
-      "factDate": "2018 and 2022 Senate divisions",
-      "accessedOn": "2026-09-30"
-    },
-    {
-      "id": "capital-punishment",
-      "title": "Report of Hanson supporting capital punishment in Sky News interview",
-      "url": "https://article.wn.com/view/2025/09/18/Pauline_Hanson_calls_for_the_death_penalty_to_return_to_Aust/",
-      "factDate": "2025-09-18 syndicated report; current implementation commitment uncertain",
-      "accessedOn": "2026-09-30"
+      "id": "gas",
+      "title": "Optional non-operating Commonwealth equity of up to 30%, exploration rebate; rejects coercive takeover and blanket reservation; deregulation and export partners",
+      "url": "https://www.onenation.org.au/gas-policy-ownership",
+      "factDate": "2026-06-09",
+      "accessedOn": "2026-10-01",
+      "evidence": "Optional non-operating Commonwealth equity of up to 30%, exploration rebate; rejects coercive takeover and blanket reservation; deregulation and export partnerships."
     },
     {
       "id": "immigration",
-      "title": "One Nation: migration restrictions and visa enforcement",
-      "url": "https://www.onenation.org.au/immigration",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
+      "title": "750,000 fewer temporary visas; net-negative migration for three years then net cap of 130,000; retains selective high-skill entry.",
+      "url": "https://www.onenation.org.au/immigration-radical-reset",
+      "factDate": "2026-09-15",
+      "accessedOn": "2026-10-01",
+      "evidence": "750,000 fewer temporary visas; net-negative migration for three years then net cap of 130,000; retains selective high-skill entry."
     },
     {
-      "id": "press-club",
-      "title": "ABC: Hanson Press Club address on culture, work and social issues",
-      "url": "https://www.abc.net.au/news/2026-06-17/pauline-hanson-press-club-address-banner-stunt-one-nation/106808570",
-      "factDate": "2026-06-17",
-      "accessedOn": "2026-09-30"
+      "id": "immigration_check",
+      "title": "Independent reporting confirms new plan and selective exceptions, including seasonal workers.",
+      "url": "https://www.abc.net.au/news/2026-09-14/750k-visas-cut-under-one-nation-plan/107149702",
+      "factDate": "2026-09-14",
+      "accessedOn": "2026-10-01",
+      "evidence": "Independent reporting confirms new plan and selective exceptions, including seasonal workers."
     },
     {
-      "id": "burqa",
-      "title": "AP: Hanson campaigns for national public face-covering ban",
-      "url": "https://apnews.com/article/2db5e6143fbf3b9c77e1bac14ab32499",
-      "factDate": "2025-11-25",
-      "accessedOn": "2026-09-30"
-    },
-    {
-      "id": "foreign-policy",
-      "title": "ABC: Hansons positions on AUKUS, Taiwan, defence and international institutions",
+      "id": "defence",
+      "title": "Hanson seeks higher military spending and missiles, supports AUKUS, Taiwan recognition and tariffs; seeks major foreign-aid reductions.",
       "url": "https://www.abc.net.au/news/2026-06-21/one-nation-foreign-policy-revealed/106822090",
       "factDate": "2026-06-21",
-      "accessedOn": "2026-09-30"
+      "accessedOn": "2026-10-01",
+      "evidence": "Hanson seeks higher military spending and missiles, supports AUKUS, Taiwan recognition and tariffs; seeks major foreign-aid reductions."
     },
     {
-      "id": "oil",
-      "title": "One Nation: proposed public stakes in oil and gas",
-      "url": "https://www.onenation.org.au/oil-and-gas",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
+      "id": "defence_check",
+      "title": "Independent government-hosted interview discusses Hanson five-percent spending proposal; opposition criticism and claimed fiscal cost are not neutral findings.",
+      "url": "https://www.minister.defence.gov.au/transcripts/2026-06-10/television-interview-sky-politics-now",
+      "factDate": "2026-06-10",
+      "accessedOn": "2026-10-01",
+      "evidence": "Independent government-hosted interview discusses Hanson five-percent spending proposal; opposition criticism and claimed fiscal cost are not neutral findings."
     },
     {
-      "id": "ownership",
-      "title": "One Nation: foreign ownership restrictions",
-      "url": "https://www.onenation.org.au/foreign-ownership",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
+      "id": "trade",
+      "title": "Hanson supports sovereign manufacturing, Trump tariffs and stronger US relationship while criticizing Chinese influence.",
+      "url": "https://www.onenation.org.au/hanson-albanese-china-sovereignty",
+      "factDate": "2025-07-10",
+      "accessedOn": "2026-10-01",
+      "evidence": "Hanson supports sovereign manufacturing, Trump tariffs and stronger US relationship while criticizing Chinese influence."
     },
     {
-      "id": "tax",
-      "title": "One Nation: multinational taxation and opposition to inheritance tax",
-      "url": "https://www.onenation.org.au/tax",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
+      "id": "rights",
+      "title": "Hanson opposes digital ID over privacy, surveillance and function-creep concerns.",
+      "url": "https://www.onenation.org.au/digital-id-laws",
+      "factDate": "2024-03-27",
+      "accessedOn": "2026-10-01",
+      "evidence": "Hanson opposes digital ID over privacy, surveillance and function-creep concerns."
     },
     {
-      "id": "family-tax",
-      "title": "One Nation: family income splitting",
-      "url": "https://www.onenation.org.au/famly-tax-policy",
-      "factDate": "2025 policy; still published 2026-09-30",
-      "accessedOn": "2026-09-30"
+      "id": "crime",
+      "title": "Hanson visited Operation Hard Yakka; party supports youth intervention and redirection training. Party success-rate claims are not independently verified.",
+      "url": "https://qld.onenation.org.au/nationals-play-catch-up-with-one-nation-again-",
+      "factDate": "2024-03-14",
+      "accessedOn": "2026-10-01",
+      "evidence": "Hanson visited Operation Hard Yakka; party supports youth intervention and redirection training. Party success-rate claims are not independently verified."
     },
     {
-      "id": "economic-review",
-      "title": "ABC: economic proposals, mortgages and monetary policy",
-      "url": "https://www.abc.net.au/news/2026-07-15/one-nation-economic-policies-reserve-bank-gina-rinehart/106909282",
-      "factDate": "2026-07-15",
-      "accessedOn": "2026-09-30"
+      "id": "policies",
+      "title": "Citizen referendums; vaccine-mandate opposition; licensed farm/sport guns and tougher gun-trafficking sentences; public health; pro-life policy and parental cho",
+      "url": "https://www.onenation.org.au/issues",
+      "factDate": "Undated source; see evidence context",
+      "accessedOn": "2026-10-01",
+      "evidence": "Citizen referendums; vaccine-mandate opposition; licensed farm/sport guns and tougher gun-trafficking sentences; public health; pro-life policy and parental choice."
+    },
+    {
+      "id": "cost",
+      "title": "Income splitting and tax relief, lower fuel excise, increased Medicare rebates; electricity market reform.",
+      "url": "https://www.onenation.org.au/reduce-cost-of-living",
+      "factDate": "Undated source; see evidence context",
+      "accessedOn": "2026-10-01",
+      "evidence": "Income splitting and tax relief, lower fuel excise, increased Medicare rebates; electricity market reform."
     },
     {
       "id": "religion",
-      "title": "ABC transcript: Hanson Senate speech distinguishes Christian heritage and secular government",
+      "title": "Hanson supports religious schools and federal override of state laws to preserve religious exemptions; historical Morrison-government context, not dated 2026.",
+      "url": "https://www.onenation.org.au/why-we-protect-religious-freedom",
+      "factDate": "Undated source; see evidence context",
+      "accessedOn": "2026-10-01",
+      "evidence": "Hanson supports religious schools and federal override of state laws to preserve religious exemptions; historical Morrison-government context, not dated 2026."
+    },
+    {
+      "id": "secular",
+      "title": "Transcript of September 14 speech: identifies Christian cultural inheritance but expressly endorses secular government and church-state separation.",
       "url": "https://www.abc.net.au/news/2016-09-15/pauline-hanson-maiden-speech-2016/7847136",
-      "factDate": "2016-09-14 speech; published 2016-09-15",
-      "accessedOn": "2026-09-30"
+      "factDate": "2016-09-15",
+      "accessedOn": "2026-10-01",
+      "evidence": "Transcript of September 14 speech: identifies Christian cultural inheritance but expressly endorses secular government and church-state separation."
     },
     {
-      "id": "abortion",
-      "title": "One Nation: abortion restrictions and conscientious objection",
-      "url": "https://www.onenation.org.au/pro-life",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
-    },
-    {
-      "id": "education",
-      "title": "One Nation: education and gender curriculum",
-      "url": "https://www.onenation.org.au/education",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
+      "id": "controversy",
+      "title": "Reported question: How can you tell me there are good Muslims? Subsequently offered a qualified apology and denied meaning that no good Muslims exist; demanded ",
+      "url": "https://www.abc.net.au/news/2026-02-18/pauline-hanson-partially-apologises-for-muslim-remarks/106357130",
+      "factDate": "2026-02-18",
+      "accessedOn": "2026-10-01",
+      "evidence": "Reported question: How can you tell me there are good Muslims? Subsequently offered a qualified apology and denied meaning that no good Muslims exist; demanded stricter vetting."
     },
     {
       "id": "nuclear",
-      "title": "One Nation: nuclear energy and hydroelectricity",
+      "title": "Repeal nuclear ban, build a reactor and dams; industry and energy security.",
       "url": "https://www.onenation.org.au/embracing-nuclear-energy-hydro-australia-future",
-      "factDate": "Standing policy accessed 2026-09-30",
-      "accessedOn": "2026-09-30"
+      "factDate": "Undated source; see evidence context",
+      "accessedOn": "2026-10-01",
+      "evidence": "Repeal nuclear ban, build a reactor and dams; industry and energy security."
     },
     {
       "id": "ai",
-      "title": "One Nation: AI safeguards advocated by Hanson",
+      "title": "Party reports Hanson called for AI safeguards at National Press Club: acknowledges economic benefits while requiring protections for rights, employment and priv",
       "url": "https://www.onenation.org.au/uncertain-future-ai",
       "factDate": "2026-07-17",
-      "accessedOn": "2026-09-30"
+      "accessedOn": "2026-10-01",
+      "evidence": "Party reports Hanson called for AI safeguards at National Press Club: acknowledges economic benefits while requiring protections for rights, employment and privacy."
+    },
+    {
+      "id": "book",
+      "title": "Lists Pauline Lee Hanson as author, Wilkinson, ISBN 9781925642384, first publication 2018; political speech collection.",
+      "url": "https://www.collinsbooks.com.au/p/non-fiction-pauline-in-her-own-words--3",
+      "factDate": "2018",
+      "accessedOn": "2026-10-01",
+      "evidence": "Lists Pauline Lee Hanson as author, Wilkinson, ISBN 9781925642384, first publication 2018; political speech collection."
+    },
+    {
+      "id": "book_editor",
+      "title": "Ravlic compiled her speeches; he did not co-write them with her.",
+      "url": "https://www.theguardian.com/media/2018/mar/09/michaelia-cashs-officials-take-awkward-questions-off-the-record",
+      "factDate": "2018-03-09",
+      "accessedOn": "2026-10-01",
+      "evidence": "Ravlic compiled her speeches; he did not co-write them with her."
+    },
+    {
+      "id": "memoir",
+      "title": "Contemporary launch of Untamed and Unashamed, alternative political autobiography.",
+      "url": "https://www.abc.net.au/listen/programs/radionational-breakfast/pauline-hanson/3399360",
+      "factDate": "2007-03-29",
+      "accessedOn": "2026-10-01",
+      "evidence": "Contemporary launch of Untamed and Unashamed, alternative political autobiography."
     }
   ],
   "axes": {
     "estrutura": {
       "sourceIds": [
         "principles",
-        "territories",
-        "territory-votes",
-        "education"
-      ]
+        "religion"
+      ],
+      "facts": "Federalismo é princípio explícito; aceita intervenção federal para proteger escolas religiosas de legislação estadual. Nacionalismo não implica abolir os estados. Igualdade perante a lei e rejeição de legislação racial especial limitam autonomia cultural separada.",
+      "tension": null
     },
     "representacao": {
       "sourceIds": [
-        "referenda",
-        "speech",
-        "press-club"
-      ]
+        "policies",
+        "principles"
+      ],
+      "facts": "Defende referendos iniciados por cidadãos e representação eleitoral, expressão e prestação de contas. Não há proposta verificada de abolir eleições, entregar governo a especialistas ou substituir parlamento por assembleias sem líderes.",
+      "tension": null
     },
     "poder": {
       "sourceIds": [
-        "guns",
-        "speech",
-        "covid",
-        "digital",
-        "territory-votes",
-        "capital-punishment",
-        "cannabis",
-        "principles"
-      ]
+        "rights",
+        "crime",
+        "policies"
+      ],
+      "facts": "Combina oposição a identidade digital e vacinas obrigatórias com penas mais duras para tráfico de armas e intervenção disciplinar em jovens infratores. Armas licenciadas para trabalho/esporte não equivalem automaticamente a armas para defesa doméstica; cannabis medicinal não equivale a legalização recreativa.",
+      "tension": null
     },
     "imigracao": {
       "sourceIds": [
         "immigration",
-        "press-club",
-        "burqa"
-      ]
+        "immigration_check",
+        "controversy",
+        "secular"
+      ],
+      "facts": "Plano de setembro de 2026 endurece o corte para migração líquida negativa durante três anos, com redução de 750 mil vistos temporários e teto posterior. Exige assimilação e lealdade, mas aceita imigração selecionada; não é autarquia migratória absoluta.",
+      "tension": null
     },
     "diplomacia": {
       "sourceIds": [
-        "foreign-policy",
-        "principles"
-      ]
+        "defence",
+        "defence_check"
+      ],
+      "facts": "Quer ampliar gastos militares, mísseis e capacidade dissuasória; apoia AUKUS. Valor militar não prova apoio a armamento nuclear próprio nem conscrição geral; não foi verificada proposta específica nesses dois pontos.",
+      "tension": null
     },
     "intervencao": {
       "sourceIds": [
-        "foreign-policy",
-        "immigration"
-      ]
+        "defence",
+        "trade"
+      ],
+      "facts": "Apoia aliança militar com EUA e reconhecimento de Taiwan, critica influência chinesa e quer reduzir ajuda externa. Soberania assertiva e cooperação com aliados coexistem; reduzir ajuda não implica neutralidade ou recusa absoluta de projeção externa.",
+      "tension": null
     },
     "economia": {
       "sourceIds": [
-        "oil",
         "principles",
-        "economic-review",
-        "press-club",
-        "tax"
-      ]
+        "gas",
+        "cost"
+      ],
+      "facts": "Defende propriedade privada e pequenos negócios, banco público e Medicare. Em junho de 2026 propôs participação estatal minoritária não operadora no gás, por investimento voluntário; rejeita expropriação. Não converter propriedade pública estratégica em socialização geral.",
+      "tension": null
     },
     "controle": {
       "sourceIds": [
-        "family-tax",
-        "tax",
-        "economic-review",
-        "press-club",
-        "oil"
-      ]
+        "gas",
+        "cost",
+        "ai"
+      ],
+      "facts": "Reduzir tributos e burocracia coexistem com apoio estatal setorial, incentivos e regulação de IA. A proposta de gás rejeita reserva compulsória generalizada e deixa operação à indústria. Não há evidência suficiente de uma doutrina detalhada de câmbio ou criptomoedas.",
+      "tension": null
     },
     "comercio": {
       "sourceIds": [
-        "ownership",
-        "foreign-policy",
-        "principles"
-      ]
+        "trade",
+        "gas"
+      ],
+      "facts": "Defende tarifas e reindustrialização, mas quer manter exportações de gás e parcerias comerciais com Japão e Coreia do Sul, com previsibilidade ao investidor. Protecionismo seletivo, não produção doméstica de absolutamente tudo.",
+      "tension": null
     },
     "religiao": {
       "sourceIds": [
         "religion",
-        "press-club",
-        "burqa"
-      ]
+        "secular",
+        "controversy"
+      ],
+      "facts": "Defende herança cristã e instituições confessionais, ao mesmo tempo que reconhece governo secular e separação Estado-igreja. Ataques generalizantes a muçulmanos não demonstram submissão das leis civis à autoridade religiosa.",
+      "tension": null
     },
     "moral": {
       "sourceIds": [
-        "education",
-        "abortion",
-        "press-club",
-        "family-tax",
-        "principles"
-      ]
+        "policies",
+        "religion"
+      ],
+      "facts": "Defende família, autonomia parental e proteção de escolas religiosas, busca restringir aborto, especialmente tardio. Sua atuação pública e profissional como mulher não justifica inferir confinamento obrigatório das mulheres ao lar.",
+      "tension": null
     },
     "tecnologia": {
       "sourceIds": [
         "nuclear",
         "ai",
-        "principles",
-        "economic-review"
-      ]
+        "gas"
+      ],
+      "facts": "Defende nuclear, barragens e expansão industrial/energética, com salvaguardas para IA e empregos. Isso não implica transumanismo, edição estética de embriões ou substituição da pecuária por carne cultivada; itens biomédicos exigem inferência cautelosa.",
+      "tension": null
     }
   },
   "uncertainties": [
-    "The answers are editorial simulations, not 240 direct personal statements. Institutional hypotheticals, biometric policing, recreational drugs and biotechnology use qualified inference.",
-    "The older Senate website remains useful for explicit federalism and ownership principles but is not treated as proof that every historical proposal remains current.",
-    "Published migration caps, net-migration targets and defence spending figures vary between statements and definitions. The profile represents the stated restrictive migration and higher-defence direction, without selecting a single disputed number.",
-    "Party policy is attributed only where consistent with Hansons leadership statements; Malcolm Roberts statements about the US and Barnaby Joyces detailed monetary ideas are not automatically her personal views.",
-    "Territory-rights votes concern who can legislate, not endorsement of every assisted-dying provision. The related questionnaire response is a qualified inference.",
-    "Capital-punishment support is reported in a 2025 interview; a firm 2026 implementation pledge was not established. The answer reflects personal support with reduced certainty, not a claimed current bill.",
-    "Abortion policy language about existing law is advocacy, not an authoritative description of Australian law. Hansons 2026 refusal to name a gestational cutoff and stated life-saving exception are retained."
+    "Quiz responses simulate likely positions; they are not 240 verified personal quotations. Brazilian territorial references are interpreted by analogous Australian institutions.",
+    "No direct established positions located for brain implants, genetic enhancement, cryptocurrency competition, general conscription or independent nuclear weapons; reasoned policy extrapolation must remain moderate.",
+    "Party regional crime policies are supporting context rather than proof of identical federal sentencing details.",
+    "Undated policy pages are recorded as undated; the June 9 gas page overrides its misleading relative search date.",
+    "Opposition defence-cost rhetoric is attributed as criticism, not accepted as neutral cost verification.",
+    "Unverified social-media claims about Hanson supporting Australian participation in the 2026 Iran war were excluded."
   ],
   "distinctions": [
-    "Likely neighbours include Trump and other national conservatives, but Hansons public-bank and energy-equity proposals differ from a uniformly privatising model.",
-    "Civil-liberty claims on speech, vaccines and digital ID coexist with coercive cultural and security policies.",
-    "Federalism and popular referendums coexist with opposition to separate Indigenous legal or representative institutions.",
-    "Support for nuclear energy and industry coexists with AI safeguards and caution about human enhancement."
+    {
+      "name": "Nigel Farage",
+      "distinction": "Shares immigration restriction and referendum politics; Hanson explicitly supports a government-owned bank and selective public resource equity, so do not assume a blanket privatization stance."
+    },
+    {
+      "name": "Marine Le Pen",
+      "distinction": "Shares assimilation and economic protection; Hanson expressly defends Australian state federalism and AUKUS, rather than deriving institutional positions from French national politics."
+    },
+    {
+      "name": "Donald Trump",
+      "distinction": "Shares tariff advocacy and anti-immigration politics; Hanson speaks from an Australian middle-power alliance and supports Medicare and a public bank. No numeric similarity assumed."
+    }
   ],
   "portrait": {
     "article": "https://en.wikipedia.org/wiki/Pauline_Hanson",
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Pauline_Hanson_2017_05_%283x4_cropped%29.jpg/330px-Pauline_Hanson_2017_05_%283x4_cropped%29.jpg",
     "descriptionPage": "https://commons.wikimedia.org/wiki/File:Pauline_Hanson_2017_05_(3x4_cropped).jpg",
     "visuallyChecked": true
+  },
+  "independentAudit": {
+    "date": "2026-10-01",
+    "researchPath": "profile-audit/research/process-review/pauline-hanson.json",
+    "answerArchive": "profile-audit/answers/personality/revisions/2026-10-01/pauline-hanson.json",
+    "agent": "/root/independent_hanson",
+    "answersSha256": "be57df2c4b0be270d29db1ce0ee796d4494ef598fcc1c7fe8a65e5b4310bda40",
+    "validation": "Passed original validator and below 95% review threshold."
+  },
+  "bookDecision": {
+    "decision": "recommend",
+    "entry": {
+      "personalityId": "pauline-hanson",
+      "title": {
+        "pt": "Pauline: In Her Own Words",
+        "en": "Pauline: In Her Own Words"
+      },
+      "year": 2018,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "reason": "Collection of her own political speeches on taxation, farming, immigration and family policy; Tom Ravlic is compiler, not replacement author. More directly expresses political positions than the 2007 memoir. No Portuguese edition found, so retain original title.",
+    "sources": [
+      "book",
+      "book_editor"
+    ],
+    "rejectedAlternative": "Pauline Hanson: The Truth (1997) has disputed authorship and is not used. Untamed and Unashamed (2007) is a verified autobiography but secondary to the speech collection.",
+    "limitation": "No full-text book read; author, political contents and year verified from catalogue and contemporary reporting."
   }
 }

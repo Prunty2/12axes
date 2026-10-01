@@ -379,11 +379,8 @@ para um único perfil novo (não um lote de 15):
    de forma sozinha já deixou passar erros graves. Ver "Modos de falha conhecidos" no README.
 
    Para perfil **novo**, dois pontos merecem atenção especial:
-   - **Possível duplicata**: compatibilidade ≥95% exige conferir semelhanças e diferenças.
-     Antes de gerar o prompt, liste os vizinhos prováveis e explique o que diferencia o novo deles.
-     Para pessoas distintas com posições próximas, veja a revisão documentada em
-     `README.md`, seção "Duplicata de perfil existente". O limiar bloqueante real
-     do validador é 97%; compatibilidade alta não é, por si só, identidade.
+   - **Duplicata**: se o vetor sair ≥95% idêntico a um perfil existente, ele é redundante. Antes de
+     gerar o prompt, liste os vizinhos prováveis e diga ao subagente o que diferencia o novo deles.
    - **Coerência**: uma ideologia deve bater alto com o `personalityId` que declara. Abaixo de ~92%,
      um dos dois vetores está errado — compare eixo a eixo e descubra qual antes de mesclar.
 5. Calcule o vetor com o script Python de referência da seção "5." do README — que importa

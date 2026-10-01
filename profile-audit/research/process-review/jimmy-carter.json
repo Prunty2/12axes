@@ -1,0 +1,426 @@
+{
+  "id": "jimmy-carter",
+  "profilePeriod": "1977–1981 presidency for institutional/economic policy; explicitly dated 1996–2015 post-presidential statements for later peace, civil-rights, faith and science positions.",
+  "sources": [
+    {
+      "id": "education",
+      "title": "Department of Education proposal",
+      "url": "https://www.presidency.ucsb.edu/documents/department-education-message-the-congress-transmitting-proposed-legislation",
+      "date": "1979-02-13",
+      "accessed": "2026-10-01",
+      "evidence": "Carter assigned primary educational responsibility to states and local governments while proposing a federal cabinet department for equal access, research and coordination."
+    },
+    {
+      "id": "bilingual",
+      "title": "Elementary and Secondary Education Message",
+      "url": "https://www.presidency.ucsb.edu/documents/elementary-and-secondary-education-message-the-congress",
+      "date": "1978-02-28",
+      "accessed": "2026-10-01",
+      "evidence": "Proposed strengthening bilingual schooling, with learning English the overriding goal and flexible use of first languages and culturally sensitive methods."
+    },
+    {
+      "id": "tribes",
+      "title": "Indian Education Programs",
+      "url": "https://www.presidency.ucsb.edu/documents/indian-education-programs-statement-the-president",
+      "date": "1978-07-25",
+      "accessed": "2026-10-01",
+      "evidence": "Reorganization explicitly preserved tribal self-determination, federal trust obligations and tribal/parental participation."
+    },
+    {
+      "id": "nobel",
+      "title": "Nobel Peace Prize Lecture",
+      "url": "https://www.cartercenter.org/news/2002-nobel-peace-prize-lecture-by-jimmy-carter-2/",
+      "date": "2002-12-10",
+      "accessed": "2026-10-01",
+      "evidence": "Defended constitutional democracy, human rights, UN collective security and peaceful settlement. Described necessary military readiness and diplomacy together, rejecting unilateral military predominance."
+    },
+    {
+      "id": "rights",
+      "title": "A Cruel and Unusual Record",
+      "url": "https://www.cartercenter.org/news/nytimes-062412/",
+      "date": "2012-06-23",
+      "accessed": "2026-10-01",
+      "evidence": "Condemned indefinite terrorist detention, warrantless wiretapping, electronic data mining, torture and targeted killings. Defended presumption of innocence and judicial/congressional oversight."
+    },
+    {
+      "id": "drugs",
+      "title": "Drug Abuse Remarks",
+      "url": "https://www.presidency.ucsb.edu/documents/drug-abuse-remarks-transmitting-message-the-congress",
+      "date": "1977-08-02",
+      "accessed": "2026-10-01",
+      "evidence": "Favored removing federal criminal penalties for possession of up to one ounce of marijuana, while distinguishing decriminalization from legalization and preserving state choices."
+    },
+    {
+      "id": "immigration",
+      "title": "Undocumented Aliens Message",
+      "url": "https://www.presidency.ucsb.edu/documents/undocumented-aliens-message-the-congress",
+      "date": "1977-08-04",
+      "accessed": "2026-10-01",
+      "evidence": "Proposed status regularization for established residents alongside employer sanctions, border enforcement and removal of recent unlawful entrants. Explicitly prohibited discriminatory implementation and rejected a national identity card."
+    },
+    {
+      "id": "state",
+      "title": "Carter and Human Rights",
+      "url": "https://history.state.gov/milestones/1977-1980/human-rights",
+      "date": "1977–1981; retrospective undated",
+      "accessed": "2026-10-01",
+      "evidence": "State Department history documents tying military/economic assistance to recipient human rights and diplomatic pressure, with flexible rather than uniform enforcement."
+    },
+    {
+      "id": "doctrine",
+      "title": "Presidency of Jimmy Carter: foreign policy overview",
+      "url": "https://history.state.gov/milestones/1977-1980/foreword",
+      "date": "1977–1981; retrospective undated",
+      "accessed": "2026-10-01",
+      "evidence": "Documents 1980 warning that external domination of the Persian Gulf would be resisted, including military force, alongside earlier human-rights diplomacy."
+    },
+    {
+      "id": "health",
+      "title": "National Health Plan",
+      "url": "https://www.presidency.ucsb.edu/documents/national-health-plan-message-the-congress-proposed-legislation",
+      "date": "1979-06-12",
+      "accessed": "2026-10-01",
+      "evidence": "Proposed expanded low-income coverage, compulsory employer catastrophic coverage and unified federal Healthcare administration. Kept competing HMOs/private claims administrators, imposed cost controls and delayed new expenditure for budget reasons."
+    },
+    {
+      "id": "airline",
+      "title": "Airline Deregulation Act signing",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-airline-deregulation-act-1978",
+      "date": "1978-10-24",
+      "accessed": "2026-10-01",
+      "evidence": "Praised lower fares and new entry through competition and removal of route/fare regulation, while retaining safety regulation and service guarantees for small communities."
+    },
+    {
+      "id": "fed",
+      "title": "Depository Institutions Deregulation and Monetary Control Act",
+      "url": "https://www.federalreservehistory.org/essays/monetary-control-act-of-1980",
+      "date": "2013-11-22; event 1980-03-31",
+      "accessed": "2026-10-01",
+      "evidence": "Federal Reserve historian documents Carter signing deposit-interest deregulation while extending reserve requirements, deposit insurance and the Fed monetary-control framework."
+    },
+    {
+      "id": "prices",
+      "title": "Presidential news conference: wage and price controls",
+      "url": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-1006",
+      "date": "1978-04-11",
+      "accessed": "2026-10-01",
+      "evidence": "Carter rejected mandatory wage and price controls even under severe inflation, preferring voluntary restraint and federal example."
+    },
+    {
+      "id": "trade",
+      "title": "Trade Agreements Act signing",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-trade-agreements-act-1979",
+      "date": "1979-07-26",
+      "accessed": "2026-10-01",
+      "evidence": "Backed Tokyo Round opening of trade, reciprocal removal of barriers, export opportunities and consumer savings; stressed fair trade and domestic prosperity."
+    },
+    {
+      "id": "sugar",
+      "title": "Sugar import fees proclamation signing",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-signing-proclamation-4547-sugar-sirups-and-molasses-imports",
+      "date": "1978-01-20",
+      "accessed": "2026-10-01",
+      "evidence": "Imposed sugar import fees to sustain domestic price-support operations: direct sectoral protection contrary to an absolute laissez-faire trade model."
+    },
+    {
+      "id": "faith",
+      "title": "Prayer and the Civic Religion",
+      "url": "https://www.cartercenter.org/news/prayer-and-the-civic-religion/",
+      "date": "1996-12-23",
+      "accessed": "2026-10-01",
+      "evidence": "Explained his born-again Baptist faith and religious citizens influencing policy, while defending separation of church and state against government domination by religious organizations."
+    },
+    {
+      "id": "interview",
+      "title": "Christian Post interview with Carter",
+      "url": "https://www.christianpost.com/news/interview-president-jimmy-carter-on-his-bible-book-abortion-and-evangelism.html?mobile=true",
+      "date": "2012-03-30",
+      "accessed": "2026-10-01",
+      "evidence": "Personally opposed abortion except rape, incest or danger to maternal life while enforcing Roe; supported women religious leaders, accepted civil same-sex marriage and protected church autonomy; accepted modern science over literal cosmology."
+    },
+    {
+      "id": "women",
+      "title": "TEDWomen address",
+      "url": "https://www.cartercenter.org/news/jc-tedwomen-may-2015/",
+      "date": "2015-05-27",
+      "accessed": "2026-10-01",
+      "evidence": "Denounced female subordination, unequal pay, incarceration and executions. Supported the Swedish prostitution model penalizing buyers/pimps rather than exploited women. Recalled leaving Southern Baptist affiliation over subordination while continuing Sunday school."
+    },
+    {
+      "id": "gmo",
+      "title": "Who’s Afraid of Genetic Engineering?",
+      "url": "https://www.cartercenter.org/news/jimmy-carter-whos-afraid-of-genetic-engineering/",
+      "date": "1998-08-25",
+      "accessed": "2026-10-01",
+      "evidence": "Strongly defended genetically engineered crops, medicines and vaccines against unsupported restrictions; said his own family farm used GM crops and productivity could reduce land clearing."
+    },
+    {
+      "id": "alaska",
+      "title": "Alaska National Interest Lands Conservation Act signing",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-signing-into-law-the-alaska-national-interest-lands-conservation-act",
+      "date": "1980-12-02",
+      "accessed": "2026-10-01",
+      "evidence": "Protected extensive wilderness and native subsistence while explicitly allowing resource development in much of Alaska. Called for conservation, renewable energy, pesticide control and limits on environmental damage."
+    },
+    {
+      "id": "book_en",
+      "title": "Our Endangered Values: publisher record",
+      "url": "https://www.simonandschuster.com/books/Our-Endangered-Values/Jimmy-Carter/9780743553711",
+      "date": "2005-11-01",
+      "accessed": "2026-10-01",
+      "evidence": "Publisher credits Jimmy Carter as author and reader; first publication 2005. Covers church/state separation, civil liberties, women, abortion, war, nuclear policy, science and environment."
+    },
+    {
+      "id": "book_pt",
+      "title": "Nossos Valores em Risco: Brazilian Portuguese edition",
+      "url": "https://www.wook.pt/livro/nossos-valores-em-risco-jimmy-carter/188807",
+      "date": "2006-12 edition; catalog accessed 2026-10-01",
+      "accessed": "2026-10-01",
+      "evidence": "Bookseller identifies Brazilian Portuguese Manole edition, title Nossos Valores em Risco: A crise moral dos EUA, ISBN 9788520425138."
+    },
+    {
+      "id": "books",
+      "title": "Carter biography and bibliography",
+      "url": "https://www.cartercenter.org/people/jimmy-carter/",
+      "date": "current retrospective accessed 2026-10-01",
+      "accessed": "2026-10-01",
+      "evidence": "Confirms life dates, presidency, deregulation and environmental record; lists Our Endangered Values (2005), Keeping Faith (1982) and Palestine Peace Not Apartheid (2006)."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "1979 education proposal: local/state primary responsibility with federal equal-opportunity support.",
+        "1978 tribal schooling statement preserved self-determination.",
+        "1979 Healthcare proposal unified fragmented state programs."
+      ],
+      "sources": [
+        "education",
+        "tribes",
+        "health"
+      ],
+      "tension": "Cooperative constitutional federalism; national rights/service standards do not imply unitary local administration or secession."
+    },
+    "representacao": {
+      "facts": [
+        "2002 lecture defended democratic constitutional decisions and international election-related work.",
+        "2012 demanded judicial and congressional checks on detention."
+      ],
+      "sources": [
+        "nobel",
+        "rights"
+      ],
+      "tension": "Representative democracy with rights checks, not unelected experts or replacement of elected institutions by assemblies."
+    },
+    "poder": {
+      "facts": [
+        "1977 marijuana decriminalization was limited, not all-drug legalization.",
+        "2012 rejected warrantless surveillance and indefinite detention.",
+        "2015 opposed executions and supported penalizing sex buyers/pimps."
+      ],
+      "sources": [
+        "drugs",
+        "rights",
+        "women"
+      ],
+      "tension": "Strong civil liberties coexist with protective enforcement and public health; not unrestricted laissez-faire in private conduct."
+    },
+    "imigracao": {
+      "facts": [
+        "1977 regularization plus employer sanctions and stronger borders.",
+        "1978 bilingual support aimed at English acquisition without suppressing first language."
+      ],
+      "sources": [
+        "immigration",
+        "bilingual"
+      ],
+      "tension": "Humanitarian pluralism and integration coexist with lawful-entry controls; neither cultural exclusion nor open borders."
+    },
+    "diplomacia": {
+      "facts": [
+        "2002 peace lecture prioritized UN consensus and diplomacy but defended readiness.",
+        "1980 Carter Doctrine reserved force in Persian Gulf.",
+        "2012 rejected targeted killings and abusive drone operations."
+      ],
+      "sources": [
+        "nobel",
+        "doctrine",
+        "rights"
+      ],
+      "tension": "Diplomacy first, credible defensive military, rejection of blanket abolition or unconditional pacifism."
+    },
+    "intervencao": {
+      "facts": [
+        "1977–1981 conditioned aid on rights records.",
+        "1980 asserted vital Gulf interests.",
+        "2002 urged UN collective security and self-determination."
+      ],
+      "sources": [
+        "state",
+        "doctrine",
+        "nobel"
+      ],
+      "tension": "International engagement and sanctions remain compatible with opposition to unilateral domination; not isolationist or imperial nationalism."
+    },
+    "economia": {
+      "facts": [
+        "1978 airline competition reforms preserved safety/public service obligations.",
+        "1979 health plan combined federal guarantee, private HMOs, employer insurance and fiscal staging."
+      ],
+      "sources": [
+        "airline",
+        "health"
+      ],
+      "tension": "Private productive economy with public guarantees; not nationalization of all strategic enterprises or wholly private basic services."
+    },
+    "controle": {
+      "facts": [
+        "1978 opposed mandatory wage/price freezes.",
+        "1980 banking law deregulated rates while broadening monetary reserve rules.",
+        "1979 health plan included cost containment and competition."
+      ],
+      "sources": [
+        "prices",
+        "fed",
+        "health"
+      ],
+      "tension": "Rejects both comprehensive state planning and unregulated markets; public goals and central banking persist."
+    },
+    "comercio": {
+      "facts": [
+        "1979 Act supported trade opening and international interdependence.",
+        "1978 sugar import fees explicitly protected a domestic support program."
+      ],
+      "sources": [
+        "trade",
+        "sugar"
+      ],
+      "tension": "General trade liberalization with sectoral exceptions, not autarky or automatic zero tariffs."
+    },
+    "religiao": {
+      "facts": [
+        "1996 defended personal Baptist inspiration and church/state separation.",
+        "2012 defended independent religious congregations and equal civil marriage authority."
+      ],
+      "sources": [
+        "faith",
+        "interview"
+      ],
+      "tension": "Personal devotion is not theocracy; secular civil rules are not atheism or erasing public religious expression."
+    },
+    "moral": {
+      "facts": [
+        "2012 accepted civil same-sex marriage but remained personally opposed to most abortion.",
+        "2015 advanced equality for women while supporting Swedish prostitution restrictions."
+      ],
+      "sources": [
+        "interview",
+        "women"
+      ],
+      "tension": "Equal rights and non-discrimination coexist with marital/sexual moral limits and protection of unborn life."
+    },
+    "tecnologia": {
+      "facts": [
+        "1998 forcefully endorsed GM crops and medical biotechnology.",
+        "1980 wilderness protection balanced limited resource development and conservation."
+      ],
+      "sources": [
+        "gmo",
+        "alaska",
+        "interview"
+      ],
+      "tension": "Scientific pragmatism and stewardship; not anti-science naturalism or unlimited human enhancement."
+    }
+  },
+  "limitations": [
+    "Historical profile with preserved dual period, not a synthetic claim all later views were presidential policy. No need to infer current positions after his 2024 death.",
+    "Brazil-specific propositions are evaluated by corresponding institutional principle, not alleged Carter statements about contemporary Brazilian policies.",
+    "No direct statements verified on facial recognition, cryptocurrency, brain enhancement, cultivated meat, gender-neutral Portuguese or embryo intelligence selection. These are cautious analogical judgments using documented liberty, central-bank, science and moral positions; N only for genuine competing commitments.",
+    "UCSB and Carter Center speeches are primary Carter statements but not independent corroborating authors; State Department history, Federal Reserve historian and publisher/edition catalogs provide independent institutional checks.",
+    "Primary HuffPost 2015 marriage page failed to load. Independent 2012 Christian Post interview supplies direct civil-marriage support; no reliance on unavailable article."
+  ],
+  "recommendedMetadata": {
+    "status": "unchanged",
+    "reason": "PT/EN names, roles and descriptions accurately summarize the preserved presidency and later documented convictions; coordinator notified before answering."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political argument, selected for broad relevance across Carter’s political thought over the narrower Palestine book and general memoirs. Publisher and Carter bibliography verify first publication 2005; Manole Brazilian title verified separately. No Carter book existed in books.json when checked.",
+    "book": {
+      "personalityId": "jimmy-carter",
+      "title": {
+        "pt": "Nossos valores em risco: A crise moral dos EUA",
+        "en": "Our Endangered Values: America’s Moral Crisis"
+      },
+      "year": 2005,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book_en",
+      "book_pt",
+      "books"
+    ]
+  },
+  "processNotes": {
+    "independent": true,
+    "priorAnswersOrVectorsRead": false,
+    "researchPrecedesAnswers": true,
+    "metadataReportedBeforeAnswers": true,
+    "neighboursAndDistinctions": [
+      "Barack Obama and Bill Clinton: shared constitutional liberalism and mixed economy; Carter’s Baptist moral reasoning, opposition to most abortions and later criticism of drone killings are distinctive.",
+      "Ronald Reagan: overlap on deregulation and Cold War defense; Carter’s welfare guarantees, human-rights conditionality and conservation differ.",
+      "Desmond Tutu: faith-linked equality and peace overlap; Carter governed a market economy and maintained Cold War defense commitments."
+    ],
+    "neutralRule": "N only genuine ambivalence; <=18% overall and <=30% each axis.",
+    "validation": {
+      "command": "python3 profile-audit/validate.py personality jimmy-carter",
+      "exitCode": 0,
+      "stdout": "validando personality:jimmy-carter\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/jimmy-carter.json\n\n[ARQUETIPO] sociedade F · poder C · economia C · mundo C · tecnologia C\n[NEUTROS] total 10/240 = 4.2%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         54.5  centralizado/unitario <-> descentralizado/federal\n  representacao     87.0  autocracia <-> democracia\n  poder             38.9  liberdade civil <-> ordem/vigilancia\n  imigracao         33.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        27.6  pacifista <-> militarista\n  intervencao       41.0  nacionalista assertivo <-> nao-intervencionista\n  economia          54.4  privado/mercado <-> publico/coletivo\n  controle          46.1  livre mercado <-> planejamento\n  comercio          42.5  livre comercio/globalista <-> protecionista\n  religiao          39.3  religioso <-> irreligioso/secular\n  moral             53.4  tradicionalista <-> progressista\n  tecnologia        45.2  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         54.5   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     87.0   | Kim Jong Un=6 .. José Mujica=86\n  poder             38.9   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         33.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        27.6   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       41.0   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          54.4   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          46.1   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          42.5   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          39.3   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             53.4   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        45.2   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   96.4%  angela-merkel  <<< aviso\n   95.6%  paul-keating  <<< aviso\n   94.9%  masaryk  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.4% proximo de 'angela-merkel'\n  [CONTEUDO] 95.6% proximo de 'paul-keating'\n  [CONTEUDO] 94.9% proximo de 'masaryk'\nOK - passou nas tres checagens.\n",
+      "stderr": "",
+      "warnings": [
+        "[CONTEUDO] 96.4% proximo de 'angela-merkel'",
+        "[CONTEUDO] 95.6% proximo de 'paul-keating'",
+        "[CONTEUDO] 94.9% proximo de 'masaryk'"
+      ],
+      "validatorBlockers": [],
+      "workflowBlockers": [
+        "NEW_PROFILE.md/README.md redundancy rule requires user decision before proceeding with a profile at or above 95% similarity after an independent audit. No similarity exception or answer tuning applied."
+      ]
+    },
+    "neutralCounts": {
+      "estrutura": 0,
+      "representacao": 0,
+      "poder": 0,
+      "imigracao": 1,
+      "diplomacia": 0,
+      "intervencao": 1,
+      "economia": 1,
+      "controle": 0,
+      "comercio": 1,
+      "religiao": 1,
+      "moral": 2,
+      "tecnologia": 3
+    },
+    "neutralTotal": 10,
+    "neutralPercent": 4.167,
+    "neutralRationales": {
+      "imigracao_01": "English acquisition supported; wholesale adoption of local customs conflicts with cultural retention.",
+      "intervencao_01": "Rejects forcible regime domination but accepts pressure and rights conditionality intended to change governmental behavior and legitimacy.",
+      "economia_09": "Universal access and public guarantees coexist with private competitive health delivery.",
+      "comercio_15": "Trade openness competes with documented sectoral protection; no automatic technology-sector tariff inferred.",
+      "religiao_18": "Personal divine moral obligation coexists with enforcing civil law contrary to personal abortion convictions.",
+      "moral_15": "Stewardship of animals competes with a farming/hunting tradition rather than a documented vegetarian imperative.",
+      "moral_19": "Freedom of art and expression coexists with personally restrained sexual morality.",
+      "tecnologia_15": "Medical/scientific usefulness competes with ethical limits on enhancement beyond healing.",
+      "tecnologia_09": "Disease prevention is attractive; selecting superior intelligence raises a different ethical concern in this combined proposition.",
+      "tecnologia_17": "Agricultural innovation and resource efficiency compete with rural husbandry and caution about mandated replacement."
+    },
+    "promptSha256": "22f3d52e99e5bfb02260b5e1065bda04d8e401700ba4ffeabe07e0e1f57d4c1a",
+    "answerSha256": "0145e3721ca0429111d5728ddbe46184da9ed6ff8e6fa6ce29e9ce8ff34636ee",
+    "answerGeneration": "One independent question-by-question answer pass. No prior answer files, stored vectors or scored reviews consulted. Validator output was read only after answers were saved. No changes made in response to similarity results.",
+    "bookRecommendationStatus": "Proposed only; coordinator responsible for books.json integration."
+  }
+}

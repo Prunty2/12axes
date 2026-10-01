@@ -1,0 +1,336 @@
+{
+  "id": "helmut-kohl",
+  "profilePeriod": "Chancellorship, 1982–1998; later disclosure of the period’s donations scandal retained as context.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Kohl: subsidiarity, family and humane technological progress",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/30-mai-1986/",
+      "date": "1986-05-30",
+      "accessed": "2026-10-01",
+      "evidence": "Advocates local and Land autonomy, delegated European competences, family support and individual responsibility; couples social-market welfare with scientific progress subject to human dignity. Nuclear safety and protection against genetic manipulation are explicit. Defends NATO and conscription alongside arms reduction."
+    },
+    {
+      "id": "S2",
+      "title": "Bundestag: Kohl retrospective and donations",
+      "url": "https://www.bundestag.de/webarchiv/textarchiv/2017/kw25-de-kohl-510862",
+      "date": "2017-06-22",
+      "accessed": "2026-10-01",
+      "evidence": "Documents parliamentary election as chancellor in 1982, repeated electoral contests and defeat in 1998, negotiated reunification, Maastricht, and the 1999 revelations of unreported donations and refusal to identify donors."
+    },
+    {
+      "id": "S3",
+      "title": "bpb: 1998 acoustic surveillance amendment",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/262861/vor-20-jahren-grundgesetzaenderung-fuer-den-grossen-lauschangriff/",
+      "date": "2018-01-15",
+      "accessed": "2026-10-01",
+      "evidence": "The governing CDU/CSU-FDP coalition with SPD support amended Article 13 in January 1998 to allow acoustic surveillance of homes for serious criminal investigations; civil-liberties objections remained significant."
+    },
+    {
+      "id": "S4",
+      "title": "Bundestag: unity as a task, 1990–1994",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/wahlperioden-12-202286",
+      "date": "2010 retrospective; events 1990–1994",
+      "accessed": "2026-10-01",
+      "evidence": "Kohl government pursued equal living conditions after reunification, constitutional changes on asylum, gender equality and environmental protection. Asylum restrictions coexist with national reconstruction and constitutional government."
+    },
+    {
+      "id": "S5",
+      "title": "Bundestag asylum amendment debate",
+      "url": "https://dserver.bundestag.de/btp/12/12160.pdf",
+      "date": "1993-05-26",
+      "accessed": "2026-10-01",
+      "evidence": "Primary parliamentary record of the cross-party asylum compromise and safe-third-country restrictions; evidence for government-era restriction, not a claim that every speaker expresses Kohl personally."
+    },
+    {
+      "id": "S6",
+      "title": "Kohl: Munich Security Conference",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/3-februar-1996/",
+      "date": "1996-02-03",
+      "accessed": "2026-10-01",
+      "evidence": "Supports NATO collective defence and Bosnia peace deployment, careful enlargement with attention to Russia and Ukraine, European defence cooperation and deeper political integration; denounces revival of old nationalism."
+    },
+    {
+      "id": "S7",
+      "title": "Kohl: Catholic gathering and Europe",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/23-juni-1991/",
+      "date": "1991-06-23",
+      "accessed": "2026-10-01",
+      "evidence": "Presents Christian faith as a public moral source and defends state responsibility toward unborn life; combines that with reconciliation, freedom and Western alliances."
+    },
+    {
+      "id": "S8",
+      "title": "bpb: repeal of Paragraph 175",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/180263/1994-homosexualitaet-nicht-mehr-strafbar/",
+      "date": "2014-03-10; event 1994",
+      "accessed": "2026-10-01",
+      "evidence": "Paragraph 175 was abolished in 1994 during Kohl government. Traditional marriage preferences cannot be equated to blanket criminalisation of homosexuality."
+    },
+    {
+      "id": "S9",
+      "title": "Kohl economic and fiscal policy, Reimut Zohlnhöfer",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/wirtschafts-und-finanzpolitik/",
+      "date": "undated retrospective; events 1982–1998",
+      "accessed": "2026-10-01",
+      "evidence": "Tax cuts, deregulation, Treuhand privatisations and Lufthansa sale; Telekom partial privatisation from 1996. Reform was gradual and institutionally constrained, with major reunification spending and continued welfare commitments."
+    },
+    {
+      "id": "S10",
+      "title": "Kohl: defence of independent Bundesbank",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/27-august-1991/",
+      "date": "1991-08-27",
+      "accessed": "2026-10-01",
+      "evidence": "Explicitly praises legally guaranteed central-bank independence and monetary stability as foundations for a free economy."
+    },
+    {
+      "id": "S11",
+      "title": "White House: Clinton and Kohl press availability",
+      "url": "https://clintonwhitehouse6.archives.gov/1993/03/1993-03-26-clinton-kohl-press-availability.html",
+      "date": "1993-03-26",
+      "accessed": "2026-10-01",
+      "evidence": "Kohl endorses successful GATT completion, European union alongside Atlantic ties, science exchanges, support for Russian reform and efforts toward peace in Bosnia."
+    },
+    {
+      "id": "S12",
+      "title": "Kohl social policy history",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/sozialpolitik/",
+      "date": "undated retrospective; events 1982–1998",
+      "accessed": "2026-10-01",
+      "evidence": "Fiscal restraint and welfare retrenchment coexist with preservation of social insurance and introduction of long-term care insurance in 1995."
+    },
+    {
+      "id": "S13",
+      "title": "Kohl bibliography",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/bibliographie/helmut-kohl-schriften/",
+      "date": "undated bibliography; book 1996",
+      "accessed": "2026-10-01",
+      "evidence": "Lists Ich wollte Deutschlands Einheit, represented by Kai Diekmann and Ralf Georg Reuth, Berlin 1996; distinguishes later 1998 paperback and French translation. Also lists Kohl memoir volumes."
+    },
+    {
+      "id": "S14",
+      "title": "CVCE: Kohl political memoir excerpt",
+      "url": "https://www.cvce.eu/de/obj/helmut_kohl_i_wanted_german_unity-en-83aea836-6f4c-4c32-b036-a78aba3b8a6d.html",
+      "date": "book 1996; archive undated",
+      "accessed": "2026-10-01",
+      "evidence": "Search-index record identifies Kohl memoir of European negotiations on German unity, Propyläen-Verlag 1996, with Diekmann/Reuth assistance. Full page returned tool error; corroboration used from bibliography."
+    },
+    {
+      "id": "S15",
+      "title": "Kohl: scientific progress and ethical limits",
+      "url": "https://www.bundeskanzler-helmut-kohl.de/seite/26-mai-1987/",
+      "date": "1987-05-26",
+      "accessed": "2026-10-01",
+      "evidence": "Speech on technological progress and ethical limits; evidence supplements the directly read 1986 discussion of research, nuclear safety and human dignity."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "In 1986 Kohl explicitly advocated subsidiarity for municipalities, Länder, federal government and European institutions.",
+        "Reunification used a federal constitutional framework with national solidarity."
+      ],
+      "sources": [
+        "S1",
+        "S4"
+      ],
+      "tension": "Federalism is not secession; equal living conditions and European competences limit local autonomy."
+    },
+    "representacao": {
+      "facts": [
+        "Parliament elected Kohl in 1982, elections confirmed him and the 1998 election ended his government.",
+        "Donations from his governing years were concealed, and he later refused to identify donors."
+      ],
+      "sources": [
+        "S2"
+      ],
+      "tension": "Democratic institutions coexist with patronage and deficient financial accountability; do not turn those failings into support for dictatorship."
+    },
+    "poder": {
+      "facts": [
+        "The 1998 governing coalition backed expanded residential surveillance against organised crime.",
+        "His public framework remained the democratic rule of law."
+      ],
+      "sources": [
+        "S3",
+        "S1"
+      ],
+      "tension": "Security powers are subject to law; surveillance support does not imply death penalty, arbitrary detention or unlimited executive censorship."
+    },
+    "imigracao": {
+      "facts": [
+        "The 1993 government-backed asylum compromise restricted entry through safe third countries.",
+        "Kohl defended national cultural belonging alongside European openness."
+      ],
+      "sources": [
+        "S5",
+        "S1"
+      ],
+      "tension": "Restrictive asylum and integration preferences do not mean racial exclusion or compulsory erasure of private cultural traditions."
+    },
+    "diplomacia": {
+      "facts": [
+        "In 1996 Kohl supported NATO collective defence, its Bosnia mission and European military capacity.",
+        "His 1986 speech defended conscription while seeking East-West balance with fewer weapons."
+      ],
+      "sources": [
+        "S6",
+        "S1"
+      ],
+      "tension": "Armed deterrence and alliance obligations coexist with negotiated peace and opposition to aggressive nationalism."
+    },
+    "intervencao": {
+      "facts": [
+        "Kohl supported international peace deployments, Russian reform assistance and deeper European institutions.",
+        "He expressly rejected return to the old sovereign nationalist state."
+      ],
+      "sources": [
+        "S6",
+        "S11"
+      ],
+      "tension": "He rejects isolationism and unilateral national supremacy alike; allied intervention does not mean imperial domination of neighbours."
+    },
+    "economia": {
+      "facts": [
+        "Government privatised Lufthansa, Treuhand assets and part of Telekom.",
+        "It preserved social insurance and added long-term care insurance in 1995."
+      ],
+      "sources": [
+        "S9",
+        "S12"
+      ],
+      "tension": "Private enterprise and property with a social safety net; neither nationalisation of all strategic sectors nor privatisation of police/courts."
+    },
+    "controle": {
+      "facts": [
+        "Tax reductions and liberalisation remained policy aims amid reunification costs.",
+        "In August 1991 Kohl explicitly defended Bundesbank independence and monetary stability."
+      ],
+      "sources": [
+        "S9",
+        "S10"
+      ],
+      "tension": "Market allocation with social and legal regulation, rather than either a command economy or unregulated private money."
+    },
+    "comercio": {
+      "facts": [
+        "At the March 1993 White House press conference Kohl sought successful GATT completion.",
+        "European economic integration was central to his government."
+      ],
+      "sources": [
+        "S11",
+        "S6"
+      ],
+      "tension": "Trade liberalisation through negotiated institutions; does not require abolishing all safeguards overnight."
+    },
+    "religiao": {
+      "facts": [
+        "His 1991 Catholic address treated faith and protection of unborn life as politically relevant.",
+        "In 1986 he explicitly criticised costs of secularisation while supporting constitutional democracy."
+      ],
+      "sources": [
+        "S7",
+        "S1"
+      ],
+      "tension": "Christian democratic public ethics differs from clerical government or exclusion of nonbelievers."
+    },
+    "moral": {
+      "facts": [
+        "He publicly defended unborn life in 1991 and traditional family support in 1986.",
+        "His government era included the 1994 repeal of the criminal provision against male homosexuality."
+      ],
+      "sources": [
+        "S7",
+        "S1",
+        "S8"
+      ],
+      "tension": "Traditional family norms do not justify assuming all consensual adult relationships should be criminalised; working mothers were acknowledged."
+    },
+    "tecnologia": {
+      "facts": [
+        "In 1986 he defended research, industry and modern medicine while insisting on nuclear safety and limits on human genetic manipulation.",
+        "His government period included environmental constitutional protection."
+      ],
+      "sources": [
+        "S1",
+        "S15",
+        "S4"
+      ],
+      "tension": "Technological optimism is bounded by environmental stewardship and Christian bioethics, not transhumanist acceleration."
+    }
+  },
+  "limitations": [
+    "Historical persona, not current German CDU policy. Later private positions excluded; later evidence of governing-period donations retained.",
+    "Digital surveillance, AI, cryptocurrency, gender identity, Brazilian quotas and Amazon mining require analogical judgments; no direct Kohl statement claimed. N reserved for real balanced preferences, not undocumented topics.",
+    "Coalition legislation is evidence of governing practice but does not establish Kohl personally endorsed every detail. Foundation sources have a CDU affiliation and are cross-checked with Bundestag, bpb and White House records.",
+    "Original CVCE book page failed to open; its indexed bibliographic record was corroborated by the Kohl bibliography. No Brazilian or English full-edition translation verified; use original title."
+  ],
+  "recommendedMetadata": {
+    "status": "no-correction-needed",
+    "reason": "Current PT and EN description, name and role accurately summarise the preserved chancellorship period and fit limits."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Authored political memoir of reunification, especially relevant to defining political achievement. Kohl is the memoir voice; Kai Diekmann and Ralf Georg Reuth are credited as presenting/editing collaborators. First edition 1996 confirmed; later paperback is not first publication. No verified PT-BR or English book edition found, so retain German original in both fields. Existing books catalog has no Kohl entry.",
+    "book": {
+      "personalityId": "helmut-kohl",
+      "title": {
+        "pt": "Ich wollte Deutschlands Einheit",
+        "en": "Ich wollte Deutschlands Einheit"
+      },
+      "year": 1996,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "S13",
+      "S14"
+    ]
+  },
+  "processNotes": [
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, new-personality skill, README and saved prompt fully.",
+    "Read only previous research profilePeriod and source URLs/titles; never existing answer archives, vectors or score reports.",
+    "Metadata status and qualitative neighbours sent to coordinator before answer generation.",
+    "Likely neighbours: Adenauer (same Christian democratic family; Kohl reunification and euro), Thatcher (privatisation and NATO; Kohl retained social insurance and pursued European political union), Merkel (CDU continuity; Kohl-era restrictive asylum and traditional marriage). No numerical targets.",
+    "Dedicated supplementary searches on security surveillance, asylum, central-bank independence, trade, bioethics and authorship performed.",
+    "Answers will be independently selected after this research and prompt are saved.",
+    "One answer generation only. Read validator output after answers; accepted factual result and made no changes for distance. Original validation fails duplicate threshold; coordinator must not claim strict compliance or merge without required user decision.",
+    "Neutral judgments reflect actual balancing: local tax retention versus federal solidarity; heritage-language schooling versus integration; progressive tax financing versus tax reduction; conscience versus constitutional legality; contextual art modesty; urban industry and familiar local life.",
+    "No shared metadata, books, STATE, archived answers or profile vectors edited. Book is a verified recommendation for coordinator integration."
+  ],
+  "promptSha256": "9d61560d9e56cead14b7da8562ca0651cc75933c28f69d7f6db432e52f28f9ff",
+  "answerSha256": "7e84cd8453c4e593eeb434d922851a4825653dda8e345e477a3b592a2a55bb0d",
+  "neutralCount": {
+    "total": 7,
+    "of": 240,
+    "byAxis": {
+      "estrutura": 1,
+      "representacao": 0,
+      "poder": 0,
+      "imigracao": 1,
+      "diplomacia": 0,
+      "intervencao": 0,
+      "economia": 0,
+      "controle": 1,
+      "comercio": 0,
+      "religiao": 1,
+      "moral": 1,
+      "tecnologia": 2
+    }
+  },
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality helmut-kohl",
+    "exitCode": 1,
+    "stdout": "validando personality:helmut-kohl\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/helmut-kohl.json\n\n[ARQUETIPO] sociedade B · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 7/240 = 2.9%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         65.2  centralizado/unitario <-> descentralizado/federal\n  representacao     81.1  autocracia <-> democracia\n  poder             60.3  liberdade civil <-> ordem/vigilancia\n  imigracao         63.6  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        48.1  pacifista <-> militarista\n  intervencao       36.4  nacionalista assertivo <-> nao-intervencionista\n  economia          53.2  privado/mercado <-> publico/coletivo\n  controle          34.2  livre mercado <-> planejamento\n  comercio          28.2  livre comercio/globalista <-> protecionista\n  religiao          21.0  religioso <-> irreligioso/secular\n  moral             26.5  tradicionalista <-> progressista\n  tecnologia        44.0  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         65.2   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     81.1   | Kim Jong Un=6 .. José Mujica=86\n  poder             60.3   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         63.6   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        48.1   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       36.4   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          53.2   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          34.2   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          28.2   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          21.0   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             26.5   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        44.0   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   97.1%  konrad-adenauer  <<< BLOQUEIA\n   96.0%  leon-kass  <<< aviso\n   93.7%  otto-von-habsburg  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 96.0% proximo de 'leon-kass'\n  [CONTEUDO] 93.7% proximo de 'otto-von-habsburg'\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 97.1% identico a 'konrad-adenauer' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "stderr": "",
+    "status": "blocked-no-tuning",
+    "warnings": [
+      "[CONTEUDO] 96.0% proximo de 'leon-kass'",
+      "[CONTEUDO] 93.7% proximo de 'otto-von-habsburg'"
+    ],
+    "blockers": [
+      "[CONTEUDO] 97.1% identico a 'konrad-adenauer' - perfil redundante, nao acrescenta nada ao catalogo"
+    ]
+  }
+}

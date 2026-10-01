@@ -1,6 +1,6 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-10-01T01:06:48Z",
+  "lastUpdated": "2026-10-01T02:28:28Z",
   "personality": {
     "totalProfiles": 418,
     "pending": [],
@@ -2058,7 +2058,387 @@
             "joh-bjelke-petersen"
           ]
         }
-      ]
+      ],
+      "processReview": {
+        "startedOn": "2026-10-01",
+        "baselineCommit": "1838ef06a130c1502fe5149c6e450d386086ea28",
+        "status": "awaiting_user_disposition",
+        "method": "Correct each PR addition through the new-personality skill, using one independent subagent per personality; preserve existing answer archives. Original duplicate guardrails restored.",
+        "pending": [],
+        "reviewed": [
+          "joh-bjelke-petersen",
+          "anthony-albanese",
+          "pauline-hanson",
+          "robert-menzies",
+          "john-howard",
+          "angus-taylor",
+          "gough-whitlam",
+          "bob-hawke",
+          "paul-keating",
+          "kevin-rudd",
+          "julia-gillard",
+          "tony-abbott",
+          "malcolm-turnbull",
+          "scott-morrison",
+          "margaret-thatcher",
+          "clement-attlee",
+          "boris-johnson",
+          "keir-starmer",
+          "nigel-farage",
+          "rupert-lowe",
+          "kamala-harris",
+          "hillary-clinton",
+          "jimmy-carter",
+          "lyndon-b-johnson",
+          "angela-merkel",
+          "olaf-scholz",
+          "mark-carney",
+          "david-lloyd-george",
+          "helmut-kohl",
+          "lech-walesa",
+          "david-ben-gurion",
+          "golda-meir"
+        ],
+        "activeAnswerArchives": {
+          "pauline-hanson": "profile-audit/answers/personality/revisions/2026-10-01/pauline-hanson.json",
+          "lech-walesa": "profile-audit/answers/personality/revisions/2026-10-01/lech-walesa.json"
+        },
+        "originalAnswerSha256": {
+          "anthony-albanese": "997b9e9fb01bfca6dc3d1a439518cfeefbf1e8890da76ae485e70651a29f6296",
+          "pauline-hanson": "9c131224818a5b41581e7978f28470b86ab349a20f3d9cb40fba8be837147be7",
+          "angus-taylor": "834ce0358ab62cc81fe0f8efad6b59cc7d0393269e259bb859d7794d1f5ea0d3",
+          "john-howard": "bb50b1b7f043f2d29ceb284d0cf6138d0873487dfb342551a7e8c4078a5e9a7a",
+          "robert-menzies": "13a077e849dbd5ea253aaa4b28bd21de37eb1a02c90594838eaa5c9bd0e58b7e",
+          "gough-whitlam": "a9026282c073a8304bc8ad1e3796dcce388f8b8a31e9f4b2c7e8d939536b7ed5",
+          "bob-hawke": "345d9368c2322c5d223b546552096ba046909db2cf56fb93c70b9c9810bcb7d3",
+          "paul-keating": "026b3a922395f2e69a94381515bbe8912992b37827e77525308584b649f4a193",
+          "kevin-rudd": "65594c500144015baccf602272f9e66c8f59c3128b8887bad74a57844c7fb812",
+          "julia-gillard": "4c2efc0b78f14859f75c5b4cf87712d1abbd28c39eb3464bfea0f94961676846",
+          "tony-abbott": "2bd93c58bac970b2dc5f7b5945ffdd9f3ebd41b2c71e331765ee486f6fe9c270",
+          "malcolm-turnbull": "9f750a27b1df42b8a73b4d10326db0f08d596e1f539df053c1f6c1e5d769ce0e",
+          "scott-morrison": "268cb12992eb4b5fff2c7f577ceddc0637eda189c4c17249f50af384678503d7",
+          "margaret-thatcher": "5858f6e308283827fb5cb42c638a0b4a0bb63328437b8598c54027f4e3231d67",
+          "clement-attlee": "6daffe428b8e7389e30aa3b7f4c6d061eb6c6c152a924cd8984acfcf1d375e9d",
+          "boris-johnson": "e8735cbb71929d8fd24ab60c6bcdbefaafb1466dd819c3b226d1d03117739415",
+          "keir-starmer": "6bc8c906884958a13f92d29feea5316fa8fa06535fc345fd1baf15464935e505",
+          "nigel-farage": "a82a9e73e355b6da307b292b587648abb113d372e14558ebcd99c23236d868df",
+          "rupert-lowe": "4043de1755c8e37d6d02fa59426594abbf2d635e1c0243f3f417db1fde7bd0fd",
+          "kamala-harris": "c4934c5cad610c20a41d52cf44a3ddf40f28d678dbae0b8e140a6761fa15093f",
+          "hillary-clinton": "ef9926b3ac4482de3469487079d4b10088b5372d7737f38eeb6f049f269bb7da",
+          "jimmy-carter": "850e4f073f8ca85d459b0f69113a7a8559368b2daf64887e68701634ba5f047f",
+          "lyndon-b-johnson": "7d4c58a9ee49212e1bf5b01e0ba71b6682385bb26ae6cdbd2cae8f29376c811e",
+          "angela-merkel": "1cdfdea4720f12a0643042f0552e366ffc1a386a864cfd351b76e718608f436c",
+          "olaf-scholz": "7cfae1c8c932042cf4a7089a8d3557d00c70bfccc0daf511659b1f2facc12c64",
+          "mark-carney": "5021e77720e00a68901e06b3ea63f703817c3d7648a26a68f659cf606931d014",
+          "david-lloyd-george": "3fcb9f12e40b0e1783700b35fe34bfab5c0804014223fd18da90d2e1a69d19c7",
+          "helmut-kohl": "b132d8371de4e2cd0b19f730bae188154e7987ba66677b533ea49a541eac73fd",
+          "lech-walesa": "191027946c0f49341c89a245e6124f745ed9ac3445097bada55884bfc70ddab9",
+          "david-ben-gurion": "ebbe0b39dc502a620a21b6006c753ea96e6a22b6d2c14cfb7d1d08ff3c5fbf3c",
+          "golda-meir": "134caf8c2295c84386dc5c144b4aee6f184a1b55ff7fed4339c4f5fa3b9ec0c8",
+          "joh-bjelke-petersen": "709e96d9e467e88e1112bbf84948d8aea83590532839b5f7c328c04b3925ea97"
+        },
+        "runs": {
+          "joh-bjelke-petersen": {
+            "agent": "/root/independent_joh",
+            "status": "independently_answered",
+            "validationPassed": true,
+            "answerSha256": "9fe7f6503db25783a5b7e8557f7c595a556720944f6cb293ade1022031f5d7d3",
+            "researchPath": "profile-audit/research/process-review/joh-bjelke-petersen.json",
+            "validationLog": "profile-audit/reports/process-review/joh-bjelke-petersen.log"
+          },
+          "anthony-albanese": {
+            "agent": "/root/independent_albanese",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "fc939d80a041d4b3b1cf5c6a5cf49993b0086439abc770e9a26627fc01a755d6",
+            "researchPath": "profile-audit/research/process-review/anthony-albanese.json",
+            "validationLog": "profile-audit/reports/process-review/anthony-albanese.log"
+          },
+          "pauline-hanson": {
+            "agent": "/root/independent_hanson",
+            "status": "merged",
+            "validationPassed": true,
+            "answerSha256": "be57df2c4b0be270d29db1ce0ee796d4494ef598fcc1c7fe8a65e5b4310bda40",
+            "researchPath": "profile-audit/research/process-review/pauline-hanson.json",
+            "validationLog": "profile-audit/reports/process-review/pauline-hanson.log"
+          },
+          "angus-taylor": {
+            "agent": "/root/independent_taylor",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "9a3c68a0e4270ba9061cb43548f32dbe79c91d33393a69289de820b258edb3d6",
+            "researchPath": "profile-audit/research/process-review/angus-taylor.json",
+            "validationLog": "profile-audit/reports/process-review/angus-taylor.log"
+          },
+          "john-howard": {
+            "agent": "/root/independent_howard",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "6a882cfdd9f73c0940e430c7886e791b28b9f603c988913a3d8f0cd2780b7ae1",
+            "researchPath": "profile-audit/research/process-review/john-howard.json",
+            "validationLog": "profile-audit/reports/process-review/john-howard.log"
+          },
+          "robert-menzies": {
+            "agent": "/root/independent_menzies",
+            "status": "independently_answered",
+            "validationPassed": true,
+            "answerSha256": "f6789b703c13c28c345b6b4c34c6b455ac945ae58002584d06ccec31c67972b8",
+            "researchPath": "profile-audit/research/process-review/robert-menzies.json",
+            "validationLog": "profile-audit/reports/process-review/robert-menzies.log"
+          },
+          "gough-whitlam": {
+            "agent": "/root/independent_whitlam",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "d75e91c0ecdf9e1cacb10ab3f395bc36cac2512023cf755244145770d0263bfc",
+            "researchPath": "profile-audit/research/process-review/gough-whitlam.json",
+            "validationLog": "profile-audit/reports/process-review/gough-whitlam.log"
+          },
+          "bob-hawke": {
+            "agent": "/root/independent_hawke",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "421408b51d1587bd8620452b5086481313144c0bf996c2b321713937dae83f72",
+            "researchPath": "profile-audit/research/process-review/bob-hawke.json",
+            "validationLog": "profile-audit/reports/process-review/bob-hawke.log"
+          },
+          "paul-keating": {
+            "agent": "/root/independent_keating",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "b4daa3138a68cc0a4468473885fe6f480c84e23beff37e66e90d473c0141972c",
+            "researchPath": "profile-audit/research/process-review/paul-keating.json",
+            "validationLog": "profile-audit/reports/process-review/paul-keating.log"
+          },
+          "kevin-rudd": {
+            "agent": "/root/independent_rudd",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "fd810292c5d70cc44c64028d01167f0b73a7ead5152458f29c8572c342f29208",
+            "researchPath": "profile-audit/research/process-review/kevin-rudd.json",
+            "validationLog": "profile-audit/reports/process-review/kevin-rudd.log"
+          },
+          "julia-gillard": {
+            "agent": "/root/independent_gillard",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "474e4e141cf29c6cdc1525cedce97883b1e35c58422f4d2c329319c5c0a481c1",
+            "researchPath": "profile-audit/research/process-review/julia-gillard.json",
+            "validationLog": "profile-audit/reports/process-review/julia-gillard.log"
+          },
+          "tony-abbott": {
+            "agent": "/root/independent_abbott",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "69f0abcb3694a33e0960707bef5714044783ec23c043d431a6250dc7ff64a2f5",
+            "researchPath": "profile-audit/research/process-review/tony-abbott.json",
+            "validationLog": "profile-audit/reports/process-review/tony-abbott.log"
+          },
+          "malcolm-turnbull": {
+            "agent": "/root/independent_turnbull",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "08fc2f7ca9801e73e6fde7a212f5f2978754c1a9e8ec362ca75d2a32081c24b3",
+            "researchPath": "profile-audit/research/process-review/malcolm-turnbull.json",
+            "validationLog": "profile-audit/reports/process-review/malcolm-turnbull.log"
+          },
+          "scott-morrison": {
+            "agent": "/root/independent_morrison",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "028d18b13c541ddba244f4db46e77559b209d3dd1d0a4adc94abdb4221651c31",
+            "researchPath": "profile-audit/research/process-review/scott-morrison.json",
+            "validationLog": "profile-audit/reports/process-review/scott-morrison.log"
+          },
+          "margaret-thatcher": {
+            "agent": "/root/independent_thatcher",
+            "status": "independently_answered",
+            "validationPassed": true,
+            "answerSha256": "784cf7be73f285b63cac8302eda859038fa43d54a5cdeff50bdf3d6f611103cf",
+            "researchPath": "profile-audit/research/process-review/margaret-thatcher.json",
+            "validationLog": "profile-audit/reports/process-review/margaret-thatcher.log"
+          },
+          "clement-attlee": {
+            "agent": "/root/independent_attlee",
+            "status": "independently_answered",
+            "validationPassed": true,
+            "answerSha256": "84fe85b48566884bc0e69e9683cf21982232848f58db0a6d8a92a67c40da8de7",
+            "researchPath": "profile-audit/research/process-review/clement-attlee.json",
+            "validationLog": "profile-audit/reports/process-review/clement-attlee.log"
+          },
+          "boris-johnson": {
+            "agent": "/root/independent_johnson",
+            "status": "independently_answered",
+            "validationPassed": true,
+            "answerSha256": "43fa13c53d72b49c9273a05f66aa64f6b65a170a474f747623597a76716e85e0",
+            "researchPath": "profile-audit/research/process-review/boris-johnson.json",
+            "validationLog": "profile-audit/reports/process-review/boris-johnson.log"
+          },
+          "keir-starmer": {
+            "agent": "/root/independent_starmer",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "b20352b68edf7c70dfc91db02b397b0f9c244992946b37a3e3b9126199744b3f",
+            "researchPath": "profile-audit/research/process-review/keir-starmer.json",
+            "validationLog": "profile-audit/reports/process-review/keir-starmer.log"
+          },
+          "nigel-farage": {
+            "agent": "/root/independent_farage",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "853d64f6aa9e0f69c0eb87335c4f743840d40c2e5d2d122528d9fe2dc1d23b97",
+            "researchPath": "profile-audit/research/process-review/nigel-farage.json",
+            "validationLog": "profile-audit/reports/process-review/nigel-farage.log"
+          },
+          "rupert-lowe": {
+            "agent": "/root/independent_lowe",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "c234068083427b7fde59da18d468b4a67f9c864444b9ec52b2b699b1908311f4",
+            "researchPath": "profile-audit/research/process-review/rupert-lowe.json",
+            "validationLog": "profile-audit/reports/process-review/rupert-lowe.log"
+          },
+          "kamala-harris": {
+            "agent": "/root/independent_harris",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "641bbbd6edfcbdff6501adc33d7592196b3943b98d25a0cf48b1fd59046012d7",
+            "researchPath": "profile-audit/research/process-review/kamala-harris.json",
+            "validationLog": "profile-audit/reports/process-review/kamala-harris.log"
+          },
+          "hillary-clinton": {
+            "agent": "/root/independent_clinton",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "dddd0ca706f72eb3e9fcf1ef45b364b63eb9bbab6edeb2f459bb0e7538f25549",
+            "researchPath": "profile-audit/research/process-review/hillary-clinton.json",
+            "validationLog": "profile-audit/reports/process-review/hillary-clinton.log"
+          },
+          "jimmy-carter": {
+            "agent": "/root/independent_carter",
+            "status": "independently_answered",
+            "validationPassed": true,
+            "answerSha256": "0145e3721ca0429111d5728ddbe46184da9ed6ff8e6fa6ce29e9ce8ff34636ee",
+            "researchPath": "profile-audit/research/process-review/jimmy-carter.json",
+            "validationLog": "profile-audit/reports/process-review/jimmy-carter.log"
+          },
+          "lyndon-b-johnson": {
+            "agent": "/root/independent_lbj",
+            "status": "independently_answered",
+            "validationPassed": true,
+            "answerSha256": "d1dd1084b34f5672adb455bb3fb923ee0c7bc0eb5f22e9b832bbd9506e68d0a9",
+            "researchPath": "profile-audit/research/process-review/lyndon-b-johnson.json",
+            "validationLog": "profile-audit/reports/process-review/lyndon-b-johnson.log"
+          },
+          "angela-merkel": {
+            "agent": "/root/independent_merkel",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "b20bd7e489d7bbb91d1c566e8f2fad6129bb74f480950d1039ea11875d9b1f8c",
+            "researchPath": "profile-audit/research/process-review/angela-merkel.json",
+            "validationLog": "profile-audit/reports/process-review/angela-merkel.log"
+          },
+          "olaf-scholz": {
+            "agent": "/root/independent_scholz",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "05be00fcdc9df6ea1d483a005ea8f4a5fe32283a39a75a0a60ba948209f2b3cb",
+            "researchPath": "profile-audit/research/process-review/olaf-scholz.json",
+            "validationLog": "profile-audit/reports/process-review/olaf-scholz.log"
+          },
+          "mark-carney": {
+            "agent": "/root/independent_carney",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "67e19e93ec01257157029cb6d35e1239a7dc6d3a973e8382fc50438101165b7a",
+            "researchPath": "profile-audit/research/process-review/mark-carney.json",
+            "validationLog": "profile-audit/reports/process-review/mark-carney.log"
+          },
+          "david-lloyd-george": {
+            "agent": "/root/independent_lloyd_george",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "c43d8cc714a5b78d6e720c126aea40287b568c942ef6f97538f945ee51daa9d0",
+            "researchPath": "profile-audit/research/process-review/david-lloyd-george.json",
+            "validationLog": "profile-audit/reports/process-review/david-lloyd-george.log"
+          },
+          "helmut-kohl": {
+            "agent": "/root/independent_kohl",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "7e84cd8453c4e593eeb434d922851a4825653dda8e345e477a3b592a2a55bb0d",
+            "researchPath": "profile-audit/research/process-review/helmut-kohl.json",
+            "validationLog": "profile-audit/reports/process-review/helmut-kohl.log"
+          },
+          "lech-walesa": {
+            "agent": "/root/independent_walesa",
+            "status": "merged",
+            "validationPassed": true,
+            "answerSha256": "7c7d3c52627a8b4a72ff837dbb6acfe69cded917016e15e3a356e6b3d10bad4a",
+            "researchPath": "profile-audit/research/process-review/lech-walesa.json",
+            "validationLog": "profile-audit/reports/process-review/lech-walesa.log"
+          },
+          "david-ben-gurion": {
+            "agent": "/root/independent_ben_gurion",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "f5fabcd4ce9c05bcec74097b8729c049f2207c098daf32dab881b77fd2d6ab81",
+            "researchPath": "profile-audit/research/process-review/david-ben-gurion.json",
+            "validationLog": "profile-audit/reports/process-review/david-ben-gurion.log"
+          },
+          "golda-meir": {
+            "agent": "/root/independent_golda",
+            "status": "independently_answered",
+            "validationPassed": false,
+            "answerSha256": "78862aa9f847ec026b1922fd60278c9ff27d5fc3665d359f9bcaffb8c8bf6895",
+            "researchPath": "profile-audit/research/process-review/golda-meir.json",
+            "validationLog": "profile-audit/reports/process-review/golda-meir.log"
+          }
+        },
+        "disposition": {
+          "status": "pending",
+          "reason": "All 32 proposed profiles meet the NEW_PROFILE >=95 similarity review threshold; 23 meet the original validator >=97 blocking threshold. README requires a user decision after independent review.",
+          "proposedCatalogueReport": "profile-audit/reports/process-review/proposed-catalogue-validation.json",
+          "profileDetailsReport": "profile-audit/reports/process-profile-details.md",
+          "bookProposal": "profile-audit/reports/process-review/proposed-books.json",
+          "requiredProfileIds": [
+            "anthony-albanese",
+            "pauline-hanson",
+            "angus-taylor",
+            "john-howard",
+            "robert-menzies",
+            "gough-whitlam",
+            "bob-hawke",
+            "paul-keating",
+            "kevin-rudd",
+            "julia-gillard",
+            "tony-abbott",
+            "malcolm-turnbull",
+            "scott-morrison",
+            "margaret-thatcher",
+            "clement-attlee",
+            "boris-johnson",
+            "keir-starmer",
+            "nigel-farage",
+            "rupert-lowe",
+            "kamala-harris",
+            "hillary-clinton",
+            "jimmy-carter",
+            "lyndon-b-johnson",
+            "angela-merkel",
+            "olaf-scholz",
+            "mark-carney",
+            "david-lloyd-george",
+            "helmut-kohl",
+            "lech-walesa",
+            "david-ben-gurion",
+            "golda-meir",
+            "joh-bjelke-petersen"
+          ],
+          "originalValidatorBlockedCount": 23,
+          "originalValidatorPassedCount": 9
+        }
+      }
     }
   },
   "ideology": {

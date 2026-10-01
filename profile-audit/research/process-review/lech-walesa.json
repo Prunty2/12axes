@@ -1,0 +1,305 @@
+{
+  "id": "lech-walesa",
+  "profilePeriod": "Solidarity leadership, 1980–1989, and presidency, 1990–1995.",
+  "sources": [
+    {
+      "id": "pace",
+      "title": "Wałęsa address and answers to PACE",
+      "url": "https://assembly.coe.int/nw/xml/Speeches/Speech-XML2HTML-EN.asp?SpeechID=249",
+      "date": "1992-02-04",
+      "accessed": "2026-10-01",
+      "evidence": "Defended democracy, market transition with recession relief, reciprocal European trade, minority language education and Catholic public identity while acknowledging Church-state separation."
+    },
+    {
+      "id": "nobel",
+      "title": "1983 Nobel Peace Prize: Lech Wałęsa",
+      "url": "https://www.nobelpeaceprize.org/prisvinnere/1983-article1375-902.html",
+      "date": "1983",
+      "accessed": "2026-10-01",
+      "evidence": "Awarded for nonviolent struggle for independent unions and human rights; arrested after Solidarity was banned."
+    },
+    {
+      "id": "regulski",
+      "title": "Jerzy Regulski, Local Government Reform in Poland: An Insider’s Story",
+      "url": "https://doczz.net/doc/8589481/local-government-reform-in-poland--an-insider-s-story",
+      "date": "2003",
+      "accessed": "2026-10-01",
+      "evidence": "Participant history describes the 1995 presidential campaign and Wałęsa presidential constitutional draft proposing three tiers of local government, the most far-reaching local-government draft; not a proposal for sovereign federal states."
+    },
+    {
+      "id": "amnesty",
+      "title": "Amnesty International Report 1996: Poland",
+      "url": "https://www.refworld.org/reference/annualreport/amnesty/1996/en/72202",
+      "date": "1996-01-01",
+      "accessed": "2026-10-01",
+      "evidence": "Reporting 1995: Wałęsa opposed reduction of presidential powers. Death-penalty moratorium entered force in November, but report does not establish his personal position on capital punishment."
+    },
+    {
+      "id": "veto",
+      "title": "Wałęsa blocks abortion liberalisation",
+      "url": "https://www.lemonde.fr/archives/article/1994/07/06/pologne-lech-walesa-bloque-la-loi-sur-l-avortement_3820876_1819218.html",
+      "date": "1994-07-06",
+      "accessed": "2026-10-01",
+      "evidence": "Vetoed amendment on July 4 allowing abortion for serious material or personal hardship."
+    },
+    {
+      "id": "jta",
+      "title": "Wałęsa vows to fight antisemitism, acknowledging his contribution",
+      "url": "https://www.jta.org/archive/walesa-vows-to-fight-anti-semitism-blaming-himself-partly-for-revival",
+      "date": "1991-03-25",
+      "accessed": "2026-10-01",
+      "evidence": "Acknowledged campaign wording identifying himself as wholly Polish had encouraged antisemitic impressions; pledged reconciliation with Jews and grounded it in religion."
+    },
+    {
+      "id": "clinton",
+      "title": "Joint remarks in Warsaw",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-following-discussions-with-president-lech-walesa-poland-and-exchange-with",
+      "date": "1994-07-06",
+      "accessed": "2026-10-01",
+      "evidence": "Wałęsa invited General Motors and General Electric investment and welcomed US security assurances; joint discussion covered NATO Partnership for Peace, market transition and relief for unemployed workers."
+    },
+    {
+      "id": "un",
+      "title": "Poland country report to Earth Summit",
+      "url": "https://www.un.org/esa/earthsummit/pold-cp.htm",
+      "date": "1997",
+      "accessed": "2026-10-01",
+      "evidence": "Records Wałęsa’s presidential patronage of the 1994 environmental community contest, organised with provincial offices to encourage local sustainable-development action."
+    },
+    {
+      "id": "pbs",
+      "title": "Commanding Heights interview with Lech Walesa",
+      "url": "https://www.pbs.org/wgbh/commandingheights/shared/minitext/int_lechwalesa.html",
+      "date": "2000",
+      "accessed": "2026-10-01",
+      "evidence": "Retrospective account of market transition: communist investment ignored economic viability, modern equipment could be badly located and systemic change hurt workers. Used only as retrospective testimony about the defined period."
+    },
+    {
+      "id": "interview",
+      "title": "Le Monde interview on reforms and union independence",
+      "url": "https://www.lemonde.fr/archives/article/1990/04/18/un-entretien-avec-m-lech-walesa-les-decisions-du-gouvernement-sont-bonnes-mais-l-homme-de-la-rue-n-en-voit-pas-les-resultats_3960289_1819218.html",
+      "date": "1990-04-18",
+      "accessed": "2026-10-01",
+      "evidence": "Supported democratic safeguards and market reform but insisted Solidarity should defend workers independently of government; wanted an active president accelerating reform."
+    },
+    {
+      "id": "rfe",
+      "title": "RFE/RL Newsline: Constitutional Tribunal and broadcasting",
+      "url": "https://www.rferl.org/a/1140911.html",
+      "date": "1995-04-06",
+      "accessed": "2026-10-01",
+      "evidence": "Reports tribunal ruling that Wałęsa had unlawfully removed the National Broadcasting Council chairman, complicating a purely civil-libertarian portrayal."
+    },
+    {
+      "id": "fayard",
+      "title": "Un chemin d’espoir: publisher catalogue",
+      "url": "https://www.fayard.fr/livre/un-chemin-despoir-9782213019109/",
+      "date": "1987-04-22",
+      "accessed": "2026-10-01",
+      "evidence": "Publisher identifies Lech Walesa as author and April 22 1987 publication."
+    },
+    {
+      "id": "tjrj",
+      "title": "Um caminho de esperança: Brazilian library catalogue",
+      "url": "https://www3.tjrj.jus.br/sophia_web/Acervo/Detalhe/315885?guid=1750204809374&returnUrl=%2Fsophia_web%2FHome%2FIndex",
+      "date": "1987",
+      "accessed": "2026-10-01",
+      "evidence": "TJRJ library identifies Lech Walesa, translator Jusmar Gomes, Best Seller São Paulo 1987, Brazilian title and French original."
+    },
+    {
+      "id": "openlibrary",
+      "title": "A Way of Hope bibliography",
+      "url": "https://openlibrary.org/works/OL3774509W/A_way_of_hope",
+      "date": "1987",
+      "accessed": "2026-10-01",
+      "evidence": "Henry Holt 1987 English edition; autobiography covering Solidarity and Polish political struggle, not solely personal life."
+    },
+    {
+      "id": "current-excluded",
+      "title": "Wałęsa protests treatment of Zelenskyy",
+      "url": "https://apnews.com/article/eab6a26169183760c844580f7742fd78",
+      "date": "2025-03-03",
+      "accessed": "2026-10-01",
+      "evidence": "Current-context check confirms later political activity; excluded from this 1980–1995 historical model. Later LGBT and refugee comments were likewise excluded."
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": [
+        "Presidential constitutional proposal envisaged three levels of territorial self-government."
+      ],
+      "sources": [
+        "regulski",
+        "un"
+      ],
+      "tension": "Local autonomy did not mean secession, sovereign state constitutions or abandoning national law."
+    },
+    "representacao": {
+      "facts": [
+        "Led the movement for free elections but fought reductions in presidential authority."
+      ],
+      "sources": [
+        "nobel",
+        "amnesty",
+        "rfe"
+      ],
+      "tension": "Democratic mandate and opposition rights coexist with impatience toward parliamentary and institutional restraint."
+    },
+    "poder": {
+      "facts": [
+        "Persecuted union organiser; later presidential interference with broadcasting was ruled unlawful."
+      ],
+      "sources": [
+        "nobel",
+        "rfe"
+      ],
+      "tension": "Opposition to political repression did not imply libertarian permissiveness on drugs, euthanasia or policing."
+    },
+    "imigracao": {
+      "facts": [
+        "Defended minority language education and repudiated antisemitism after divisive campaign language."
+      ],
+      "sources": [
+        "pace",
+        "jta"
+      ],
+      "tension": "Pluralism alongside strong Polish Catholic identity; no basis for importing 2015 refugee opinions."
+    },
+    "diplomacia": {
+      "facts": [
+        "Nonviolent resistance and support for Western collective security."
+      ],
+      "sources": [
+        "nobel",
+        "clinton"
+      ],
+      "tension": "Negotiation first while retaining armed defense; neither unilateral disarmament nor aggressive warfare."
+    },
+    "intervencao": {
+      "facts": [
+        "Sought American security commitments and NATO integration."
+      ],
+      "sources": [
+        "clinton",
+        "pace"
+      ],
+      "tension": "Rejects Soviet domination and aggressive nationalism, but not alliances or diplomatic pressure."
+    },
+    "economia": {
+      "facts": [
+        "Supported privatisation and foreign investors while maintaining independent worker representation."
+      ],
+      "sources": [
+        "clinton",
+        "interview",
+        "pbs"
+      ],
+      "tension": "Private enterprise does not entail privatising police or eliminating the safety net."
+    },
+    "controle": {
+      "facts": [
+        "Supported market transition but called for more active state financial resources against recession."
+      ],
+      "sources": [
+        "pace",
+        "interview",
+        "pbs"
+      ],
+      "tension": "Neither central planning nor absolute laissez-faire; labour bargaining and public stabilisation remain legitimate."
+    },
+    "comercio": {
+      "facts": [
+        "Pressed Western Europe to open markets reciprocally and invited US industrial investment."
+      ],
+      "sources": [
+        "pace",
+        "clinton"
+      ],
+      "tension": "Open trade with concerns about one-sided import competition and social costs, not autarky."
+    },
+    "religiao": {
+      "facts": [
+        "Invoked Catholic identity publicly but also affirmed Church-state separation."
+      ],
+      "sources": [
+        "pace",
+        "jta"
+      ],
+      "tension": "Strong personal and public religious values without a straightforward endorsement of theocracy."
+    },
+    "moral": {
+      "facts": [
+        "Vetoed abortion liberalisation in 1994."
+      ],
+      "sources": [
+        "veto",
+        "pace"
+      ],
+      "tension": "Catholic family morality should not be confused with all later views on sexuality; exact positions on modern identity policies remain inferred."
+    },
+    "tecnologia": {
+      "facts": [
+        "Sought modern industrial investment; sponsored local environmental projects in 1994."
+      ],
+      "sources": [
+        "clinton",
+        "un",
+        "pbs"
+      ],
+      "tension": "Industrial modernisation combined with environmental stewardship and Catholic bioethical limits, not unbounded transhumanism."
+    }
+  },
+  "limitations": [
+    "Historical model: later public positions excluded even though current activity checked through 2026-10-01.",
+    "Modern Brazil-specific items, AI, crypto and gene enhancement require analogical judgments, not claimed direct historical statements.",
+    "No verified personal death-penalty statement in the period; state moratorium is not attributed as personal advocacy.",
+    "Technology and detailed migration rules are weaker than economic and constitutional evidence; dedicated searches performed.",
+    "Regulski is a participant account published later; PBS is retrospective testimony, used only for events in the historical period."
+  ],
+  "recommendedMetadata": {
+    "needed": false,
+    "reason": "PT and EN accurately describe the explicit historical scope; coordinator notified before answering."
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Self-authored political autobiography about Solidarity and resistance to communist rule; 1987 first edition verified against publisher and Brazilian library. No existing books.json entry found.",
+    "book": {
+      "personalityId": "lech-walesa",
+      "title": {
+        "pt": "Um caminho de esperança: uma autobiografia",
+        "en": "A Way of Hope"
+      },
+      "year": 1987,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "fayard",
+      "tjrj",
+      "openlibrary"
+    ]
+  },
+  "processNotes": [
+    "Single independent audit; no stored answer archives, vectors, similarity reviews or numerical reports consulted. Existing research read only for profilePeriod and source URLs.",
+    "Research and metadata check completed before answers.",
+    "Likely conceptual neighbours: Havel (shared dissident democracy, less Catholic and presidential); Adenauer (Christian Atlanticism but different union and territorial context); Thatcher (market reform but stronger union and welfare commitments here). These are factual distinctions, never numerical targets.",
+    "All 240 answers and five archetypes written after research. Original validator passes with three nonblocking similarity warnings. No answer changes after seeing validation; Catholic Atlanticist overlap accepted. Local-government reform, independent union origins and presidential conflicts supply substantive distinctions. No shared files or archives modified."
+  ],
+  "promptSha256": "c1bae8a601330e8394ebca2b3a3261854e10631341eb8dc0fa397ebd4d669b39",
+  "answersSha256": "7c7d3c52627a8b4a72ff837dbb6acfe69cded917016e15e3a356e6b3d10bad4a",
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality lech-walesa",
+    "exitCode": 0,
+    "output": "validando personality:lech-walesa\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/lech-walesa.json\n\n[ARQUETIPO] sociedade A · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 15/240 = 6.2%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         52.1  centralizado/unitario <-> descentralizado/federal\n  representacao     76.3  autocracia <-> democracia\n  poder             53.2  liberdade civil <-> ordem/vigilancia\n  imigracao         46.8  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        42.1  pacifista <-> militarista\n  intervencao       42.4  nacionalista assertivo <-> nao-intervencionista\n  economia          52.0  privado/mercado <-> publico/coletivo\n  controle          41.4  livre mercado <-> planejamento\n  comercio          33.0  livre comercio/globalista <-> protecionista\n  religiao          17.6  religioso <-> irreligioso/secular\n  moral             17.2  tradicionalista <-> progressista\n  tecnologia        46.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         52.1   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     76.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             53.2   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         46.8   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        42.1   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       42.4   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          52.0   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          41.4   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          33.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          17.6   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             17.2   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        46.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   94.2%  helmut-kohl  <<< aviso\n   94.1%  konrad-adenauer  <<< aviso\n   94.0%  marcelo-rebelo-de-sousa  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 94.2% proximo de 'helmut-kohl'\n  [CONTEUDO] 94.1% proximo de 'konrad-adenauer'\n  [CONTEUDO] 94.0% proximo de 'marcelo-rebelo-de-sousa'\nOK - passou nas tres checagens.\n",
+    "blockers": [],
+    "warnings": [
+      "[CONTEUDO] 94.2% proximo de 'helmut-kohl'",
+      "[CONTEUDO] 94.1% proximo de 'konrad-adenauer'",
+      "[CONTEUDO] 94.0% proximo de 'marcelo-rebelo-de-sousa'"
+    ]
+  },
+  "neutralCount": 15,
+  "neutralPercent": 6.25
+}

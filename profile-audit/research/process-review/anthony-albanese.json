@@ -1,0 +1,381 @@
+{
+  "id": "anthony-albanese",
+  "asOf": "2026-10-01",
+  "sources": [
+    {
+      "id": "hospital",
+      "date": "2026-01-30",
+      "publisher": "PM / National Cabinet",
+      "url": "https://www.pm.gov.au/media/record-funding-public-hospitals-and-disability-reform",
+      "evidence": "National Cabinet agreed additional Commonwealth funding for state-run hospitals and shared disability reforms; national/local service responsibilities remain.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "elections",
+      "date": "2025-02-21",
+      "publisher": "Australian Electoral Commission",
+      "url": "https://www.aec.gov.au/media/2025/02-21.htm",
+      "evidence": "Electoral law received assent on 20 February 2025: donation/expenditure caps, lower disclosure threshold, disability voting access. Official notice schedules funding reforms for July 2026.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "online",
+      "date": "2026-09-07",
+      "publisher": "Anthony Albanese / PM",
+      "url": "https://www.pm.gov.au/media/doubling-down-brave-deal-save-our-children",
+      "evidence": "Defends under-16 account ban and proposes stronger evidence-gathering powers, doubled penalties and Digital Duty of Care; proposed changes are not treated as enacted.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "migration",
+      "date": "2025-09-02",
+      "publisher": "Home Affairs",
+      "url": "https://minister.homeaffairs.gov.au/TonyBurke/Pages/permanent-migration-program-2025-2026.aspx",
+      "evidence": "2025-26 permanent migration program maintained at 185000, with skilled focus; this is not a verified 2026-27 number.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "multicultural",
+      "date": "2026-06-29",
+      "publisher": "ABC News / Paul Johnson",
+      "url": "https://www.abc.net.au/news/2026-06-29/anthony-albanese-defends-budget-cgt-change-and-multiculturalism/106857928",
+      "evidence": "Direct interview: multiculturalism means respect and loyalty to Australia; also defended housing tax changes while retaining negative gearing for new builds.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "defence",
+      "date": "2026-04-16",
+      "publisher": "Defence Ministers",
+      "url": "https://www.minister.defence.gov.au/media-releases/2026-04-16/2026-national-defence-strategy-integrated-investment-program",
+      "evidence": "Strategy of denial, stronger regional partnerships, conventionally armed nuclear-powered submarines, long-range strikes and uncrewed systems; substantial new defence investment.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "iran",
+      "date": "2026-02-28",
+      "publisher": "Albanese / Marles / Wong",
+      "url": "https://www.pm.gov.au/media/statement-iran",
+      "evidence": "Supports US action to prevent Iranian nuclear weapons, sanctions Iranian-linked individuals, expelled ambassador after attributed attacks in Australia.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "ceasefire",
+      "date": "2026-04-08",
+      "publisher": "Albanese / Wong",
+      "url": "https://www.pm.gov.au/media/middle-east-ceasefire",
+      "evidence": "Welcomes negotiated ceasefire, urges de-escalation, civilian protection and international humanitarian law; rejects indefinite escalation.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "palestine",
+      "date": "2025-09-21",
+      "publisher": "Albanese / Wong",
+      "url": "https://www.pm.gov.au/media/australia-recognises-state-palestine",
+      "evidence": "Recognised Palestine for a two-state settlement, with PA reform/elections and exclusion of Hamas; supports Israeli and Palestinian security.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "nbn",
+      "date": "2025-01-13",
+      "publisher": "PM",
+      "url": "https://www.pm.gov.au/media/only-labor-will-finish-nbn-and-keep-it-public-hands",
+      "evidence": "Commitment to finish fibre rollout and retain NBN Co public ownership; public infrastructure is specific, not abolition of private enterprise.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "gas",
+      "date": "2026-05-07",
+      "publisher": "Climate / Resources / Industry Ministers",
+      "url": "https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-albanese-government-secure-australian-gas-australian-users",
+      "evidence": "Proposes gas reservation equivalent to 20 percent of exports from July 2027, protecting prior export contracts; promotes gas alongside renewable energy and strategic manufacturing.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "eu_trade",
+      "date": "2026-03-24",
+      "publisher": "DFAT",
+      "url": "https://www.dfat.gov.au/trade/agreements/not-yet-in-force/aeufta",
+      "evidence": "EU FTA negotiations concluded 24 March 2026; tariff liberalisation and investment integration, listed as not yet in force at verification.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "religion",
+      "date": "2025-09-12",
+      "publisher": "PM press conference",
+      "url": "https://www.pm.gov.au/media/press-conference-sydney-12-sep-25",
+      "evidence": "Defends freedom and safety across religious communities and celebrates cultural diversity; does not advocate a state religion.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "religion_tension",
+      "date": "2025-09-12",
+      "publisher": "ABC News",
+      "url": "https://www.abc.net.au/news/2025-09-12/islamophobia-envoy-wants-religious-discrimination-laws/105767918",
+      "evidence": "Supports religious discrimination legislation in principle but will not advance it without bipartisanship; prior reform protecting LGBT school staff/students remains unfulfilled in this source.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "lgbt",
+      "date": "2023-02-25",
+      "publisher": "PM transcript",
+      "url": "https://www.pm.gov.au/media/doorstop-interview-sydney-4",
+      "evidence": "Endorses marriage equality and equal respect irrespective of identity, and marches at Mardi Gras.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "lgbt_independent",
+      "date": "2023-02-11",
+      "publisher": "SBS News",
+      "url": "https://www.sbs.com.au/news/article/anthony-albanese-to-be-first-australian-prime-minister-to-march-in-sydneys-mardi-gras-parade/ipzm51tl4",
+      "evidence": "Independent report of announced historic PM participation in Mardi Gras and equal-rights advocacy.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "ai",
+      "date": "2026-07-15",
+      "publisher": "PM / Industry",
+      "url": "https://www.pm.gov.au/media/ai-australias-interests",
+      "evidence": "Promotes AI investment and faster approvals with national standards on power/water, creator consent and safety; legislation expected early 2027, not already enacted.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "biography",
+      "date": "2016-08-29",
+      "publisher": "Penguin Books Australia",
+      "url": "https://www.penguin.com.au/books/albanese-9781925324723",
+      "evidence": "Albanese: Telling It Straight is by Karen Middleton. Page lists original ebook 29 August 2016 and updated paperback 3 July 2017; not self-authored.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    },
+    {
+      "id": "anthology",
+      "date": "2020-09-29",
+      "publisher": "Melbourne University Publishing",
+      "url": "https://www.mup.com.au/books/what-happens-next/9780522877212",
+      "evidence": "What Happens Next? Reconstructing Australia after COVID-19 lists McCalman and Dawson as editors; Albanese is one of multiple contributors, not author of the full book.",
+      "accessed": "2026-10-01",
+      "verification": "Opened source page; publication/event date checked in page text"
+    }
+  ],
+  "axisResearch": {
+    "estrutura": {
+      "facts": "Acordo de 2026 mantém hospitais administrados pelos estados com financiamento e metas nacionais negociados no National Cabinet; há coordenação nacional, não extinção dos estados.",
+      "sources": [
+        "hospital",
+        "ai"
+      ]
+    },
+    "representacao": {
+      "facts": "Governo aprova reformas eleitorais por lei parlamentar com fiscalização da AEC e acesso ampliado ao voto; sua abordagem continua representativa, não assembleísta nem tecnocrática sem eleições.",
+      "sources": [
+        "elections"
+      ]
+    },
+    "poder": {
+      "facts": "Defende banimento de contas de menores de 16 anos, poderes de investigação do regulador e sanções a plataformas. Direitos individuais coexistem com intervenção coercitiva por proteção e segurança.",
+      "sources": [
+        "online",
+        "religion"
+      ]
+    },
+    "imigracao": {
+      "facts": "Em junho de 2026 defendeu multiculturalismo e lealdade à Austrália conjuntamente; programa permanente 2025-26 seletivo e limitado, não fronteiras abertas.",
+      "sources": [
+        "multicultural",
+        "migration",
+        "religion"
+      ]
+    },
+    "diplomacia": {
+      "facts": "AUKUS/submarinos, capacidades de ataque de longo alcance e alianças regionais sustentam dissuasão; apoiou ação americana contra armas nucleares iranianas, mas depois pediu cessar-fogo e proteção de civis.",
+      "sources": [
+        "defence",
+        "iran",
+        "ceasefire"
+      ]
+    },
+    "intervencao": {
+      "facts": "Aplica sanções ao Irã e sustenta alianças e influência regional; reconheceu Palestina por solução de dois Estados e condicionou relações futuras a reformas. Não é isolacionista nem defensor de expansão territorial.",
+      "sources": [
+        "iran",
+        "palestine",
+        "defence"
+      ]
+    },
+    "economia": {
+      "facts": "Recusa privatização do NBN e expande hospitais/Medicare, enquanto preserva investimento privado e incentivos imobiliários para novas construções.",
+      "sources": [
+        "nbn",
+        "hospital",
+        "multicultural"
+      ]
+    },
+    "controle": {
+      "facts": "Reserva de gás proposta para abastecimento interno e proteção da indústria, coordenação de investimento em IA e reformas tributárias da moradia; coexistem com economia privada e comércio aberto.",
+      "sources": [
+        "gas",
+        "ai",
+        "multicultural"
+      ]
+    },
+    "comercio": {
+      "facts": "Concluiu negociações de livre comércio com UE em março de 2026; reserva de gás e indústria nacional estabelecem exceções estratégicas, mantendo contratos de exportação anteriores.",
+      "sources": [
+        "eu_trade",
+        "gas"
+      ]
+    },
+    "religiao": {
+      "facts": "Protege pluralismo e liberdade religiosa. Adia lei de discriminação religiosa sem consenso bipartidário, incluindo proteções LGBT em escolas religiosas; não adota secularismo antirreligioso.",
+      "sources": [
+        "religion",
+        "religion_tension",
+        "lgbt"
+      ]
+    },
+    "moral": {
+      "facts": "Defende casamento igualitário e respeito à identidade LGBT; a proteção de menores online e hesitação diante do conflito com escolas religiosas moderam a imagem de autonomia pessoal irrestrita.",
+      "sources": [
+        "lgbt",
+        "lgbt_independent",
+        "online",
+        "religion_tension"
+      ]
+    },
+    "tecnologia": {
+      "facts": "Promove IA, redes de fibra e modernização industrial, com limites ambientais, direitos autorais e proteção laboral; preserva gás na transição renovável. Não há evidência direta encontrada para melhoramento humano irrestrito.",
+      "sources": [
+        "ai",
+        "nbn",
+        "gas"
+      ]
+    }
+  },
+  "independentSourceFamilies": [
+    "Australian Government primary records",
+    "ABC News reporting and interview",
+    "SBS News reporting",
+    "Penguin Books Australia",
+    "Melbourne University Publishing"
+  ],
+  "limitations": [
+    "Answers are reasoned simulations, not a claim that Albanese answered each question. Brazil-specific wording is interpreted by its policy principle in Australian context.",
+    "Dedicated searches completed for all twelve axes. Direct evidence is strongest for government policy; lesser-documented abstract hypotheticals (secession, sortition, embryo enhancement, polyamory) require cautious inference.",
+    "No verified 2026-27 migration ceiling; retain dated 2025-26 example only. Gas reservation and AI laws are proposals with later implementation, EU agreement not yet in force.",
+    "AP articles returned useful search extracts but direct opening failed for the September algorithm article; that claim was replaced with a directly opened PM statement. No reliance on inaccessible AP details."
+  ],
+  "metadataRecommendation": {
+    "changeNeeded": false,
+    "reason": "Current description remains accurate; 2026 detail included in audit context without increasing catalogue description length."
+  },
+  "bookDecision": {
+    "status": "omit",
+    "reason": "No qualifying complete self-authored political book verified. Karen Middleton biography excluded; contributed chapter in edited anthology insufficient to attribute the whole book to Albanese.",
+    "candidates": [
+      {
+        "title": {
+          "pt": "Albanese: Telling It Straight",
+          "en": "Albanese: Telling It Straight"
+        },
+        "firstPublication": 2016,
+        "author": "Karen Middleton",
+        "qualifies": false,
+        "source": "biography"
+      },
+      {
+        "title": {
+          "pt": "What Happens Next? Reconstructing Australia after COVID-19",
+          "en": "What Happens Next? Reconstructing Australia after COVID-19"
+        },
+        "firstPublication": 2020,
+        "author": "Edited by Janet McCalman and Emma Dawson; Albanese contributes",
+        "qualifies": false,
+        "source": "anthology"
+      }
+    ],
+    "translationNote": "No Brazilian edition verified; original titles retained only in rejected-candidate record."
+  },
+  "likelyNeighbours": [
+    {
+      "name": "Kevin Rudd",
+      "distinction": "Same Australian federal parliamentary and public-service setting; Albanese record specifically includes AUKUS submarines, contemporary industrial policy and the under-16 account ban."
+    },
+    {
+      "name": "Jacinda Ardern",
+      "distinction": "Shared pluralism and public-service emphasis; Albanese pursues conventionally armed nuclear-powered submarines and a defence industrial build-up within Australian federalism."
+    },
+    {
+      "name": "Justin Trudeau",
+      "distinction": "Shared multiculturalism and federal institutions; Albanese remains committed to selective immigration, public NBN and Australian strategic manufacturing and AUKUS."
+    }
+  ],
+  "processNotes": [
+    "Read CONTRIBUTING, NEW_PROFILE, new-personality skill, audit README and saved prompt; no answers, vectors, or similarity reviews were consulted.",
+    "All sources and axis evidence gathered before answering. Current description judged accurate and coordinator notified before generating answers.",
+    "Prompt rebuilt from exact README header and question template; archetype block regenerated via profile_vector.py --prompt-block.",
+    "Individual responses chosen by question content, never by target vector or compatibility distance. Validation result will be recorded after output is written.",
+    "Completed 240 individually selected answers plus all five archetypes; counted 21 neutral responses before writing.",
+    "Ran original restored validator after writing answers, then repeated only to capture its exact exit code and diagnostic text in this review. Content duplicate blockers remain unresolved; no answer or target adjusted after seeing matches.",
+    "Broader backend/frontend tests and metadata/assets integration belong to coordinator; this scoped worker did not run or claim them."
+  ],
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality anthony-albanese",
+    "exitCode": 1,
+    "status": "blocked_duplicate_threshold",
+    "shape": "passed",
+    "neutrals": {
+      "count": 21,
+      "total": 240,
+      "percent": 8.75
+    },
+    "warnings": [],
+    "blockers": [
+      "98.4% julia-gillard",
+      "98.2% olaf-scholz",
+      "97.2% keir-starmer"
+    ],
+    "fullOutput": "validando personality:anthony-albanese\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/anthony-albanese.json\n\n[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia C\n[NEUTROS] total 21/240 = 8.8%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         49.8  centralizado/unitario <-> descentralizado/federal\n  representacao     82.3  autocracia <-> democracia\n  poder             60.3  liberdade civil <-> ordem/vigilancia\n  imigracao         31.9  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        51.7  pacifista <-> militarista\n  intervencao       36.4  nacionalista assertivo <-> nao-intervencionista\n  economia          67.5  privado/mercado <-> publico/coletivo\n  controle          59.2  livre mercado <-> planejamento\n  comercio          33.0  livre comercio/globalista <-> protecionista\n  religiao          57.1  religioso <-> irreligioso/secular\n  moral             74.0  tradicionalista <-> progressista\n  tecnologia        52.4  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         49.8   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     82.3   | Kim Jong Un=6 .. José Mujica=86\n  poder             60.3   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         31.9   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        51.7   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       36.4   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          67.5   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          59.2   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          33.0   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao          57.1   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral             74.0   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        52.4   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   98.4%  julia-gillard  <<< BLOQUEIA\n   98.2%  olaf-scholz  <<< BLOQUEIA\n   97.2%  keir-starmer  <<< BLOQUEIA\n\n\nERROS (bloqueiam o merge):\n  [CONTEUDO] 98.4% identico a 'julia-gillard' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 98.2% identico a 'olaf-scholz' - perfil redundante, nao acrescenta nada ao catalogo\n  [CONTEUDO] 97.2% identico a 'keir-starmer' - perfil redundante, nao acrescenta nada ao catalogo\n",
+    "answerEditsAfterValidation": false
+  },
+  "computedVector": {
+    "estrutura": 49.8,
+    "representacao": 82.3,
+    "poder": 60.3,
+    "imigracao": 31.9,
+    "diplomacia": 51.7,
+    "intervencao": 36.4,
+    "economia": 67.5,
+    "controle": 59.2,
+    "comercio": 33.0,
+    "religiao": 57.1,
+    "moral": 74.0,
+    "tecnologia": 52.4
+  },
+  "fingerprints": {
+    "anthony-albanese.json": "fc939d80a041d4b3b1cf5c6a5cf49993b0086439abc770e9a26627fc01a755d6",
+    "anthony-albanese.txt": "23b353c28d304470ab71486b0c0fc252d329817e8fe82e9cb5d403079b3c3912"
+  },
+  "controversyQuote": {
+    "date": "2026-09-07",
+    "source": "online",
+    "quote": "Our government will not back down.",
+    "context": "Albanese defending youth social-media restrictions and announcing stronger enforcement despite scepticism; source distinguishes existing ban from proposed additions."
+  }
+}

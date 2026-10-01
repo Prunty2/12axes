@@ -1,0 +1,330 @@
+{
+  "id": "joh-bjelke-petersen",
+  "scope": "Queensland premiership, 1968–1987",
+  "researchedAt": "2026-10-01",
+  "independent": true,
+  "sources": [
+    {
+      "id": "qld-register",
+      "url": "https://www.parliament.qld.gov.au/Members/Former-Members/Former-Members-Register/Former-Member-Details?id=1543517032",
+      "title": "Queensland Parliament, former member register",
+      "date": "Undated; retrieved 2026-10-01",
+      "evidence": "Premiership, Lutheran affiliation and promotion of development; search-index text available, page returned 403.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "secession-1985",
+      "url": "https://documents.parliament.qld.gov.au/events/han/1985/1985_03_26.pdf",
+      "title": "Queensland Hansard",
+      "date": "1985-03-26",
+      "evidence": "His own answer connects possible separation with federal taxation and unequal treatment of Queensland.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "secession-1973",
+      "url": "https://documents.parliament.qld.gov.au/events/han/1973/1973_08_02.pdf",
+      "title": "Queensland Hansard",
+      "date": "1973-08-02",
+      "evidence": "He denied advocating secession when challenged; do not infer a universal secession doctrine.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "slq-protest",
+      "url": "https://www.slq.qld.gov.au/blog/freedom-freeways-and-brisbane-protest-seventies",
+      "title": "State Library of Queensland",
+      "date": "2017; retrieved 2026-10-01",
+      "evidence": "Street-march prohibition, police actions, rural electoral weighting and mining conflict on Aboriginal land.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "indigenous",
+      "url": "https://humanrights.gov.au/sites/default/files/content/pdf/social_justice/native_title_report_97.pdf",
+      "title": "Australian Human Rights Commission, Native Title Report",
+      "date": "1997",
+      "evidence": "Aurukun control and Koowarta lease refusal show state autonomy did not imply Indigenous self-government.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "vietnam",
+      "url": "https://documents.parliament.qld.gov.au/events/han/1975/1975_04_10.pdf",
+      "title": "Queensland Hansard",
+      "date": "1975-04-10",
+      "evidence": "His condemnation of recognition of the North Vietnamese takeover demonstrates anti-communist alignment, not pacifism.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "iwasaki-speech",
+      "url": "https://documents.parliament.qld.gov.au/events/han/1978/1978_04_26.pdf",
+      "title": "Queensland Hansard",
+      "date": "1978-04-26",
+      "evidence": "He explicitly welcomes overseas investment for jobs and resource development; states obligations on investor for works and environmental repair.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "iwasaki-research",
+      "url": "https://qhatlas.com.au/content/iwasaki-project",
+      "title": "Queensland Historical Atlas",
+      "date": "2010; retrieved 2026-10-01",
+      "evidence": "1978 franchise agreement granted special concessions and planning exemptions; state intervention supported private foreign capital.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "tax-hospitals",
+      "url": "https://documents.parliament.qld.gov.au/events/han/2005/2005_05_10_WEEKLY.pdf",
+      "title": "Queensland parliamentary condolences",
+      "date": "2005-05-10",
+      "evidence": "Colleagues cite free hospitals, coal and power infrastructure, no state fuel tax, abolition of death duties, Christian faith and opposition to Sunday trading. Retrospective favorable testimony, not neutral evaluation.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "prices",
+      "url": "https://pmtranscripts.pmc.gov.au/sites/default/files/original/00003484_0.pdf",
+      "title": "Prime Ministerial archive, Whitlam statement",
+      "date": "1974",
+      "evidence": "Political opponent criticises his refusal of price-control powers and federal assistance. Used narrowly for disagreement on controls, not as neutral character judgment.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "sex-policy",
+      "url": "https://blogs.archives.qld.gov.au/2023/04/24/legalising-condoms/amp/",
+      "title": "Queensland State Archives",
+      "date": "2023-04-24",
+      "evidence": "1978 school sex-education restrictions and 1987 removal of condom vending machines despite Health Minister support.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "religion",
+      "url": "https://news.uq.edu.au/1999-06-04-study-examines-sir-johs-life-and-times",
+      "title": "University of Queensland report on Rae Wear research",
+      "date": "1999-06-04",
+      "evidence": "Religion central to political self-understanding; rural upbringing not sufficient evidence of anti-industrialism.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "book-library",
+      "url": "https://sclqld.org.au/catalogue/records/2190",
+      "title": "Supreme Court Library Queensland",
+      "date": "1990 publication record; retrieved 2026-10-01",
+      "evidence": "Publication North Ryde, Angus & Robertson, 1990; political-government subject headings.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "book-object",
+      "url": "https://victoriancollections.net.au/items/5b28926d21ea6912bc2dd7f3",
+      "title": "Victorian Collections, Unions Ballarat object record",
+      "date": "1990 object; retrieved 2026-10-01",
+      "evidence": "Catalogues Joh Bjelke-Petersen as author/creator of his memoirs.",
+      "accessed": "2026-10-01"
+    },
+    {
+      "id": "book-review",
+      "url": "https://www.afr.com/companies/sir-joh-power-without-glory-19900511-kamtx",
+      "title": "Australian Financial Review, Nicholas Way review",
+      "date": "1990-05-11",
+      "evidence": "Contemporary review describes political career and premiership, establishing substantive political content.",
+      "accessed": "2026-10-01"
+    }
+  ],
+  "perAxisFindings": {
+    "estrutura": {
+      "facts": "Defendeu prerrogativas de Queensland contra Canberra e em 1985 condicionou a possibilidade de separação ao tratamento fiscal federal; em 1973 negou defender secessão. Não concedia a mesma autonomia às comunidades aborígenes.",
+      "sources": [
+        "secession-1985",
+        "secession-1973",
+        "indigenous"
+      ],
+      "tension": "Federalismo estadual seletivo, não municipalismo irrestrito nem separatismo universal."
+    },
+    "representacao": {
+      "facts": "Disputou eleições parlamentares, mas o período incluiu distribuição eleitoral favorável ao interior, nomeação contestada para vaga trabalhista no Senado e restrição a protestos.",
+      "sources": [
+        "qld-register",
+        "slq-protest"
+      ],
+      "tension": "Legitimação eleitoral real coexistia com enfraquecimento da igualdade do voto e da fiscalização; não presumir partido único."
+    },
+    "poder": {
+      "facts": "Proibição de passeatas e operações policiais repressivas são evidência concreta de primazia da ordem; restrições morais alcançavam a esfera privada.",
+      "sources": [
+        "slq-protest",
+        "sex-policy"
+      ],
+      "tension": "Livre empresa não significa liberdade civil; perguntas digitais são extrapolações limitadas."
+    },
+    "imigracao": {
+      "facts": "A política indígena recusava autonomia e aquisição de terras; ao mesmo tempo recebeu capital e empreendedores japoneses, defendendo o projeto Iwasaki.",
+      "sources": [
+        "indigenous",
+        "iwasaki-speech"
+      ],
+      "tension": "Assimilação cultural e ordem cristã não equivalem a rejeição de todo estrangeiro; política indígena é contexto cultural, não prova direta de posição migratória."
+    },
+    "diplomacia": {
+      "facts": "Em abril de 1975 condenou o reconhecimento da vitória norte-vietnamita como apoio comunista e invocou a defesa do modo de vida livre.",
+      "sources": [
+        "vietnam"
+      ],
+      "tension": "Anticomunismo e alinhamento ocidental permitem inferir defesa forte; premiê estadual não tinha comando da defesa nacional nem doutrina nuclear documentada aqui."
+    },
+    "intervencao": {
+      "facts": "Seu discurso sobre Vietnã era anticomunista, enquanto a resistência ao poder federal e a tratados que ampliavam essa intervenção afirmava a soberania estadual.",
+      "sources": [
+        "vietnam",
+        "secession-1985",
+        "indigenous"
+      ],
+      "tension": "Não extrapolar soberania estadual para expansionismo militar; admite aliados e pressões externas sem doutrina de conquista."
+    },
+    "economia": {
+      "facts": "Defendeu propriedade privada e investimento estrangeiro; aboliu direitos sucessórios, mas manteve hospitais públicos gratuitos e infraestrutura pública.",
+      "sources": [
+        "iwasaki-speech",
+        "tax-hospitals"
+      ],
+      "tension": "Pró-empresa não equivale à privatização total de saúde, polícia, tribunais ou energia."
+    },
+    "controle": {
+      "facts": "Oposição a controles de preços e tributação coexistiu com concessões legislativas a investidores e coordenação de infraestrutura; a restrição de comércio dominical atendia à moral religiosa.",
+      "sources": [
+        "prices",
+        "iwasaki-research",
+        "tax-hospitals"
+      ],
+      "tension": "Mercado com intervenção discricionária desenvolvimentista, não laissez-faire consistente."
+    },
+    "comercio": {
+      "facts": "Em 1978 acolheu explicitamente investimento estrangeiro para desenvolver recursos e gerar empregos; garantiu condições especiais ao empreendimento japonês Iwasaki.",
+      "sources": [
+        "iwasaki-speech",
+        "iwasaki-research"
+      ],
+      "tension": "Abertura ao capital e comércio não prova apoio ao desaparecimento de todas as fronteiras econômicas ou abandono da agricultura local."
+    },
+    "religiao": {
+      "facts": "Luterano; pesquisa biográfica destaca peso da religião; oposição ao comércio dominical baseada na família e fé.",
+      "sources": [
+        "qld-register",
+        "religion",
+        "tax-hospitals"
+      ],
+      "tension": "Fé molda política e costumes sem evidência de um programa de teocracia clerical."
+    },
+    "moral": {
+      "facts": "Restringiu educação sexual em 1978 e ordenou retirada de máquinas de preservativos em 1987 mesmo diante da preocupação sanitária do ministro.",
+      "sources": [
+        "sex-policy"
+      ],
+      "tension": "Conservadorismo sexual firme; não confundir modernização econômica com progressismo moral."
+    },
+    "tecnologia": {
+      "facts": "Promoveu mineração, energia e grandes empreendimentos; preferiu projetos de desenvolvimento a objeções ambientais, mas recusava liberalização em saúde sexual.",
+      "sources": [
+        "iwasaki-research",
+        "slq-protest",
+        "tax-hospitals",
+        "sex-policy"
+      ],
+      "tension": "Entusiasmo industrial e raízes rurais coexistem; não há defesa documentada de transumanismo, edição de embriões ou IA."
+    }
+  },
+  "likelyNeighboursBeforeAnswers": [
+    {
+      "profile": "Ronald Reagan / conservadorismo liberal",
+      "distinction": "Joh baseou poder num governo estadual com eleitorados rurais favorecidos e conservou hospitais gratuitos; não comandava uma superpotência militar."
+    },
+    {
+      "profile": "Margaret Thatcher / conservadorismo de mercado",
+      "distinction": "Joh defendia prerrogativas estaduais dentro de uma federação e usava concessões específicas ao capital; sua prática não corresponde a uma campanha britânica de privatização nacional."
+    },
+    {
+      "profile": "Lee Kuan Yew / desenvolvimentismo pró-empresa",
+      "distinction": "Joh combinava fé cristã e base agrária com direitos estaduais; não governava uma cidade-Estado centralizada nem justificava políticas pela mesma tecnocracia."
+    }
+  ],
+  "limitations": [
+    "As 240 respostas são simulações históricas, não citações; Brasil e instituições contemporâneas são tratados por analogia funcional australiana.",
+    "Perguntas de IA, armas autônomas, criptomoedas e engenharia genética exigem inferência explícita a partir de desenvolvimento, autoridade e moral religiosa.",
+    "Defesa e imigração eram competências federais; a pesquisa não estabelece posição pessoal específica em cada alternativa.",
+    "Não foram consultadas respostas, vetores nem revisões de similaridade anteriores.",
+    "Não atribuir a Joh declarações de sua esposa nem converter acusações partidárias em fatos comprovados."
+  ],
+  "recommendedMetadata": {
+    "pt": {
+      "name": "Joh Bjelke-Petersen",
+      "role": "Ex-premiê de Queensland, Austrália",
+      "lifespan": "1911–2005",
+      "description": "Premiê de Queensland (1968–1987), defendeu direitos estaduais, investimento privado e valores cristãos; promoveu mineração, manteve hospitais gratuitos e restringiu protestos sob um sistema eleitoral favorável ao interior."
+    },
+    "en": {
+      "name": "Joh Bjelke-Petersen",
+      "role": "Former Premier of Queensland, Australia",
+      "lifespan": "1911–2005",
+      "description": "Queensland premier (1968–1987) who backed state rights, private investment and Christian values; promoted mining, retained free hospitals and restricted protest under an electoral system favouring rural areas."
+    }
+  },
+  "bookDecision": {
+    "qualifies": true,
+    "reason": "Autobiografia de autoria catalogada com conteúdo substancial sobre governo e carreira política; não são memórias apenas pessoais.",
+    "book": {
+      "personalityId": "joh-bjelke-petersen",
+      "title": {
+        "pt": "Don't You Worry About That! The Joh Bjelke-Petersen Memoirs",
+        "en": "Don't You Worry About That! The Joh Bjelke-Petersen Memoirs"
+      },
+      "year": 1990,
+      "url": {
+        "pt": "",
+        "en": ""
+      }
+    },
+    "sources": [
+      "book-library",
+      "book-object",
+      "book-review"
+    ],
+    "translationNote": "Não foi localizada edição brasileira; conservar título original, sem inventar tradução.",
+    "scopeNote": "Publicado após o mandato; usado para decisão bibliográfica, não como evidência de posições atuais."
+  },
+  "processNotes": [
+    "Read CONTRIBUTING.md, NEW_PROFILE.md, new-personality SKILL.md and audit README in full.",
+    "Researched person-specific parliamentary, library, archival and university sources before answering.",
+    "Listed likely neighbours and factual differences without numerical targets before answering.",
+    "Rebuilt archetype block using profile_vector.py --prompt-block and preserved exact methodology.",
+    "Coordinator applied and checked PT/EN metadata before answer generation; prompt description was programmatically checked against live PT metadata.",
+    "Re-read original README and NEW_PROFILE after coordinator restored them; original duplicate thresholds apply.",
+    "Wrote twelve persona briefs and individually chose all 240 codes; no vector computed or old output consulted before the full output was written.",
+    "Answers retain public-hospital and development-planning exceptions; electoral authoritarian practices do not automatically imply abolishing elections or federalism.",
+    "Supplementary search on death penalty and guns did not establish direct individual positions; these remain bounded institutional/rural-conservative inferences, not documented quotations.",
+    "Ran original validate.py after completing the output; recorded all warnings. No answers changed after seeing the calculated vector or neighbours.",
+    "Did not merge profiles, books, STATE or answer archives; only assigned prompt, subagent output and process-review research were written."
+  ],
+  "neutralCounts": {
+    "estrutura": 2,
+    "representacao": 0,
+    "poder": 0,
+    "imigracao": 1,
+    "diplomacia": 1,
+    "intervencao": 0,
+    "economia": 1,
+    "controle": 2,
+    "comercio": 0,
+    "religiao": 0,
+    "moral": 0,
+    "tecnologia": 1
+  },
+  "neutralTotal": 8,
+  "archetypeRationale": {
+    "sociedade": "A: fé e família são elementos centrais, não só apego secular à ordem.",
+    "poder": "C: corresponde ao compromisso declarado com eleições e parlamentarismo; as respostas do eixo registram os limites reais desse compromisso. Nenhuma alternativa resume perfeitamente uma democracia eleitoral iliberal.",
+    "economia": "F: retórica de livre iniciativa e impostos mínimos é a alternativa mais próxima; hospitais gratuitos e intervenção em infraestrutura continuam registrados nas perguntas específicas.",
+    "mundo": "B: defesa forte em alinhamento anticomunista, sem programa de potência conquistadora.",
+    "tecnologia": "D: indústria e recursos como motor, sem endosso ao transumanismo."
+  },
+  "validation": {
+    "command": "python3 profile-audit/validate.py personality joh-bjelke-petersen",
+    "exitCode": 0,
+    "output": "validando personality:joh-bjelke-petersen\n  /Users/liam/.codex/worktrees/politician-comparison-expansion/12Axes/profile-audit/subagent-out/personality/joh-bjelke-petersen.json\n\n[ARQUETIPO] sociedade A · poder C · economia F · mundo B · tecnologia D\n[NEUTROS] total 8/240 = 3.3%\n\n[CONTEUDO] vetor e direcao real dos eixos\n  eixo             valor  0 <--------> 100\n  estrutura         77.1  centralizado/unitario <-> descentralizado/federal\n  representacao     53.7  autocracia <-> democracia\n  poder             72.2  liberdade civil <-> ordem/vigilancia\n  imigracao         67.0  multicultural/aberto <-> assimilacionista/fechado\n  diplomacia        66.0  pacifista <-> militarista\n  intervencao       24.5  nacionalista assertivo <-> nao-intervencionista\n  economia          32.7  privado/mercado <-> publico/coletivo\n  controle          34.9  livre mercado <-> planejamento\n  comercio          32.7  livre comercio/globalista <-> protecionista\n  religiao           8.1  religioso <-> irreligioso/secular\n  moral              3.0  tradicionalista <-> progressista\n  tecnologia        55.8  biologia/naturalista <-> tecnofilo\n\n[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)\n  estrutura         77.1   | Josef Stálin=0 .. Murray Rothbard=96\n  representacao     53.7   | Kim Jong Un=6 .. José Mujica=86\n  poder             72.2   | Murray Rothbard=1 .. Josef Stálin=99\n  imigracao         67.0   | Justin Trudeau=22 .. Adolf Hitler=100\n  diplomacia        66.0   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100\n  intervencao       24.5   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71\n  economia          32.7   | Murray Rothbard=6 .. Josef Stálin=94\n  controle          34.9   | Murray Rothbard=5 .. Josef Stálin=100\n  comercio          32.7   | Milton Friedman=10 .. Adolf Hitler=96\n  religiao           8.1   | Ruhollah Khomeini=2 .. Josef Stálin=98\n  moral              3.0   | Francisco Franco=2 .. Michel Foucault=91\n  tecnologia        55.8   | Ted Kaczynski=5 .. Ray Kurzweil=86\n\n[CONTEUDO] mais proximos em personality (duplicata?)\n   95.3%  jefferson-davis  <<< aviso\n   95.2%  william-f-buckley  <<< aviso\n   95.2%  irving-kristol  <<< aviso\n\nAVISOS (nao bloqueiam, mas confira):\n  [CONTEUDO] 95.3% proximo de 'jefferson-davis'\n  [CONTEUDO] 95.2% proximo de 'william-f-buckley'\n  [CONTEUDO] 95.2% proximo de 'irving-kristol'\nOK - passou nas tres checagens.\n",
+    "interpretation": "Forma, neutros e conteúdo passaram no validador original. NEW_PROFILE considera ≥95% redundante: avisos com Jefferson Davis (95.3%), William F. Buckley (95.2%) e Irving Kristol (95.2%) exigem revisão/decisão do coordenador conforme instruções originais; nenhum bypass ou ajuste para distância.",
+    "answerFileSha256": "9fe7f6503db25783a5b7e8557f7c595a556720944f6cb293ade1022031f5d7d3"
+  }
+}
