@@ -17,10 +17,8 @@ import com.twelveaxes.service.CountryDimensionMatcherService;
 import com.twelveaxes.service.IdeologyMatcherService;
 import com.twelveaxes.service.PersonalityMatcherService;
 import com.twelveaxes.service.QuizDataService;
+import com.twelveaxes.service.ReligionFilter;
 import com.twelveaxes.service.ScoringService;
-import com.twelveaxes.service.CandidateMatcherService;
-import com.twelveaxes.model.Candidate;
-import com.twelveaxes.model.ElectionResult;
 import jakarta.validation.Valid;
 import java.util.Arrays;
 import java.util.List;
@@ -43,7 +41,6 @@ public class QuizController {
     private final CountryMatcherService countryMatcherService;
     private final CountryDimensionMatcherService countryDimensionMatcherService;
     private final PersonalityMatcherService personalityMatcherService;
-    private final CandidateMatcherService candidateMatcherService;
     private final AxisOutlierService axisOutlierService;
     private final AxisTensionService axisTensionService;
     private final BookRecommendationService bookRecommendationService;
@@ -55,7 +52,7 @@ public class QuizController {
             IdeologyMatcherService matcherService,
             CountryMatcherService countryMatcherService,
             CountryDimensionMatcherService countryDimensionMatcherService,
-            PersonalityMatcherService personalityMatcherService, CandidateMatcherService candidateMatcherService,
+            PersonalityMatcherService personalityMatcherService,
             AxisOutlierService axisOutlierService,
             AxisTensionService axisTensionService,
             DimensionMatcherService dimensionMatcherService,
@@ -67,17 +64,12 @@ public class QuizController {
         this.countryMatcherService = countryMatcherService;
         this.countryDimensionMatcherService = countryDimensionMatcherService;
         this.personalityMatcherService = personalityMatcherService;
-        this.candidateMatcherService = candidateMatcherService;
         this.axisOutlierService = axisOutlierService;
         this.axisTensionService = axisTensionService;
         this.dimensionMatcherService = dimensionMatcherService;
         this.bookRecommendationService = bookRecommendationService;
     }
 
-    @GetMapping("/api/election/quiz") public QuizPayload electionQuiz() { return dataService.getElectionQuiz(); }
-    @GetMapping("/api/election/candidates") public List<Candidate> electionCandidates() { return dataService.getCandidates(); }
-    @PostMapping("/api/election/results") public ElectionResult electionResults(@Valid @RequestBody ResultRequest request) { var axes=scoringService.scoreElection(request); return new ElectionResult(axes,candidateMatcherService.findMatches(axes)); }
-    @GetMapping("/api/election/results/by-axes") public ElectionResult electionByAxes(@RequestParam("v") String values) { var axes=scoringService.scoreFromLeftPercents(parseAxisValues(values), QuizDataService.LANG_PT); return new ElectionResult(axes,candidateMatcherService.findMatches(axes)); }
 
     @GetMapping("/api/quiz")
     public QuizPayload quiz(
@@ -91,44 +83,48 @@ public class QuizController {
     @ResponseStatus(HttpStatus.OK)
     public QuizResult results(
             @Valid @RequestBody ResultRequest request,
-            @RequestParam(defaultValue = QuizDataService.LANG_PT) String lang
+            @RequestParam(defaultValue = QuizDataService.LANG_PT) String lang,
+            @RequestParam(required = false) String religion
     ) {
-        return buildResult(scoringService.score(request, lang), lang);
+        return buildResult(scoringService.score(request, lang), lang, ReligionFilter.normalize(religion));
     }
 
     // Resultado compartilhável: reconstrói matches a partir do vetor de eixos
     // (12 leftPercents separados por vírgula, na ordem de axes.json).
+    // religion é opcional: ausente ou desconhecido = ranking geral, sem filtro.
     @GetMapping("/api/results/by-axes")
     public QuizResult resultsByAxes(
             @RequestParam("v") String values,
-            @RequestParam(defaultValue = QuizDataService.LANG_PT) String lang
+            @RequestParam(defaultValue = QuizDataService.LANG_PT) String lang,
+            @RequestParam(required = false) String religion
     ) {
-        return buildResult(scoringService.scoreFromLeftPercents(parseAxisValues(values), lang), lang);
+        return buildResult(scoringService.scoreFromLeftPercents(parseAxisValues(values), lang), lang,
+                ReligionFilter.normalize(religion));
     }
 
-    private QuizResult buildResult(List<AxisResult> axes, String lang) {
-        var matches = matcherService.findMatches(axes, lang);
-        var personalityMatches = personalityMatcherService.findMatches(axes, lang);
+    private QuizResult buildResult(List<AxisResult> axes, String lang, String religion) {
+        var matches = matcherService.findMatches(axes, lang, religion);
+        var personalityMatches = personalityMatcherService.findMatches(axes, lang, religion);
         var topPersonality = personalityMatches.getFirst();
-        var categoryBestMatches = personalityMatcherService.findBestPerCategory(axes, lang);
-        var topCountry = countryMatcherService.findTopMatch(axes, lang);
-        var topHistoricalCountry = countryMatcherService.findTopHistoricalMatch(axes, lang);
+        var categoryBestMatches = personalityMatcherService.findBestPerCategory(axes, lang, religion);
+        var topCountry = countryMatcherService.findTopMatch(axes, lang, religion);
+        var topHistoricalCountry = countryMatcherService.findTopHistoricalMatch(axes, lang, religion);
         return new QuizResult(
                 axes,
                 matches.getFirst(),
                 matches,
-                matcherService.findBottomMatch(axes, lang),
+                matcherService.findBottomMatch(axes, lang, religion),
                 topCountry,
-                countryMatcherService.findTopMatchesAny(axes, lang),
+                countryMatcherService.findTopMatchesAny(axes, lang, religion),
                 topHistoricalCountry,
                 countryDimensionMatcherService.findAll(
-                        axes, lang, List.of(topCountry.countryId(), topHistoricalCountry.countryId())),
-                countryMatcherService.findBottomMatches(axes, lang),
+                        axes, lang, List.of(topCountry.countryId(), topHistoricalCountry.countryId()), religion),
+                countryMatcherService.findBottomMatches(axes, lang, religion),
                 topPersonality,
                 personalityMatches,
-                dimensionMatcherService.findAll(axes, lang, topPersonality.personalityId()),
+                dimensionMatcherService.findAll(axes, lang, topPersonality.personalityId(), religion),
                 categoryBestMatches,
-                personalityMatcherService.findBottomMatches(axes, lang),
+                personalityMatcherService.findBottomMatches(axes, lang, religion),
                 axisOutlierService.findMostUnusual(axes, lang),
                 axisOutlierService.findMostCommon(axes, lang),
                 axisTensionService.findStrongest(axes, lang),

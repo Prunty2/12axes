@@ -11,8 +11,8 @@ import com.twelveaxes.model.Question;
 import com.twelveaxes.service.QuizDataService;
 import java.util.List;
 import java.util.stream.Collectors;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
@@ -27,23 +27,21 @@ class ResultSubmissionValidationTest {
     @Autowired private ObjectMapper mapper;
     @Autowired private QuizDataService data;
 
-    @ParameterizedTest
-    @ValueSource(strings = {"/api/results", "/api/election/results"})
-    void rejectsDuplicateIdsIncludingConflictingAnswers(String endpoint) throws Exception {
+    @Test
+    void rejectsDuplicateIdsIncludingConflictingAnswers() throws Exception {
         for (String answer : List.of("NEUTRAL", "STRONGLY_AGREE")) {
-            ObjectNode body = submission(endpoint, "short");
+            ObjectNode body = submission("short");
             ArrayNode answers = (ArrayNode) body.get("answers");
             // Keep the expected count: repeating one question must not replace another.
             answers.set(1, answers.get(0).deepCopy());
             ((ObjectNode) answers.get(1)).put("answer", answer);
-            submit(endpoint, body, false);
+            submit(body, false);
         }
     }
 
-    @ParameterizedTest
-    @ValueSource(strings = {"/api/results", "/api/election/results"})
-    void rejectsMalformedEntries(String endpoint) throws Exception {
-        String id = questions(endpoint).getFirst().id();
+    @Test
+    void rejectsMalformedEntries() throws Exception {
+        String id = data.getQuestions().getFirst().id();
         for (String entry : List.of(
                 "null", "{}", "42", "[]", "\"NEUTRAL\"",
                 "{\"answer\":\"NEUTRAL\"}",
@@ -58,47 +56,44 @@ class ResultSubmissionValidationTest {
                 "{\"questionId\":\"%s\",\"answer\":[]}".formatted(id),
                 "{\"questionId\":\"%s\",\"answer\":0}".formatted(id),
                 "{\"questionId\":\"%s\",\"answer\":\"0\"}".formatted(id))) {
-            ObjectNode body = submission(endpoint, "short");
+            ObjectNode body = submission("short");
             ((ArrayNode) body.get("answers")).set(0, mapper.readTree(entry));
-            submit(endpoint, body, false);
+            submit(body, false);
         }
     }
 
-    @ParameterizedTest
-    @ValueSource(strings = {"/api/results", "/api/election/results"})
-    void rejectsMissingNullOrEmptyAnswerLists(String endpoint) throws Exception {
-        submit(endpoint, mapper.createObjectNode(), false);
-        submit(endpoint, mapper.createObjectNode().putNull("answers"), false);
-        submit(endpoint, mapper.createObjectNode().set("answers", mapper.createArrayNode()), false);
+    @Test
+    void rejectsMissingNullOrEmptyAnswerLists() throws Exception {
+        submit(mapper.createObjectNode(), false);
+        submit(mapper.createObjectNode().putNull("answers"), false);
+        submit(mapper.createObjectNode().set("answers", mapper.createArrayNode()), false);
     }
 
-    @ParameterizedTest
-    @ValueSource(strings = {"/api/results", "/api/election/results"})
-    void rejectsMissingAxisEvenWhenArchetypeSuppliesIt(String endpoint) throws Exception {
-        ObjectNode body = submission(endpoint, "short");
+    @Test
+    void rejectsMissingAxisEvenWhenArchetypeSuppliesIt() throws Exception {
+        ObjectNode body = submission("short");
         ArrayNode answers = (ArrayNode) body.get("answers");
-        var missingIds = questions(endpoint).stream().filter(q -> q.axisId().equals("economia"))
+        var missingIds = data.getQuestions().stream().filter(q -> q.axisId().equals("economia"))
                 .map(Question::id).toList();
         for (int i = answers.size() - 1; i >= 0; i--) {
             if (missingIds.contains(answers.get(i).get("questionId").asText())) answers.remove(i);
         }
         body.putObject("archetype").put("economia", "F");
-        submit(endpoint, body, false);
+        submit(body, false);
     }
 
     @ParameterizedTest
-    @CsvSource({"/api/results,short", "/api/results,extended", "/api/results,extreme",
-            "/api/election/results,short"})
-    void rejectsIncompleteSubmissionsEvenWithEveryAxisPresent(String endpoint, String variant) throws Exception {
-        ObjectNode body = submission(endpoint, variant);
+    @ValueSource(strings = {"short", "extended", "extreme"})
+    void rejectsIncompleteSubmissionsEvenWithEveryAxisPresent(String variant) throws Exception {
+        ObjectNode body = submission(variant);
         ((ArrayNode) body.get("answers")).remove(0);
-        submit(endpoint, body, false);
+        submit(body, false);
     }
 
     @ParameterizedTest
     @ValueSource(strings = {"short", "extended"})
     void rejectsWrongDistributionWithCorrectTotal(String variant) throws Exception {
-        ObjectNode body = submission("/api/results", variant);
+        ObjectNode body = submission(variant);
         ArrayNode answers = (ArrayNode) body.get("answers");
         String firstAxis = data.getQuestions().stream()
                 .filter(q -> q.id().equals(answers.get(0).get("questionId").asText()))
@@ -109,68 +104,54 @@ class ResultSubmissionValidationTest {
                 .filter(q -> !q.axisId().equals(firstAxis) && !usedIds.contains(q.id()))
                 .findFirst().orElseThrow();
         ((ObjectNode) answers.get(0)).put("questionId", replacement.id());
-        submit("/api/results", body, false);
+        submit(body, false);
     }
 
     @ParameterizedTest
     @ValueSource(strings = {"short", "extended"})
     void rejectsTooManyAnswers(String variant) throws Exception {
-        ObjectNode body = submission("/api/results", "extreme");
+        ObjectNode body = submission("extreme");
         body.put("variant", variant);
-        submit("/api/results", body, false);
+        submit(body, false);
     }
 
     @ParameterizedTest
     @ValueSource(strings = {"short", "curta", "extended", "extensa", "extreme", "extrema", "240", "240questions"})
     void acceptsCompleteVariantsAndAliases(String variant) throws Exception {
-        submit("/api/results", submission("/api/results", variant), true);
+        submit(submission(variant), true);
     }
 
-    @ParameterizedTest
-    @ValueSource(strings = {"/api/results", "/api/election/results"})
-    void acceptsCompleteSubmissionWithDefaultVariant(String endpoint) throws Exception {
-        ObjectNode body = submission(endpoint, "short");
+    @Test
+    void acceptsCompleteSubmissionWithDefaultVariant() throws Exception {
+        ObjectNode body = submission("short");
         body.remove("variant");
-        submit(endpoint, body, true);
+        submit(body, true);
         body.putNull("variant");
-        submit(endpoint, body, true);
+        submit(body, true);
         body.put("variant", "  ");
-        submit(endpoint, body, true);
-    }
-
-    @ParameterizedTest
-    @ValueSource(strings = {"/api/results", "/api/election/results"})
-    void rejectsQuestionsFromTheOtherQuiz(String endpoint) throws Exception {
-        ObjectNode body = submission(endpoint, "short");
-        String other = endpoint.contains("election") ? "/api/results" : "/api/election/results";
-        ((ObjectNode) body.get("answers").get(0)).put("questionId", questions(other).getFirst().id());
-        submit(endpoint, body, false);
+        submit(body, true);
     }
 
     @ParameterizedTest
     @ValueSource(strings = {"invalid", "SHORTER"})
     void rejectsUnknownVariant(String variant) throws Exception {
-        ObjectNode body = submission("/api/results", "short");
+        ObjectNode body = submission("short");
         body.put("variant", variant);
-        submit("/api/results", body, false);
+        submit(body, false);
     }
 
-    private List<Question> questions(String endpoint) {
-        return endpoint.contains("election") ? data.getElectionQuestions() : data.getQuestions();
-    }
-
-    private ObjectNode submission(String endpoint, String variant) {
-        int perAxis = endpoint.contains("election") ? 3 : data.getQuiz(variant).questionsPerAxis();
+    private ObjectNode submission(String variant) {
+        int perAxis = data.getQuiz(variant).questionsPerAxis();
         ObjectNode body = mapper.createObjectNode().put("variant", variant);
         ArrayNode answers = body.putArray("answers");
-        questions(endpoint).stream().collect(Collectors.groupingBy(Question::axisId)).values().stream()
+        data.getQuestions().stream().collect(Collectors.groupingBy(Question::axisId)).values().stream()
                 .flatMap(group -> group.stream().limit(perAxis == 0 ? group.size() : perAxis))
                 .forEach(q -> answers.addObject().put("questionId", q.id()).put("answer", "NEUTRAL"));
         return body;
     }
 
-    private void submit(String endpoint, ObjectNode body, boolean valid) throws Exception {
-        var result = mockMvc.perform(post(endpoint).contentType(MediaType.APPLICATION_JSON)
+    private void submit(ObjectNode body, boolean valid) throws Exception {
+        var result = mockMvc.perform(post("/api/results").contentType(MediaType.APPLICATION_JSON)
                 .content(mapper.writeValueAsBytes(body)));
         if (valid) {
             result.andExpect(status().isOk()).andExpect(jsonPath("$.axes.length()").value(12))
