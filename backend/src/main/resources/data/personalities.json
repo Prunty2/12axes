@@ -5642,7 +5642,10 @@
     "imagePath": "/personalities/portraits/john-howard.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/John_Howard",
-    "imageNote": "Retrato de John Howard via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de John Howard via Wikipédia/Wikimedia Commons.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "robert-menzies",
@@ -5654,7 +5657,10 @@
     "imagePath": "/personalities/portraits/robert-menzies.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Robert_Menzies",
-    "imageNote": "Retrato de Robert Menzies via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de Robert Menzies via Wikipédia/Wikimedia Commons.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "gough-whitlam",
@@ -5666,7 +5672,8 @@
     "imagePath": "/personalities/portraits/gough-whitlam.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Gough_Whitlam",
-    "imageNote": "Retrato de Gough Whitlam via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de Gough Whitlam via Wikipédia/Wikimedia Commons.",
+    "religions": []
   },
   {
     "id": "anthony-albanese",
@@ -5678,7 +5685,8 @@
     "imagePath": "/personalities/portraits/anthony-albanese.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Anthony_Albanese",
-    "imageNote": "Retrato de Anthony Albanese via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de Anthony Albanese via Wikipédia/Wikimedia Commons.",
+    "religions": []
   },
   {
     "id": "pauline-hanson",
@@ -5690,7 +5698,10 @@
     "imagePath": "/personalities/portraits/pauline-hanson.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Pauline_Hanson",
-    "imageNote": "Retrato de Pauline Hanson via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de Pauline Hanson via Wikipédia/Wikimedia Commons.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "angus-taylor",
@@ -5702,7 +5713,10 @@
     "imagePath": "/personalities/portraits/angus-taylor.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Angus_Taylor",
-    "imageNote": "Retrato de Angus Taylor via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de Angus Taylor via Wikipédia/Wikimedia Commons.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "bob-hawke",
@@ -5714,7 +5728,8 @@
     "imagePath": "/personalities/portraits/bob-hawke.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bob_Hawke-1983.jpg",
-    "imageNote": "Retrato de Bob Hawke via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de Bob Hawke via Wikipédia/Wikimedia Commons.",
+    "religions": []
   },
   {
     "id": "paul-keating",
@@ -5726,7 +5741,8 @@
     "imagePath": "/personalities/portraits/paul-keating.jpg",
     "imageSourceName": "Commonwealth of Australia / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Keating_Paul_Portrait.jpg",
-    "imageNote": "Retrato de 1993; Commonwealth of Australia, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Redimensionado e comprimido."
+    "imageNote": "Retrato de 1993; Commonwealth of Australia, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Redimensionado e comprimido.",
+    "religions": []
   },
   {
     "id": "kevin-rudd",
@@ -5738,7 +5754,10 @@
     "imagePath": "/personalities/portraits/kevin-rudd.jpg",
     "imageSourceName": "Department of Foreign Affairs and Trade / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kevin_Michael_Rudd_HOM_2023_Portrait_(3x4_cropped).jpg",
-    "imageNote": "Retrato de 2023; Department of Foreign Affairs and Trade (www.dfat.gov.au), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Recorte do Commons redimensionado e comprimido."
+    "imageNote": "Retrato de 2023; Department of Foreign Affairs and Trade (www.dfat.gov.au), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Recorte do Commons redimensionado e comprimido.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "julia-gillard",
@@ -5750,7 +5769,8 @@
     "imagePath": "/personalities/portraits/julia-gillard.jpg",
     "imageSourceName": "Commonwealth of Australia / National Archives",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Julia-gillard-official-portrait-pmc.jpg",
-    "imageNote": "Retrato oficial de 2010. © Commonwealth of Australia (National Archives of Australia) 2019, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e comprimido."
+    "imageNote": "Retrato oficial de 2010. © Commonwealth of Australia (National Archives of Australia) 2019, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e comprimido.",
+    "religions": []
   },
   {
     "id": "tony-abbott",
@@ -5762,7 +5782,10 @@
     "imagePath": "/personalities/portraits/tony-abbott.jpg",
     "imageSourceName": "Commonwealth of Australia / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Tony_Abbott_official_portrait.jpg",
-    "imageNote": "Retrato oficial (2013), Commonwealth of Australia, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Versão recortada, redimensionada e comprimida."
+    "imageNote": "Retrato oficial (2013), Commonwealth of Australia, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Versão recortada, redimensionada e comprimida.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "malcolm-turnbull",
@@ -5774,7 +5797,8 @@
     "imagePath": "/personalities/portraits/malcolm-turnbull.jpg",
     "imageSourceName": "Commonwealth of Australia / Tim Bauer / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Malcolm_Turnbull_Portrait.jpg",
-    "imageNote": "Retrato oficial publicado em 2015, Commonwealth of Australia; crédito fotográfico Tim Bauer. CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e comprimido."
+    "imageNote": "Retrato oficial publicado em 2015, Commonwealth of Australia; crédito fotográfico Tim Bauer. CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e comprimido.",
+    "religions": []
   },
   {
     "id": "scott-morrison",
@@ -5786,7 +5810,10 @@
     "imagePath": "/personalities/portraits/scott-morrison.jpg",
     "imageSourceName": "Department of Prime Minister and Cabinet / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Scott_Morrison_portrait.jpg",
-    "imageNote": "Retrato oficial de Scott Morrison, Department of Prime Minister and Cabinet, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e recomprimido."
+    "imageNote": "Retrato oficial de Scott Morrison, Department of Prime Minister and Cabinet, CC BY 3.0 AU (https://creativecommons.org/licenses/by/3.0/au/). Redimensionado e recomprimido.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "margaret-thatcher",
@@ -5798,7 +5825,10 @@
     "imagePath": "/personalities/portraits/margaret-thatcher.jpg",
     "imageSourceName": "Thatcher Estate / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait.jpg",
-    "imageNote": "Retrato de cerca de 1995–1996, provavelmente de Terence Donovan; versão JPEG por Begoon. Uso livre autorizado pelo espólio Thatcher; imagem redimensionada e recomprimida."
+    "imageNote": "Retrato de cerca de 1995–1996, provavelmente de Terence Donovan; versão JPEG por Begoon. Uso livre autorizado pelo espólio Thatcher; imagem redimensionada e recomprimida.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "clement-attlee",
@@ -5810,7 +5840,8 @@
     "imagePath": "/personalities/portraits/clement-attlee.jpg",
     "imageSourceName": "Flinders University Library / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Clement_Attlee_portrait.jpg",
-    "imageNote": "Fotografia de 1945, autor desconhecido. Domínio público (PD-Australia), conforme Wikimedia Commons; imagem redimensionada e comprimida."
+    "imageNote": "Fotografia de 1945, autor desconhecido. Domínio público (PD-Australia), conforme Wikimedia Commons; imagem redimensionada e comprimida.",
+    "religions": []
   },
   {
     "id": "boris-johnson",
@@ -5822,7 +5853,8 @@
     "imagePath": "/personalities/portraits/boris-johnson.jpg",
     "imageSourceName": "Ben Shread / Cabinet Office, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait.jpg",
-    "imageNote": "Retrato oficial de 2019 por Ben Shread, Cabinet Office. Crown copyright; Open Government Licence v3.0. Imagem redimensionada e comprimida."
+    "imageNote": "Retrato oficial de 2019 por Ben Shread, Cabinet Office. Crown copyright; Open Government Licence v3.0. Imagem redimensionada e comprimida.",
+    "religions": []
   },
   {
     "id": "keir-starmer",
@@ -5834,7 +5866,8 @@
     "imagePath": "/personalities/portraits/keir-starmer.jpg",
     "imageSourceName": "Simon Dawson / No 10 Downing Street, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Sir_Keir_Starmer_Official_Portrait_(3x4_cropped).jpg",
-    "imageNote": "Retrato oficial de 2024 por Simon Dawson / No 10 Downing Street. Crown copyright; Open Government Licence v3.0. Recorte do Commons redimensionado e comprimido."
+    "imageNote": "Retrato oficial de 2024 por Simon Dawson / No 10 Downing Street. Crown copyright; Open Government Licence v3.0. Recorte do Commons redimensionado e comprimido.",
+    "religions": []
   },
   {
     "id": "nigel-farage",
@@ -5846,7 +5879,10 @@
     "imagePath": "/personalities/portraits/nigel-farage.jpg",
     "imageSourceName": "Laurie Noble / UK Parliament, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Nigel_Farage_MP_crop_2.jpg",
-    "imageNote": "Retrato oficial de 2024 por Laurie Noble. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Recorte do Commons redimensionado e comprimido."
+    "imageNote": "Retrato oficial de 2024 por Laurie Noble. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Recorte do Commons redimensionado e comprimido.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "rupert-lowe",
@@ -5858,7 +5894,10 @@
     "imagePath": "/personalities/portraits/rupert-lowe.jpg",
     "imageSourceName": "©House of Commons / Laurie Noble, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Rupert_Lowe_MP_crop_2.jpg",
-    "imageNote": "Retrato oficial de 2024: ©House of Commons / Laurie Noble. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Recorte do Commons redimensionado e comprimido."
+    "imageNote": "Retrato oficial de 2024: ©House of Commons / Laurie Noble. CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/). Recorte do Commons redimensionado e comprimido.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "kamala-harris",
@@ -5870,7 +5909,8 @@
     "imagePath": "/personalities/portraits/kamala-harris.jpg",
     "imageSourceName": "Lawrence Jackson / White House, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait_(close_cropped).jpg",
-    "imageNote": "Retrato oficial de 2021 por Lawrence Jackson / Casa Branca. Domínio público (governo dos EUA). Recorte do Commons redimensionado e comprimido."
+    "imageNote": "Retrato oficial de 2021 por Lawrence Jackson / Casa Branca. Domínio público (governo dos EUA). Recorte do Commons redimensionado e comprimido.",
+    "religions": []
   },
   {
     "id": "david-lloyd-george",
@@ -5882,7 +5922,8 @@
     "imagePath": "/personalities/portraits/david-lloyd-george.jpg",
     "imageSourceName": "Olive Edis / National Portrait Gallery, via Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:DavidLloydGeorge.jpg",
-    "imageNote": "Fotografia de 1917 por Olive Edis, National Portrait Gallery. Domínio público conforme Wikimedia Commons. Redimensionada e comprimida."
+    "imageNote": "Fotografia de 1917 por Olive Edis, National Portrait Gallery. Domínio público conforme Wikimedia Commons. Redimensionada e comprimida.",
+    "religions": []
   },
   {
     "id": "hillary-clinton",
@@ -5894,7 +5935,10 @@
     "imagePath": "/personalities/portraits/hillary-clinton.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg",
-    "imageNote": "Retrato de Hillary Clinton via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de Hillary Clinton via Wikipédia/Wikimedia Commons.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "jimmy-carter",
@@ -5906,7 +5950,10 @@
     "imagePath": "/personalities/portraits/jimmy-carter.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:JimmyCarterPortrait.jpg",
-    "imageNote": "Retrato de Jimmy Carter via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de Jimmy Carter via Wikipédia/Wikimedia Commons.",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "lyndon-b-johnson",
@@ -5918,7 +5965,8 @@
     "imagePath": "/personalities/portraits/lyndon-b-johnson.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:President_Lyndon_B._Johnson,_White_House_color_portrait.jpg",
-    "imageNote": "Retrato de Lyndon B. Johnson via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de Lyndon B. Johnson via Wikipédia/Wikimedia Commons.",
+    "religions": []
   },
   {
     "id": "angela-merkel",
@@ -5930,7 +5978,10 @@
     "imagePath": "/personalities/portraits/angela-merkel.jpg",
     "imageSourceName": "Armin Linnartz / Wikimedia Commons · CC BY-SA 3.0 DE",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_Juli_2010_-_3zu4.jpg",
-    "imageNote": "Foto de Armin Linnartz, julho de 2010. Versão da Wikimedia Commons redimensionada e comprimida; CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)."
+    "imageNote": "Foto de Armin Linnartz, julho de 2010. Versão da Wikimedia Commons redimensionada e comprimida; CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en).",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "olaf-scholz",
@@ -5942,7 +5993,8 @@
     "imagePath": "/personalities/portraits/olaf-scholz.jpg",
     "imageSourceName": "© European Union 2023 – Source: EP / Laia Ros · CC BY 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Olaf_Scholz_head_2023.jpg",
-    "imageNote": "Retrato de 9 de maio de 2023. Recorte existente da Wikimedia Commons, redimensionado e comprimido; CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
+    "imageNote": "Retrato de 9 de maio de 2023. Recorte existente da Wikimedia Commons, redimensionado e comprimido; CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+    "religions": []
   },
   {
     "id": "mark-carney",
@@ -5954,7 +6006,8 @@
     "imagePath": "/personalities/portraits/mark-carney.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Carney_portrait_May_2025.jpg",
-    "imageNote": "Retrato de Mark Carney via Wikipédia/Wikimedia Commons."
+    "imageNote": "Retrato de Mark Carney via Wikipédia/Wikimedia Commons.",
+    "religions": []
   },
   {
     "id": "helmut-kohl",
@@ -5966,7 +6019,10 @@
     "imagePath": "/personalities/portraits/helmut-kohl.jpg",
     "imageSourceName": "CDU / KAS-ACDP · CC BY-SA 3.0 DE",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Helmut_Kohl_1989.jpg",
-    "imageNote": "Retrato de 1989, KAS/ACDP 10-030:200, via Wikimedia Commons. Imagem recomprimida; CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/)."
+    "imageNote": "Retrato de 1989, KAS/ACDP 10-030:200, via Wikimedia Commons. Imagem recomprimida; CC BY-SA 3.0 DE (https://creativecommons.org/licenses/by-sa/3.0/de/).",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "lech-walesa",
@@ -5978,7 +6034,10 @@
     "imagePath": "/personalities/portraits/lech-walesa.jpg",
     "imageSourceName": "Chancellery of the President of Poland · CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lech_Wałęsa_prezydent_RP.jpg",
-    "imageNote": "Retrato oficial via Wikimedia Commons, recomprimido; CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    "imageNote": "Retrato oficial via Wikimedia Commons, recomprimido; CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/).",
+    "religions": [
+      "christianity"
+    ]
   },
   {
     "id": "david-ben-gurion",
@@ -5990,7 +6049,10 @@
     "imagePath": "/personalities/portraits/david-ben-gurion.jpg",
     "imageSourceName": "Fritz Cohen / GPO · Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:David_Ben_Gurion.jpg",
-    "imageNote": "Retrato de 1960, acervo GPO D597-087, via Wikimedia Commons; recorte existente redimensionado e recomprimido."
+    "imageNote": "Retrato de 1960, acervo GPO D597-087, via Wikimedia Commons; recorte existente redimensionado e recomprimido.",
+    "religions": [
+      "judaism"
+    ]
   },
   {
     "id": "golda-meir",
@@ -6002,7 +6064,8 @@
     "imagePath": "/personalities/portraits/golda-meir.jpg",
     "imageSourceName": "Marion S. Trikosko / Library of Congress",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Golda_Meir_03265u-2.jpg",
-    "imageNote": "Retrato de 1973, acervo US News & World Report da Library of Congress, via Wikimedia Commons; versão redimensionada e recomprimida."
+    "imageNote": "Retrato de 1973, acervo US News & World Report da Library of Congress, via Wikimedia Commons; versão redimensionada e recomprimida.",
+    "religions": []
   },
   {
     "id": "joh-bjelke-petersen",
@@ -6014,6 +6077,9 @@
     "imagePath": "/personalities/portraits/joh-bjelke-petersen.jpg",
     "imageSourceName": "State of Queensland / Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Joh_Bjelke-Petersen.jpg",
-    "imageNote": "State of Queensland, Premier’s Department, c. 1980. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Recorte do Commons; imagem redimensionada e comprimida."
+    "imageNote": "State of Queensland, Premier’s Department, c. 1980. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Recorte do Commons; imagem redimensionada e comprimida.",
+    "religions": [
+      "christianity"
+    ]
   }
 ]
