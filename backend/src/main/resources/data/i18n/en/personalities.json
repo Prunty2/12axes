@@ -93,7 +93,7 @@
     "id": "mussolini",
     "name": "Benito Mussolini",
     "role": "Dictator",
-    "description": "The creator of fascism, Mussolini ruled Italy as a totalitarian dictatorship, fusing nationalism, a corporatist state, a cult of the leader, and expansionist militarism, serving as a model for European authoritarian regimes."
+    "description": "The creator of fascism, Mussolini ruled Italy as a totalitarian dictatorship built on a leader cult and a corporatist state. An atheist and anticlerical in his youth, he made the Church a political ally through the 1929 Lateran Pacts, more from expediency than faith."
   },
   {
     "id": "hitler",
@@ -2201,13 +2201,6 @@
     "description": "Radical Reformation preacher who broke with Luther and led peasants and miners in the German Peasants' War of 1525. He preached an apocalyptic theocracy of the elect, with goods in common and the overthrow of godless princes; he was beheaded after Frankenhausen."
   },
   {
-    "id": "jesus-cristo",
-    "name": "Jesus Christ",
-    "role": "Founder of Christianity",
-    "lifespan": "c. 4 BC–c. AD 30",
-    "description": "Jewish preacher from Galilee and central figure of Christianity, he proclaimed the Kingdom of God, love of enemies and care for the poor. In the Gospels he condemns hoarded wealth, tells followers to render unto Caesar what is Caesar's, and was crucified under Pontius Pilate."
-  },
-  {
     "id": "paulo-freire",
     "name": "Paulo Freire",
     "role": "Educator and philosopher",
@@ -2408,5 +2401,166 @@
     "role": "King of Castile and León",
     "lifespan": "c. 1201–1252",
     "description": "King of Castile from 1217 and León from 1230, he consolidated the union of the crowns and conquered Córdoba and Seville. He ruled as a medieval Catholic monarch and promoted legal and administrative organization in conquered territories."
+  },
+  {
+    "id": "muhammad-abduh",
+    "name": "Muhammad Abduh",
+    "role": "Grand Mufti and Islamic reformer",
+    "lifespan": "1849–1905",
+    "description": "Grand Mufti of Egypt and father of Islamic modernism, Abduh argued for reinterpreting Islam through reason (ijtihad), reformed teaching at Al-Azhar and the religious courts, and opposed both clerical stagnation and British rule."
+  },
+  {
+    "id": "sayyid-qutb",
+    "name": "Sayyid Qutb",
+    "role": "Islamist theorist",
+    "lifespan": "1906–1966",
+    "description": "Muslim Brotherhood ideologue, Qutb wrote Milestones, which declared modern Muslim societies to be in jahiliyya and called for a vanguard to establish God's sovereignty. He was executed by Nasser's government in 1966."
+  },
+  {
+    "id": "averroes",
+    "name": "Averroes",
+    "role": "Andalusian philosopher and jurist",
+    "lifespan": "1126–1198",
+    "description": "Philosopher, physician and judge from Córdoba, Averroes commented on Aristotle and held that philosophical reason and Quranic revelation do not contradict each other, influencing Christian scholasticism. He served the Almohad court and was exiled under pressure from theologians."
+  },
+  {
+    "id": "alwaleed-bin-talal",
+    "name": "Alwaleed bin Talal",
+    "role": "Saudi investor and prince",
+    "lifespan": "1955–",
+    "description": "Saudi prince and founder of Kingdom Holding, Alwaleed invested in Citigroup, Twitter, Four Seasons and News Corp and advocated economic opening and women's employment in the kingdom. He was detained in 2017 in Mohammed bin Salman's anti-corruption campaign."
+  },
+  {
+    "id": "muhammad-ali-jinnah",
+    "name": "Muhammad Ali Jinnah",
+    "role": "Founder of Pakistan",
+    "lifespan": "1876–1948",
+    "description": "Lawyer and leader of the Muslim League, Jinnah led the creation of Pakistan in 1947 on the two-nation theory and was its first governor-general, advocating a Muslim-majority state with religious freedom for minorities."
+  },
+  {
+    "id": "saladino",
+    "name": "Saladin",
+    "role": "Sultan of Egypt and Syria",
+    "lifespan": "1137–1193",
+    "description": "Founder of the Ayyubid dynasty, Saladin united Egypt and Syria, defeated the Crusaders at Hattin and retook Jerusalem in 1187, becoming a symbol of jihad against the Crusades and of chivalry recognized even by his enemies."
+  },
+  {
+    "id": "david-ben-gurion",
+    "name": "David Ben-Gurion",
+    "role": "Prime Minister of Israel",
+    "lifespan": "1886–1973",
+    "description": "Leader of Labor Zionism and the Mapai party, Ben-Gurion proclaimed Israel's independence in 1948 and was its first prime minister, building a secular, centralized state with a strong public sector, kibbutzim, and the army as the school of the nation."
+  },
+  {
+    "id": "sergei-melikov",
+    "name": "Sergei Melikov",
+    "role": "Senator and former Head of Dagestan",
+    "lifespan": "1965–",
+    "description": "A Russian National Guard general and Putin ally, Melikov headed Dagestan from 2020 to 2026, a period marked by war mobilization, the antisemitic airport pogrom, and jihadist attacks, and in 2026 became a senator for Bryansk."
+  },
+  {
+    "id": "imperador-jimmu",
+    "name": "Emperor Jimmu",
+    "role": "Legendary Emperor of Japan",
+    "lifespan": "711–585 BC",
+    "description": "The first legendary emperor of Japan according to the Kojiki and Nihon Shoki, Jimmu, a descendant of the sun goddess Amaterasu, is said to have conquered Yamato by force of arms and founded the imperial line, a central myth of State Shinto and Japanese nationalism."
+  },
+  {
+    "id": "imperador-meiji",
+    "name": "Emperor Meiji",
+    "role": "Emperor of Japan",
+    "lifespan": "1852–1912",
+    "description": "Emperor under whose 1868 restoration Japan abolished the shogunate and the samurai, centralized the state, industrialized under the slogan \"rich country, strong army\", adopted the 1889 constitution and State Shinto, and defeated China and Russia."
+  },
+  {
+    "id": "oda-nobunaga",
+    "name": "Oda Nobunaga",
+    "role": "Daimyo and unifier of Japan",
+    "lifespan": "1534–1582",
+    "description": "A Sengoku-period daimyo, Nobunaga began the unification of Japan with massed arquebuses, deposed the Ashikaga shogunate, massacred the warrior monks of Enryaku-ji and the Ikko-ikki, abolished guilds and tolls, and tolerated Jesuit missionaries."
+  },
+  {
+    "id": "qin-shi-huang",
+    "name": "Qin Shi Huang",
+    "role": "First Emperor of China",
+    "lifespan": "259–210 BC",
+    "description": "King of Qin who unified China in 221 BC and proclaimed himself first emperor, he ruled through Legalism with harsh laws, replaced feudalism with centralized commanderies, standardized script and coinage, burned books and began the Great Wall."
+  },
+  {
+    "id": "carlos-v",
+    "name": "Charles V",
+    "role": "Holy Roman Emperor and King of Spain",
+    "lifespan": "1500–1558",
+    "description": "Heir of the Habsburgs, Charles V united Spain, the Low Countries, the Holy Roman Empire and the American conquests, fought the Lutheran Reformation and the Ottomans as champion of universal Catholicism, crushed the Comuneros and abdicated in 1556."
+  },
+  {
+    "id": "salvador-dali",
+    "name": "Salvador Dalí",
+    "role": "Surrealist painter",
+    "lifespan": "1904–1989",
+    "description": "Catalan surrealist painter, Dalí was expelled from the surrealist group over his ambiguous sympathies for fascism, publicly backed Franco and the monarchy and, from 1949 on, embraced a Catholic nuclear mysticism fusing faith and science."
+  },
+  {
+    "id": "pablo-picasso",
+    "name": "Pablo Picasso",
+    "role": "Painter",
+    "lifespan": "1881–1973",
+    "description": "Spanish painter and co-founder of Cubism, Picasso painted Guernica against the Francoist bombing, joined the French Communist Party in 1944, backed the Soviet-led peace movement and never returned to Franco's Spain."
+  },
+  {
+    "id": "albert-camus",
+    "name": "Albert Camus",
+    "role": "Writer and philosopher",
+    "lifespan": "1913–1960",
+    "description": "French-Algerian writer and 1957 Nobel laureate, Camus fought in the Resistance, broke with Sartre by condemning the Soviet camps in The Rebel and defended a plural Algeria against terrorism on both sides."
+  },
+  {
+    "id": "victor-gao",
+    "name": "Victor Gao",
+    "role": "Commentator and academic",
+    "lifespan": "1962–",
+    "description": "Former Deng Xiaoping interpreter and vice president of the CCG think tank, Victor Gao defends one-party rule, unifying Taiwan by any means, Hong Kong's security law and the claim that NATO caused the war in Ukraine."
+  },
+  {
+    "id": "thubten-gyatso",
+    "name": "13th Dalai Lama (Thubten Gyatso)",
+    "role": "Religious leader and head of state",
+    "lifespan": "1876–1933",
+    "description": "Head of theocratic Tibet, the 13th Dalai Lama expelled the Chinese and proclaimed independence in 1913, built an army, post and currency, backed down before the monasteries by closing the English school, and warned against communism in 1932."
+  },
+  {
+    "id": "abraham-isaac-kook",
+    "name": "Abraham Isaac Kook",
+    "role": "Chief rabbi and theologian",
+    "lifespan": "1865–1935",
+    "description": "First Ashkenazi chief rabbi of Mandatory Palestine, Kook was the leading theologian of religious Zionism, saw secular pioneers as instruments of the divine plan and holiness in the Land of Israel, and founded the Mercaz HaRav yeshiva."
+  },
+  {
+    "id": "auguste-blanqui",
+    "name": "Louis Auguste Blanqui",
+    "role": "Revolutionary",
+    "lifespan": "1805–1881",
+    "description": "French revolutionary and conspirator, Blanqui argued that an organized minority should seize power by insurrection and impose a provisional dictatorship, spent over thirty years in prison, was elected to the Paris Commune from his cell and took the motto \"Neither God nor master\"."
+  },
+  {
+    "id": "swrd-bandaranaike",
+    "name": "S. W. R. D. Bandaranaike",
+    "role": "Prime Minister of Ceylon",
+    "lifespan": "1899–1959",
+    "description": "Prime Minister of Ceylon from 1956 to 1959, he converted to Buddhism, founded the Freedom Party, nationalized ports and buses, made Sinhala the official language, pursued non-alignment and was assassinated by a Buddhist monk."
+  },
+  {
+    "id": "jose-ii-da-austria",
+    "name": "Joseph II of Austria",
+    "role": "Holy Roman Emperor",
+    "lifespan": "1741–1790",
+    "description": "Holy Roman Emperor and Archduke of Austria, Joseph II abolished personal serfdom, decreed religious tolerance, closed hundreds of monasteries, imposed German on the administration and saw his reforms provoke revolts, in Belgium and Hungary."
+  },
+  {
+    "id": "rei-davi",
+    "name": "King David",
+    "role": "King of Israel",
+    "lifespan": "c. 1040–970 BCE",
+    "description": "According to the Bible, David united the tribes of Israel, conquered Jerusalem and made it his capital, defeated the Philistines, brought the Ark to the city and built a centralized kingdom, and tradition attributes the Psalms to him and the line of the Messiah."
   }
 ]
