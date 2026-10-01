@@ -5002,5 +5002,17 @@
     "imageSourceName": "Marion S. Trikosko / Library of Congress",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Golda_Meir_03265u-2.jpg",
     "imageNote": "Retrato de 1973, acervo US News & World Report da Library of Congress, via Wikimedia Commons; versão redimensionada e recomprimida."
+  },
+  {
+    "id": "joh-bjelke-petersen",
+    "name": "Joh Bjelke-Petersen",
+    "role": "Ex-premiê de Queensland, Austrália",
+    "category": "politico",
+    "lifespan": "1911–2005",
+    "description": "Premiê de Queensland (1968–1987) que defendeu autonomia estadual, iniciativa privada, desenvolvimento e valores cristãos conservadores, com uma política firme de lei e ordem.",
+    "imagePath": "/personalities/portraits/joh-bjelke-petersen.jpg",
+    "imageSourceName": "State of Queensland / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Joh_Bjelke-Petersen.jpg",
+    "imageNote": "State of Queensland, Premier’s Department, c. 1980. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Recorte do Commons; imagem redimensionada e comprimida."
   }
 ]

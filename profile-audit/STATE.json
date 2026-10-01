@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-09-30T15:07:57Z",
+  "lastUpdated": "2026-10-01T01:06:48Z",
   "personality": {
-    "totalProfiles": 417,
+    "totalProfiles": 418,
     "pending": [],
     "done": [
       "lenin",
@@ -421,12 +421,13 @@
       "helmut-kohl",
       "lech-walesa",
       "david-ben-gurion",
-      "golda-meir"
+      "golda-meir",
+      "joh-bjelke-petersen"
     ],
     "expansion": {
       "startedOn": "2026-09-30",
       "baseCommit": "a1dc5b4",
-      "scope": "Preserve nineteen completed additions. Finish the narrowed contemporary and US shortlist: Kamala Harris, Hillary Clinton, Jimmy Carter, Lyndon B. Johnson, Mark Carney, Angela Merkel and Olaf Scholz. At the user’s request, also add five major historical figures: David Lloyd George, Helmut Kohl, Lech Wałęsa, David Ben-Gurion and Golda Meir. Winston Churchill, Justin Trudeau, Dominik Tarczyński, Xi Jinping and Kim Jong Un already have complete catalogue entries and must not be duplicated. Earlier excluded candidates remain out of scope unless explicitly restored by this amendment. Submit the draft PR after retained work and final verification are complete.",
+      "scope": "Preserve nineteen completed additions. Finish the narrowed contemporary and US shortlist: Kamala Harris, Hillary Clinton, Jimmy Carter, Lyndon B. Johnson, Mark Carney, Angela Merkel and Olaf Scholz. At the user’s request, also add five major historical figures: David Lloyd George, Helmut Kohl, Lech Wałęsa, David Ben-Gurion and Golda Meir. Winston Churchill, Justin Trudeau, Dominik Tarczyński, Xi Jinping and Kim Jong Un already have complete catalogue entries and must not be duplicated. Earlier excluded candidates remain out of scope unless explicitly restored by this amendment. Submit the draft PR after retained work and final verification are complete. Follow-up 1 October 2026: add Joh Bjelke-Petersen as a complete historical Queensland premier profile and update the existing draft PR.",
       "requiredAustralianIds": [
         "anthony-albanese",
         "pauline-hanson",
@@ -440,7 +441,8 @@
         "julia-gillard",
         "tony-abbott",
         "malcolm-turnbull",
-        "scott-morrison"
+        "scott-morrison",
+        "joh-bjelke-petersen"
       ],
       "method": "Individual 240-question and five-archetype simulations, computed with profile_vector.py; bilingual metadata, real compressed portraits and dated per-axis research. Answers are editorial inferences, not claims that the person took the quiz.",
       "candidates": [
@@ -628,6 +630,12 @@
           "id": "golda-meir",
           "name": "Golda Meir",
           "country": "Israel",
+          "status": "added"
+        },
+        {
+          "id": "joh-bjelke-petersen",
+          "name": "Joh Bjelke-Petersen",
+          "country": "Australia",
           "status": "added"
         }
       ],
@@ -2040,6 +2048,15 @@
             "margaret-thatcher"
           ],
           "historicalExclusionNote": "Earlier scope exclusions remain as history. This amendment restores these five people to active work; Lech Wałęsa uses the corrected transliterated slug lech-walesa, replacing the never-added candidate slug lech-waesa."
+        },
+        {
+          "date": "2026-10-01",
+          "userRequest": "Add Joh Bjelke",
+          "previousCandidateCount": 31,
+          "candidateCount": 32,
+          "addedIds": [
+            "joh-bjelke-petersen"
+          ]
         }
       ]
     }

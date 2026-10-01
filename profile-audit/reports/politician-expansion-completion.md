@@ -1,6 +1,6 @@
 # Politician expansion — completed shortlist
 
-31 complete additions · 417 total personalities · verified 1 October 2026.
+32 complete additions · 418 total personalities · verified 1 October 2026.
 
 Each addition includes Portuguese and English metadata, a real credited portrait, 240 archived question answers, five archetype answers, a computed 12-axis vector and per-axis research references. The answers are editorial simulations of documented positions, not questionnaires completed by these people. Historical periods and hypothetical applications are recorded in each research file.
 
@@ -8,7 +8,7 @@ Each addition includes Portuguese and English metadata, a real credited portrait
 
 | Country | People added |
 | --- | --- |
-| Australia | Anthony Albanese, Pauline Hanson, Angus Taylor, John Howard, Robert Menzies, Gough Whitlam, Bob Hawke, Paul Keating, Kevin Rudd, Julia Gillard, Tony Abbott, Malcolm Turnbull, Scott Morrison |
+| Australia | Anthony Albanese, Pauline Hanson, Angus Taylor, John Howard, Robert Menzies, Gough Whitlam, Bob Hawke, Paul Keating, Kevin Rudd, Julia Gillard, Tony Abbott, Malcolm Turnbull, Scott Morrison, Joh Bjelke-Petersen |
 | United Kingdom | Margaret Thatcher, Clement Attlee, Boris Johnson, Keir Starmer, Nigel Farage, Rupert Lowe, David Lloyd George |
 | United States | Kamala Harris, Hillary Clinton, Jimmy Carter, Lyndon B. Johnson |
 | Germany | Angela Merkel, Olaf Scholz, Helmut Kohl |
@@ -20,12 +20,12 @@ Already present and retained: Winston Churchill, Justin Trudeau, Dominik Tarczy�
 
 ## Verification
 
-- 152 backend tests, including 31 full-answer cases in both languages. Each produces the expected person at 100% compatibility.
-- 21 frontend tests; TypeScript check and production build, generating 1610 pages.
-- All 31 individual audit validators and the complete-scope integrity check.
+- 153 backend tests, including 32 full-answer cases in both languages. Each produces the expected person at 100% compatibility.
+- 21 frontend tests; TypeScript check and production build, generating 1612 pages.
+- All 32 individual audit validators and the complete-scope integrity check.
 - Six tests for the evidence-bound close-match review rules.
 - All 386 original metadata and vector records unchanged from `a1dc5b4`.
-- All portraits visually inspected; final browser checks covered Wałęsa, Ben-Gurion and Meir profile and personality-comparison tabs. Earlier page checks are detailed in the checkpoint. Full quiz submission was verified through backend integration tests.
+- All portraits visually inspected; final browser checks covered Wałęsa, Ben-Gurion, Meir and Joh Bjelke-Petersen profile and personality-comparison tabs. Earlier page checks are detailed in the checkpoint. Full quiz submission was verified through backend integration tests.
 
 ## Reading the audit
 
@@ -406,3 +406,15 @@ Archetypes: E / C / B / B / C.
 - Countries: Polônia — 92.2%; Coreia do Sul — 89.9%.
 
 Vector (repository axis order): estrutura 16.4, representacao 74, poder 68.7, imigracao 73.3, diplomacia 68.3, intervencao 23.3, economia 76.2, controle 71, comercio 45.5, religiao 45.6, moral 39.3, tecnologia 56.
+
+### Joh Bjelke-Petersen (`joh-bjelke-petersen`)
+
+[Answers](../answers/personality/joh-bjelke-petersen.json) · [Research and portrait credit](../research/personality/joh-bjelke-petersen.json)
+
+Archetypes: A / C / F / B / D.
+
+- Personalities: Edmund Burke — 95.2%; Irving Kristol — 94.9%.
+- Ideologies: Monarquismo Federalista — 94.8%; Conservadorismo Reaganista — 91.8%.
+- Countries: Estados Confederados da América — 93.8%; Florença Renascentista — 92.7%.
+
+Vector (repository axis order): estrutura 78.3, representacao 51.3, poder 73.4, imigracao 65.8, diplomacia 63.6, intervencao 26.9, economia 36.3, controle 30.1, comercio 36.3, religiao 9.3, moral 5.3, tecnologia 58.2.

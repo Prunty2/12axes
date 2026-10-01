@@ -2594,5 +2594,11 @@
     "name": "Golda Meir",
     "role": "Former Israeli prime minister",
     "description": "Israeli prime minister from 1969 to 1974, she emerged from Labour Zionism and expanded social protection. She backed Jewish immigration and military security, retained religious compromises and accepted disengagement agreements after the 1973 war."
+  },
+  {
+    "id": "joh-bjelke-petersen",
+    "name": "Joh Bjelke-Petersen",
+    "role": "Former premier of Queensland, Australia",
+    "description": "Queensland premier (1968–1987) who championed states’ rights, private enterprise, development and conservative Christian values, with a forceful law-and-order approach."
   }
 ]

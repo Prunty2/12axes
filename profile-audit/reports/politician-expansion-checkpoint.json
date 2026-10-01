@@ -33,22 +33,23 @@
     "helmut-kohl",
     "lech-walesa",
     "david-ben-gurion",
-    "golda-meir"
+    "golda-meir",
+    "joh-bjelke-petersen"
   ],
-  "candidateCount": 31,
+  "candidateCount": 32,
   "pendingCount": 0,
   "skippedCount": 0,
   "verification": {
-    "individualAuditValidators": "All 31 passed against the final 417-person catalogue. Close matches reviewed; evidence-linked fingerprint reviews cover qualifying pairs. Exact duplicate vectors remain blocked.",
-    "archiveAndMetadataIntegrity": "verify_expansion.py --require-complete passed: 31 added, 0 pending, 0 skipped, 417 total. All saved vectors equal recomputation from 240 question answers and five archetype answers.",
-    "backendFullSuite": "152 tests passed; zero failures, errors or skips.",
-    "backendUpdatedIntegration": "ExpandedPersonalityTest: all 31 cases passed. Each submits 240 archived answers plus five archetype answers in Portuguese and English; the person is returned as the top match at 100%, with matching axis values and translated detail data.",
-    "frontend": "21 tests passed; TypeScript and production build passed; 1610 pages generated across Portuguese and English.",
+    "individualAuditValidators": "All 32 passed against the final 418-person catalogue. Close matches reviewed; evidence-linked fingerprint reviews cover qualifying pairs. Exact duplicate vectors remain blocked.",
+    "archiveAndMetadataIntegrity": "verify_expansion.py --require-complete passed: 32 added, 0 pending, 0 skipped, 418 total. All saved vectors equal recomputation from 240 question answers and five archetype answers.",
+    "backendFullSuite": "153 tests passed; zero failures, errors or skips.",
+    "backendUpdatedIntegration": "ExpandedPersonalityTest: all 32 cases passed. Each submits 240 archived answers plus five archetype answers in Portuguese and English; the person is returned as the top match at 100%, with matching axis values and translated detail data.",
+    "frontend": "21 tests passed; TypeScript and production build passed; 1612 pages generated across Portuguese and English.",
     "similarityReviewTests": "6 tests passed, covering stale reviews, exact duplicates, missing evidence and catalogue isolation.",
-    "visual": "All 31 portraits inspected. English profile pages inspected for all additions except Menzies and Whitlam; personality comparison tabs inspected for all except Menzies, Whitlam, Hanson and Taylor. Wałęsa, Ben-Gurion and Meir detail pages and comparison tabs passed the final browser spot check. Quiz submissions verified by backend integration tests, not a full browser questionnaire run.",
-    "preservation": "All 386 pre-existing PT metadata, EN metadata and saved vector records equal base a1dc5b4 exactly. Runtime quiz/scoring code unchanged."
+    "visual": "All 32 portraits inspected. English profile pages inspected for all additions except Menzies and Whitlam; personality comparison tabs inspected for all except Menzies, Whitlam, Hanson and Taylor. Wałęsa, Ben-Gurion, Meir and Joh Bjelke-Petersen detail pages and comparison tabs passed the final browser spot check. Quiz submissions verified by backend integration tests, not a full browser questionnaire run.",
+    "preservation": "All 386 pre-existing PT metadata, EN metadata and saved vector records equal base a1dc5b4 exactly. Runtime quiz/scoring code unchanged. Follow-up also preserves all 417 profiles present at 549333e."
   },
-  "remaining": "None. The requested 31-profile expansion is complete and the draft PR has been submitted.",
+  "remaining": "None. The requested 32-profile expansion is complete; Joh Bjelke-Petersen is included in the existing draft PR.",
   "scopeRevision": {
     "date": "2026-09-30",
     "previousCandidateCount": 247,
@@ -114,6 +115,15 @@
         "margaret-thatcher"
       ],
       "historicalExclusionNote": "Earlier scope exclusions remain as history. This amendment restores these five people to active work; Lech Wałęsa uses the corrected transliterated slug lech-walesa, replacing the never-added candidate slug lech-waesa."
+    },
+    {
+      "date": "2026-10-01",
+      "userRequest": "Add Joh Bjelke",
+      "previousCandidateCount": 31,
+      "candidateCount": 32,
+      "addedIds": [
+        "joh-bjelke-petersen"
+      ]
     }
   ],
   "prWritingPreference": "User requests a confident, compelling case for merging. Lead with the concrete catalogue improvement, complete quiz integration, preserved existing profiles and actual passing checks. Keep every claim factual and do not hide material limitations or describe simulations as personal questionnaire responses.",

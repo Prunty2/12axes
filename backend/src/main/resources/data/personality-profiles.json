@@ -7087,5 +7087,22 @@
       "moral": 39.3,
       "tecnologia": 56.0
     }
+  },
+  {
+    "personalityId": "joh-bjelke-petersen",
+    "vector": {
+      "estrutura": 78.3,
+      "representacao": 51.3,
+      "poder": 73.4,
+      "imigracao": 65.8,
+      "diplomacia": 63.6,
+      "intervencao": 26.9,
+      "economia": 36.3,
+      "controle": 30.1,
+      "comercio": 36.3,
+      "religiao": 9.3,
+      "moral": 5.3,
+      "tecnologia": 58.2
+    }
   }
 ]
