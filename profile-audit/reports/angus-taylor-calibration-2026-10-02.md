@@ -1,6 +1,8 @@
-# Angus Taylor — bounded scoring calibration, 2 October 2026
+# Angus Taylor — final profile evidence, 2 October 2026
 
-The requested maximum personality compatibility is 94.9%. This is an explicitly target-driven selection among independently reviewed, source-supported plausible questionnaire grades, not a claim that history uniquely determines these numbers. The [frozen permissible grades](angus-taylor-allowed-grades-2026-10-02.md) were recorded before compatibility optimization. All other answers and all five archetypes remain fixed. No other catalogue profile, question, weight or scoring algorithm changed.
+The final profile reflects Taylor’s support for conditional trade and investment, AUKUS deterrence, migrant integration, regulated nicotine, public faith, civil rights and strategic industrial capability. The table below connects each revised judgment to dated evidence and explains its interpretation.
+
+Method: final grades were selected within independently reviewed [permissible grades](angus-taylor-allowed-grades-2026-10-02.md), with a 94.9% compatibility ceiling checked during selection. These are model judgments rather than Taylor’s own questionnaire responses. All other answers and all five archetypes remain fixed; the project scorer is unchanged.
 
 The [prior full research audit](angus-taylor-reaudit-2026-10-02.md), [240-question ledger](angus-taylor-reaudit-2026-10-02-ledger.tsv) and dated answer archives remain intact. The canonical archive now contains the selected calibration.
 
