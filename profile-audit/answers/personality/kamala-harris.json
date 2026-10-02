@@ -1,0 +1,51 @@
+{
+  "estrutura": {
+    "personaBrief": "Harris combina garantias nacionais do voto e dos direitos reprodutivos com execução estadual e local de políticas como habitação. Defende uma federação constitucional com autonomia local, sem secessão nem subordinação automática dos assuntos locais à presidência.",
+    "answers": {"estrutura_06":"D","estrutura_01":"C","estrutura_05":"C","estrutura_16":"C","estrutura_04":"D","estrutura_13":"C","estrutura_20":"D","estrutura_15":"C","estrutura_18":"CT","estrutura_17":"D","estrutura_19":"C","estrutura_12":"D","estrutura_09":"DT","estrutura_02":"D","estrutura_08":"C","estrutura_07":"D","estrutura_11":"C","estrutura_14":"D","estrutura_03":"C","estrutura_10":"C"}
+  },
+  "representacao": {
+    "personaBrief": "A defesa de direitos civis de Harris se apoia em eleições livres, acesso ao voto, alternância pacífica e instituições que limitam o Executivo. Sua crítica posterior à capitulação institucional pede mobilização democrática, não governo sem Congresso ou oposição.",
+    "answers": {"representacao_01":"CT","representacao_05":"CT","representacao_20":"DT","representacao_11":"C","representacao_04":"DT","representacao_03":"CT","representacao_08":"DT","representacao_12":"DT","representacao_17":"D","representacao_14":"DT","representacao_13":"C","representacao_09":"C","representacao_02":"DT","representacao_15":"CT","representacao_19":"CT","representacao_06":"D","representacao_16":"DT","representacao_18":"DT","representacao_10":"DT","representacao_07":"CT"}
+  },
+  "poder": {
+    "personaBrief": "O controle de fronteiras e a prevenção da violência armada tornam Harris favorável a uma capacidade real de investigação e proteção pública. A reforma da justiça, a descriminalização da maconha e os direitos civis limitam esse poder: segurança não autoriza repressão política, condenação sem prova ou vigilância ilimitada.",
+    "answers": {"poder_03":"C","poder_15":"D","poder_13":"C","poder_02":"CT","poder_12":"C","poder_17":"D","poder_20":"C","poder_18":"D","poder_14":"CT","poder_16":"C","poder_11":"C","poder_06":"D","poder_01":"C","poder_19":"DT","poder_04":"C","poder_10":"C","poder_05":"D","poder_07":"D","poder_09":"C","poder_08":"D"}
+  },
+  "imigracao": {
+    "personaBrief": "Harris combina fiscalização da entrada e regras de asilo mais restritas com imigração legal, cidadania e recusa à demonização dos imigrantes. Isso distingue fronteiras administradas de assimilação cultural obrigatória: sua sociedade plural admite tradições e idiomas diversos.",
+    "answers": {"imigracao_09":"DT","imigracao_10":"CT","imigracao_06":"CT","imigracao_19":"DT","imigracao_04":"CT","imigracao_15":"D","imigracao_07":"D","imigracao_20":"D","imigracao_17":"DT","imigracao_13":"C","imigracao_11":"D","imigracao_08":"CT","imigracao_02":"C","imigracao_18":"DT","imigracao_05":"D","imigracao_03":"DT","imigracao_01":"D","imigracao_14":"CT","imigracao_16":"C","imigracao_12":"C"}
+  },
+  "diplomacia": {
+    "personaBrief": "As alianças militares defendidas por Harris pressupõem forças fortes, defesa dos aliados e dissuasão. Seu apoio à negociação e ao cessar-fogo, junto à crítica à operação na Venezuela, impede tratar essa defesa como preferência por guerras ofensivas ou força sem limites legais.",
+    "answers": {"diplomacia_02":"C","diplomacia_08":"D","diplomacia_15":"D","diplomacia_19":"C","diplomacia_11":"C","diplomacia_05":"D","diplomacia_12":"C","diplomacia_10":"C","diplomacia_17":"D","diplomacia_03":"C","diplomacia_07":"D","diplomacia_06":"C","diplomacia_14":"C","diplomacia_20":"C","diplomacia_16":"C","diplomacia_01":"CT","diplomacia_04":"C","diplomacia_13":"C","diplomacia_09":"D","diplomacia_18":"DT"}
+  },
+  "intervencao": {
+    "personaBrief": "Harris defende liderança internacional ativa, alianças e apoio à Ucrânia, em oposição ao isolamento. A diplomacia multilateral e a objeção a uma operação unilateral de mudança de regime restringem essa atuação, sem eliminar sanções, pressão diplomática ou defesa coletiva.",
+    "answers": {"intervencao_01":"D","intervencao_14":"D","intervencao_20":"C","intervencao_19":"D","intervencao_08":"C","intervencao_13":"D","intervencao_12":"C","intervencao_04":"D","intervencao_18":"C","intervencao_11":"C","intervencao_05":"DT","intervencao_02":"C","intervencao_10":"C","intervencao_09":"C","intervencao_16":"D","intervencao_06":"CT","intervencao_03":"DT","intervencao_07":"D","intervencao_17":"DT","intervencao_15":"D"}
+  },
+  "economia": {
+    "personaBrief": "A defesa de empresas privadas e empreendedorismo convive em Harris com proteção social, sindicatos e garantia de serviços essenciais. Seu programa usa tanto provisão pública quanto mercados regulados, sem revolução econômica, estatização generalizada ou preferência automática pela privatização.",
+    "answers": {"economia_05":"D","economia_06":"D","economia_07":"C","economia_13":"CT","economia_03":"D","economia_14":"D","economia_19":"C","economia_16":"DT","economia_17":"C","economia_12":"D","economia_04":"D","economia_11":"C","economia_18":"C","economia_15":"D","economia_20":"D","economia_01":"DT","economia_10":"DT","economia_09":"C","economia_02":"C","economia_08":"D"}
+  },
+  "controle": {
+    "personaBrief": "Harris associa mercados competitivos a regras trabalhistas, antitruste, impostos progressivos e investimento em setores estratégicos. O combate a abusos em crises não equivale a planejar toda a produção, congelar todos os preços ou abolir a autonomia monetária.",
+    "answers": {"controle_05":"CT","controle_20":"C","controle_19":"CT","controle_14":"D","controle_07":"CT","controle_04":"D","controle_02":"D","controle_17":"D","controle_16":"C","controle_10":"C","controle_06":"D","controle_08":"D","controle_13":"D","controle_01":"C","controle_11":"C","controle_03":"D","controle_15":"CT","controle_12":"D","controle_18":"DT","controle_09":"C"}
+  },
+  "comercio": {
+    "personaBrief": "Harris favorece relações econômicas internacionais e rejeita tarifas universais que encareçam o consumo. Ao mesmo tempo, protege produção estratégica e empregos diante de práticas comerciais desleais, especialmente chinesas, sem defender autarquia ou uma abertura sem salvaguardas.",
+    "answers": {"comercio_13":"C","comercio_06":"C","comercio_12":"C","comercio_20":"C","comercio_15":"C","comercio_19":"D","comercio_04":"C","comercio_17":"CT","comercio_07":"C","comercio_02":"DT","comercio_03":"C","comercio_10":"C","comercio_16":"C","comercio_09":"D","comercio_05":"DT","comercio_11":"C","comercio_01":"C","comercio_18":"C","comercio_08":"D","comercio_14":"D"}
+  },
+  "religiao": {
+    "personaBrief": "Embora Harris descreva oração diária e fé cristã como fontes pessoais de serviço, sua defesa de direitos reprodutivos e pluralismo não impõe essa fé ao Estado. A leitura distingue participação religiosa voluntária e formação familiar de leis confessionais ou identidade religiosa oficial da nação.",
+    "answers": {"religiao_02":"C","religiao_11":"D","religiao_19":"CT","religiao_03":"CT","religiao_10":"C","religiao_13":"D","religiao_12":"C","religiao_15":"D","religiao_18":"D","religiao_05":"D","religiao_01":"C","religiao_14":"D","religiao_06":"C","religiao_16":"C","religiao_08":"DT","religiao_07":"C","religiao_09":"C","religiao_17":"DT","religiao_20":"D","religiao_04":"DT"}
+  },
+  "moral": {
+    "personaBrief": "Os direitos reprodutivos e o casamento igualitário tornam Harris favorável à autonomia das mulheres e à igualdade de pessoas LGBT. Essa orientação sustenta diversidade e educação inclusiva, mas não transforma cada hipótese sobre costumes privados, consumo ou trabalho sexual em uma proposta explicitamente defendida por ela.",
+    "answers": {"moral_07":"CT","moral_04":"D","moral_15":"D","moral_12":"D","moral_03":"CT","moral_01":"CT","moral_09":"CT","moral_06":"DT","moral_19":"C","moral_02":"D","moral_05":"C","moral_17":"C","moral_13":"D","moral_11":"C","moral_10":"DT","moral_18":"DT","moral_16":"D","moral_14":"D","moral_08":"D","moral_20":"C"}
+  },
+  "tecnologia": {
+    "personaBrief": "Harris associa inovação, indústria avançada e energia limpa à oportunidade econômica, com salvaguardas para trabalhadores, privacidade e meio ambiente. Isso permite inferências moderadas em favor da pesquisa e de tratamentos seguros, sem presumir aceleração irrestrita ou preferência política entre viver no campo e viver na cidade.",
+    "answers": {"tecnologia_01":"CT","tecnologia_13":"N","tecnologia_19":"C","tecnologia_12":"D","tecnologia_18":"N","tecnologia_10":"D","tecnologia_05":"C","tecnologia_04":"C","tecnologia_16":"C","tecnologia_07":"D","tecnologia_08":"C","tecnologia_03":"D","tecnologia_15":"C","tecnologia_20":"D","tecnologia_06":"C","tecnologia_09":"C","tecnologia_17":"C","tecnologia_02":"D","tecnologia_14":"C","tecnologia_11":"C"}
+  },
+  "archetype": {"sociedade":"D","poder":"C","economia":"C","mundo":"B","tecnologia":"D"}
+}

@@ -5432,5 +5432,18 @@
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg",
     "imageNote": "Retrato oficial pelo Governo Australiano, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons; recortado na fonte, redimensionado e recomprimido.",
     "religions": []
+  },
+  {
+    "id": "kamala-harris",
+    "name": "Kamala Harris",
+    "role": "Ex-vice-presidente dos Estados Unidos",
+    "category": "politico",
+    "lifespan": "1964–",
+    "description": "Vice-presidente dos EUA (2021–2025), Harris defende direitos reprodutivos, empresas privadas com proteção social e regulação, controle de fronteiras com cidadania para imigrantes e alianças militares internacionais.",
+    "imagePath": "/personalities/portraits/kamala-harris.jpg",
+    "imageSourceName": "Wikimedia Commons / Executive Office of the President",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
+    "imageNote": "Retrato oficial de 2021 por Lawrence Jackson, funcionário da Presidência dos EUA, em domínio público; redimensionado e recomprimido.",
+    "religions": []
   }
 ]

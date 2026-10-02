@@ -1,0 +1,428 @@
+{
+  "id": "kamala-harris",
+  "researchedOn": "2026-10-03",
+  "profilePeriod": "Public record through 2026-10-03; concrete 2024 platform, explicitly dated earlier record, and 2025–2026 statements. No later comprehensive replacement platform located.",
+  "scopeNote": "Question answers are independent source-constrained simulations, not statements Harris actually made. Distinguish direct evidence from cautious inference for hypothetical policies. Dedicated searches covered every axis; cross-checks include independent AP and Forward reporting and first-person CNN testimony.",
+  "sources": [
+    {
+      "id": "economy",
+      "title": "Harris-Walz economic policy book",
+      "url": "https://www.kamalaharris.com/wp-content/uploads/2024/09/Policy_Book_Economic-Opportunity.pdf",
+      "factDate": "2024-09",
+      "accessedOn": "2026-10-03",
+      "evidence": "Private homebuilding, small-business incentives, ACA/Medicare protection, antitrust, emergency price-gouging ban, industrial investment, local housing innovation fund."
+    },
+    {
+      "id": "pittsburgh",
+      "title": "Pittsburgh Economic Club speech transcript",
+      "url": "https://rollcall.com/factbase/harris/transcript/kamala-harris-speech-economic-club-pittsburgh-september-25-2024",
+      "factDate": "2024-09-25",
+      "accessedOn": "2026-10-03",
+      "evidence": "Capitalism and competitive markets alongside worker protection; action against unfair Chinese trade and strategic manufacturing investment."
+    },
+    {
+      "id": "ap-economy",
+      "title": "AP independent economic-policy reporting",
+      "url": "https://apnews.com/article/bda4bfe7cb02c1c5c2f6232bf05ad670",
+      "factDate": "2024-09-25",
+      "accessedOn": "2026-10-03",
+      "evidence": "Corroborates pro-business middle-class platform and opposition to blanket tariffs; distinguishes regulation from communism."
+    },
+    {
+      "id": "border",
+      "title": "Douglas border speech",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-campaign-event-douglas-arizona",
+      "factDate": "2024-09-27",
+      "accessedOn": "2026-10-03",
+      "evidence": "Supports more border personnel, fentanyl scanners, stronger asylum restrictions and removal of unlawful entrants; also legal immigration, DREAMers, earned citizenship and rejection of scapegoating."
+    },
+    {
+      "id": "voting",
+      "title": "Convening with voting-rights leaders",
+      "url": "https://www.presidency.ucsb.edu/documents/readout-vice-president-kamala-harriss-convening-with-voting-rights-leaders",
+      "factDate": "2024-01-09",
+      "accessedOn": "2026-10-03",
+      "evidence": "National Freedom to Vote Act and John Lewis Voting Rights Advancement Act; work with diverse voting-rights constituencies."
+    },
+    {
+      "id": "dnc",
+      "title": "Democratic nomination acceptance speech",
+      "url": "https://www.presidency.ucsb.edu/documents/address-accepting-the-democratic-presidential-nomination-chicago-illinois",
+      "factDate": "2024-08-22",
+      "accessedOn": "2026-10-03",
+      "evidence": "Free elections, rule of law, peaceful transfer; federal reproductive protections; military superiority, NATO/Ukraine support, Israeli defence alongside ceasefire and Palestinian self-determination."
+    },
+    {
+      "id": "nato",
+      "title": "Munich Security Conference position",
+      "url": "https://www.presidency.ucsb.edu/documents/press-release-vp-harris-rejects-isolationism-and-recent-attacks-nato-during-munich",
+      "factDate": "2024-02-16",
+      "accessedOn": "2026-10-03",
+      "evidence": "Rejects isolationism and unilateralism; supports NATO and continued US global leadership."
+    },
+    {
+      "id": "guns",
+      "title": "Gun-violence and background-check press call",
+      "url": "https://www.presidency.ucsb.edu/documents/press-call-the-vice-president-reducing-gun-violence-and-expanding-background-checks",
+      "factDate": "2024-04-11",
+      "accessedOn": "2026-10-03",
+      "evidence": "Supports expanded background checks and federal gun-violence prevention."
+    },
+    {
+      "id": "justice",
+      "title": "Criminal-justice reform pool report",
+      "url": "https://www.presidency.ucsb.edu/documents/vice-presidential-pool-reports-april-25-2024",
+      "factDate": "2024-04-25",
+      "accessedOn": "2026-10-03",
+      "evidence": "Promotes rehabilitation, reentry, accountability of law enforcement and civil-rights protections alongside public safety."
+    },
+    {
+      "id": "cannabis",
+      "title": "Marijuana reform roundtable",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-roundtable-conversation-about-marijuana-reform",
+      "factDate": "2024-03-15",
+      "accessedOn": "2026-10-03",
+      "evidence": "Calls for reform of marijuana scheduling and criticises racially unequal possession penalties."
+    },
+    {
+      "id": "marriage",
+      "title": "California DOJ marriage-equality statement",
+      "url": "https://oag.ca.gov/news/press-releases/attorney-general-kamala-d-harris-celebrates-marriage-equality-asks-ninth-circuit",
+      "factDate": "2013-06-26",
+      "accessedOn": "2026-10-03",
+      "evidence": "Declined to defend Proposition 8 and sought immediate restoration of same-sex marriage across California."
+    },
+    {
+      "id": "cnn",
+      "title": "CNN presidential town hall transcript",
+      "url": "https://transcripts.cnn.com/show/se/date/2024-10-23/segment/01",
+      "factDate": "2024-10-23",
+      "accessedOn": "2026-10-03",
+      "evidence": "Daily prayer and Christian upbringing; faith guides service to others. Defends bodily autonomy and now rejects a fracking ban, while supporting clean energy."
+    },
+    {
+      "id": "ai",
+      "title": "London AI speech",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-future-artificial-intelligence-london-united-kingdom",
+      "factDate": "2023-11-01",
+      "accessedOn": "2026-10-03",
+      "evidence": "Supports AI innovation with safeguards for privacy, discrimination, deepfakes and public safety; international coordination rather than unregulated acceleration."
+    },
+    {
+      "id": "afterword",
+      "title": "First-person 107 Days afterword excerpt",
+      "url": "https://kamalaharris.substack.com/p/so-what-do-we-do",
+      "factDate": "2025-09-19",
+      "accessedOn": "2026-10-03",
+      "evidence": "Opposes authoritarianism, military deployment against civilians, sweeping tariffs and religious nationalism; supports social programmes, science, clean energy and peaceful popular mobilisation. Criticises institutional capitulation without endorsing dictatorship."
+    },
+    {
+      "id": "gaza-book",
+      "title": "Forward reporting on 107 Days",
+      "url": "https://forward.com/news/770908/kamala-harris-book-israel-gaza/",
+      "factDate": "2025-09-22",
+      "accessedOn": "2026-10-03",
+      "evidence": "Retrospective account of frustration with Netanyahu and Palestinian suffering; supports ceasefire and two-state settlement. Does not establish a new universal arms-embargo policy."
+    },
+    {
+      "id": "venezuela",
+      "title": "Reported first-person Venezuela statement",
+      "url": "https://www.foxnews.com/politics/kamala-harris-blasts-trump-administrations-capture-venezuelas-maduro-unlawful-unwise.amp",
+      "factDate": "2026-01-03",
+      "accessedOn": "2026-10-03",
+      "evidence": "Condemned the Venezuela operation despite opposing Maduro; cited legality, troop risk and costs. Evidence against automatic support for regime-change wars."
+    },
+    {
+      "id": "book-en",
+      "title": "Original publisher: The Truths We Hold",
+      "url": "https://www.penguinrandomhouse.com/books/591562/the-truths-we-hold-by-kamala-harris/",
+      "factDate": "2019-01-08",
+      "accessedOn": "2026-10-03",
+      "evidence": "Political memoir with policy content, originally published in 2019."
+    },
+    {
+      "id": "book-pt",
+      "title": "Brazilian publisher: As verdades que nos movem",
+      "url": "https://intrinseca.com.br/livro/as-verdades-que-nos-movem/",
+      "factDate": "2021-06-28",
+      "accessedOn": "2026-10-03",
+      "evidence": "Confirms Brazilian title and translation release; catalogue year must remain original 2019."
+    },
+    {
+      "id": "portrait",
+      "title": "Official portrait by Lawrence Jackson",
+      "url": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "factDate": "2021-03-05",
+      "accessedOn": "2026-10-03",
+      "evidence": "US federal government official photograph, public domain; downloaded and compressed with repository script."
+    },
+    {
+      "id": "death-appeal",
+      "title": "California DOJ death-penalty appeal statement",
+      "url": "https://oag.ca.gov/news/press-releases/attorney-general-kamala-d-harris-issues-statement-appeal-court-ruling-california",
+      "factDate": "2014-08-21",
+      "accessedOn": "2026-10-03",
+      "evidence": "Appealed invalidation of California death penalty on legal grounds; institutional litigation is not proof of personal endorsement."
+    },
+    {
+      "id": "ap-record",
+      "title": "AP on policy evolution, republished by PBS",
+      "url": "https://www.pbs.org/newshour/amp/politics/the-evolution-of-harris-stances-on-key-issues-from-the-death-penalty-to-marijuana",
+      "factDate": "2024-08-16",
+      "accessedOn": "2026-10-03",
+      "evidence": "Documents personal death-penalty opposition and refusal to seek it as DA, followed by defence of existing law as AG. Historical record includes differences between stated reform goals and prosecution decisions."
+    },
+    {
+      "id": "sexwork",
+      "title": "CNN 2019 town hall",
+      "url": "https://transcripts.cnn.com/show/se/date/2019-04-22/segment/04",
+      "factDate": "2019-04-22",
+      "accessedOn": "2026-10-03",
+      "evidence": "Favours not criminalising sex workers treated as exploited people, while prosecuting pimps and johns; not blanket legalisation of commercial sex."
+    },
+    {
+      "id": "sexwork-current",
+      "title": "Axios on unconfirmed 2024 position",
+      "url": "https://www.axios.com/2024/09/24/harris-decriminalize-prostitution-election",
+      "factDate": "2024-09-24",
+      "accessedOn": "2026-10-03",
+      "evidence": "Campaign declined to clarify whether 2019 support for sex-work decriminalisation remains current."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sourceIds": [
+        "economy",
+        "voting",
+        "dnc"
+      ],
+      "evidence": "National guarantees for voting and abortion alongside state/local housing implementation and incentives. Federalism with national rights floors; no evidence for abolishing states or secession."
+    },
+    "representacao": {
+      "sourceIds": [
+        "voting",
+        "dnc",
+        "afterword"
+      ],
+      "evidence": "Elections, peaceful transfer, expanded voting access and checks on executive power. Criticism of failed institutions in 2025 calls for mobilisation and democratic reform, not rule by decree."
+    },
+    "poder": {
+      "sourceIds": [
+        "border",
+        "guns",
+        "justice",
+        "cannabis",
+        "afterword",
+        "death-appeal",
+        "ap-record",
+        "sexwork",
+        "sexwork-current"
+      ],
+      "evidence": "Institutional policing, border enforcement and gun regulation coexist with rehabilitation, cannabis reform, rights safeguards and opposition to political repression. Neither police abolition nor unlimited surveillance. Personal death-penalty opposition coexists with defence of existing law as attorney general; no inferred support for extending executions. Sex-work decriminalisation testimony targets exploitation, not blanket legalisation."
+    },
+    "imigracao": {
+      "sourceIds": [
+        "border"
+      ],
+      "evidence": "Pluralist immigrant society, legal migration and citizenship routes coexist with tighter entry and asylum rules. Do not equate border enforcement with cultural assimilation."
+    },
+    "diplomacia": {
+      "sourceIds": [
+        "dnc",
+        "nato",
+        "gaza-book",
+        "venezuela"
+      ],
+      "evidence": "Strong armed forces and allied defence, constrained by negotiation, humanitarian protection and objections to unilateral regime change. Not pacifist or an advocate of every military operation."
+    },
+    "intervencao": {
+      "sourceIds": [
+        "nato",
+        "dnc",
+        "venezuela"
+      ],
+      "evidence": "Active multilateral US leadership and allied support rather than isolationism; opposition to the 2026 Venezuela operation limits inference of unlimited intervention."
+    },
+    "economia": {
+      "sourceIds": [
+        "economy",
+        "pittsburgh",
+        "ap-economy"
+      ],
+      "evidence": "Private enterprise, competition and entrepreneurship with ACA/Medicare/Social Security and publicly funded housing incentives. No wholesale nationalisation or general privatisation of public services."
+    },
+    "controle": {
+      "sourceIds": [
+        "economy",
+        "pittsburgh",
+        "cnn"
+      ],
+      "evidence": "Antitrust, crisis price-gouging ban and industrial subsidies alongside competition, supply expansion and cutting unnecessary red tape. Regulated capitalism rather than command allocation or laissez-faire."
+    },
+    "comercio": {
+      "sourceIds": [
+        "pittsburgh",
+        "ap-economy",
+        "afterword"
+      ],
+      "evidence": "Opposes universal tariffs, supports international ties, but protects strategic manufacturing and responds to unfair Chinese trade. Neither unrestricted free trade nor autarky."
+    },
+    "religiao": {
+      "sourceIds": [
+        "cnn",
+        "dnc",
+        "afterword"
+      ],
+      "evidence": "Public Christian faith informs service; supports religious pluralism, personal choice and rejects religious nationalism. Personal faith must not become presumed state religion; family ancestry alone is not a political religious affiliation."
+    },
+    "moral": {
+      "sourceIds": [
+        "dnc",
+        "marriage",
+        "cannabis",
+        "sexwork",
+        "sexwork-current"
+      ],
+      "evidence": "Reproductive autonomy and same-sex marriage; reform of marijuana penalties. Cultural progressivism rather than religiously mandated morality."
+    },
+    "tecnologia": {
+      "sourceIds": [
+        "ai",
+        "economy",
+        "cnn",
+        "afterword"
+      ],
+      "evidence": "AI, advanced manufacturing, scientific research and clean energy with safety regulation. Rejection of fracking ban qualifies environmental positions; no evidence for unrestricted transhumanism."
+    }
+  },
+  "religionsDecision": {
+    "value": [],
+    "reason": "Computed religiao score is 54.8 (>35), so apply the repository default for a secular political programme. Acknowledged public Christian faith does not establish a strong confessional political programme; do not tag Hinduism or Judaism from family background."
+  },
+  "bookDecision": {
+    "title": {
+      "pt": "As verdades que nos movem",
+      "en": "The Truths We Hold"
+    },
+    "year": 2019,
+    "reason": "Author-written political memoir with substantive justice, healthcare, economic and security policy, not merely personal reminiscence; well-established Brazilian edition."
+  },
+  "portrait": {
+    "sourceId": "portrait",
+    "visuallyChecked": true,
+    "width": 480,
+    "height": 600
+  },
+  "probableNeighbours": {
+    "joe-biden": "Shared governing record, but evaluate Harris independently, including reproductive-rights emphasis, prosecutors reform/security tension, market/entrepreneurship proposals and later opposition to unilateral war.",
+    "barack-obama": "Same broad liberal family; do not copy. Harris has her own documented border/asylum proposals, industrial strategy and public faith.",
+    "bernie-sanders": "Harris explicitly supports capitalism and private entrepreneurship rather than treating all major industries as public property."
+  },
+  "audit": {
+    "method": "Single independent quality-model subagent; 240 individual answers and five archetypes; repository validator passed with proximity warnings.",
+    "neutralAnswers": 2,
+    "archetype": {
+      "sociedade": "D",
+      "poder": "C",
+      "economia": "C",
+      "mundo": "B",
+      "tecnologia": "D"
+    },
+    "vector": {
+      "estrutura": 54.5,
+      "representacao": 90.6,
+      "poder": 41.3,
+      "imigracao": 22.4,
+      "diplomacia": 45.7,
+      "intervencao": 32.9,
+      "economia": 61.5,
+      "controle": 65.2,
+      "comercio": 50.8,
+      "religiao": 54.8,
+      "moral": 76.4,
+      "tecnologia": 57.0
+    },
+    "topMatches": {
+      "personality": [
+        {
+          "id": "andy-burnham",
+          "name": "Andy Burnham",
+          "compatibility": 96.2
+        },
+        {
+          "id": "joe-biden",
+          "name": "Joe Biden",
+          "compatibility": 95.6
+        }
+      ],
+      "ideology": [
+        {
+          "id": "liberalismo-de-estado",
+          "name": "Liberalismo de Estado",
+          "compatibility": 94.3
+        },
+        {
+          "id": "social-democracia",
+          "name": "Social-Democracia",
+          "compatibility": 92.3
+        }
+      ],
+      "country": [
+        {
+          "id": "eua-illinois",
+          "name": "Illinois (Estados Unidos)",
+          "compatibility": 98.7
+        },
+        {
+          "id": "uniao-europeia",
+          "name": "União Europeia",
+          "compatibility": 94.9
+        }
+      ]
+    },
+    "similarityReview": "Validator passes (blocking threshold 97%) but NEW_PROFILE.md flags >=95% similarity as redundant. User reviewed the exact similarity warning, edited the PR description with a prominence rationale, and explicitly authorized creating a ready-for-review PR on 2026-10-03. Retain the profile with the documented overlap; no answers adjusted to increase distance.",
+    "inferenceBoundary": "Healthy brain implants/genetic enhancement, autonomous weapons, religious holiday/tax/symbol details, diet ethics and Brazil-specific quotas use cautious simulated preferences rather than documented proposals."
+  },
+  "verification": {
+    "backendTests": {
+      "passed": 143,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    "frontendTests": {
+      "files": 7,
+      "passed": 38
+    },
+    "i18nCoverage": "passed",
+    "productionBuild": "passed; 1,742 generated Portuguese/English pages",
+    "liveQuizAndResults": "Portuguese and English: 240-question payload; submission of all archived answers plus archetypes reproduces all 12 saved scores; Harris matches 100% and her book is the first recommendation.",
+    "visualChecks": [
+      "Portuguese and English generated profile pages, portraits, and descriptions",
+      "English mobile profile at 390 x 844",
+      "Portuguese and English 240-question quiz screens",
+      "Portuguese and English results screens, personality match, book recommendation, and downloaded 1080 x 1920 share cards"
+    ],
+    "existingLimitation": "The pre-existing share-card renderer compares intensity with the Portuguese literal Equilibrado: Portuguese balanced axes render as 50% and the right pole, while English Balanced axes render their computed scores. Confirmed in HEAD frontend/src/utils/shareCard.ts; no application-code change included.",
+    "diffWhitespace": "passed",
+    "initialCheckout": "Initial checks ran on fix/hinduism-religion-option; 143 backend and 38 frontend tests passed. Profile changes were subsequently isolated from that separate fix.",
+    "isolatedUpstreamBranch": {
+      "base": "upstream/main at 40ec789",
+      "branch": "feat/personality-kamala-harris",
+      "backendTests": {
+        "passed": 142,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0
+      },
+      "frontendTests": {
+        "files": 6,
+        "passed": 35
+      },
+      "profileValidator": "passed with documented proximity warnings",
+      "i18nCoverage": "passed",
+      "productionBuild": "passed; 1,742 generated Portuguese/English pages",
+      "userPrMessage": "Preserved the user-edited description, including its original successful test counts."
+    }
+  }
+}
