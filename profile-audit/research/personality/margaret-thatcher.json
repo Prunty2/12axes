@@ -1,0 +1,257 @@
+{
+  "id": "margaret-thatcher",
+  "researchedOn": "2026-10-03",
+  "profilePeriod": "Political record centred on the 1979–1990 premiership; dated 1969 and 1978 statements provide earlier context. The 2002 book is a reading recommendation, not a substitute for the governing record.",
+  "scopeNote": "Question answers are source-constrained simulations, not claims that Thatcher took this quiz. Contemporary hypotheticals require explicit inference from her principles and policies.",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "UK government biography",
+      "url": "https://www.gov.uk/government/history/past-prime-ministers/margaret-thatcher",
+      "factDate": "1979–1990",
+      "accessedOn": "2026-10-03",
+      "evidence": "Premiership, privatisation, deregulation, union reform and the Falklands War."
+    },
+    {
+      "id": "manifesto79",
+      "title": "Conservative election manifesto 1979",
+      "url": "https://www.margaretthatcher.org/document/110858",
+      "factDate": "1979-04-11",
+      "accessedOn": "2026-10-03",
+      "evidence": "Parliamentary rule of law, monetary discipline, lower taxes, property ownership, union ballots, stronger policing, immigration controls and retained NHS funding."
+    },
+    {
+      "id": "manifesto83",
+      "title": "Conservative election manifesto 1983",
+      "url": "https://www.margaretthatcher.org/document/110859",
+      "factDate": "1983-05-18",
+      "accessedOn": "2026-10-03",
+      "evidence": "Privatisation of named firms, competition with consumer safeguards, retained public health services, council rate limits and abolition of metropolitan councils; NATO, nuclear deterrence and negotiated arms control."
+    },
+    {
+      "id": "immigration",
+      "title": "Granada World in Action interview",
+      "url": "https://www.margaretthatcher.org/document/103485",
+      "factDate": "1978-01-27",
+      "accessedOn": "2026-10-03",
+      "evidence": "Restrictive immigration and cultural assimilation; distinguish criticism of migration levels from equal treatment of lawful residents."
+    },
+    {
+      "id": "punishment",
+      "title": "BBC Nationwide interview",
+      "url": "https://www.margaretthatcher.org/document/105147",
+      "factDate": "1983-05-24",
+      "accessedOn": "2026-10-03",
+      "evidence": "Personally supports capital punishment as deterrence; does not claim executions were restored under her government."
+    },
+    {
+      "id": "conference87",
+      "title": "Conservative Party conference speech",
+      "url": "https://www.margaretthatcher.org/document/106941",
+      "factDate": "1987-10-09",
+      "accessedOn": "2026-10-03",
+      "evidence": "Traditional sexual morality, national curriculum, parental school choice and state-funded independent schools; police and security forces framed as safeguarding liberty."
+    },
+    {
+      "id": "christianity",
+      "title": "Sermon on the Mound",
+      "url": "https://www.margaretthatcher.org/document/107246",
+      "factDate": "1988-05-21",
+      "accessedOn": "2026-10-03",
+      "evidence": "Publicly links Christianity to personal responsibility, human rights and democracy; distinguishes legislative rule of law from the church’s spiritual teaching."
+    },
+    {
+      "id": "bruges",
+      "title": "Bruges speech",
+      "url": "https://www.margaretthatcher.org/document/107332",
+      "factDate": "1988-09-20",
+      "accessedOn": "2026-10-03",
+      "evidence": "Opposes a European superstate while supporting cooperation, the single market and reduced world trade barriers."
+    },
+    {
+      "id": "science",
+      "title": "Royal Society speech",
+      "url": "https://www.margaretthatcher.org/document/107346",
+      "factDate": "1988-09-27",
+      "accessedOn": "2026-10-03",
+      "evidence": "Supports scientific progress and basic research while recognising environmental limits and greenhouse warming."
+    },
+    {
+      "id": "environment",
+      "title": "UN General Assembly environmental speech",
+      "url": "https://www.margaretthatcher.org/document/107817",
+      "factDate": "1989-11-08",
+      "accessedOn": "2026-10-03",
+      "evidence": "International climate cooperation, scientific assessment and sustainable development; does not advocate rejecting industrial civilisation."
+    },
+    {
+      "id": "book",
+      "title": "Foundation biography: later writings",
+      "url": "https://www.margaretthatcher.org/essential/biography",
+      "factDate": "2002",
+      "accessedOn": "2026-10-03",
+      "evidence": "Statecraft was first published in 2002 and discusses international politics."
+    },
+    {
+      "id": "bookpt",
+      "title": "Brazilian library catalogue: Statecraft translation",
+      "url": "https://biblioteca.belasartes.br/TerminalWeb/Acervo/Detalhe/213391",
+      "factDate": "2023",
+      "accessedOn": "2026-10-03",
+      "evidence": "Brazilian title: A arte de governar: estratégias para um mundo em mudança; this edition date does not replace the original publication year."
+    },
+    {
+      "id": "portrait",
+      "title": "Wikimedia Commons portrait and permissions",
+      "url": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait.jpg",
+      "factDate": null,
+      "accessedOn": "2026-10-03",
+      "evidence": "Commons records permission from the Thatcher Estate for unrestricted reuse; photograph is a stock portrait, photographer unidentified."
+    },
+    {
+      "id": "socialreform69",
+      "title": "Finchley Inter-church luncheon speech, reported in Finchley Press",
+      "url": "https://www.margaretthatcher.org/document/101704",
+      "factDate": "1969-11-17",
+      "accessedOn": "2026-10-03",
+      "evidence": "Supports compulsory religious education but acknowledges abortion reform reduced dangerous illegal procedures; private immorality does not automatically justify unenforceable criminal prohibitions."
+    },
+    {
+      "id": "defence87",
+      "title": "Speech to Conservative Central Council",
+      "url": "https://www.margaretthatcher.org/document/106769",
+      "factDate": "1987-03-21",
+      "accessedOn": "2026-10-03",
+      "evidence": "Supports nuclear deterrence and reciprocal negotiation, explicitly hoping the younger generation will not be called up to fight. The professional-force interpretation is an inference from her governing record, not a quotation from this speech."
+    },
+    {
+      "id": "bankproposal",
+      "title": "Lawson minute proposing Bank of England independence",
+      "url": "https://www.margaretthatcher.org/document/109508",
+      "factDate": "1988-11-25",
+      "accessedOn": "2026-10-03",
+      "evidence": "A proposal for central-bank independence, not a policy already implemented by Thatcher."
+    },
+    {
+      "id": "bankrole",
+      "title": "House of Lords: Bank of England role",
+      "url": "https://api.parliament.uk/historic-hansard/lords/1990/jan/15/bank-of-england-role",
+      "factDate": "1990-01-15",
+      "accessedOn": "2026-10-03",
+      "evidence": "Government remains ultimately responsible for monetary policy while the Bank advises and implements it."
+    },
+    {
+      "id": "abortion88",
+      "title": "House of Commons: Abortion (Amendment) Bill",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1988/jan/22/abortion-amendment-bill-1",
+      "factDate": "1988-01-22",
+      "accessedOn": "2026-10-03",
+      "evidence": "Debate records the Prime Minister favouring a 24-week limit, distinguishing this from Alton’s 18-week proposal."
+    },
+    {
+      "id": "abortion88digest",
+      "title": "Bernard Ingham press digest for the Prime Minister, page 5",
+      "url": "https://archive.margaretthatcher.org/doc09/880122%20PD%20THCR%203-5-75%20f88.pdf",
+      "factDate": "1988-01-22",
+      "accessedOn": "2026-10-03",
+      "evidence": "Contemporaneous digest records opposition to the 18-week proposal and preference for 24 weeks."
+    }
+  ],
+  "axes": {
+    "estrutura": {
+      "sources": [
+        "manifesto83",
+        "conference87",
+        "bruges"
+      ],
+      "interpretation": "Unitary UK parliamentary authority, national standards and council spending restraints; borough-level service transfers and school autonomy qualify centralisation. Opposition to EU centralisation is not support for a federal UK."
+    },
+    "representacao": {
+      "sources": [
+        "manifesto79",
+        "christianity"
+      ],
+      "interpretation": "Representative parliamentary democracy and individual rights; strong executive leadership within elections, not dictatorship or direct democracy."
+    },
+    "poder": {
+      "sources": [
+        "punishment",
+        "manifesto79",
+        "conference87"
+      ],
+      "interpretation": "Firm law and order, punitive deterrence and anti-terrorism, qualified by rule of law and civil rights."
+    },
+    "imigracao": {
+      "sources": [
+        "immigration"
+      ],
+      "interpretation": "Controlled migration and cultural assimilation with equal legal treatment, not racial supremacy."
+    },
+    "diplomacia": {
+      "sources": [
+        "bio",
+        "manifesto83",
+        "defence87"
+      ],
+      "interpretation": "Strong defence, NATO and nuclear deterrence, balanced by negotiated arms control rather than unlimited war."
+    },
+    "intervencao": {
+      "sources": [
+        "bio",
+        "manifesto83",
+        "bruges"
+      ],
+      "interpretation": "Assertive defence of British sovereignty and overseas interests, including the Falklands; international alliances rather than isolation."
+    },
+    "economia": {
+      "sources": [
+        "manifesto79",
+        "manifesto83"
+      ],
+      "interpretation": "Private enterprise and privatisation with continuing public health provision and a welfare safety net; not abolition of all public services."
+    },
+    "controle": {
+      "sources": [
+        "manifesto79",
+        "manifesto83",
+        "bankproposal",
+        "bankrole"
+      ],
+      "interpretation": "Competition, monetary restraint and opposition to price controls, while retaining consumer protection and some public spending; not laissez-faire anarchism. During her premiership monetary responsibility remained with government; deregulation does not imply an operationally independent or abolished central bank."
+    },
+    "comercio": {
+      "sources": [
+        "bruges"
+      ],
+      "interpretation": "Free trade and the European single market despite opposition to supranational political government; sovereignty is not blanket protectionism."
+    },
+    "religiao": {
+      "sources": [
+        "christianity"
+      ],
+      "interpretation": "Christian moral grounding in public politics, with religious tolerance and separate roles for Parliament and churches; not clerical government."
+    },
+    "moral": {
+      "sources": [
+        "conference87",
+        "christianity",
+        "socialreform69",
+        "abortion88",
+        "abortion88digest"
+      ],
+      "interpretation": "Traditional family and sexual values with individual responsibility; a female prime minister is not automatically a progressive social platform. Her 1969 acknowledgement of safer legal abortion qualifies any inference of blanket prohibition."
+    },
+    "tecnologia": {
+      "sources": [
+        "science",
+        "environment"
+      ],
+      "interpretation": "Science, industry and technological development with environmental safeguards; no basis for equating modernisation with unlimited transhumanism."
+    }
+  },
+  "nearestProfileDistinctions": [
+    "Reagan governed a federal presidential system; Thatcher governed a unitary parliamentary UK.",
+    "Friedman was an economic thinker; Thatcher exercised executive authority with policing, defence and public-service responsibilities.",
+    "Blair shared some market reforms but differed in social values and territorial devolution."
+  ]
+}

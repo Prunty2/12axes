@@ -7104,5 +7104,22 @@
       "moral": 77.6,
       "tecnologia": 69.0
     }
+  },
+  {
+    "personalityId": "margaret-thatcher",
+    "vector": {
+      "estrutura": 26.0,
+      "representacao": 74.0,
+      "poder": 59.1,
+      "imigracao": 68.2,
+      "diplomacia": 63.6,
+      "intervencao": 19.8,
+      "economia": 34.1,
+      "controle": 24.7,
+      "comercio": 16.3,
+      "religiao": 16.4,
+      "moral": 19.6,
+      "tecnologia": 53.6
+    }
   }
 ]

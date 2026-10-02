@@ -2482,5 +2482,17 @@
       "pt": "",
       "en": ""
     }
+  },
+  {
+    "personalityId": "margaret-thatcher",
+    "title": {
+      "pt": "A Arte de Governar: Estratégias para um Mundo em Mudança",
+      "en": "Statecraft: Strategies for a Changing World"
+    },
+    "year": 2002,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
   }
 ]
