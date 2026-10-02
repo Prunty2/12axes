@@ -242,7 +242,7 @@ Aliança só diplomática/militar **não** conta. Ex.: Trump = `["christianity"]
 cristão é causa cristã); Arábia Saudita = `["islam"]`, apesar da aliança com os EUA.
 
 **Como o filtro trata `other`:** um perfil aparece se contém a religião escolhida **ou** se não
-tem nenhuma das quatro selecionáveis (`[]` ou só `["other"]`). Junto de outra religião,
+tem nenhuma das cinco selecionáveis (`[]` ou só `["other"]`). Junto de outra religião,
 `other` é só informativo: `["buddhism", "other"]` some para quem escolheu cristianismo.
 
 **Texto secular com vetor religioso:** se a descrição diz que o perfil é secular mas o vetor tem
@@ -253,7 +253,7 @@ apagar a religião.
 irreligioso; baixo = religioso). O valor vem de pesquisa, **nunca** do vetor: o vetor só torna o
 campo obrigatório. `religions` vive **apenas no arquivo PT**, como `category`.
 
-Como o filtro funciona: com "Cristianismo" escolhido, some só o perfil ligado a outra das quatro
+Como o filtro funciona: com "Cristianismo" escolhido, some só o perfil ligado a outra das cinco
 religiões selecionáveis e não ao cristianismo. Perfis `[]` ou só `other` sempre aparecem. A
 compatibilidade não muda. `validate.py` ([RELIGIAO]) e `ReligionFilterTest` bloqueiam o merge se a
 regra for violada.
