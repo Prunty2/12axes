@@ -4630,5 +4630,18 @@
     "imageSourceName": "Wikimedia Commons / Catedral de Sevilla",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_San_Fernando,_rey_de_Castilla_y_de_Le%C3%B3n_(Catedral_de_Sevilla).jpg",
     "imageNote": "Pintura anônima de cerca de 1639, posterior à vida de Fernando III; não é um retrato contemporâneo."
+  },
+  {
+    "id": "rupert-murdoch",
+    "name": "Rupert Murdoch",
+    "role": "Magnata da mídia",
+    "category": "empresario",
+    "lifespan": "1931–",
+    "description": "Magnata da mídia e fundador da News Corp e da Fox News, apoiou Thatcher e a invasão do Iraque. Defende mercados livres, comércio global e imigração, combinados com valores culturais conservadores.",
+    "imagePath": "/personalities/portraits/rupert-murdoch.jpg",
+    "imageSourceName": "Wikimedia Commons / David Shankbone",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rupert_Murdoch_2011_Shankbone_2.JPG",
+    "imageNote": "Foto de David Shankbone, 2011, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/); redimensionada e comprimida para o catálogo.",
+    "religions": []
   }
 ]

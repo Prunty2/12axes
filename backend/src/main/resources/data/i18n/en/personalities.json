@@ -2408,5 +2408,12 @@
     "role": "King of Castile and León",
     "lifespan": "c. 1201–1252",
     "description": "King of Castile from 1217 and León from 1230, he consolidated the union of the crowns and conquered Córdoba and Seville. He ruled as a medieval Catholic monarch and promoted legal and administrative organization in conquered territories."
+  },
+  {
+    "id": "rupert-murdoch",
+    "name": "Rupert Murdoch",
+    "role": "Media magnate",
+    "lifespan": "1931–",
+    "description": "Media magnate and founder of News Corp and Fox News, he backed Thatcher and the Iraq invasion. He advocates free markets, global trade and immigration alongside conservative cultural values."
   }
 ]
