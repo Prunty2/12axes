@@ -5406,5 +5406,18 @@
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ln-Governor-Lachlan_macquarie.jpg",
     "imageNote": "Retrato de Lachlan Macquarie via Wikipédia/Wikimedia Commons.",
     "religions": ["christianity"]
+  },
+  {
+    "id": "pauline-hanson",
+    "name": "Pauline Hanson",
+    "role": "Senadora australiana",
+    "category": "politico",
+    "lifespan": "1954–",
+    "description": "Senadora australiana e fundadora do One Nation, Hanson defende assimilação cultural, forte redução da imigração, tarifas industriais, referendos populares e defesa reforçada, combinando apoio empresarial com bancos e serviços públicos estratégicos.",
+    "imagePath": "/personalities/portraits/pauline-hanson.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pauline_Hanson_2017_05_(cropped).jpg",
+    "imageNote": "Retrato de Pauline Hanson por Jfish92, via Wikimedia Commons (CC0).",
+    "religions": ["christianity"]
   }
 ]

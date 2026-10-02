@@ -2618,5 +2618,12 @@
     "role": "Governor of New South Wales",
     "lifespan": "1762–1824",
     "description": "Colonial governor of New South Wales (1810–21), Macquarie replaced military rule with public works and town planning, granted land and office to freed convicts and founded schools for Aboriginal people, but ordered the Appin massacre against resisters."
+  },
+  {
+    "id": "pauline-hanson",
+    "name": "Pauline Hanson",
+    "role": "Australian senator",
+    "lifespan": "1954–",
+    "description": "Australian senator and One Nation founder, Hanson advocates cultural assimilation, sharp immigration cuts, industrial tariffs, citizen referendums and stronger defence, combining support for business with strategic public banks and services."
   }
 ]
