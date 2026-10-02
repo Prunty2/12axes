@@ -5406,5 +5406,18 @@
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ln-Governor-Lachlan_macquarie.jpg",
     "imageNote": "Retrato de Lachlan Macquarie via Wikipédia/Wikimedia Commons.",
     "religions": ["christianity"]
+  },
+  {
+    "id": "anthony-albanese",
+    "name": "Anthony Albanese",
+    "role": "Primeiro-ministro da Austrália",
+    "category": "politico",
+    "lifespan": "1963–",
+    "description": "Primeiro-ministro trabalhista da Austrália desde 2022, amplia o Medicare, apoia a indústria verde e o livre comércio, mantém o AUKUS e restringe vistos temporários, defendendo o multiculturalismo e regras de segurança digital.",
+    "imagePath": "/personalities/portraits/anthony-albanese.jpg",
+    "imageSourceName": "Wikimedia Commons / Australian Government (CC BY 4.0)",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg",
+    "imageNote": "Retrato pelo Governo Australiano, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons; recortado na fonte, redimensionado e recomprimido.",
+    "religions": []
   }
 ]

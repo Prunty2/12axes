@@ -1,0 +1,47 @@
+validando personality:anthony-albanese
+  /Users/liam/Documents/GitHub/12axes-contributions/anthony-albanese/profile-audit/subagent-out/personality/anthony-albanese.json
+
+[ARQUETIPO] sociedade D · poder C · economia C · mundo B · tecnologia D
+[NEUTROS] total 1/240 = 0.4%
+[RELIGIAO] religiao=61.9 · religions=[]
+
+[CONTEUDO] vetor e direcao real dos eixos
+  eixo             valor  0 <--------> 100
+  estrutura         51.0  centralizado/unitario <-> descentralizado/federal
+  representacao     83.5  autocracia <-> democracia
+  poder             55.6  liberdade civil <-> ordem/vigilancia
+  imigracao         30.7  multicultural/aberto <-> assimilacionista/fechado
+  diplomacia        55.2  pacifista <-> militarista
+  intervencao       32.9  nacionalista assertivo <-> nao-intervencionista
+  economia          61.5  privado/mercado <-> publico/coletivo
+  controle          58.0  livre mercado <-> planejamento
+  comercio          29.4  livre comercio/globalista <-> protecionista
+  religiao          61.9  religioso <-> irreligioso/secular
+  moral             74.0  tradicionalista <-> progressista
+  tecnologia        54.6  biologia/naturalista <-> tecnofilo
+
+[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)
+  estrutura         51.0   | Josef Stálin=0 .. Murray Rothbard=96
+  representacao     83.5   | Kim Jong Un=6 .. José Mujica=86
+  poder             55.6   | Murray Rothbard=1 .. Josef Stálin=99
+  imigracao         30.7   | Justin Trudeau=22 .. Adolf Hitler=100
+  diplomacia        55.2   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100
+  intervencao       32.9   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71
+  economia          61.5   | Murray Rothbard=6 .. Josef Stálin=94
+  controle          58.0   | Murray Rothbard=5 .. Josef Stálin=100
+  comercio          29.4   | Milton Friedman=10 .. Adolf Hitler=96
+  religiao          61.9   | Ruhollah Khomeini=2 .. Josef Stálin=98
+  moral             74.0   | Francisco Franco=2 .. Michel Foucault=91
+  tecnologia        54.6   | Ted Kaczynski=5 .. Ray Kurzweil=86
+
+[CONTEUDO] mais proximos em personality (duplicata?)
+   97.7%  olaf-scholz  <<< BLOQUEIA
+   95.5%  barack-obama  <<< aviso
+   95.4%  jonas-gahr-store  <<< aviso
+
+AVISOS (nao bloqueiam, mas confira):
+  [CONTEUDO] 95.5% proximo de 'barack-obama'
+  [CONTEUDO] 95.4% proximo de 'jonas-gahr-store'
+
+ERROS (bloqueiam o merge):
+  [CONTEUDO] 97.7% identico a 'olaf-scholz' - perfil redundante, nao acrescenta nada ao catalogo
