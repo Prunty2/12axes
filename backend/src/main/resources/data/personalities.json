@@ -5432,5 +5432,20 @@
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg",
     "imageNote": "Retrato oficial pelo Governo Australiano, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons; recortado na fonte, redimensionado e recomprimido.",
     "religions": []
+  },
+  {
+    "id": "sanae-takaichi",
+    "name": "Sanae Takaichi",
+    "role": "Primeira-ministra do Japão",
+    "category": "politico",
+    "lifespan": "1961–",
+    "description": "Primeira-ministra do Japão, Takaichi defende reforço militar, imigração seletiva e valores familiares tradicionais. Combina investimento público em setores estratégicos com propriedade privada, livre comércio e expansão nuclear.",
+    "imagePath": "/personalities/portraits/sanae-takaichi.jpg",
+    "imageSourceName": "Cabinet Secretariat, Cabinet Public Relations Office / Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sanae_Takaichi_2025_Portrait_(3x4_cropped).jpg",
+    "imageNote": "Retrato oficial de 2025 pelo Cabinet Public Relations Office, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons; recortado na fonte, redimensionado e recomprimido.",
+    "religions": [
+      "other"
+    ]
   }
 ]

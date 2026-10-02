@@ -7104,5 +7104,22 @@
       "moral": 77.6,
       "tecnologia": 69.0
     }
+  },
+  {
+    "personalityId": "sanae-takaichi",
+    "vector": {
+      "estrutura": 37.9,
+      "representacao": 74.0,
+      "poder": 62.7,
+      "imigracao": 60.2,
+      "diplomacia": 56.4,
+      "intervencao": 31.7,
+      "economia": 48.4,
+      "controle": 53.3,
+      "comercio": 41.3,
+      "religiao": 56.3,
+      "moral": 32.1,
+      "tecnologia": 66.5
+    }
   }
 ]
