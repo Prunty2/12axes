@@ -1,0 +1,1285 @@
+{
+  "profileId": "angus-taylor",
+  "frozenAtUtc": "2026-10-02T11:18:29+00:00",
+  "baselineAnswerSha256": "6ebd354b6e86e13ede419679cd5417e394538e1ab557b37a75d51973281a0256",
+  "method": "Independent source-bounded answer grading; no alternate vectors, matches, optimisation or neighbour-answer comparisons performed. Current answer is also permissible. Unlisted questions and all archetypes are fixed. No N alternatives admitted.",
+  "rows": [
+    {
+      "questionId": "estrutura_20",
+      "question": "Governadores e prefeitos devem executar as decisões do governo central em assuntos locais.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S1",
+        "S26"
+      ],
+      "rationale": "Federal coordination and grant conditions qualify local autonomy; disagreeing still rejects making every mayor an executive subordinate.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "estrutura_18",
+      "question": "A separação de um estado não deve ser permitida, mesmo com apoio da população local.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S3",
+        "S19"
+      ],
+      "rationale": "National unity is emphatic, but applying that commitment to every hypothetical local secession vote supports ordinary agreement too.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "estrutura_09",
+      "question": "Estados deveriam ter o direito de se separar do país se a maioria local votar por isso.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S3",
+        "S19"
+      ],
+      "rationale": "A united national polity remains the position; the strength assigned to a hypothetical unilateral-secession entitlement is an inference.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "estrutura_14",
+      "question": "Quando governador e presidente entram em conflito, a palavra final deve ser do presidente.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S1",
+        "S26"
+      ],
+      "rationale": "State partners and conditional national funding imply divided competence; ordinary disagreement preserves constitutional limits without declaring every executive conflict absolute.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "estrutura_03",
+      "question": "As leis sobre assuntos locais devem ser definidas pelos governos municipais ou estaduais.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S18",
+        "S26"
+      ],
+      "rationale": "State abortion competence is explicit; national conditions on state energy grants show that a general all-local-policy statement merits qualification.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "representacao_05",
+      "question": "Cortes independentes, como o STF, devem poder anular decisões do governo.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S3",
+        "S15"
+      ],
+      "rationale": "Rule of law supports independent checks; his maiden address prefers parliamentary accountability over executive and judicial primacy. Ordinary agreement captures both.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "representacao_04",
+      "question": "Prefiro decisões de um pequeno grupo de líderes a poder dividido entre instituições.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S19",
+        "S1"
+      ],
+      "rationale": "Team government and Cabinet decision-making coexist with institutional checks; rejection of concentrated leadership need not be categorical.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "representacao_14",
+      "question": "Especialistas escolhidos por mérito deveriam governar sem depender do voto popular.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S3",
+        "S1"
+      ],
+      "rationale": "Democratic accountability remains fixed; technical specialists advise government. The exact intensity of rejection of unelected expert rule is projected.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "representacao_15",
+      "question": "Quem governa deve ter o consentimento e a aprovação das pessoas afetadas por suas decisões.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S6"
+      ],
+      "rationale": "Following constituents on marriage was described as a rare moral exception to representatives exercising judgment; universal affected-person approval is broader.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "representacao_06",
+      "question": "Não deveria haver limite de mandatos para um bom governante.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "rationale": "Westminster reelection and his prospective leadership are positive evidence for repeat mandates; ordinary agreement avoids inventing a categorical term-limit doctrine.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "representacao_16",
+      "question": "O direito de voto deveria ser restrito, nem todo adulto deveria poder votar.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "rationale": "Equal political standing is fixed; a generic commitment to democracy does not settle every adult-franchise eligibility condition categorically.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "representacao_18",
+      "question": "Governar com eficiência importa mais do que garantir espaço à oposição.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S5",
+        "S20"
+      ],
+      "rationale": "Lawful opposition speech is protected, while radical protest attracts restrictive rhetoric; ordinary disagreement preserves opposition without projecting an absolute priority rule.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "representacao_10",
+      "question": "Governantes deveriam ser escolhidos por competência, tradição ou sucessão, em vez de eleições populares.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S3",
+        "S19"
+      ],
+      "rationale": "Elections remain essential; merit-based team selection also matters. Ordinary disagreement rejects replacing elections without assigning an unspoken maximum grade.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "representacao_07",
+      "question": "O voto secreto e universal é inegociável, mesmo para eleitores mal informados.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "rationale": "Democratic equality supports the franchise; the hypothetical uninformed-elector clause and the literal non-negotiable intensity are model projections.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "poder_17",
+      "question": "O governo deve poder tirar do ar perfis que espalham informações falsas.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S5",
+        "S20"
+      ],
+      "rationale": "Political censorship is rejected, but platform accountability and illegal online sales require enforcement. Ordinary disagreement distinguishes disinformation generally from punishable fraud.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "poder_14",
+      "question": "Na dúvida sobre a culpa, o Estado deve evitar a condenação mesmo que culpados fiquem livres.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S3",
+        "S20"
+      ],
+      "rationale": "Rule of law supports avoiding wrongful conviction; emphatic crime enforcement supplies no personal categorical formulation of this evidentiary trade-off.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "poder_08",
+      "question": "Todas as drogas, incluindo cocaína, deveriam ser legalizadas para adultos.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S20"
+      ],
+      "rationale": "Hard-drug enforcement remains fixed; regulated adult nicotine demonstrates differentiated harm policy, permitting ordinary opposition to legalising every drug.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "imigracao_15",
+      "question": "Bairros cujos moradores imigrantes vivem isolados em sua própria cultura criam problemas para o país.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S3",
+        "S10"
+      ],
+      "rationale": "Parallel legal systems are opposed; legitimate Muslim contributions are welcomed. Ordinary agreement avoids treating every culturally distinct neighbourhood as equally harmful.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "imigracao_07",
+      "question": "Prefiro preservar tradições nacionais a acomodar costumes estrangeiros.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S19",
+        "S10"
+      ],
+      "rationale": "National traditions remain preferred; benign migrant customs and contributions are compatible with them, qualifying a categorical accommodation trade-off.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "imigracao_20",
+      "question": "Prefiro uma identidade de cidadão do mundo a uma identidade nacional.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S19",
+        "S28"
+      ],
+      "rationale": "Australia-first identity remains fixed; ordinary disagreement expresses national priority without pretending he has prohibited every secondary global identification.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "imigracao_17",
+      "question": "A imigração deveria ser limitada para preservar a cultura predominante do país.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S3",
+        "S2"
+      ],
+      "rationale": "Cultural integration motivates limits, but the actual cap also depends on housing and skills. Ordinary agreement preserves cultural concern with multiple policy purposes.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "imigracao_03",
+      "question": "Sou a favor de fechar as fronteiras à imigração para preservar a identidade cultural do país.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S2",
+        "S19"
+      ],
+      "rationale": "Skilled entry continues, so full closure is rejected. Very large proposed reductions allow ordinary disagreement with total closure rather than an inferred maximum.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "diplomacia_11",
+      "question": "O país deve priorizar a fabricação nacional de armamentos para sua defesa.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S2",
+        "S1"
+      ],
+      "rationale": "Domestic capability is prioritised alongside foreign AUKUS technology and procurement; ordinary agreement preserves the priority with reliance on allied inputs.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "diplomacia_03",
+      "question": "O país deve poder realizar ataques preventivos contra inimigos que se preparam para atacar.",
+      "currentCode": "C",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "C",
+        "D"
+      ],
+      "sourceIds": [
+        "S13",
+        "S11",
+        "S2"
+      ],
+      "rationale": "Defensive deterrence and conditional deployments are established. D is plausible if preventive attack means launching a war before an imminent attack, rather than narrow preemption; offensive capability does not settle initiation policy.",
+      "confidence": "medium",
+      "kind": "interpretation"
+    },
+    {
+      "questionId": "diplomacia_17",
+      "question": "O Brasil deveria estar pronto para iniciar uma guerra se isso garantir seus interesses vitais.",
+      "currentCode": "C",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "C",
+        "D"
+      ],
+      "sourceIds": [
+        "S13",
+        "S11",
+        "S12"
+      ],
+      "rationale": "Preparedness to defend vital interests does not necessarily mean initiating war. D is plausible on the literal start-a-war reading; retain strong defence and conditional participation.",
+      "confidence": "medium",
+      "kind": "interpretation"
+    },
+    {
+      "questionId": "diplomacia_07",
+      "question": "O Brasil deveria desenvolver armas nucleares.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S14",
+        "S1"
+      ],
+      "rationale": "Civil/nuclear-propulsion support is distinct from weapons; ordinary disagreement avoids elevating that distinction into a categorical personal nuclear-disarmament doctrine.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "diplomacia_13",
+      "question": "O Estado deve poder realizar espionagem contra outros países.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S20",
+        "S1"
+      ],
+      "rationale": "ASD capability and strategic intelligence are supported; the cited crime deployment does not independently prove maximal endorsement of spying on foreign states.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "intervencao_20",
+      "question": "O Brasil deve pressionar governos vizinhos que ameacem cidadãos brasileiros.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S11"
+      ],
+      "rationale": "Protecting citizens is explicit, but pressure on neighbouring governments is an Australian-to-Brazil scenario projection; ordinary agreement preserves protective intervention.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "intervencao_05",
+      "question": "O Brasil não deveria enviar soldados para o exterior, nem em missões de paz.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S11"
+      ],
+      "rationale": "Actual overseas assistance disproves total abstention. Ordinary disagreement allows case-specific deployment limits rather than implying eagerness for every overseas mission.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "intervencao_02",
+      "question": "O Brasil deve pressionar outros países quando o interesse nacional está em jogo.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S11",
+        "S12"
+      ],
+      "rationale": "National interests guide foreign action, while deescalation and case-by-case requests qualify pressure; ordinary agreement fits those conditions.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "intervencao_06",
+      "question": "O Brasil deve exercer pressão diplomática para defender interesses brasileiros no exterior.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S1",
+        "S12"
+      ],
+      "rationale": "Diplomatic advocacy is central; bargaining and deescalation qualify the pressure instrument, permitting ordinary agreement without abandoning national interests.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "intervencao_03",
+      "question": "O Brasil deveria evitar alianças militares que possam envolvê-lo em conflitos externos.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S1",
+        "S11"
+      ],
+      "rationale": "AUKUS is strongly supported, but not every alliance request is automatic. Ordinary disagreement preserves alliances while distinguishing exposure to unnecessary conflicts.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "intervencao_17",
+      "question": "O Brasil deve permanecer neutro em guerras, mesmo sob pressão de aliados.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S11"
+      ],
+      "rationale": "An actual ally deployment is supported; refusal to prejudge offensive requests leaves neutrality possible in some future wars, qualifying categorical rejection.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "economia_16",
+      "question": "Trabalhadores deveriam negociar salários diretamente com os empregadores, sem sindicatos.",
+      "currentCode": "D",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "D",
+        "C"
+      ],
+      "sourceIds": [
+        "S15",
+        "S28"
+      ],
+      "rationale": "Flexible industrial relations and individual choice support allowing direct bargaining without a union. C reads the sentence as voluntary negotiation, not abolishing union representation or wage floors; D remains plausible on the compulsory union-exclusion reading.",
+      "confidence": "medium",
+      "kind": "interpretation"
+    },
+    {
+      "questionId": "economia_15",
+      "question": "O Brasil deveria redistribuir grandes propriedades rurais por meio de uma reforma agrária.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S15",
+        "S2"
+      ],
+      "rationale": "Farm/property protection remains fixed; ordinary disagreement rejects redistributive agrarian reform without inventing an absolute position on every land acquisition or transfer.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "economia_08",
+      "question": "A herança familiar deve ser protegida contra políticas de redistribuição de patrimônio.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S2",
+        "S28"
+      ],
+      "rationale": "Trust and testamentary-asset protection is explicit; ordinary agreement preserves it without turning opposition to particular tax changes into immunity from all estate-related policies.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "controle_14",
+      "question": "O Estado deveria evitar novas regulações sobre a atividade econômica.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S2",
+        "S20"
+      ],
+      "rationale": "Deregulation is a priority, but new nicotine rules and growth duties for regulators are retained. Ordinary agreement expresses selective rather than unlimited regulatory avoidance.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "controle_07",
+      "question": "O Estado deve subsidiar indústrias nacionais estratégicas.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S2",
+        "S28"
+      ],
+      "rationale": "Fuel and infrastructure support is explicit; opposition to corporate welfare qualifies a general subsidy principle. Ordinary agreement retains strategic exceptions.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "controle_11",
+      "question": "O governo deveria escolher e apoiar empresas campeãs nacionais em setores estratégicos.",
+      "currentCode": "C",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "C",
+        "D"
+      ],
+      "sourceIds": [
+        "S1",
+        "S3",
+        "S28"
+      ],
+      "rationale": "Sovereign capability and defence precinct funding support sectors; anti-rent-seeking policy rejects picking favoured firms. D is plausible if national champions means discretionary company selection rather than competitive capability procurement.",
+      "confidence": "medium",
+      "kind": "interpretation"
+    },
+    {
+      "questionId": "controle_15",
+      "question": "Em recessão, o governo deve gastar mais para reaquecer a economia, mesmo aumentando a dívida.",
+      "currentCode": "C",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "C",
+        "D"
+      ],
+      "sourceIds": [
+        "S19",
+        "S2"
+      ],
+      "rationale": "A necessary pandemic response is accepted, but debt-first windfall banking and spending restraint oppose routine deficit expansion. D treats the recession stimulus clause as a general fiscal preference rather than an exceptional emergency.",
+      "confidence": "medium",
+      "kind": "interpretation"
+    },
+    {
+      "questionId": "controle_09",
+      "question": "Em crises graves, o governo deve poder congelar o valor dos aluguéis.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S2",
+        "S19"
+      ],
+      "rationale": "Housing supply and investment reform remain the approach; ordinary disagreement with emergency rent freezes avoids claiming a separately stated absolute prohibition.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "comercio_12",
+      "question": "Sou a favor de facilitar a entrada de investimentos estrangeiros no país.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S16"
+      ],
+      "rationale": "Trusted foreign investment is expedited with security screening; ordinary agreement preserves openness while retaining the substantive gatekeeping.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "comercio_04",
+      "question": "O Brasil deveria buscar acordos de livre comércio com outros países.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S1",
+        "S15"
+      ],
+      "rationale": "Bilateral trade agreements are valued; ordinary agreement permits strategic qualifications instead of assigning maximal enthusiasm to an unspecified new agreement.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "comercio_05",
+      "question": "O Brasil deveria produzir internamente tudo o que consome, mesmo pagando muito mais caro por isso.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S1",
+        "S3"
+      ],
+      "rationale": "Trade and partner investment exclude total autarky; ordinary disagreement also acknowledges the unusually strong domestic fuel and strategic-supply exceptions.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "comercio_18",
+      "question": "Multinacionais devem poder operar no país, mesmo competindo com empresas locais.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S16",
+        "S15"
+      ],
+      "rationale": "Multinational competition is welcomed alongside screening, competition oversight and tax integrity; ordinary agreement captures those conditions.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "religiao_11",
+      "question": "Prefiro uma sociedade sem religião a uma sociedade religiosa.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S6"
+      ],
+      "rationale": "Lifelong Christianity supports a religious society, while legitimate secular morality qualifies the projected collective preference. No rejection of his faith is introduced.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "religiao_10",
+      "question": "Tradições religiosas devem ser transmitidas às novas gerações.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S6"
+      ],
+      "rationale": "Parental religious education is defended; ordinary agreement preserves transmission while recognizing that the protection is a freedom for families rather than a universal prescription.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "religiao_08",
+      "question": "O Estado brasileiro deveria assumir oficialmente uma identidade religiosa.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S3",
+        "S6"
+      ],
+      "rationale": "Equal civic rights remain separate from any official creed; ordinary disagreement permits public religious recognition without turning pluralism into categorical religious-state denunciation.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "religiao_17",
+      "question": "A religião não deveria fazer parte da educação de crianças pequenas.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S6"
+      ],
+      "rationale": "Faith schooling and parental freedom are explicit; ordinary disagreement rejects excluding religion from every young child's education while preserving family choice.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "moral_07",
+      "question": "Casais LGBT devem poder demonstrar afeto em público como qualquer outro casal.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S6"
+      ],
+      "rationale": "Sexuality-based bullying is rejected; ordinary agreement with equal public affection is a reasonable extension without presenting a specific categorical public-affection pledge.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "moral_04",
+      "question": "Prefiro mudanças culturais graduais a mudanças culturais rápidas.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S6",
+        "S19"
+      ],
+      "rationale": "Conscience and tradition qualify cultural reform, but forceful current legal-sex reform is also sought. Ordinary agreement avoids making gradual change an absolute rule.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "moral_12",
+      "question": "A educação sexual dos filhos deve seguir os valores da família, não os da escola.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S6",
+        "S5"
+      ],
+      "rationale": "Parents' choice is protected on marriage education; child safeguarding and school responsibilities qualify a categorical family-versus-school rule for all sex education.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "moral_03",
+      "question": "A identidade de gênero declarada por cada pessoa deve ser respeitada.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S19",
+        "S27",
+        "S6"
+      ],
+      "rationale": "Legal biological-sex priority remains fixed. Ordinary disagreement distinguishes that legal programme from a blanket refusal of dignity or interpersonal respect; C is not admitted.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "moral_14",
+      "question": "A linguagem neutra não deveria ser adotada em nossa sociedade.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S19",
+        "S27"
+      ],
+      "rationale": "Binary legal sex is explicit; projecting that policy into every grammatical or linguistic convention supports ordinary rejection rather than a claimed categorical language pledge.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "moral_20",
+      "question": "Os pais devem ser a autoridade final na educação moral dos filhos.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S6",
+        "S5",
+        "S20"
+      ],
+      "rationale": "Parental moral authority is protected alongside child-safety law; ordinary agreement avoids treating final authority as immunity from every protective restriction.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "tecnologia_12",
+      "question": "A mineração na Amazônia deveria ser proibida, mesmo com tecnologias de baixo impacto.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S19",
+        "S26"
+      ],
+      "rationale": "Low-impact resource development is favoured; ordinary disagreement rejects blanket mining prohibition while preserving location and approval conditions in a Brazilian hypothetical.",
+      "confidence": "medium",
+      "kind": "degree"
+    },
+    {
+      "questionId": "tecnologia_08",
+      "question": "Prefiro natureza preservada a crescimento industrial acelerado.",
+      "currentCode": "DT",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "DT",
+        "D"
+      ],
+      "sourceIds": [
+        "S19",
+        "S26",
+        "S28"
+      ],
+      "rationale": "Industry and energy development remain priorities, but renewables in appropriate places and criticism of agricultural-land damage qualify a categorical nature-versus-growth preference.",
+      "confidence": "high",
+      "kind": "degree"
+    },
+    {
+      "questionId": "tecnologia_15",
+      "question": "Implantes cerebrais para ampliar capacidades mentais de pessoas saudáveis devem ser permitidos.",
+      "currentCode": "D",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "D",
+        "C"
+      ],
+      "sourceIds": [
+        "S21",
+        "S24",
+        "S6"
+      ],
+      "rationale": "Non-destructive biomedical innovation plus adult choice can support regulated healthy-adult neural implants. C requires that somatic voluntary reading; the embryo-destruction division establishes neither a neural-implant ban nor an affirmative enhancement pledge.",
+      "confidence": "low",
+      "kind": "interpretation"
+    },
+    {
+      "questionId": "tecnologia_20",
+      "question": "Sou contra implantes artificiais para ampliar as capacidades físicas de pessoas saudáveis.",
+      "currentCode": "C",
+      "allowedAlternateCodes": [
+        "D"
+      ],
+      "allowedCodes": [
+        "C",
+        "D"
+      ],
+      "sourceIds": [
+        "S21",
+        "S24",
+        "S6"
+      ],
+      "rationale": "D is plausible for voluntary non-heritable physical implants under adult autonomy and biomedical innovation. The embryo vote cannot determine this category; religious caution still makes current C plausible. No unrestricted-transhumanism claim is allowed.",
+      "confidence": "low",
+      "kind": "interpretation"
+    },
+    {
+      "questionId": "tecnologia_14",
+      "question": "A edição genética de embriões para aumentar a inteligência deveria ser proibida.",
+      "currentCode": "CT",
+      "allowedAlternateCodes": [
+        "C"
+      ],
+      "allowedCodes": [
+        "CT",
+        "C"
+      ],
+      "sourceIds": [
+        "S21",
+        "S24"
+      ],
+      "rationale": "Embryo-destructive techniques face specific restrictions; ordinary agreement with an intelligence-enhancement ban retains reproductive caution without claiming the division addressed all safe future enhancement technologies.",
+      "confidence": "high",
+      "kind": "degree"
+    }
+  ],
+  "sources": {
+    "S1": {
+      "date": "2025-08-20 (published 2025-08-21)",
+      "title": "Taylor: Submarine Institute address",
+      "url": "https://www.angustaylor.com.au/media/submarine-institute-of-australia---20-august-2025"
+    },
+    "S2": {
+      "date": "2026-05-14 programme; accessed 2026-10-02",
+      "title": "Taylor: Budget in Reply programme",
+      "url": "https://www.angustaylor.com.au/our-budget"
+    },
+    "S3": {
+      "date": "2026-04-14",
+      "title": "Taylor: Menzies Research Centre address",
+      "url": "https://www.liberal.org.au/2026/04/14/leader-of-the-oppositions-address-to-the-menzies-research-centre"
+    },
+    "S4": {
+      "date": "2026-08-12",
+      "title": "Taylor: House of Representatives statement",
+      "url": "https://www.liberal.org.au/2026/08/12/house-of-representatives-90-second-statements"
+    },
+    "S5": {
+      "date": "2026-09-10",
+      "title": "Taylor/Canavan/Henderson: Digital Duty of Care statement",
+      "url": "https://www.liberal.org.au/2026/09/10/coalition-opposes-labors-digital-duty-of-care-bill-its-current-form"
+    },
+    "S6": {
+      "date": "2017-12-06",
+      "title": "Taylor: marriage debate, Hansard transcript",
+      "url": "https://www.openaustralia.org.au/debate/?id=2017-12-06.18.1"
+    },
+    "S7": {
+      "date": "2018-06-06",
+      "title": "The Register: interview on encrypted-message access",
+      "url": "https://www.theregister.com/offbeat/2018/06/06/australia-wants-tech-companies-to-let-cops-n-snoops-see-messages-without-backdoors/850889"
+    },
+    "S8": {
+      "date": "2022-08-03",
+      "title": "Restoring Territory Rights division",
+      "url": "https://theyvoteforyou.org.au/divisions/representatives/2022-08-03/3"
+    },
+    "S9": {
+      "date": "2018-02-19",
+      "title": "ABC 7.30: cryptocurrency interview",
+      "url": "https://www.abc.net.au/news/2018-02-19/more-than-1200-people-complain-to-accc-about-bitcoin-scams/9462240?section=business"
+    },
+    "S10": {
+      "date": "2026-07-28",
+      "title": "ABC Kitchen Cabinet: Taylor interview",
+      "url": "https://www.abc.net.au/news/2026-07-28/angus-taylor-broken-back-kitchen-cabinet/106959902"
+    },
+    "S11": {
+      "date": "2026-03-10",
+      "title": "Taylor: joint press conference on Gulf deployment",
+      "url": "https://www.liberal.org.au/2026/03/10/transcript-joint-press-conference"
+    },
+    "S12": {
+      "date": "2026-06-14",
+      "title": "Taylor: Iran conflict statement",
+      "url": "https://www.angustaylor.com.au/media/statement-on-iran-conflict"
+    },
+    "S13": {
+      "date": "2025-07-15",
+      "title": "ABC 7.30: Taylor interview on Taiwan",
+      "url": "https://www.abc.net.au/news/2025-07-15/government-should-be-prepared-to-act-on-taiwan-taylor-says/105535912"
+    },
+    "S14": {
+      "date": "2021-09-20",
+      "title": "Taylor: Neil Breen 4BC interview",
+      "url": "https://www.minister.industry.gov.au/ministers/taylor/transcripts/interview-neil-breen-4bc-4"
+    },
+    "S15": {
+      "date": "2013-12-10",
+      "title": "Taylor: maiden address PDF",
+      "url": "https://www.angustaylor.com.au/sites/default/files/documents/Governor%20Generals%20Speech%20Address%20in%20Reply%20December%202013.pdf"
+    },
+    "S16": {
+      "date": "2025-03-05",
+      "title": "Taylor: FIRB and deregulation release",
+      "url": "https://www.angustaylor.com.au/media/coalition-to-overhaul-firb-and-cut-red-tape-to-boost-productivity---wednesday-5-march-2025"
+    },
+    "S17": {
+      "date": "2024-09-11",
+      "title": "ABC 7.30: Taylor RBA transcript",
+      "url": "https://www.abc.net.au/news/2024-09-11/shadow-treasurer-angus-taylor-speaks-to-7.30/104340254"
+    },
+    "S18": {
+      "date": "2024-11-06",
+      "title": "ABC RN Breakfast: Taylor abortion interview",
+      "url": "https://www.abc.net.au/listen/programs/radionational-breakfast/angus-taylor-rba-rates-abortion/104565640"
+    },
+    "S19": {
+      "date": "2026-09-19",
+      "title": "Taylor: NSW State Council address",
+      "url": "https://www.liberal.org.au/2026/09/19/address-to-the-nsw-state-council"
+    },
+    "S20": {
+      "date": "2026-09-04",
+      "title": "Taylor: crime, corruption and intimidation address",
+      "url": "https://www.angustaylor.com.au/media/the-normalisation-of-crime-corruption-and-intimidation"
+    },
+    "S21": {
+      "date": "2021-12-01",
+      "title": "Mitochondrial donation amendment division",
+      "url": "https://theyvoteforyou.org.au/divisions/representatives/2021-12-01/3"
+    },
+    "S22": {
+      "date": "2026-02-17",
+      "title": "Taylor: Sydney press conference",
+      "url": "https://www.liberal.org.au/2026/02/17/joint-press-conference-sydney"
+    },
+    "S23": {
+      "date": "2022-02-01 original; updated 2022-03-28",
+      "title": "University of Queensland: clonal avocado commercialisation",
+      "url": "https://qaafi.uq.edu.au/node/11202"
+    },
+    "S24": {
+      "date": "2022-03-17",
+      "title": "Taylor: Garvan medical research remarks",
+      "url": "https://www.minister.industry.gov.au/taylor/media/remarks-the-garvan-institute-medical-research-sydney"
+    },
+    "S25": {
+      "date": "2021-02-25",
+      "title": "Taylor: CEFC Victorian battery financing release",
+      "url": "https://www.minister.industry.gov.au/taylor/media/boosting-the-security-victorias-energy-grid"
+    },
+    "S26": {
+      "date": "2026-09-23",
+      "title": "Energy Source & Distribution: energy bill report",
+      "url": "https://esdnews.com.au/coalition-reveals-plan-to-kill-net-zero-remove-nuclear-ban/"
+    },
+    "S27": {
+      "date": "2026-09-27",
+      "title": "Region Riverina: biological-sex law pledge",
+      "url": "https://regionriverina.com.au/wagga-lgbtq-advocates-hit-back-at-only-two-sexes-push-to-change-law/135328/"
+    },
+    "S28": {
+      "date": "2026-05-30",
+      "title": "Taylor: Liberal Party Federal Council address",
+      "url": "https://www.angustaylor.com.au/media/address-to-the-liberal-party"
+    }
+  }
+}

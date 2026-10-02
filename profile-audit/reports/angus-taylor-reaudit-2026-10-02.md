@@ -1,5 +1,7 @@
 # Angus Taylor: independent full re-audit, 2026-10-02
 
+> Historical baseline: this report and its dated archive preserve the full research review before target-driven calibration. Current canonical answers, completion status and compatibility are documented in [the calibration report](angus-taylor-calibration-2026-10-02.md). References below to canonical/current or pending describe that historical snapshot.
+
 This report supersedes the original addition audit for the revised candidate in proposal issue [#47](https://github.com/RomanCypherpunk/12axes/issues/47) and draft PR [#53](https://github.com/RomanCypherpunk/12axes/pull/53). The requested maximum similarity of 94.9% was not imposed on any answer. All 240 actual statements and five current archetype options were independently assessed before the first fresh scoring run; only afterwards was the previous sequence read for this change log. No other profile answers were read or reused.
 
 **Result:** maximum personality match is **Friedrich Merz 96.3%**. The re-audit reduces the previous 98.0% overlap by 1.7 percentage points, but does not establish the requested 94.9% ceiling. The candidate remains review-pending; there is no claim of owner approval or completed upstream merge.

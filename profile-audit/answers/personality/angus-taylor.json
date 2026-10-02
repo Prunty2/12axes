@@ -42,7 +42,7 @@
       "representacao_02": "D",
       "representacao_15": "CT",
       "representacao_19": "CT",
-      "representacao_06": "CT",
+      "representacao_06": "C",
       "representacao_16": "DT",
       "representacao_18": "DT",
       "representacao_10": "DT",
@@ -71,7 +71,7 @@
       "poder_05": "C",
       "poder_07": "D",
       "poder_09": "C",
-      "poder_08": "DT"
+      "poder_08": "D"
     }
   },
   "imigracao": {
@@ -82,8 +82,8 @@
       "imigracao_06": "C",
       "imigracao_19": "D",
       "imigracao_04": "C",
-      "imigracao_15": "CT",
-      "imigracao_07": "CT",
+      "imigracao_15": "C",
+      "imigracao_07": "C",
       "imigracao_20": "DT",
       "imigracao_17": "CT",
       "imigracao_13": "CT",
@@ -100,18 +100,18 @@
     }
   },
   "diplomacia": {
-    "personaBrief": "Quer elevar defesa a pelo menos 3% do PIB, produzir capacidades militares e fortalecer AUKUS para dissuadir agressões. Valoriza diplomacia e desescalada, sem adotar pacifismo absoluto, conscrição geral ou armamento nuclear.",
+    "personaBrief": "Quer elevar defesa a pelo menos 3% do PIB, produzir capacidades militares e fortalecer AUKUS para dissuadir agressões. Valoriza diplomacia e desescalada, distinguindo resposta defensiva condicionada de iniciar guerra, sem adotar pacifismo absoluto, conscrição geral ou armamento nuclear.",
     "answers": {
       "diplomacia_02": "C",
       "diplomacia_08": "DT",
       "diplomacia_15": "C",
       "diplomacia_19": "C",
-      "diplomacia_11": "CT",
+      "diplomacia_11": "C",
       "diplomacia_05": "C",
       "diplomacia_12": "C",
       "diplomacia_10": "D",
-      "diplomacia_17": "C",
-      "diplomacia_03": "C",
+      "diplomacia_17": "D",
+      "diplomacia_03": "D",
       "diplomacia_07": "DT",
       "diplomacia_06": "C",
       "diplomacia_14": "C",
@@ -119,7 +119,7 @@
       "diplomacia_16": "C",
       "diplomacia_01": "CT",
       "diplomacia_04": "C",
-      "diplomacia_13": "CT",
+      "diplomacia_13": "C",
       "diplomacia_09": "D",
       "diplomacia_18": "DT"
     }
@@ -175,13 +175,13 @@
     }
   },
   "controle": {
-    "personaBrief": "Pretende reduzir impostos e regulações e preservar a independência do Banco Central. Faz exceções explícitas para infraestrutura habitacional, estoques de combustível e capacidade industrial estratégica, mantendo uma rede de proteção.",
+    "personaBrief": "Pretende reduzir impostos e regulações e preservar a independência do Banco Central. Faz exceções explícitas para infraestrutura habitacional, estoques de combustível e capacidade industrial estratégica, mantendo uma rede de proteção sem escolher empresas favorecidas discricionariamente.",
     "answers": {
       "controle_05": "D",
       "controle_20": "C",
       "controle_19": "C",
       "controle_14": "CT",
-      "controle_07": "CT",
+      "controle_07": "C",
       "controle_04": "C",
       "controle_02": "C",
       "controle_17": "D",
@@ -191,7 +191,7 @@
       "controle_08": "C",
       "controle_13": "DT",
       "controle_01": "C",
-      "controle_11": "C",
+      "controle_11": "D",
       "controle_03": "DT",
       "controle_15": "C",
       "controle_12": "C",
@@ -204,11 +204,11 @@
     "answers": {
       "comercio_13": "C",
       "comercio_06": "C",
-      "comercio_12": "CT",
+      "comercio_12": "C",
       "comercio_20": "C",
       "comercio_15": "D",
       "comercio_19": "N",
-      "comercio_04": "CT",
+      "comercio_04": "C",
       "comercio_17": "C",
       "comercio_07": "D",
       "comercio_02": "D",
@@ -216,10 +216,10 @@
       "comercio_10": "C",
       "comercio_16": "C",
       "comercio_09": "D",
-      "comercio_05": "DT",
+      "comercio_05": "D",
       "comercio_11": "C",
       "comercio_01": "D",
-      "comercio_18": "CT",
+      "comercio_18": "C",
       "comercio_08": "D",
       "comercio_14": "D"
     }
@@ -252,7 +252,7 @@
   "moral": {
     "personaBrief": "Defende casamento e família tradicionais pessoalmente, autoridade parental e sexo biológico como critério legal. Aceitou o casamento igualitário aprovado democraticamente, rejeita bullying por orientação sexual e incentiva mulheres a liderar politicamente.",
     "answers": {
-      "moral_07": "CT",
+      "moral_07": "C",
       "moral_04": "CT",
       "moral_15": "D",
       "moral_12": "CT",
