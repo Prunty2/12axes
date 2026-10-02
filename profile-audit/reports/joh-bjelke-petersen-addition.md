@@ -1,4 +1,6 @@
 # Joh Bjelke-Petersen — addition and trade-revision history
+
+> Historical research snapshot. Current canonical answers, completion status and comparisons are documented in [the final evidence report](joh-bjelke-petersen-calibration-2026-10-02.md); dated archives remain unchanged.
 **Current result is recorded in the [full independent re-audit](joh-bjelke-petersen-2026-10-02-full-audit.md).** That later authorised review corrects 19 answers and one archetype; maximum personality compatibility is **João Calvino 96.0%**, with **globalism 48.6%** retained. The addition remains a draft with pending audit status. The vectors, archetypes and warnings below describe the earlier addition/trade stages and are preserved as history, not the current calculated result.
 
 Research and audit date: **2026-10-02**. Proposal: [issue #50](https://github.com/RomanCypherpunk/12axes/issues/50). Base: `upstream/main`, `f6abcab`.

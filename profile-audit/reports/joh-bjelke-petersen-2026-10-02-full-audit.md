@@ -1,5 +1,7 @@
 # Joh Bjelke-Petersen — full independent re-audit, 2026-10-02
 
+> Historical research snapshot. Current canonical answers, completion status and comparisons are documented in [the final evidence report](joh-bjelke-petersen-calibration-2026-10-02.md); dated archives remain unchanged.
+
 This report supersedes the calculated result in `joh-bjelke-petersen-addition.md`; that report preserves the addition and trade-revision history. [PR #54](https://github.com/RomanCypherpunk/12axes/pull/54), trade-revised starting commit `0702f3d`, base upstream `f6abcab`.
 
 **Result: accurate draft remains pending.** The fresh 240-question review corrects **19 answers and one archetype**. It also corrects three clear answer-polarity errors: public religious influence, personal religious guidance and protection of family inheritance. It does **not** achieve a 94.9% maximum personality compatibility: the standard scorer's maximum is **João Calvino 96.0%**. No additional numerical adjustment follows this result. The owner’s above-95% criterion still prevents a clean addition, although the validator returns success. `STATE` remains total **417**, completed **416**, pending **joh-bjelke-petersen**.

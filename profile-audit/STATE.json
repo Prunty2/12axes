@@ -1,11 +1,9 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-10-02T08:05:54.223648Z",
+  "lastUpdated": "2026-10-02T11:36:21.228073Z",
   "personality": {
     "totalProfiles": 417,
-    "pending": [
-      "joh-bjelke-petersen"
-    ],
+    "pending": [],
     "done": [
       "lenin",
       "stalin",
@@ -422,7 +420,8 @@
       "helmut-kohl",
       "mark-carney",
       "james-cook",
-      "lachlan-macquarie"
+      "lachlan-macquarie",
+      "joh-bjelke-petersen"
     ]
   },
   "ideology": {

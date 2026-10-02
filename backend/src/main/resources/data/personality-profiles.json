@@ -7074,18 +7074,18 @@
   {
     "personalityId": "joh-bjelke-petersen",
     "vector": {
-      "estrutura": 78.3,
+      "estrutura": 80.7,
       "representacao": 38.2,
-      "poder": 73.4,
+      "poder": 66.3,
       "imigracao": 68.2,
-      "diplomacia": 56.4,
+      "diplomacia": 57.6,
       "intervencao": 38.8,
       "economia": 35.1,
-      "controle": 45.7,
+      "controle": 44.5,
       "comercio": 51.4,
-      "religiao": 17.6,
+      "religiao": 18.8,
       "moral": 10.1,
-      "tecnologia": 59.4
+      "tecnologia": 60.6
     }
   }
 ]

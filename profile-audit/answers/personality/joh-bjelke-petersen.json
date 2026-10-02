@@ -1,6 +1,6 @@
 {
   "estrutura": {
-    "personaBrief": "Defendeu Queensland contra a centralização federal, mas subordinou municípios ao estado e recusou autonomia indígena irrestrita. Os conselhos indígenas eleitos de 1984 e sua proposta negociada para o Estreito de Torres qualificam essa recusa, sem apagar Koowarta ou a supervisão estadual.",
+    "personaBrief": "Defendeu Queensland contra a centralização federal, admitindo leis municipais delegadas sem imunidade à legislação estadual e recusando autonomia indígena irrestrita. Os conselhos indígenas eleitos de 1984 e sua proposta negociada para o Estreito de Torres qualificam essa recusa, sem apagar Koowarta ou a supervisão estadual.",
     "answers": {
       "estrutura_01": "CT",
       "estrutura_02": "D",
@@ -14,7 +14,7 @@
       "estrutura_10": "D",
       "estrutura_11": "D",
       "estrutura_12": "D",
-      "estrutura_13": "D",
+      "estrutura_13": "C",
       "estrutura_14": "DT",
       "estrutura_15": "CT",
       "estrutura_16": "DT",
@@ -50,11 +50,11 @@
     }
   },
   "poder": {
-    "personaBrief": "Usou polícia, vigilância política e poderes de emergência contra protestos, priorizando ordem e criminalizando drogas e condutas sexuais. A autorização de cassinos mostra uma exceção real à repressão de condutas consensuais; garantias penais e armas privadas exigem preferências graduadas.",
+    "personaBrief": "Usou polícia, vigilância política e poderes de emergência contra protestos, priorizando ordem e criminalizando drogas e condutas sexuais. Cassinos licenciados, processo judicial nas detenções especiais e a defesa declarada de prova suficiente qualificam esses poderes, sem garantir que a prática policial respeitasse sempre as salvaguardas.",
     "answers": {
       "poder_01": "CT",
       "poder_02": "DT",
-      "poder_03": "CT",
+      "poder_03": "C",
       "poder_04": "D",
       "poder_05": "C",
       "poder_06": "D",
@@ -63,14 +63,14 @@
       "poder_09": "D",
       "poder_10": "C",
       "poder_11": "CT",
-      "poder_12": "DT",
+      "poder_12": "D",
       "poder_13": "C",
-      "poder_14": "C",
+      "poder_14": "CT",
       "poder_15": "N",
-      "poder_16": "DT",
+      "poder_16": "D",
       "poder_17": "C",
       "poder_18": "D",
-      "poder_19": "C",
+      "poder_19": "D",
       "poder_20": "D"
     }
   },
@@ -100,7 +100,7 @@
     }
   },
   "diplomacia": {
-    "personaBrief": "O combate ao movimento contra a guerra do Vietnã e o anticomunismo favorecem defesa forte e aliados ocidentais, sem provar expansionismo militar. A negociação com Papua-Nova Guiné invocando princípios da ONU, o comércio com regimes comunistas e a distinção entre energia nuclear e guerra qualificam as projeções militares.",
+    "personaBrief": "O combate ao movimento contra a guerra do Vietnã e o anticomunismo favorecem defesa forte e aliados ocidentais, sem provar expansionismo militar. Negociação, princípios da ONU e inovação prática qualificam as projeções militares, incluindo uma analogia incerta sobre automação defensiva, sem atribuir plataforma histórica de armas autônomas.",
     "answers": {
       "diplomacia_01": "CT",
       "diplomacia_02": "C",
@@ -116,7 +116,7 @@
       "diplomacia_12": "D",
       "diplomacia_13": "C",
       "diplomacia_14": "D",
-      "diplomacia_15": "N",
+      "diplomacia_15": "C",
       "diplomacia_16": "C",
       "diplomacia_17": "D",
       "diplomacia_18": "DT",
@@ -175,7 +175,7 @@
     }
   },
   "controle": {
-    "personaBrief": "Combinou redução tributária e relações trabalhistas pró-empregador com infraestrutura planejada, auxílio à agricultura e concessões seletivas a projetos privados. Sua economia não era laissez-faire integral nem planejamento coletivo da produção.",
+    "personaBrief": "Combinou redução tributária e relações trabalhistas pró-empregador com infraestrutura planejada, auxílio à agricultura e concessões seletivas a projetos privados. A preferência por finanças privadas admite uma analogia moderna incerta sobre descentralização monetária, sem atribuir política histórica de criptomoedas ou laissez-faire integral.",
     "answers": {
       "controle_01": "CT",
       "controle_02": "C",
@@ -188,7 +188,7 @@
       "controle_09": "D",
       "controle_10": "C",
       "controle_11": "C",
-      "controle_12": "N",
+      "controle_12": "C",
       "controle_13": "D",
       "controle_14": "C",
       "controle_15": "C",
@@ -233,7 +233,7 @@
       "religiao_04": "C",
       "religiao_05": "D",
       "religiao_06": "CT",
-      "religiao_07": "DT",
+      "religiao_07": "D",
       "religiao_08": "D",
       "religiao_09": "D",
       "religiao_10": "CT",
@@ -290,7 +290,7 @@
       "tecnologia_11": "C",
       "tecnologia_12": "DT",
       "tecnologia_13": "D",
-      "tecnologia_14": "CT",
+      "tecnologia_14": "C",
       "tecnologia_15": "N",
       "tecnologia_16": "D",
       "tecnologia_17": "D",
