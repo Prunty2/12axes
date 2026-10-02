@@ -214,7 +214,7 @@ valor fora dos 8.
 
 `religions` é **obrigatório** (use `[]` quando não houver vínculo) e alimenta o filtro opcional
 "priorizar uma tradição religiosa" da página de resultados. Valores fechados:
-`christianity`, `judaism`, `islam`, `buddhism` e `other` (hinduísmo, xintoísmo, religiões
+`christianity`, `judaism`, `islam`, `buddhism`, `hinduism` e `other` (xintoísmo, religiões
 antigas/pagãs etc.). Pode haver mais de um.
 
 **Primeiro filtro: o vetor.** Só se marca religião quando ela muda a decisão de quem filtra:
