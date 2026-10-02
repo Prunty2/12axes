@@ -5406,5 +5406,20 @@
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ln-Governor-Lachlan_macquarie.jpg",
     "imageNote": "Retrato de Lachlan Macquarie via Wikipédia/Wikimedia Commons.",
     "religions": ["christianity"]
+  },
+  {
+    "id": "angus-taylor",
+    "name": "Angus Taylor",
+    "role": "Líder da oposição australiana",
+    "category": "politico",
+    "lifespan": "1966–",
+    "description": "Líder liberal da oposição australiana desde 2026, Taylor defende cortes de impostos, desregulação e AUKUS. Propõe imigração menor com integração obrigatória e energia nuclear, mas financia infraestrutura e reservas de combustível.",
+    "imagePath": "/personalities/portraits/angus-taylor.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Angus_Taylor_2018_portrait_black.jpg",
+    "imageNote": "Retrato de Angus Taylor por DCCEEW, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons; redimensionado e comprimido.",
+    "religions": [
+      "christianity"
+    ]
   }
 ]

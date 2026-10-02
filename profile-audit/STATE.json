@@ -1,9 +1,11 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-10-02T02:06:39Z",
+  "lastUpdated": "2026-10-02T02:09:31Z",
   "personality": {
-    "totalProfiles": 416,
-    "pending": [],
+    "totalProfiles": 417,
+    "pending": [
+      "angus-taylor"
+    ],
     "done": [
       "lenin",
       "stalin",
