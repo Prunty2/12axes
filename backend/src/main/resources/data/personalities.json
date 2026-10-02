@@ -5406,5 +5406,20 @@
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ln-Governor-Lachlan_macquarie.jpg",
     "imageNote": "Retrato de Lachlan Macquarie via Wikipédia/Wikimedia Commons.",
     "religions": ["christianity"]
+  },
+  {
+    "id": "matt-canavan",
+    "name": "Matt Canavan",
+    "role": "Líder do Partido Nacional da Austrália",
+    "category": "politico",
+    "lifespan": "1980–",
+    "description": "Líder do Partido Nacional australiano desde 2026, Canavan defende carvão, energia nuclear e novos estados regionais. Propõe proteger a indústria nacional, reduzir a imigração e os impostos; é católico e conservador nos costumes.",
+    "imagePath": "/personalities/portraits/matt-canavan.jpg",
+    "imageSourceName": "Wikimedia Commons / SIX News Australia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Matt_Canavan_2025.jpg",
+    "imageNote": "Retrato de Matt Canavan (2025), SIX News Australia, CC BY 3.0; redimensionado e comprimido.",
+    "religions": [
+      "christianity"
+    ]
   }
 ]
