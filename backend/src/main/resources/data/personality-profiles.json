@@ -7074,18 +7074,18 @@
   {
     "personalityId": "angus-taylor",
     "vector": {
-      "estrutura": 49.8,
+      "estrutura": 54.5,
       "representacao": 81.1,
-      "poder": 53.2,
-      "imigracao": 69.5,
-      "diplomacia": 61.2,
-      "intervencao": 21.0,
-      "economia": 33.0,
-      "controle": 27.1,
-      "comercio": 31.8,
-      "religiao": 35.3,
-      "moral": 37.2,
-      "tecnologia": 63.0
+      "poder": 49.6,
+      "imigracao": 62.4,
+      "diplomacia": 57.6,
+      "intervencao": 22.1,
+      "economia": 42.5,
+      "controle": 35.4,
+      "comercio": 36.5,
+      "religiao": 33.0,
+      "moral": 28.9,
+      "tecnologia": 59.4
     }
   }
 ]

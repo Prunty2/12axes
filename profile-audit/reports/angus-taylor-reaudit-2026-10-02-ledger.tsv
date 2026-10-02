@@ -1,0 +1,241 @@
+questionId	answer	basis	source	assessment	question
+estrutura_06	D	I	S1	Separate police, coordinated operations	Prefiro uma polícia nacional única a várias polícias estaduais autônomas.
+estrutura_01	C	I	S1	Local competence within federation	Estados e municípios devem ter autonomia para decidir sobre seus próprios assuntos, sem depender do governo federal.
+estrutura_05	C	I	S1	Constitutional state autonomy, federal limits	Cada estado deve ter autonomia para elaborar sua própria Constituição, sem interferência do governo federal.
+estrutura_16	D	I	S1	Federal interest alone insufficient	O governo federal deve poder anular leis estaduais e municipais que contrariem o interesse nacional.
+estrutura_04	N	M	S1	Shared standards versus local delivery	Prefiro um currículo escolar nacional único a currículos definidos por cada estado.
+estrutura_13	C	I	S1	Local laws within competence	Cidades deveriam poder criar leis próprias, mesmo diferentes das leis nacionais.
+estrutura_20	DT	I	S1	Partners, not executive subordinates	Governadores e prefeitos devem executar as decisões do governo central em assuntos locais.
+estrutura_15	C	I	S1	Federation rather than confederation	O Brasil deveria ser uma união de estados com ampla autonomia política.
+estrutura_18	CT	I	S3	National unity	A separação de um estado não deve ser permitida, mesmo com apoio da população local.
+estrutura_17	D	I	S3	No cultural separatist privilege	Regiões com cultura forte, como o Sul ou o Nordeste, deveriam ter mais autonomia política.
+estrutura_19	C	I	S1	Subnational schooling, not Canberra administration	A educação pública deve ser administrada pelas prefeituras, não pelo governo federal.
+estrutura_12	C	I	S2	National employment framework	As leis trabalhistas devem ser iguais em todos os estados, sem variações regionais.
+estrutura_09	DT	I	S3	No unilateral secession	Estados deveriam ter o direito de se separar do país se a maioria local votar por isso.
+estrutura_02	D	I	S1	Reject universal legislative uniformity	O país inteiro deve seguir as mesmas leis, mesmo contra as preferências de cada estado.
+estrutura_08	C	I	S4	National coordination, subnational hospitals	A saúde pública deve seguir diretrizes nacionais unificadas, sob coordenação de uma autoridade central.
+estrutura_07	D	I	S2	Resource fund not majority tax retention	A maior parte dos impostos deveria ficar no estado ou município onde foi arrecadada.
+estrutura_11	D	I	S3	Uniform rights, not parallel law	Comunidades indígenas e quilombolas devem poder viver sob regras próprias dentro de seus territórios.
+estrutura_14	DT	I	S1	Constitution/courts, not PM supremacy	Quando governador e presidente entram em conflito, a palavra final deve ser do presidente.
+estrutura_03	CT	D	S18	Explicit state abortion competence	As leis sobre assuntos locais devem ser definidas pelos governos municipais ou estaduais.
+estrutura_10	C	I	S2	Common fiscal rules, federal allocation	Os impostos estaduais devem seguir regras nacionais para evitar conflitos fiscais entre estados.
+representacao_01	CT	D	S3	Democratic values	Eleições livres devem ser mantidas mesmo quando elegem governos ruins.
+representacao_05	CT	I	S3	Rule of law, judicial review	Cortes independentes, como o STF, devem poder anular decisões do governo.
+representacao_20	DT	I	S3	Democratic consent	Prefiro um regime autoritário estável a uma democracia instável.
+representacao_11	D	I	S1	Parliamentary accountability, not recall	Eleitores deveriam poder cassar o mandato de um político ruim antes do fim do prazo.
+representacao_04	DT	D	S19	Explicit team government	Prefiro decisões de um pequeno grupo de líderes a poder dividido entre instituições.
+representacao_03	CT	D	S5	Lawful opposition speech	A oposição política deve ter o direito de criticar publicamente qualquer governo.
+representacao_08	DT	I	S3	Periodic electoral mandate	Um governante eficiente deveria poder permanecer no poder sem precisar disputar eleições periódicas.
+representacao_12	DT	I	S3	No development exemption	Eu preferiria um regime autoritário à democracia se ele acelerasse o desenvolvimento do país.
+representacao_17	D	I	S1	Representative parliament	Prefiro uma sociedade governada por assembleias populares, sem depender de líderes políticos.
+representacao_14	DT	I	S3	Experts advise, elected leaders govern	Especialistas escolhidos por mérito deveriam governar sem depender do voto popular.
+representacao_13	C	I	S3	Competitive alternation	Prefiro a alternância de poder entre partidos a um mesmo grupo governando por décadas.
+representacao_09	D	D	S6	Consultative vote followed by Parliament	O povo deveria poder derrubar leis por referendo, sem depender do Congresso.
+representacao_02	D	I	S3	Emergency under law, not bypass	Em crises graves, um líder forte deve poder governar sem depender do Congresso.
+representacao_15	CT	D	S6	Constituent consent respected	Quem governa deve ter o consentimento e a aprovação das pessoas afetadas por suas decisões.
+representacao_19	CT	D	S5	Opposition speech rights	Mesmo um governo eleito com enorme maioria deve respeitar todos os direitos da oposição.
+representacao_06	CT	I	S1	Westminster leaders eligible for reelection	Não deveria haver limite de mandatos para um bom governante.
+representacao_16	DT	I	S3	Political equality	O direito de voto deveria ser restrito, nem todo adulto deveria poder votar.
+representacao_18	DT	I	S5	Efficiency does not erase dissent	Governar com eficiência importa mais do que garantir espaço à oposição.
+representacao_10	DT	I	S3	Elections, not hereditary executive	Governantes deveriam ser escolhidos por competência, tradição ou sucessão, em vez de eleições populares.
+representacao_07	CT	I	S3	Universal secret electoral franchise	O voto secreto e universal é inegociável, mesmo para eleitores mal informados.
+poder_03	C	D	S7	Warrant access, not unlimited monitoring	O Estado deveria poder monitorar conversas digitais para combater e prevenir crimes.
+poder_15	D	I	S3	Rule-of-law liberal criminal framework	A pena de morte deveria ser adotada para crimes como estupro e assassinato.
+poder_13	D	I	S19	Reject broad pandemic compulsion	A vacinação deve ser obrigatória, mesmo contra a vontade de quem se recusa.
+poder_02	D	I	S20	Nicotine reform not cannabis legalization	O consumo de maconha por adultos não deveria ser crime.
+poder_12	D	D	S8	Conscience vote opposes euthanasia autonomy	A eutanásia voluntária deveria ser legalizada para quem sofre de doenças terminais.
+poder_17	DT	D	S5	Reject broad censorship discretion	O governo deve poder tirar do ar perfis que espalham informações falsas.
+poder_20	D	I	S7	Warrant powers imply compelled assistance	Ninguém deveria ser obrigado a desbloquear o celular para a polícia.
+poder_18	D	D	S9	Financial anti-money-laundering oversight	O governo não deveria poder rastrear as compras feitas por meios de pagamento digitais.
+poder_14	CT	I	S3	Presumption of innocence	Na dúvida sobre a culpa, o Estado deve evitar a condenação mesmo que culpados fiquem livres.
+poder_16	C	D	S6	Reject imposing private morality	Condutas privadas entre adultos que consintam não deveriam ser criminalizadas.
+poder_11	D	I	S19	Heavy-handed emergency powers criticized	Em situações graves, o governo deveria poder impor toque de recolher à população.
+poder_06	N	M	S20	Harm reduction versus illicit-drug enforcement	Condutas consensuais entre adultos, como uso de drogas, apostas e prostituição, não deveriam ser criminalizadas.
+poder_01	CT	D	S20	Raids, enforcement, gang disruption	Operações policiais rigorosas devem ser usadas contra o crime em áreas dominadas por facções.
+poder_19	D	I	S3	Security under law, not indefinite detention	Suspeitos de terrorismo deveriam poder ser presos sem julgamento até a ameaça passar.
+poder_04	CT	D	S5	Protect lawful offensive opinion	A liberdade de expressão deve proteger até opiniões consideradas ofensivas.
+poder_10	D	I	S20	Guns for home defense not supported	Adultos deveriam poder manter armas de fogo em casa para defesa pessoal.
+poder_05	C	I	S7	Moderate security-technology inference only	Câmeras com reconhecimento facial nas ruas deveriam ser ampliadas para reduzir o crime.
+poder_07	D	I	S5	Threats prosecuted, no party-ban programme	Partidos que ameacem a ordem pública deveriam poder ser dissolvidos pelo Estado.
+poder_09	C	I	S20	Strong gun controls, not blanket abolition	O acesso de civis a armas de fogo deve ser severamente restringido.
+poder_08	DT	I	S20	Hard-drug enforcement remains	Todas as drogas, incluindo cocaína, deveriam ser legalizadas para adultos.
+imigracao_09	C	D	S3	Shared liberal-democratic values, not race	O país deve dar preferência a imigrantes de culturas semelhantes à sua.
+imigracao_10	C	I	S10	Contributions included, shared identity maintained	As culturas trazidas por imigrantes devem ter espaço na identidade nacional.
+imigracao_06	C	I	S10	Harmless customs coexist with core values	Imigrantes não deveriam ter que abandonar seus costumes para viver bem no país.
+imigracao_19	D	I	S3	Rejecting any local custom not deportation test	Imigrantes que rejeitem os costumes locais deveriam perder o direito de permanecer no país.
+imigracao_04	C	I	S10	Different traditions compatible with law	O país deve permitir que imigrantes preservem seus costumes e tradições, mesmo que sejam diferentes.
+imigracao_15	CT	D	S3	Reject isolated parallel communities	Bairros cujos moradores imigrantes vivem isolados em sua própria cultura criam problemas para o país.
+imigracao_07	CT	D	S19	National traditions strongly defended	Prefiro preservar tradições nacionais a acomodar costumes estrangeiros.
+imigracao_20	DT	D	S19	Australian citizenship priority	Prefiro uma identidade de cidadão do mundo a uma identidade nacional.
+imigracao_17	CT	D	S3	Cultural protection explicit migration goal	A imigração deveria ser limitada para preservar a cultura predominante do país.
+imigracao_13	CT	D	S3	Mandatory English	Dominar a língua predominante deve ser uma prioridade na política de imigração.
+imigracao_11	C	D	S3	Integration into core civic norms	A adaptação aos costumes locais deve ser exigida de quem imigra para um país.
+imigracao_08	D	I	S3	Multicultural promotion subordinate to English	A convivência de diferentes línguas e culturas deve ser incentivada no país.
+imigracao_02	D	I	S3	Not a multilingual national-policy preference	Uma sociedade multicultural deve conviver com vários idiomas no dia a dia.
+imigracao_18	DT	D	S2	Controlled and capped entry	As fronteiras deveriam ser abertas para qualquer pessoa pacífica.
+imigracao_05	C	D	S3	Reject opposition to core civic values	O país deveria recusar imigrantes que se recusem a respeitar os costumes locais.
+imigracao_03	DT	D	S2	Skilled immigration retained	Sou a favor de fechar as fronteiras à imigração para preservar a identidade cultural do país.
+imigracao_01	CT	D	S3	Language and civic integration mandatory	Quem imigra para um país deve aprender o idioma e adotar os costumes locais.
+imigracao_14	C	D	S10	Individual values test despite origin-risk screening	Imigrantes não devem ser julgados pelos costumes atribuídos a seu país de origem.
+imigracao_16	C	I	S6	Parental educational choice, English baseline	Filhos de imigrantes deveriam poder estudar também na língua dos pais, em escolas bilíngues.
+imigracao_12	C	D	S11	Humanitarian protection within controlled system	O Brasil deve continuar acolhendo imigrantes venezuelanos e haitianos.
+diplomacia_02	C	D	S1	Seek diplomacy, retain timely defence	Negociação e diplomacia devem ser esgotadas antes de qualquer ação militar.
+diplomacia_08	DT	D	S2	At least 3% GDP defence	O país deve reduzir seus gastos militares.
+diplomacia_15	C	D	S1	Autonomous defence capabilities	O Brasil deveria desenvolver armas autônomas letais.
+diplomacia_19	C	I	S1	Credible deterrence, no maximal threat claim	O país deve ameaçar uma resposta militar devastadora para dissuadir ataques.
+diplomacia_11	CT	D	S2	Domestic drone/missile capability	O país deve priorizar a fabricação nacional de armamentos para sua defesa.
+diplomacia_05	C	D	S2	Increase defence amid budget pressures	O país deve priorizar gastos militares mesmo quando outras áreas precisam de recursos.
+diplomacia_12	C	I	S12	No ideological war without security necessity	Nenhuma causa política ou ideológica justifica começar uma guerra.
+diplomacia_10	D	D	S1	Expansion needed for deterrence	Acordos de desarmamento deveriam ter prioridade sobre a expansão de arsenais militares.
+diplomacia_17	C	I	S13	Prepared action under vital-security circumstances	O Brasil deveria estar pronto para iniciar uma guerra se isso garantir seus interesses vitais.
+diplomacia_03	C	I	S13	Credible defence may preempt imminent attack	O país deve poder realizar ataques preventivos contra inimigos que se preparam para atacar.
+diplomacia_07	DT	D	S14	Nuclear propulsion without nuclear weapons	O Brasil deveria desenvolver armas nucleares.
+diplomacia_06	C	D	S1	Diplomatic engagement including China	O país deve buscar acordos diplomáticos mesmo que precise fazer concessões a adversários.
+diplomacia_14	C	I	S3	Rule of law; no personal ICC policy found	O país deve apoiar tribunais internacionais que julguem crimes de guerra, mesmo de aliados.
+diplomacia_20	C	I	S12	Mediation welcome, no mandatory UN monopoly	A ONU deveria poder mediar conflitos antes de qualquer ação militar.
+diplomacia_16	C	D	S1	Engage hostile states bilaterally	O Brasil deveria dialogar até com regimes hostis antes de ameaçá-los militarmente.
+diplomacia_01	CT	D	S1	Strong military central to peace	Um país deve manter Forças Armadas fortes para ser respeitado no mundo.
+diplomacia_04	C	D	S12	Deescalation despite potential strategic advantage	Prefiro evitar uma guerra mesmo quando ela possa trazer vantagens ao país.
+diplomacia_13	CT	D	S20	Intelligence capability supported	O Estado deve poder realizar espionagem contra outros países.
+diplomacia_09	D	I	S2	Professional capability, no conscription programme	O serviço militar deve ser obrigatório para preparar o país para uma guerra.
+diplomacia_18	DT	D	S1	Armed forces indispensable	O Brasil deveria extinguir suas Forças Armadas.
+intervencao_01	D	D	S11	Reject absolute noninterference against despotic regime	Nenhum país tem o direito de tentar mudar o governo de outro.
+intervencao_14	C	I	S13	Regional security may require allied military action	O Brasil deveria usar até força militar para garantir seus interesses na América do Sul.
+intervencao_20	CT	I	S11	Protect citizens and national security	O Brasil deve pressionar governos vizinhos que ameacem cidadãos brasileiros.
+intervencao_19	D	D	S11	Supports deployed forces/overseas presence	O Brasil não deveria manter bases militares em outros países.
+intervencao_08	C	I	S11	Coercive measures against threats	O Brasil deveria poder aplicar sanções quando seus interesses forem ameaçados.
+intervencao_13	D	I	S11	No absolute hands-off doctrine	Cada povo deve resolver seus próprios problemas, sem interferência de fora.
+intervencao_12	C	D	S1	Security leadership and influence	O Brasil deve influenciar governos vizinhos quando isso aumenta sua segurança.
+intervencao_04	C	D	S1	Regional leadership, not domination	A política externa deve priorizar a influência do país sobre seus vizinhos.
+intervencao_18	CT	D	S12	Explicit national interest in foreign action	Defender interesses nacionais deve orientar a atuação do país no exterior.
+intervencao_11	C	D	S11	Ally requests considered individually, not automatic	O Brasil deve evitar blocos que exijam alinhamento automático com outras potências.
+intervencao_05	DT	D	S11	Overseas deployment accepted	O Brasil não deveria enviar soldados para o exterior, nem em missões de paz.
+intervencao_02	CT	D	S11	Pressure threats to national interests	O Brasil deve pressionar outros países quando o interesse nacional está em jogo.
+intervencao_10	C	D	S1	Middle-power regional leadership	O Brasil deveria exercer liderança política sobre a América do Sul.
+intervencao_09	D	D	S1	Diplomacy bilateral/allied, no institutional monopoly	Conflitos entre países devem ser resolvidos por organismos internacionais, não por potências.
+intervencao_16	D	I	S14	Treaty commitments retained alongside interests	Nenhum tratado internacional deve valer mais do que o interesse nacional.
+intervencao_06	CT	D	S1	Diplomatic advocacy abroad	O Brasil deve exercer pressão diplomática para defender interesses brasileiros no exterior.
+intervencao_03	DT	D	S1	AUKUS alliance indispensable	O Brasil deveria evitar alianças militares que possam envolvê-lo em conflitos externos.
+intervencao_07	D	I	S11	Reject absolute military abstention during atrocity	Mesmo diante de um genocídio em um país vizinho, o Brasil não deveria se envolver militarmente.
+intervencao_17	DT	D	S11	Ally support despite external war	O Brasil deve permanecer neutro em guerras, mesmo sob pressão de aliados.
+intervencao_15	D	I	S11	Conditional sanctions, not universal ban	O Brasil não deveria aplicar sanções a países cujos governos desaprova.
+economia_05	DT	D	S2	Private enterprise production	Grandes empresas deveriam pertencer a seus trabalhadores, não a donos privados.
+economia_06	C	I	S1	Partnerships permit private management	Estradas e presídios deveriam poder ser administrados por empresas privadas.
+economia_07	C	I	S4	Public backstop alongside private services	Quando o mercado exclui os pobres, o Estado deve assumir o serviço diretamente.
+economia_13	C	D	S15	Competition limits private monopoly	O poder das grandes empresas privadas deveria ser limitado pelo Estado.
+economia_03	D	D	S1	Strategic capability not universal public ownership	Empresas consideradas estratégicas devem permanecer sob controle público.
+economia_14	D	D	S2	Citizen welfare retained without lifetime cap	Auxílios como o Bolsa Família deveriam ter prazo máximo de duração.
+economia_19	D	I	S1	Case-specific public assets, not blanket retention	Prefiro manter estatais sob controle público, mesmo que possam ser vendidas pelo valor de mercado.
+economia_16	D	I	S15	Negotiation freedom does not abolish unions	Trabalhadores deveriam negociar salários diretamente com os empregadores, sem sindicatos.
+economia_17	C	I	S25	CEFC public development finance, not retail bank nationalisation	Bancos públicos devem continuar financiando o desenvolvimento do país.
+economia_12	C	I	S19	Public service efficiency, not lifetime guarantee	A estabilidade vitalícia dos servidores públicos deveria ser reduzida ou eliminada.
+economia_04	D	D	S4	Public/private balance, not mainly private healthcare	A saúde deveria funcionar principalmente por meio da iniciativa privada.
+economia_11	C	D	S2	Needs-tested citizen safety net	O Estado deveria garantir uma renda básica a todos os cidadãos necessitados.
+economia_18	C	D	S2	Property/investment protected despite unequal outcomes	A propriedade privada deve ser respeitada mesmo quando gera muita desigualdade.
+economia_15	DT	I	S2	Farm ownership protected	O Brasil deveria redistribuir grandes propriedades rurais por meio de uma reforma agrária.
+economia_20	N	M	S1	Mixed providers according to function	A gestão de serviços públicos deveria priorizar o setor privado.
+economia_01	DT	D	S2	Enterprise reform, not revolution	Sou a favor de uma revolução para redistribuir o poder econômico concentrado nas mãos de poucos.
+economia_10	DT	D	S2	Legislated taxes retained	Os impostos deveriam ser voluntários.
+economia_09	D	I	S4	Public access plus legitimate private returns	Saúde, educação e água não deveriam funcionar sob a lógica do lucro.
+economia_02	C	D	S1	Competition permits private service partnerships	Serviços públicos deveriam ser prestados por empresas privadas quando houver concorrência.
+economia_08	CT	D	S2	Family assets and trusts protected	A herança familiar deve ser protegida contra políticas de redistribuição de patrimônio.
+controle_05	D	D	S2	Reject redistributive tax expansion	Grandes fortunas devem pagar mais impostos para financiar políticas públicas.
+controle_20	C	D	S16	Investment freedom with criminal/security screening	Quem tem dinheiro deve poder mandá-lo para fora do país sem pedir licença ao governo.
+controle_19	C	I	S15	Legal wage floor within negotiated relations	Prefiro um salário mínimo definido por lei à livre negociação dos salários.
+controle_14	CT	D	S2	Explicit deregulation programme	O Estado deveria evitar novas regulações sobre a atividade econômica.
+controle_07	CT	D	S2	Strategic fuel/infrastructure support	O Estado deve subsidiar indústrias nacionais estratégicas.
+controle_04	C	I	S15	Limited interference, legitimate labour framework	Empresas devem definir relações de trabalho com o mínimo de interferência do governo.
+controle_02	C	I	S2	Market prices with basic wage rules	Preços e salários deveriam ser definidos pelo mercado, sem intervenção do governo.
+controle_17	D	I	S17	Independent monetary framework	O governo deve poder controlar a taxa de câmbio para proteger a economia nacional.
+controle_16	CT	D	S17	Independent RBA	O Banco Central deve decidir a taxa de juros sem precisar de aprovação do governo.
+controle_10	C	I	S2	Supply reform over price freeze	O governo não deveria congelar preços, mesmo em períodos de inflação alta.
+controle_06	CT	D	S2	Tax cuts/indexation	A carga tributária deveria ser reduzida para estimular o crescimento econômico.
+controle_08	C	I	S15	Employment/productivity matter for wage growth	A preservação de empregos deve ter prioridade sobre aumentos do salário mínimo.
+controle_13	DT	D	S3	Reject government-directed economy	Prefiro uma economia planejada pelo Estado a uma economia de livre mercado.
+controle_01	C	D	S2	Plan fuel, housing, security sectors	O governo deve planejar setores estratégicos como energia, moradia e indústria.
+controle_11	C	D	S1	Selected sovereign industrial support	O governo deveria escolher e apoiar empresas campeãs nacionais em setores estratégicos.
+controle_03	DT	D	S17	Reject political monetary direction	O Banco Central deve obedecer ao governo eleito, e não agir com independência total.
+controle_15	C	I	S19	Necessary crisis response accepted	Em recessão, o governo deve gastar mais para reaquecer a economia, mesmo aumentando a dívida.
+controle_12	C	D	S9	Legal crypto competition with regulation	Criptomoedas como o Bitcoin deveriam poder competir livremente com o dinheiro do governo.
+controle_18	DT	D	S17	Independent central bank retained	O Banco Central deveria ser abolido, deixando a moeda e os juros para o mercado.
+controle_09	DT	I	S2	Housing supply, not rent freeze	Em crises graves, o governo deve poder congelar o valor dos aluguéis.
+comercio_13	C	D	S1	Defence procurement sovereign capability	As compras do governo e das estatais devem priorizar empresas brasileiras.
+comercio_06	C	I	S16	Open economy with security safeguards	Produtos estrangeiros deveriam entrar no país com poucas restrições econômicas.
+comercio_12	CT	D	S16	Expedite trusted foreign investment	Sou a favor de facilitar a entrada de investimentos estrangeiros no país.
+comercio_20	C	D	S1	Trade links valuable, supply risks real	A integração econômica global deveria ser aprofundada por meio de mais comércio.
+comercio_15	D	I	S16	No protective EV tariff policy	Carros elétricos chineses baratos deveriam pagar tarifas para proteger as fábricas locais.
+comercio_19	N	M	S3	Cheap essentials and strategic resilience balanced	Prefiro soberania econômica a preços baixos no supermercado.
+comercio_04	CT	I	S1	Existing trade relationships strengthened	O Brasil deveria buscar acordos de livre comércio com outros países.
+comercio_17	C	D	S1	Strategic medical/fuel capability support	Cadeias estratégicas, como remédios e chips, devem ser protegidas da concorrência externa.
+comercio_07	D	D	S3	General bailouts rejected	O governo deve limitar importações que ameacem a indústria e o emprego local.
+comercio_02	D	I	S3	Critical industries exception prevents near-zero absolutism	As tarifas deveriam ser quase zeradas, mesmo que algumas indústrias nacionais quebrem.
+comercio_03	D	I	S3	No broad jobs-protection tariff programme	Prefiro limitar importações para proteger empregos industriais, mesmo com preços mais altos.
+comercio_10	C	D	S1	Repair and deepen China trade	O Brasil deveria aprofundar a integração comercial com outros países.
+comercio_16	C	I	S16	Lower trade/investment barriers	As tarifas de importação devem ser reduzidas, mesmo diminuindo a arrecadação do governo.
+comercio_09	D	D	S16	Screening, not foreign acquisition blanket ban	Empresas estrangeiras deveriam ser proibidas de comprar empresas estratégicas brasileiras.
+comercio_05	DT	D	S1	Partner investment/trade essential	O Brasil deveria produzir internamente tudo o que consome, mesmo pagando muito mais caro por isso.
+comercio_11	C	I	S19	Agricultural capacity valued	A produção nacional de alimentos deveria ter prioridade sobre importações baratas.
+comercio_01	D	D	S3	Industry protection via reform, not routine tariff	A indústria nacional deve ser protegida com tarifas sempre que necessário.
+comercio_18	CT	D	S16	Multinational investment welcomed	Multinacionais devem poder operar no país, mesmo competindo com empresas locais.
+comercio_08	D	I	S3	Retain national security/economic boundaries	Sou a favor de um mercado global único, sem fronteiras econômicas.
+comercio_14	D	D	S3	Avoid excessive strategic supply dependency	O comércio com outros países deve ser ampliado, mesmo aumentando a dependência econômica.
+religiao_02	CT	D	S6	Christian belief guides life and judgment	A religião deve orientar minhas escolhas morais e políticas.
+religiao_11	DT	I	S6	Religious society legitimate	Prefiro uma sociedade sem religião a uma sociedade religiosa.
+religiao_19	C	D	S6	Secular moral arguments legitimate	A moral pública deve ser fundamentada em princípios que não dependam da crença em Deus.
+religiao_03	C	I	S6	Equal civic law despite religious convictions	As leis devem ser neutras e não seguir os valores de nenhuma religião.
+religiao_10	CT	D	S6	Religious parental education protected	Tradições religiosas devem ser transmitidas às novas gerações.
+religiao_13	D	I	S19	Religious/national traditions retained	Feriados religiosos não deveriam ser feriados nacionais.
+religiao_12	C	I	S6	Faith has legitimate public space	A sociedade deveria dar mais espaço à fé em Deus.
+religiao_15	D	I	S19	No erasure of constitutional tradition	A palavra 'Deus' não deveria aparecer na Constituição.
+religiao_18	D	D	S6	Accept law despite contrary conscience	Quando uma lei contraria minha fé religiosa, devo seguir minha fé.
+religiao_05	D	D	S6	Faith charity recognition protected	Igrejas e templos deveriam pagar impostos como qualquer outra organização.
+religiao_01	D	D	S6	Public conviction, not entirely private faith	Religião é assunto pessoal e não deve influenciar políticas públicas.
+religiao_14	C	D	S6	Religious marriage recognized, civil marriage too	O casamento deve ser reconhecido como uma instituição religiosa.
+religiao_06	C	I	S6	Community religious life legitimate	A prática religiosa deve ser incentivada na vida em comunidade.
+religiao_16	CT	D	S6	Lifelong faith guidance	Prefiro buscar na fé religiosa o sentido da minha vida.
+religiao_08	DT	D	S3	Civic values not official creed	O Estado brasileiro deveria assumir oficialmente uma identidade religiosa.
+religiao_07	D	I	S6	Symbols permitted, not imposed	Prédios públicos, como escolas e tribunais, não deveriam exibir símbolos religiosos.
+religiao_09	D	D	S6	Religious reasons legitimate in debate	As decisões políticas não devem se basear em crenças religiosas.
+religiao_17	DT	D	S6	Faith schools and parental freedom	A religião não deveria fazer parte da educação de crianças pequenas.
+religiao_20	C	I	S19	Religious liberty within national tradition	O Estado deve proteger a fé religiosa como parte da identidade nacional.
+religiao_04	D	D	S6	Majority vote respected without imposing own creed	As leis do país deveriam refletir os valores da religião da maioria.
+moral_07	CT	D	S6	Reject sexuality-based bullying	Casais LGBT devem poder demonstrar afeto em público como qualquer outro casal.
+moral_04	CT	D	S6	Conscience/tradition alongside gradual reform	Prefiro mudanças culturais graduais a mudanças culturais rápidas.
+moral_15	D	I	S19	Farm production, not dietary reduction programme	Devemos reduzir o consumo de carne por respeito aos animais.
+moral_12	CT	D	S6	Parents choose education on moral values	A educação sexual dos filhos deve seguir os valores da família, não os da escola.
+moral_03	DT	D	S19	Biological sex overrides self-declared sex in law	A identidade de gênero declarada por cada pessoa deve ser respeitada.
+moral_01	C	I	S6	Equal orientation rights, qualified adoption inference	Casais do mesmo sexo devem ter o mesmo direito de adotar crianças que outros casais.
+moral_09	D	I	S21	Conservative reproductive inference, low confidence	Considero o aborto no início da gravidez moralmente aceitável.
+moral_06	C	D	S6	Personal no vote, accepts legal equality	O casamento deve ser reconhecido apenas entre um homem e uma mulher.
+moral_19	N	M	S6	Personal taste versus nonimposition principle	A nudez no cinema, na arte e nas praias não deveria ser considerada ofensiva.
+moral_02	CT	D	S6	Traditional marriage conscience protected	A família tradicional deve servir de modelo para a sociedade.
+moral_05	D	I	S22	Merit/equal opportunity instead of quotas	Sou a favor de cotas raciais no acesso às universidades.
+moral_17	D	I	S6	Conservative marriage ideals, no criminal ban implied	Relações abertas e poliamor devem ser tão respeitados quanto o casamento.
+moral_13	D	I	S6	Not criminalization; moral legitimacy qualified	A prostituição deve ser reconhecida como um trabalho legítimo.
+moral_11	D	I	S19	Biological-sex teaching and parental choice	Adolescentes deveriam receber educação sobre identidade de gênero.
+moral_10	C	I	S21	Reproductive conservatism inference, low confidence	Considero o aborto moralmente errado.
+moral_18	D	D	S22	Explicit recruitment of women to political leadership	Cuidar da família deve ser a principal prioridade na vida de uma mulher.
+moral_16	N	M	S6	Traditional morality versus private choice	Considero o consumo de pornografia moralmente errado.
+moral_14	CT	I	S19	Binary sex language preference	A linguagem neutra não deveria ser adotada em nossa sociedade.
+moral_08	C	I	S22	Anti-quota principle applied to public roles	Sou contra cotas raciais no acesso a cargos públicos.
+moral_20	CT	D	S6	Final parental moral educational choice	Os pais devem ser a autoridade final na educação moral dos filhos.
+tecnologia_01	CT	D	S2	Industry/innovation priority	A sociedade deve priorizar a inovação tecnológica e a industrialização.
+tecnologia_13	D	D	S1	Family farm and rural background	Prefiro a vida nas grandes cidades à vida no campo.
+tecnologia_19	CT	D	S19	Energy technology over consumption restraint	No combate ao aquecimento global, prefiro priorizar soluções tecnológicas à redução do consumo.
+tecnologia_12	DT	I	S19	Opposes blanket resource development prohibition	A mineração na Amazônia deveria ser proibida, mesmo com tecnologias de baixo impacto.
+tecnologia_18	C	D	S1	Rural life preference without antiurban ideology	Prefiro a vida simples no campo à vida nas metrópoles.
+tecnologia_10	DT	D	S19	Resource extraction expansion	Reduzir o consumo de recursos naturais deve ter prioridade no combate ao aquecimento global.
+tecnologia_05	C	I	S23	Agricultural biotechnology support, not exact GMO pledge	O cultivo de alimentos transgênicos deve continuar sendo desenvolvido.
+tecnologia_04	C	D	S21	Reproductive limits despite precision medicine support	Tecnologias que mexem no corpo, na mente ou na reprodução humana devem ser limitadas.
+tecnologia_16	D	I	S19	Technology investment rather than environment-first austerity	Gastos com exploração espacial deveriam ter menos prioridade que a proteção ambiental na Terra.
+tecnologia_07	D	I	S19	Development approvals still matter; not blanket preserved-area mining	A mineração na Amazônia deveria ser permitida em áreas preservadas, mesmo com impacto ambiental.
+tecnologia_08	DT	D	S19	Growth/mining over blanket preservation priority	Prefiro natureza preservada a crescimento industrial acelerado.
+tecnologia_03	C	I	S2	Productivity gains, qualified displacement inference	Devemos ampliar o uso de IA e automação, mesmo que elimine muitas profissões.
+tecnologia_15	D	I	S21	Therapeutic innovation does not establish enhancement approval	Implantes cerebrais para ampliar capacidades mentais de pessoas saudáveis devem ser permitidos.
+tecnologia_20	C	I	S21	Biological enhancement restraint inference	Sou contra implantes artificiais para ampliar as capacidades físicas de pessoas saudáveis.
+tecnologia_06	D	I	S19	Productive agriculture over blanket input cuts	O uso de agrotóxicos deveria ser reduzido, mesmo com perda de produtividade.
+tecnologia_09	N	M	S21,S24	Non-destructive therapy versus embryo-destructive reproductive intervention	A edição genética em humanos deve ser permitida para prevenir doenças.
+tecnologia_17	D	I	S19	Supports livestock, no replacement programme	A carne cultivada em laboratório deveria substituir parte da pecuária.
+tecnologia_02	D	D	S2	Technology-rich productive life	Prefiro um modo de vida simples e natural a uma vida com muita tecnologia.
+tecnologia_14	CT	I	S21	Reproductive caution against embryo enhancement	A edição genética de embriões para aumentar a inteligência deveria ser proibida.
+tecnologia_11	C	I	S2	High-technology investment, space inference moderate	A humanidade deveria investir na exploração de outros planetas.

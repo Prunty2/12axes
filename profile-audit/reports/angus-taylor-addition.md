@@ -1,3 +1,5 @@
+> Historical addition audit: the current revised vector and 240-answer review are documented in [the 2026-10-02 re-audit](angus-taylor-reaudit-2026-10-02.md).
+
 # Angus Taylor: independent draft audit
 
 Proposal: [issue #47](https://github.com/RomanCypherpunk/12axes/issues/47). Cut-off: 2 October 2026. Scope: the Australian politician born 30 September 1966, not the Canadian philosopher or South African sculptor. [Australian Parliament biography](https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=231027) and [ABC, 13 February 2026](https://www.abc.net.au/news/2026-02-13/angus-taylor-becomes-liberal-leader/106339798) confirm his current opposition leadership.
