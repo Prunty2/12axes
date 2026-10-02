@@ -1211,7 +1211,7 @@
     "historical": false,
     "period": "",
     "vector": null,
-    "religions": ["christianity"]
+    "religions": ["christianity", "only"]
   },
   {
     "id": "monaco",
@@ -1465,7 +1465,7 @@
     "flagSourceName": "Wikimedia Commons",
     "flagSourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Papal_States_(1808-1870).svg",
     "flagNote": "Bandeira historica dos Estados Papais usada como referencia visual.",
-    "religions": ["christianity"]
+    "religions": ["christianity", "only"]
   },
   {
     "id": "imperio-bizantino",
@@ -1711,7 +1711,7 @@
     "id": "armenia",
     "name": "Armênia",
     "category": "República nacional-diaspórica",
-    "description": "República semipresidencialista do Cáucaso, a Armênia combina identidade nacional cristã, memória do genocídio de 1915 e rivalidade histórica com o Azerbaijão e a Turquia, buscando equilíbrio entre Rússia, Ocidente e Irã.",
+    "description": "República semipresidencialista do Cáucaso, a Armênia combina identidade nacional cristã e rivalidade histórica com o Azerbaijão e a Turquia, buscando equilíbrio entre Rússia, Ocidente e Irã.",
     "flagPath": "/countries/flags/armenia.png",
     "historical": false,
     "period": "",
@@ -2208,7 +2208,7 @@
     "historical": false,
     "period": "",
     "vector": null,
-    "religions": ["islam"]
+    "religions": ["islam", "only"]
   },
   {
     "id": "egito-atual",
@@ -2230,7 +2230,7 @@
     "historical": false,
     "period": "",
     "vector": null,
-    "religions": ["islam"]
+    "religions": ["islam", "only"]
   },
   {
     "id": "marrocos",
@@ -2278,7 +2278,7 @@
     "flagSourceName": "Wikimedia Commons",
     "flagSourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Abbasid_Dynasty.svg",
     "flagNote": "Estandarte negro da dinastia abássida; não havia bandeira nacional no sentido moderno.",
-    "religions": ["islam"]
+    "religions": ["islam", "only"]
   },
   {
     "id": "sri-lanka",
@@ -2459,7 +2459,7 @@
     "flagSourceName": "Wikimedia Commons",
     "flagSourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Tibet.svg",
     "flagNote": "Bandeira do Leão das Neves, adotada pelo 13º Dalai Lama em 1916 e usada pelo governo tibetano até 1950.",
-    "religions": ["buddhism"]
+    "religions": ["buddhism", "only"]
   },
   {
     "id": "reino-de-israel",
@@ -2471,11 +2471,24 @@
     "period": "c. 1047–930 a.C.",
     "vector": null,
     "flagKind": "reconstructed-flag",
-    "flagSourceName": "Reddit (reconstrução feita por usuário)",
-    "flagSourceUrl": "https://preview.redd.it/kingdom-of-israel-flag-v0-p7sbvoki8g921.png?width=1200&format=png&auto=webp&s=f8ce95578c15248c030f231a600fce21ca6ab5a1",
-    "flagNote": "Reconstrução moderna feita por usuário do Reddit, usada por solicitação do usuário. Não há bandeira atestada do Reino de Israel, e a estrela de seis pontas como emblema é posterior ao período.",
-    "religions": [
-      "judaism"
-    ]
+    "flagSourceName": "Wikimedia Commons",
+    "flagSourceUrl": "https://commons.wikimedia.org/wiki/Category:Kingdom_of_Israel",
+    "flagNote": "Reconstrução moderna feita por usuário do Reddit, usada por solicitação do usuário; o link aponta para a categoria do Reino de Israel no Wikimedia Commons, que não hospeda esta imagem. Não há bandeira atestada do Reino de Israel, e a estrela de seis pontas como emblema é posterior ao período.",
+    "religions": ["judaism", "only"]
+  },
+  {
+    "id": "inglaterra",
+    "name": "Inglaterra (Reino Unido)",
+    "category": "Nação constituinte liberal-conservadora",
+    "description": "Maior país constituinte do Reino Unido, a Inglaterra é governada diretamente por Westminster, sem parlamento próprio, com Igreja Anglicana oficial, serviço de saúde público (NHS), centro financeiro em Londres e maioria pelo Brexit e crescente voto populista.",
+    "flagPath": "/countries/flags/inglaterra.png",
+    "historical": false,
+    "period": "",
+    "vector": null,
+    "flagKind": null,
+    "flagSourceName": "Wikimedia Commons",
+    "flagSourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_England.svg",
+    "flagNote": "Cruz de São Jorge, bandeira da Inglaterra, usada como referência visual da nação.",
+    "religions": []
   }
 ]

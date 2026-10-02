@@ -426,7 +426,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Ze'ev_Jabotinsky",
     "imageNote": "Retrato de Zeev Jabotinsky via Wikipédia/Wikimedia Commons.",
-    "religions": ["judaism"]
+    "religions": ["judaism", "only"]
   },
   {
     "id": "ahad-haam",
@@ -439,7 +439,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Ahad_Ha'am",
     "imageNote": "Retrato de Ahad Haam via Wikipédia/Wikimedia Commons.",
-    "religions": ["judaism"]
+    "religions": ["judaism", "only"]
   },
   {
     "id": "curtis-yarvin",
@@ -1115,7 +1115,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Martin_Buber",
     "imageNote": "Retrato de Martin Buber via Wikipédia/Wikimedia Commons.",
-    "religions": ["judaism"]
+    "religions": ["judaism", "only"]
   },
   {
     "id": "olof-palme",
@@ -1856,7 +1856,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/B._R._Ambedkar",
     "imageNote": "Retrato de B. R. Ambedkar via Wikipédia/Wikimedia Commons.",
-    "religions": ["buddhism"]
+    "religions": ["buddhism", "only"]
   },
   {
     "id": "frantz-fanon",
@@ -1960,7 +1960,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Theodor_Herzl",
     "imageNote": "Retrato de Theodor Herzl via Wikipédia/Wikimedia Commons.",
-    "religions": ["judaism"]
+    "religions": ["judaism", "only"]
   },
   {
     "id": "hugo-chavez",
@@ -2805,7 +2805,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://pt.wikipedia.org/wiki/Tenzin_Gyatso",
     "imageNote": "Retrato do 14º Dalai Lama via Wikipédia/Wikimedia Commons.",
-    "religions": ["buddhism"]
+    "religions": ["buddhism", "only"]
   },
   {
     "id": "pentti-linkola",
@@ -2896,7 +2896,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://pt.wikipedia.org/wiki/Papa_Pio_IX",
     "imageNote": "Retrato de Papa Pio IX via Wikipédia/Wikimedia Commons.",
-    "religions": ["christianity"]
+    "religions": ["christianity", "only"]
   },
   {
     "id": "justiniano-i",
@@ -3260,7 +3260,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://pt.wikipedia.org/wiki/Papa_Francisco",
     "imageNote": "Retrato do Papa Francisco via Wikipédia/Wikimedia Commons.",
-    "religions": ["christianity"]
+    "religions": ["christianity", "only"]
   },
   {
     "id": "papa-leao-xiv",
@@ -3273,7 +3273,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://pt.wikipedia.org/wiki/Papa_Le%C3%A3o_XIV",
     "imageNote": "Retrato do Papa Leão XIV via Wikipédia/Wikimedia Commons.",
-    "religions": ["christianity"]
+    "religions": ["christianity", "only"]
   },
   {
     "id": "tomas-de-aquino",
@@ -3398,7 +3398,7 @@
     "role": "Presidente do Governo da Espanha",
     "category": "politico",
     "lifespan": "1972–",
-    "description": "Secretário-geral do PSOE e presidente do Governo espanhol desde 2018, Sánchez governa em coligação com a esquerda e apoio de independentistas catalães, promovendo memória histórica, aborto, eutanásia e regularização migratória, enquanto recusa elevar o gasto militar a 5% do PIB da OTAN.",
+    "description": "Líder do PSOE e presidente do Governo espanhol desde 2018, Sánchez governa em coligação com a esquerda e apoio de independentistas, promove aborto, eutanásia, regularização migratória e teto de 2% nos aluguéis, e recusa elevar o gasto militar a 5% do PIB da OTAN.",
     "imagePath": "/personalities/portraits/pedro-sanchez.jpg",
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://pt.wikipedia.org/wiki/Pedro_S%C3%A1nchez",
@@ -4144,7 +4144,7 @@
     "imageSourceName": "Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Papa_Leone_XIII_(3x4_cropped).jpeg",
     "imageNote": "Retrato do Papa Leão XIII via Wikimedia Commons.",
-    "religions": ["christianity"]
+    "religions": ["christianity", "only"]
   },
   {
     "id": "barao-do-rio-branco",
@@ -5015,7 +5015,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:The_late_Grand_Moufti.png",
     "imageNote": "Fotografia do início do século XX via Wikimedia Commons, convertida para JPG e comprimida para o catálogo.",
-    "religions": ["islam"]
+    "religions": ["islam", "only"]
   },
   {
     "id": "sayyid-qutb",
@@ -5028,7 +5028,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sayyid_Qutb.jpg",
     "imageNote": "Fotografia de Sayyid Qutb via Wikimedia Commons, comprimida para o catálogo.",
-    "religions": ["islam"]
+    "religions": ["islam", "only"]
   },
   {
     "id": "averroes",
@@ -5067,7 +5067,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jinnah1945c.jpg",
     "imageNote": "Fotografia de cerca de 1945 via Wikimedia Commons, comprimida para o catálogo.",
-    "religions": ["islam"]
+    "religions": ["islam", "only"]
   },
   {
     "id": "saladino",
@@ -5184,9 +5184,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Salvador_Dal%C3%AD_1939.jpg",
     "imageNote": "Retrato de Salvador Dalí via Wikipédia/Wikimedia Commons.",
-    "religions": [
-      "christianity"
-    ]
+    "religions": ["christianity"]
   },
   {
     "id": "pablo-picasso",
@@ -5238,9 +5236,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:13thDalaiLama1910.jpg",
     "imageNote": "Retrato de 13º Dalai Lama (Thubten Gyatso) via Wikipédia/Wikimedia Commons.",
-    "religions": [
-      "buddhism"
-    ]
+    "religions": ["buddhism", "only"]
   },
   {
     "id": "abraham-isaac-kook",
@@ -5253,9 +5249,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/Abraham_Isaac_Kook",
     "imageNote": "Retrato de Abraham Isaac Kook via Wikipédia/Wikimedia Commons.",
-    "religions": [
-      "judaism"
-    ]
+    "religions": ["judaism", "only"]
   },
   {
     "id": "auguste-blanqui",
@@ -5281,9 +5275,7 @@
     "imageSourceName": "Wikimedia Commons / Wikipédia",
     "imageSourceUrl": "https://en.wikipedia.org/wiki/S._W._R._D._Bandaranaike",
     "imageNote": "Retrato de S. W. R. D. Bandaranaike via Wikipédia/Wikimedia Commons.",
-    "religions": [
-      "buddhism"
-    ]
+    "religions": ["buddhism"]
   },
   {
     "id": "jose-ii-da-austria",
@@ -5309,8 +5301,110 @@
     "imageSourceName": "Wikimedia Commons",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:King_David,_the_King_of_Israel.jpg",
     "imageNote": "Pintura do Rei Davi com harpa via Wikimedia Commons; não existe retrato histórico dele.",
-    "religions": [
-      "judaism"
-    ]
+    "religions": ["judaism"]
+  },
+  {
+    "id": "olaf-scholz",
+    "name": "Olaf Scholz",
+    "role": "Ex-chanceler da Alemanha",
+    "category": "politico",
+    "lifespan": "1958–",
+    "description": "Social-democrata e chanceler alemão de 2021 a 2025, Scholz proclamou a Zeitenwende, com 100 bilhões de euros para as Forças Armadas e armas à Ucrânia, elevou o salário mínimo a 12 euros e defendeu o freio da dívida até o colapso da coalizão semáforo.",
+    "imagePath": "/personalities/portraits/olaf-scholz.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Olaf_Scholz_September_2024.jpg",
+    "imageNote": "Retrato de Olaf Scholz via Wikipédia/Wikimedia Commons.",
+    "religions": []
+  },
+  {
+    "id": "jimmy-carter",
+    "name": "Jimmy Carter",
+    "role": "Presidente dos Estados Unidos",
+    "category": "politico",
+    "lifespan": "1924–2024",
+    "description": "Presidente democrata e batista devoto (1977–81), Carter fez dos direitos humanos eixo da política externa, desregulou companhias aéreas e transportes, mediou Camp David, devolveu o Canal do Panamá e caiu com a crise dos reféns no Irã e a estagflação.",
+    "imagePath": "/personalities/portraits/jimmy-carter.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jimmy_Carter_Official_Portrait2_(3x4_cropped).jpg",
+    "imageNote": "Retrato de Jimmy Carter via Wikipédia/Wikimedia Commons.",
+    "religions": ["christianity"]
+  },
+  {
+    "id": "lyndon-b-johnson",
+    "name": "Lyndon B. Johnson",
+    "role": "Presidente dos Estados Unidos",
+    "category": "politico",
+    "lifespan": "1908–1973",
+    "description": "Presidente democrata de 1963 a 1969, Johnson lançou a Grande Sociedade e a guerra à pobreza, criou Medicare e Medicaid e sancionou as leis dos direitos civis e do voto, mas escalou a Guerra do Vietnã, que destruiu sua popularidade.",
+    "imagePath": "/personalities/portraits/lyndon-b-johnson.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lyndon_B._Johnson,_photo_portrait,_color_(3x4_cropped)(2).jpg",
+    "imageNote": "Retrato de Lyndon B. Johnson via Wikipédia/Wikimedia Commons.",
+    "religions": []
+  },
+  {
+    "id": "helmut-kohl",
+    "name": "Helmut Kohl",
+    "role": "Ex-chanceler da Alemanha",
+    "category": "politico",
+    "lifespan": "1930–2017",
+    "description": "Democrata-cristão da CDU e chanceler por 16 anos (1982–98), Kohl conduziu a reunificação alemã, aprofundou a integração europeia com o Tratado de Maastricht e o euro, fez reformas liberalizantes moderadas e caiu após o escândalo das doações secretas.",
+    "imagePath": "/personalities/portraits/helmut-kohl.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Helmut_Kohl_(1996)_cropped_(2).jpg",
+    "imageNote": "Retrato de Helmut Kohl via Wikipédia/Wikimedia Commons.",
+    "religions": ["christianity"]
+  },
+  {
+    "id": "mark-carney",
+    "name": "Mark Carney",
+    "role": "Primeiro-ministro do Canadá",
+    "category": "politico",
+    "lifespan": "1965–",
+    "description": "Ex-presidente dos bancos centrais do Canadá e da Inglaterra, Carney é primeiro-ministro liberal desde 2025: acabou com a taxa de carbono do consumidor, acelerou oleodutos e grandes obras, elevou gastos militares e retaliou as tarifas de Trump.",
+    "imagePath": "/personalities/portraits/mark-carney.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Carney_Argentina_v_Spain_19_July_2026-303_(3x4_close_up_cropped).jpg",
+    "imageNote": "Retrato de Mark Carney via Wikipédia/Wikimedia Commons.",
+    "religions": []
+  },
+  {
+    "id": "boris-johnson",
+    "name": "Boris Johnson",
+    "role": "Ex-primeiro-ministro do Reino Unido",
+    "category": "politico",
+    "lifespan": "1964–",
+    "description": "Conservador e líder do Brexit, primeiro-ministro de 2019 a 2022, Johnson tirou o Reino Unido da UE, armou a Ucrânia, elevou impostos e gasto público, abriu a imigração não europeia e caiu após o Partygate; hoje é colunista do Daily Mail.",
+    "imagePath": "/personalities/portraits/boris-johnson.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait_(cropped).jpg",
+    "imageNote": "Retrato de Boris Johnson via Wikipédia/Wikimedia Commons.",
+    "religions": []
+  },
+  {
+    "id": "james-cook",
+    "name": "James Cook",
+    "role": "Navegador e explorador britânico",
+    "category": "intelectual",
+    "lifespan": "1728–1779",
+    "description": "Oficial da Marinha britânica e cartógrafo, Cook liderou três expedições científicas ao Pacífico, mapeou a Nova Zelândia e a costa leste da Austrália, tomou posse de terras em nome da Coroa, combateu o escorbuto e morreu em confronto com havaianos.",
+    "imagePath": "/personalities/portraits/james-cook.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Captainjamescookportrait.jpg",
+    "imageNote": "Retrato de James Cook via Wikipédia/Wikimedia Commons.",
+    "religions": []
+  },
+  {
+    "id": "lachlan-macquarie",
+    "name": "Lachlan Macquarie",
+    "role": "Governador de Nova Gales do Sul",
+    "category": "politico",
+    "lifespan": "1762–1824",
+    "description": "Governador colonial de Nova Gales do Sul (1810–21), Macquarie substituiu o regime militar por obras públicas e urbanização, deu terras e cargos a condenados libertos e criou escolas para aborígenes, mas ordenou o massacre de Appin contra resistentes.",
+    "imagePath": "/personalities/portraits/lachlan-macquarie.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ln-Governor-Lachlan_macquarie.jpg",
+    "imageNote": "Retrato de Lachlan Macquarie via Wikipédia/Wikimedia Commons.",
+    "religions": ["christianity"]
   }
 ]

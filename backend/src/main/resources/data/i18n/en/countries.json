@@ -771,7 +771,7 @@
     "id": "armenia",
     "name": "Armenia",
     "category": "National-diasporic republic",
-    "description": "A semi-presidential republic in the Caucasus, Armenia combines Christian national identity, the memory of the 1915 genocide, and historical rivalry with Azerbaijan and Turkey, seeking balance between Russia, the West, and Iran."
+    "description": "A semi-presidential republic in the Caucasus, Armenia combines Christian national identity and historical rivalry with Azerbaijan and Turkey, seeking balance between Russia, the West, and Iran."
   },
   {
     "id": "georgia",
@@ -1102,5 +1102,11 @@
     "name": "Kingdom of Israel",
     "category": "Theocratic monarchy",
     "description": "A monarchy uniting the Hebrew tribes under Saul, David and Solomon, the Kingdom of Israel concentrated power in a king anointed by a prophet, with Jerusalem and the Temple as its religious center, the law of the Torah, tribal levies and expansion over its neighbors."
+  },
+  {
+    "id": "inglaterra",
+    "name": "England (United Kingdom)",
+    "category": "Liberal-conservative constituent country",
+    "description": "The largest constituent country of the United Kingdom, England is governed directly by Westminster with no parliament of its own, with an established Church of England, a public health service (NHS), a financial centre in London, a Brexit majority and a growing populist vote."
   }
 ]
