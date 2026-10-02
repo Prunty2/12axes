@@ -5406,5 +5406,18 @@
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ln-Governor-Lachlan_macquarie.jpg",
     "imageNote": "Retrato de Lachlan Macquarie via Wikipédia/Wikimedia Commons.",
     "religions": ["christianity"]
+  },
+  {
+    "id": "joh-bjelke-petersen",
+    "name": "Joh Bjelke-Petersen",
+    "role": "Primeiro-ministro de Queensland",
+    "category": "politico",
+    "lifespan": "1911–2005",
+    "description": "Primeiro-ministro de Queensland (1968–1987), defendeu a autonomia estadual, atraiu capital privado para mineração e obras, reprimiu protestos e sindicatos e vinculou seu conservadorismo moral à fé luterana.",
+    "imagePath": "/personalities/portraits/joh-bjelke-petersen.jpg",
+    "imageSourceName": "Wikimedia Commons / National Archives of Australia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Joh_Bjelke-Petersen_1968_(cropped).jpg",
+    "imageNote": "Retrato de 1968, Australian News and Information Bureau / National Archives of Australia; domínio público por expiração do copyright da Coroa. Recorte do Commons, recomprimido.",
+    "religions": ["christianity"]
   }
 ]
