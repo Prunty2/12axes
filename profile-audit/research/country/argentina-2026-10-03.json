@@ -178,13 +178,21 @@
   ],
   "validation": {
     "result": "passed",
-    "neutralAnswers": 2,
-    "neutralPercent": 0.8,
+    "neutralAnswers": 0,
+    "neutralPercent": 0,
     "warnings": [
-      "96.3% vector proximity to madrid",
-      "93.4% vector proximity to reino-unido",
-      "93.3% vector proximity to eua-washington-dc"
+      "96.1% vector proximity to madrid",
+      "94.2% vector proximity to rio-grande-do-sul",
+      "93.9% vector proximity to sao-paulo"
     ],
-    "review": "Avisos de proximidade foram revisados. As respostas foram derivadas independentemente, sem copiar outros perfis ou perseguir coordenadas. Apesar da proximidade no algoritmo, a Argentina difere de Madrid em 15,4 pontos na imigração, 16,9 na propriedade econômica e 14,8 no planejamento; o perfil não é duplicado."
+    "review": "Respostas derivadas independentemente do prompt completo salvo, sem ler respostas ou vetores anteriores. Avisos de proximidade revisados após calcular o vetor; diferenças por eixo verificadas, sem ajustes para perseguir coordenadas. Comparada a Madrid, a Argentina difere em 15,2 pontos na imigração, 15,7 na propriedade econômica, 16,0 no planejamento e 8,2 na moral; são perfis distintos."
+  },
+  "process": {
+    "prompt": "profile-audit/prompts/country/argentina.txt",
+    "promptSha256": "f31204243ca55bd52c3f7d33c5017ddd743f01dcfc58d50c2ee6868080ace0c5",
+    "output": "profile-audit/subagent-out/country/argentina.json",
+    "archive": "profile-audit/answers/country/argentina-reaudit-process-2026-10-03.json",
+    "history": "Todas as auditorias anteriores foram preservadas sem sobrescrever seus arquivos. O par temporário de exemplo foi substituído por Argentina, conforme o passo 7 do README.",
+    "religionsReview": "religiao=45.7; [] mantido por ser >35 e o país não ser definido por uma identidade religiosa."
   }
 }
