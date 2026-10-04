@@ -108,13 +108,13 @@
     "id": "fascismo",
     "name": "Fascism",
     "category": "Third Position",
-    "description": "Totalitarian ideology of ultranationalism that exalts the strong state, the cult of the leader, militarism, and mass mobilization, suppressing opposition and subordinating the corporatist economy to national goals.",
+    "description": "An ultranationalist doctrine of national rebirth that rejects liberalism and Marxism, exalts the totalitarian state, regenerative violence and the leader cult, and treats the nation as a secular religion, with variants beyond the Italian regime that named it.",
     "phrase": "I want a nation exalted under a strong state and a single leader, with militarism, mass mobilization and corporations serving the fatherland."
   },
   {
     "id": "nacional-socialismo",
     "name": "National Socialism",
-    "category": "Far-Right",
+    "category": "Third Position",
     "description": "German variant of fascism based on racism, antisemitism, and expansionism, which united totalitarianism, the cult of Hitler, and the idea of a superior race, culminating in World War II and the Holocaust.",
     "phrase": "I want a society based on the Aryan race, politically hierarchical and authoritarian, with a strong, protectionist state capitalism."
   },
@@ -745,8 +745,8 @@
     "id": "monarquismo-federalista",
     "name": "Federalist Monarchism",
     "category": "Right",
-    "description": "Monarchist current that defends a crown limited by a federal structure, with power divided between the sovereign and autonomous regions, combining symbolic unity and historical continuity with decentralization and local self-government.",
-    "phrase": "I want a crown that unites the nation symbolically, sharing power with autonomous regions that self-govern within a historic federation."
+    "description": "Current advocating a monarch who actually governs, as constitutional head of the executive or absolute sovereign, over a federation of states or regions with broad self-government, as in the German Empire of 1871, the United Arab Emirates, and Malaysia.",
+    "phrase": "I want a monarch who truly governs a federation of states with their own laws, dynasties, and self-rule, united by the crown and the faith."
   },
   {
     "id": "conservadorismo-libertario",
@@ -836,8 +836,8 @@
     "id": "tecno-monarquismo",
     "name": "Techno-Monarchism",
     "category": "Right",
-    "description": "Current that unites monarchy with technology and efficient management, proposing a sovereign who governs like an executive, supported by data and innovation, to give the state stability and long-term direction.",
-    "phrase": "I want a monarchy that governs like an executive, backed by data and innovation, giving the state stability and long-term direction."
+    "description": "A unitary variant of neoreaction: an absolute CEO-monarch rules a centralized state through data and security technology (surveillance, AI), under market capitalism, private property and free enterprise, for the sake of stability and efficiency.",
+    "phrase": "I want an absolute monarch with a CEO mindset ruling a unitary state through data and security technology while leaving the market free."
   },
   {
     "id": "progressismo-de-direita",
@@ -1060,8 +1060,8 @@
     "id": "aceleracionismo-de-esquerda",
     "name": "Left Accelerationism",
     "category": "Left",
-    "description": "Current formulated by Srnicek and Williams that seeks to accelerate automation and reclaim technology for the left, advocating the end of work, universal basic income and shorter working hours toward a post-capitalism of abundance.",
-    "phrase": "I want to accelerate automation and reclaim technology for the left, abolishing work with universal basic income toward post-capitalist abundance."
+    "description": "A post-capitalist techno-socialist synthesis accelerating AI, automation, and cybernetics to reduce compulsory work, socialize abundance, and plan an economy beyond capital; it combines universalism and decommodification with radically progressive social transformation.",
+    "phrase": "I want to accelerate AI and automation, socialize abundance, move beyond capitalism, and free life from compulsory work and traditional hierarchies."
   },
   {
     "id": "conservadorismo-americano",
@@ -1332,9 +1332,9 @@
   {
     "id": "neotomismo",
     "name": "Neo-Thomism",
-    "category": "Far-Right",
-    "description": "A neoreactionary current combining the thought of Thomas Aquinas with criticism of liberal democracy, egalitarianism, and progressivism. It grounds a hierarchical, traditional political order in natural law, objective morality, reason, and the common good, allowing for sovereign monarchical or centralized authority.",
-    "phrase": "I want a hierarchical political order based on natural law, tradition, and the common good, under sovereign authority independent of majority will."
+    "category": "Right",
+    "description": "Revival of Thomas Aquinas's thought from 1879 (Leo XIII), with Maritain and Gilson. It grounds politics in natural law, the common good and subsidiarity, favoring mixed government, property with a social function and just war, under Catholic faith.",
+    "phrase": "I want a political order guided by natural law and the common good, with mixed government and subsidiarity, where faith and reason inspire the laws."
   },
   {
     "id": "eurasianismo",
@@ -1572,5 +1572,229 @@
     "category": "Third Position",
     "description": "An Arab current of state socialism combining pan-Arab nationalism, a vanguard party, planning, land reform and control of strategic sectors, advocating Arab unity, secularism and independence from imperialism.",
     "phrase": "I want the Arab nation united by a revolutionary party, with state socialism, land reform, secularism and independence from imperialism."
+  },
+  {
+    "id": "islamismo",
+    "name": "Islamism",
+    "category": "Right",
+    "description": "Political movement advocating a state governed by sharia and Islamic identity, born with Hassan al-Banna's and Sayyid Qutb's Muslim Brotherhood, combining mass activism, religious social welfare and rejection of Western secularism.",
+    "phrase": "I want an Islamic society guided by sharia, with believers organized from the mosques and a zakat economy free of usury."
+  },
+  {
+    "id": "democracia-islamica",
+    "name": "Islamic Democracy",
+    "category": "Right",
+    "description": "Current reconciling Islam with electoral democracy through conservative religious parties that run in elections and support a market economy and Muslim values in public life, like Turkey's early AKP and Tunisia's Ennahda.",
+    "phrase": "I want a Muslim party that wins elections, protects family and faith in public life and makes the market economy grow."
+  },
+  {
+    "id": "socialismo-islamico",
+    "name": "Islamic Socialism",
+    "category": "Third Position",
+    "description": "Current grounding socialism in Islamic principles such as zakat, the ban on usury and Quranic social justice, combining anti-imperialism with a state-run economy, from Gaddafi's Third Universal Theory to Ali Shariati's thought.",
+    "phrase": "I want Quranic justice: the land belongs to God, zakat shares the wealth and the state runs the economy against usury and imperialism."
+  },
+  {
+    "id": "pan-islamismo",
+    "name": "Pan-Islamism",
+    "category": "Far-Right",
+    "description": "Ideology advocating the political unity of Muslims above national borders, around the ummah and the ideal of a caliphate, formulated by Jamal al-Din al-Afghani and adopted by Ottoman sultan Abdul Hamid II against European colonialism.",
+    "phrase": "I want the ummah united across borders under a caliphate, with Islamic law everywhere and the Muslim world free of Western domination."
+  },
+  {
+    "id": "nacionalismo-kemalista",
+    "name": "Kemalist Nationalism",
+    "category": "Third Position",
+    "description": "Doctrine of Mustafa Kemal Atatürk that founded modern Turkey on six arrows: republicanism, nationalism, populism, statism, laicism and reformism, imposing Westernization and state control of religion from above.",
+    "phrase": "I want a secular, modern Turkish republic, with religion under state control, one national identity and industry built by the state."
+  },
+  {
+    "id": "liberalismo-islamico",
+    "name": "Islamic Liberalism",
+    "category": "Center",
+    "description": "Reformist current that reinterprets Islam in light of reason, human rights and pluralism, advocating democracy, gender equality, a non-confessional state and freedom of conscience, in Muhammad Abduh's modernist tradition.",
+    "phrase": "I want to live my Islamic faith with reason and freedom, in a democratic, non-confessional state that ensures equality between men and women."
+  },
+  {
+    "id": "nacionalismo-budista",
+    "name": "Buddhist Nationalism",
+    "category": "Right",
+    "description": "A current fusing ethnic identity and Theravada Buddhist faith, seeing the nation as guardian of the Dharma threatened by minorities, as in Sinhalese nationalism in Sri Lanka and the Ma Ba Tha and 969 monk movements in Myanmar.",
+    "phrase": "I want a Buddhist nation that protects the Dharma and the majority, with influential monks, strong leaders, and minorities under watch."
+  },
+  {
+    "id": "sionismo",
+    "name": "Zionism",
+    "category": "Right",
+    "description": "A Jewish national movement founded by Herzl in 1897 that led to Israel in 1948. It spans labor, revisionist and religious currents and today is expressed in a parliamentary democracy with a strong military, the Law of Return and control of the West Bank.",
+    "phrase": "I want a strong democratic Jewish state in the land of Israel that welcomes every Jew, defends itself with its own arms and preserves Hebrew."
+  },
+  {
+    "id": "sionismo-trabalhista",
+    "name": "Labor Zionism",
+    "category": "Left",
+    "description": "The socialist strand of Zionism that built the State of Israel through the kibbutzim, the Histadrut labor federation, and Ben-Gurion's Mapai party, uniting Jewish nationalism, collective work on the land, and a secular welfare state.",
+    "phrase": "I want to build the Jewish nation with our own hands, in kibbutzim and strong unions, with public land and a secular welfare state."
+  },
+  {
+    "id": "feudalismo",
+    "name": "Feudalism",
+    "category": "Far-Right",
+    "description": "A medieval order based on personal bonds of vassalage between lord and vassals, with land granted as fiefs, a hereditary warrior nobility, serfs bound to the land, the Church as moral authority, and power fragmented among local lords.",
+    "phrase": "I want lords and vassals bound by fealty, the Church at the center, and each in their estate: those who pray, fight, or till."
+  },
+  {
+    "id": "tradicionalismo-carlista",
+    "name": "Carlist Traditionalism",
+    "category": "Far-Right",
+    "description": "A Spanish current of counter-revolutionary traditionalism, born in the 19th-century Carlist Wars under the motto God, Fatherland, Fueros and King, advocating a legitimist Catholic monarchy, religious unity, regional fueros and an organic society against liberalism.",
+    "phrase": "I want Catholic Spain under the rightful king, with regional fueros, estate-based cortes and guilds, against liberalism and centralism."
+  },
+  {
+    "id": "fascismo-clerical",
+    "name": "Clerical Fascism",
+    "category": "Third Position",
+    "description": "A variant of fascism that fuses ultranationalism, a mass party and militias with the authority of a national Church, with clergy in power, as in Dollfuss's Austrofascism, Father Tiso's Slovakia, the Croatian Ustaše and Romania's Iron Guard.",
+    "phrase": "I want a nation consecrated by the Church, with clergy in government, one party, faith militias and Christian corporations running the economy."
+  },
+  {
+    "id": "teocratismo-islamico",
+    "name": "Islamic Theocratism",
+    "category": "Far-Right",
+    "description": "A doctrine that hands the state to the Islamic clergy and makes sharia the supreme law, above popular sovereignty, as in Khomeini's guardianship of the jurist (velayat-e faqih) in Iran and the Taliban emirate in Afghanistan.",
+    "phrase": "I want God's sovereignty above the vote, with the religious jurist in command, sharia as the only law and an economy free of usury."
+  },
+  {
+    "id": "socialismo-blanquista",
+    "name": "Blanquist Socialism",
+    "category": "Radical Left",
+    "description": "Auguste Blanqui's doctrine that a conspiratorial revolutionary minority should seize power and rule through a provisional dictatorship that expropriates the bourgeoisie, with militant atheism and distrust of elections and of spontaneous mass action.",
+    "phrase": "I want an insurrectionary minority that storms Paris, imposes a provisional dictatorship against the bourgeoisie and the Church, and hands the wealth to the people."
+  },
+  {
+    "id": "socialismo-budista",
+    "name": "Buddhist Socialism",
+    "category": "Left",
+    "description": "A current that grounds socialism in Buddhist ethics, seeing compassion and the end of attachment as the basis of equality, common property and the rejection of caste, from Ambedkar and the Dalai Lama to Ne Win's Burmese socialism.",
+    "phrase": "I want a society of compassion without castes, with common land and resources and a state that cares for all without attachment to profit."
+  },
+  {
+    "id": "teocracia-budista",
+    "name": "Buddhist Theocracy",
+    "category": "Far-Right",
+    "description": "Rule by a Buddhist monastic hierarchy, with reincarnated leaders and monasteries dominating politics and land, traditional order and moral precepts as law, as in the Tibet of the Dalai Lama before 1950.",
+    "phrase": "I want a society ruled by the sangha, with reincarnated lamas in command, the five precepts as law and the traditional order above elections."
+  },
+  {
+    "id": "monarquismo-iluminista",
+    "name": "Enlightened Monarchism",
+    "category": "Right",
+    "description": "Enlightened absolutism: a sovereign monarch who rules by reason, \"everything for the people, nothing by the people\", with a bureaucracy of experts, education and reforms against the Church and the nobility, from Frederick II to Joseph II.",
+    "phrase": "I want an enlightened monarch, first servant of the state, reforming by reason with sages and tolerance: everything for the people, nothing by the people."
+  },
+  {
+    "id": "teocracia-judaica",
+    "name": "Jewish Theocracy",
+    "category": "Far-Right",
+    "description": "Government ruled by the Torah and halakha, with rabbinical courts, judges or kings under religious authority, Judaism as the state religion and rejection of assimilation, inspired by the biblical kingdoms of Israel and Judah.",
+    "phrase": "I want a state ruled by the Torah and halakha, with rabbinical courts, judges or a king under God's law, and family landholdings."
+  },
+  {
+    "id": "municipalismo",
+    "name": "Municipalism",
+    "category": "Libertarian",
+    "description": "A world divided into independent city-states and microstates that compete like a market, with free secession, the right of exit and political experimentation, from the medieval free cities to Yarvin's \"patchwork\" and seasteading.",
+    "phrase": "I want thousands of sovereign city-states competing for residents, with free secession, the right of exit and each city choosing its own laws."
+  },
+  {
+    "id": "comunismo-de-conselhos",
+    "name": "Council Communism",
+    "category": "Radical Left",
+    "description": "An anti-Leninist Marxist current of Pannekoek, Gorter and Mattick, which holds that workers themselves should run production and power through workers' councils, rejecting the vanguard party, the state and parliamentarism.",
+    "phrase": "I want workers' councils running factories and power through recallable mandates, with no vanguard party, no state and no wage labor."
+  },
+  {
+    "id": "confederalismo-democratico",
+    "name": "Democratic Confederalism",
+    "category": "Left",
+    "description": "A bottom-up self-government model of Abdullah Öcalan, with local assemblies federated into a confederation, ecology, gender equality and a cooperative economy, without a nation-state, put into practice in Rojava.",
+    "phrase": "I want local communes and assemblies federated into a confederation, with gender equality, ecology, a cooperative economy and self-defense, without a nation-state."
+  },
+  {
+    "id": "tradicionalismo",
+    "name": "Traditionalism",
+    "category": "Far-Right",
+    "description": "A current of René Guénon and Julius Evola that sees modernity as the decay of a universal spiritual tradition, defending sacred hierarchy, castes, initiatory order and the primacy of spirit over economics and mass politics.",
+    "phrase": "I want a sacred hierarchical order of castes and initiates that puts spirit above money and mass politics, against modernity."
+  },
+  {
+    "id": "aceleracionismo-efetivo",
+    "name": "Effective Accelerationism",
+    "category": "Libertarian",
+    "description": "A movement born online in 2022 that argues for accelerating AI, energy and innovation through the market and without regulation, treating technological progress as a moral imperative and rejecting advocates of slowing down.",
+    "phrase": "I want to accelerate AI, energy and innovation through the free market, with no regulation or degrowth, treating technological progress as a moral duty."
+  },
+  {
+    "id": "democracia-direta",
+    "name": "Direct Democracy",
+    "category": "Center",
+    "description": "A system in which citizens decide laws directly through referendums, popular initiatives, assemblies and recall of officials, instead of delegating to representatives, as in the Swiss cantons and classical Athens.",
+    "phrase": "I want citizens to decide laws through referendums, popular initiatives and recall of officials, with power decentralized to municipalities and cantons."
+  },
+  {
+    "id": "iluminismo-sombrio",
+    "name": "Dark Enlightenment",
+    "category": "Far-Right",
+    "description": "A intellectual current of Nick Land and Curtis Yarvin that attacks democracy, egalitarianism and the academic-media \"Cathedral\", defends autocratic government and exit, and harbors strands of race realism and accelerationism.",
+    "phrase": "I want to replace democracy and egalitarianism with strong sovereigns, natural hierarchy and free microstates that speed up technology, beyond the Cathedral."
+  },
+  {
+    "id": "neocameralismo",
+    "name": "Neocameralism",
+    "category": "Right",
+    "description": "A doctrine of Curtis Yarvin that proposes running the state as a joint-stock company: shareholders, a sovereign CEO, citizens as customers who can leave, guaranteed private property and politics replaced by management.",
+    "phrase": "I want a state run as a company, with shareholders and a sovereign CEO, no politics or elections, where citizens are customers free to leave."
+  },
+  {
+    "id": "tridemismo",
+    "name": "Tridemism",
+    "category": "Center",
+    "description": "Sun Yat-sen's republican doctrine, articulated in the Three Principles of the People: nationalism, democracy, and the people's livelihood. Its program envisioned transitional political tutelage, popular sovereignty, and social and economic reforms.",
+    "phrase": "I want to free the nation, entrust political power to the people after revolutionary tutelage, and secure their livelihood through national development."
+  },
+  {
+    "id": "posmodernismo",
+    "name": "Postmodernism",
+    "category": "Left",
+    "description": "A plural critique of universalism, linear progress, and grand narratives. In a Foucauldian reading, genealogy and power/knowledge analysis show how institutions, norms, and discourses produce subjects and open possibilities for local resistance.",
+    "phrase": "I want to show how power and knowledge produce truths and subjects, challenge norms that discipline life, and make room for local resistance."
+  },
+  {
+    "id": "socialismo-chines",
+    "name": "Chinese Socialism",
+    "category": "Radical Left",
+    "description": "21st-century doctrine of the CPC associated with Xi Jinping. It combines centralized Party leadership and socialist modernization, advocating national rejuvenation, predominant public ownership, and a socialist market with private enterprise and technological innovation.",
+    "phrase": "I want to modernize China under Party leadership, combine planning and markets, and pursue common prosperity through technological self-reliance."
+  },
+  {
+    "id": "nacionalismo-de-esquerda",
+    "name": "Left-Wing Nationalism",
+    "category": "Esquerda",
+    "description": "Combines national self-determination and popular sovereignty with social equality and left-wing economic policies. Its historical expressions range from anticolonial and socialist to developmentalist movements, without a single economic or institutional program.",
+    "phrase": "I want to join national self-determination with social equality, use the state to develop the economy, and secure popular participation and social rights."
+  },
+  {
+    "id": "nacionalismo-de-direita",
+    "name": "Right-Wing Nationalism",
+    "category": "Right",
+    "description": "Prioritizes national sovereignty, identity, and cohesion, associating them with right-wing positions such as social hierarchy, cultural conservatism, or immigration restriction. Currents vary in their views of the state and economy, from free markets to national protectionism.",
+    "phrase": "I want to defend sovereignty, protect national borders and customs, safeguard domestic production, and strengthen collective defense."
+  },
+  {
+    "id": "republicanismo-maquiavelico",
+    "name": "Machiavellian Republicanism",
+    "category": "Right",
+    "description": "A republican current inspired by Machiavelli’s Discourses on Livy. It defends civic liberty through laws, popular participation, and regulated conflict among social groups, allowing exceptional measures to preserve the republic.",
+    "phrase": "I want to protect republican liberty through laws and popular participation, restrain elite domination, and preserve collective independence."
   }
 ]

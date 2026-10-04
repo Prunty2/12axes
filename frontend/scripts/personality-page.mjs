@@ -4,9 +4,9 @@
 // personalidades e países pela mesma fórmula do backend (profile-match.mjs).
 import { ARROW, CATEGORY_KEY, SPECTRUM } from './ideologies-index.mjs';
 import { AREA_LABELS, catalogHead, initials } from './personalities-index.mjs';
-import { dimensionMatches, rank } from './profile-match.mjs';
+import { dimensionMatches, rank, religionVisibility } from './profile-match.mjs';
 import { AXIS_EXPLANATIONS } from './app-strings.mjs';
-import { poleSprite, poleUse } from './pole-icons.mjs';
+import { poleSprite, poleUse, profileReligion, religionPoleUse } from './pole-icons.mjs';
 
 const STR = {
   pt: {
@@ -15,7 +15,6 @@ const STR = {
     homeAria: '12 axes, página inicial',
     takeTheTest: 'Fazer o teste',
     kpiSpectrum: 'Espectro mais próximo',
-    kpiAssociated: 'Ideologia associada',
     kpiClosestIdeology: 'Ideologia mais próxima',
     kpiClosestPerson: 'Personalidade mais próxima',
     portraitAlt: (name) => `Retrato de ${name}`,
@@ -61,7 +60,6 @@ const STR = {
     homeAria: '12 axes, home page',
     takeTheTest: 'Take the test',
     kpiSpectrum: 'Closest spectrum',
-    kpiAssociated: 'Associated ideology',
     kpiClosestIdeology: 'Closest ideology',
     kpiClosestPerson: 'Closest personality',
     portraitAlt: (name) => `Portrait of ${name}`,
@@ -169,8 +167,9 @@ const AXIS_INFO = {
 // Barras dos 12 eixos, iguais às da tela de resultados (AxesSection.tsx):
 // ícones de polo preenchidos, cinza quando equilibrado e helper "?" que abre
 // a explicação do eixo (texto do i18n do app).
-export function axisRowsHtml(L, vector, esc, locale) {
+export function axisRowsHtml(L, vector, esc, locale, religions = []) {
   const info = AXIS_INFO[locale];
+  const religion = profileReligion(religions);
   return L.axes
     .map((axis) => {
       const left = Math.max(0, Math.min(100, vector[axis.id] ?? 50));
@@ -186,7 +185,7 @@ export function axisRowsHtml(L, vector, esc, locale) {
       const sheetTitle = balanced ? esc(level) : `<span>${pct(leftWins ? left : right)}%</span> ${esc(pole)}`;
       const fill = `<i style="width:${(dist * 2).toFixed(0)}%"></i>`;
       const helper = `<button class="axis-info" type="button" aria-label="${esc(info.aria(axis.label))}" data-label="${esc(axis.label)}" data-title="${esc(sheetTitle)}" data-text="${esc(AXIS_EXPLANATIONS[locale][axis.id] ?? '')}" data-ac="${ac}">${INFO_ICON}</button>`;
-      return `<li class="axis-row" style="--ac:${ac};--al:${axis.leftColor};--ar:${axis.rightColor}"><div class="axis-row-head"><div class="axis-title"><h3>${esc(axis.label)}</h3>${helper}</div><span class="itag"><span class="idot"></span>${esc(tag)}</span></div><div class="axis-bar"><div class="pole left${leftWins ? ' win' : ''}">${poleUse(axis.id, 'left', ' class="pico" width="18" height="18"')}<span><b>${esc(axis.leftPole)}</b><em>${pct(left)}%</em></span></div><div class="atrack" role="img" aria-label="${esc(`${axis.label}: ${axis.leftPole} ${pct(left)}%, ${axis.rightPole} ${pct(right)}%`)}"><div class="ahalf l">${leftWins ? fill : ''}</div><div class="ahalf r">${rightWins ? fill : ''}</div><span class="amid"></span><span class="adot" style="left:${right.toFixed(1)}%"></span></div><div class="pole right${rightWins ? ' win' : ''}"><span><b>${esc(axis.rightPole)}</b><em>${pct(right)}%</em></span>${poleUse(axis.id, 'right', ' class="pico" width="18" height="18"')}</div></div></li>`;
+      return `<li class="axis-row" style="--ac:${ac};--al:${axis.leftColor};--ar:${axis.rightColor}"><div class="axis-row-head"><div class="axis-title"><h3>${esc(axis.label)}</h3>${helper}</div><span class="itag"><span class="idot"></span>${esc(tag)}</span></div><div class="axis-bar"><div class="pole left${leftWins ? ' win' : ''}">${poleUse(axis.id, 'left', ' class="pico" width="18" height="18"')}<span><b>${esc(axis.leftPole)}</b><em>${pct(left)}%</em></span></div><div class="atrack" role="img" aria-label="${esc(`${axis.label}: ${axis.leftPole} ${pct(left)}%, ${axis.rightPole} ${pct(right)}%`)}"><div class="ahalf l">${leftWins ? fill : ''}</div><div class="ahalf r">${rightWins ? fill : ''}</div><span class="amid"></span><span class="adot" style="left:${right.toFixed(1)}%"></span></div><div class="pole right${rightWins ? ' win' : ''}"><span><b>${esc(axis.rightPole)}</b><em>${pct(right)}%</em></span>${axis.id === 'religiao' && religion ? religionPoleUse(religion, ' class="pico" width="18" height="18" aria-hidden="true"') : poleUse(axis.id, 'right', ' class="pico" width="18" height="18"')}</div></div></li>`;
     })
     .join('');
 }
@@ -208,15 +207,15 @@ export function personalityPage(L, personality, ctx) {
     `<img class="${cls}" src="${src}" alt="${esc(alt)}" loading="lazy" decoding="async" data-i="${esc(initials(who))}">`;
 
   // ── ideologias ──
-  const rankedIdeologies = rank(vector, L.ideologies, (i) => profiles.ideology.get(i.id));
-  const associated = L.ideologiesByPersonality.get(personality.id) ?? [];
+  const visible = religionVisibility(personality);
+  const rankedIdeologies = rank(vector, L.ideologies.filter(visible), (i) => profiles.ideology.get(i.id));
   const topIdeology = rankedIdeologies[0];
   const otherIdeologies = rankedIdeologies.slice(0, 3);
   const distantIdeology = rankedIdeologies[rankedIdeologies.length - 1];
   const spec = spectrumOf(topIdeology.item.category);
 
   // ── personalidades ──
-  const others = L.personalities.filter((p) => p.id !== personality.id);
+  const others = L.personalities.filter((p) => p.id !== personality.id && visible(p));
   const personVector = (p) => profiles.personality.get(p.id);
   const rankedPeople = rank(vector, others, personVector);
   const topPerson = rankedPeople[0];
@@ -228,7 +227,7 @@ export function personalityPage(L, personality, ctx) {
   // ── países (atual x histórico, como na tela de resultado) ──
   const countryVector = (c) => profiles.country.get(c.id);
   const countryGroups = [false, true].map((historical) => {
-    const pool = L.countries.filter((c) => Boolean(c.historical) === historical);
+    const pool = L.countries.filter((c) => Boolean(c.historical) === historical && visible(c));
     const ranked = rank(vector, pool, countryVector);
     const top = ranked[0];
     return {
@@ -241,7 +240,7 @@ export function personalityPage(L, personality, ctx) {
 
   const { rare, common, rarePct, rarePole } = distinctive(L.axes, vector, profiles.personality);
   const mbar = (d, strong) => mbarHtml(d, strong, t.median, name, esc);
-  const axisRows = axisRowsHtml(L, vector, esc, locale);
+  const axisRows = axisRowsHtml(L, vector, esc, locale, personality.religions);
 
   const catVars = (category) => {
     const s = spectrumOf(category);
@@ -285,10 +284,6 @@ export function personalityPage(L, personality, ctx) {
       <p class="sub">${esc(t.distantIdeology)}</p>
       <a class="distant" href="${prefix}/ideologies/${distantIdeology.item.id}"><strong>${esc(distantIdeology.item.name)}</strong><span class="tag" style="background:${distSpec.cb};color:${distSpec.c}">${esc(distantIdeology.item.category)}</span><span>${pct(distantIdeology.score)}%</span></a>
     </div>`;
-
-  const kpiIdeology = associated[0]
-    ? [t.kpiAssociated, associated[0].name]
-    : [t.kpiClosestIdeology, topIdeology.item.name];
 
   const credit = personality.imageSourceUrl
     ? `<figcaption><a href="${esc(personality.imageSourceUrl)}" rel="noopener nofollow" target="_blank">${esc(personality.imageSourceName || L.s.imageSource)}</a></figcaption>`
@@ -340,8 +335,8 @@ ${poleSprite(L.axes)}
       <p class="lead">${esc(personality.description)}</p>
       <dl class="kpis">
         <div><dt>${esc(t.kpiSpectrum)}</dt><dd class="c">${esc(topIdeology.item.category)}</dd></div>
-        <div><dt>${esc(kpiIdeology[0])}</dt><dd>${esc(kpiIdeology[1])}</dd></div>
-        <div><dt>${esc(t.kpiClosestPerson)}</dt><dd>${esc(tp.name)}</dd></div>
+        <div><dt>${esc(t.kpiClosestIdeology)}</dt><dd><a href="${prefix}/ideologies/${topIdeology.item.id}">${esc(topIdeology.item.name)}</a></dd></div>
+        <div><dt>${esc(t.kpiClosestPerson)}</dt><dd><a href="${personHref(tp)}">${esc(tp.name)}</a></dd></div>
       </dl>
     </div>
     <figure class="ph-img"><img src="${personality.imagePath}" alt="${esc(t.portraitAlt(name))}" data-i="${esc(initials(name))}">${credit}</figure>
@@ -466,7 +461,7 @@ h3{font-size:20px;letter-spacing:-.01em;line-height:1.25}
 .phero .lead{font-size:16.5px;max-width:620px}
 .kpis{display:grid;grid-template-columns:repeat(3,1fr);margin-top:26px;border-top:1px solid var(--borda)}
 .kpis div{padding:14px 16px 0 0}.kpis div+div{padding-left:16px;border-left:1px solid var(--borda)}
-.kpis dt{font-size:12px;color:var(--texto-suave)}.kpis dd{font-family:var(--font-display);font-weight:600;font-size:17px;line-height:1.25;margin-top:2px}.kpis dd.c{color:var(--cat)}
+.kpis dt{font-size:12px;color:var(--texto-suave)}.kpis dd{font-family:var(--font-display);font-weight:600;font-size:17px;line-height:1.25;margin-top:2px}.kpis dd.c{color:var(--cat)}.kpis dd a{color:inherit;text-decoration:none}.kpis dd a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}.kpis dd a:focus-visible{outline:2px solid var(--cat);outline-offset:3px;border-radius:2px}
 .ph-img{margin:0;align-self:stretch;position:relative;background:var(--cat-bg);min-height:340px}
 .ph-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 20%}
 .ph-img figcaption{position:absolute;right:10px;bottom:10px;font-size:11px;color:#fff;background:rgba(16,16,16,.55);padding:3px 8px;border-radius:999px}

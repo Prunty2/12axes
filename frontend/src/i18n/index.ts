@@ -64,6 +64,16 @@ interface Strings {
   loadingQuiz: string;
   loadingResult: string;
   tryAgain: string;
+  crashTitle: string;
+  crashBody: string;
+  crashBodyWithProgress: string;
+  crashReload: string;
+  resumeEyebrow: string;
+  resumeTitle: string;
+  resumeBody: (answered: number, total: number) => string;
+  resumeContinue: string;
+  resumeDiscard: string;
+  resumeUnavailable: string;
   skipToContent: string;
   backToStartAria: string;
   mainNavAria: string;
@@ -78,6 +88,13 @@ interface Strings {
   langToggleLabel: string;
   langToggleAria: string;
   redoQuiz: string;
+  religionLabel: string;
+  religionQuestion: string;
+  religionNone: string;
+  religionNames: Record<'christianity' | 'judaism' | 'islam' | 'buddhism', string>;
+  denominationLabel: string;
+  denominationQuestion: string;
+  denominationNames: Record<'catholic' | 'protestant' | 'orthodox', string>;
   restartQuiz: string;
   heroEyebrow: string;
   h1Pre: string;
@@ -96,6 +113,27 @@ interface Strings {
   personalityInfoAria: (name: string) => string;
   closenessTitle: string;
   closenessYou: string;
+  compareEyebrow: string;
+  compareTitle: string;
+  compareLead: string;
+  compareSearchLabel: string;
+  compareSearchPlaceholder: string;
+  compareView: string;
+  compareAxesTitle: string;
+  compareNoResults: string;
+  compareLoading: string;
+  compareLoadError: string;
+  compareTypeLabels: Record<'personality' | 'country' | 'ideology', string>;
+  compareAxisAdverbs: Partial<Record<string, string>>;
+  compareClosestLine: (adverb: string, name: string) => string;
+  compareFarthestLine: (adverb: string, name: string) => string;
+  compareClosestFallback: (axis: string, name: string) => string;
+  compareFarthestFallback: (axis: string, name: string) => string;
+  compareIdentical: (name: string) => string;
+  compareNearestLine: (axis: string, name: string) => string;
+  compareNoFarLine: (name: string) => string;
+  compareValues: (pole: string, you: number, them: number, name: string) => string;
+  compareOptionAria: (name: string, type: string) => string;
   homeAxes: Record<string, { label: string; leftPole: string; rightPole: string }>;
   spectrumItems: { id: string; label: string; tone: string; description: string }[];
   faqItems: { question: string; answer: string }[];
@@ -123,7 +161,6 @@ interface Strings {
   menuAria: string;
   roseAria: string;
   spectrumBarAria: string;
-  footerTagline: string;
   versionsEyebrow: string;
   versionsTitle: string;
   versionsLead: string;
@@ -217,6 +254,30 @@ interface Strings {
   share: string;
   saveOrShare: string;
   generatingPng: string;
+  downloadPdf: string;
+  generatingPdf: string;
+  report: {
+    fileName: string;
+    docLabel: string;
+    profileEyebrow: string;
+    headerLabel: (ideology: string) => string;
+    kpiCountry: string;
+    kpiPersonality: string;
+    kpiAxes: string;
+    kpiAnswered: (count: number) => string;
+    tocTitle: string;
+    generatedOn: (date: string) => string;
+    axesIntro: string;
+    intensityLegend: string;
+    intensityLevels: [string, string, string, string];
+    alsoClose: string;
+    continued: string;
+    areasIntro: string;
+    booksIntro: string;
+    aboutTitle: string;
+    aboutText: string;
+    ctaTitle: string;
+  };
   shareFilePrefix: string;
   shareMessage: (
     ideology: string,
@@ -263,6 +324,9 @@ interface Strings {
   ossBarText: string;
   ossGithubCta: string;
   ossIssueCta: string;
+  feedbackTitle: string;
+  feedbackReport: string;
+  feedbackSuggest: string;
   supportTitleEm: string;
   supportLead: string;
   supportPrivacyNote: string;
@@ -284,6 +348,16 @@ const pt: Strings = {
   loadingQuiz: 'Carregando quiz...',
   loadingResult: 'Carregando resultado...',
   tryAgain: 'Tentar novamente',
+  crashTitle: 'Algo deu errado',
+  crashBody: 'A página encontrou um erro inesperado. Recarregue para tentar de novo.',
+  crashBodyWithProgress: 'A página encontrou um erro inesperado, mas suas respostas estão guardadas. Recarregue e escolha continuar de onde parou.',
+  crashReload: 'Recarregar a página',
+  resumeEyebrow: 'Quiz em andamento',
+  resumeTitle: 'Continue de onde parou',
+  resumeBody: (answered, total) => `Você já respondeu ${answered} de ${total} perguntas. Suas respostas estão guardadas neste navegador.`,
+  resumeContinue: 'Continuar',
+  resumeDiscard: 'Começar de novo',
+  resumeUnavailable: 'Não foi possível retomar o quiz anterior. Comece um novo.',
   skipToContent: 'Pular para o conteúdo',
   backToStartAria: 'Voltar para o início',
   mainNavAria: 'Navegação principal',
@@ -298,6 +372,13 @@ const pt: Strings = {
   langToggleLabel: 'EN',
   langToggleAria: 'Switch to English',
   redoQuiz: 'Refazer quiz',
+  religionLabel: 'Religião',
+  religionQuestion: 'Você segue alguma religião? Usamos isso só para ajustar as recomendações.',
+  religionNone: 'Sem religião',
+  religionNames: { christianity: 'Cristianismo', judaism: 'Judaísmo', islam: 'Islamismo', buddhism: 'Budismo' },
+  denominationLabel: 'Vertente cristã',
+  denominationQuestion: 'Qual é a sua vertente cristã? Usamos isso só para ajustar as recomendações.',
+  denominationNames: { catholic: 'Católica', protestant: 'Protestante', orthodox: 'Ortodoxa' },
   restartQuiz: 'Reiniciar quiz',
   heroEyebrow: 'Descoberta política',
   h1Pre: 'Você sabe mesmo qual é a sua ',
@@ -338,6 +419,35 @@ const pt: Strings = {
   personalityInfoAria: (name) => `Ver detalhes de ${name}`,
   closenessTitle: 'O que te aproxima',
   closenessYou: 'Você',
+  compareEyebrow: 'Análise comparativa',
+  compareTitle: 'Compare-se com qualquer perfil',
+  compareLead: 'Escolha uma personalidade, país ou ideologia e veja, eixo por eixo, onde você se aproxima ou se afasta.',
+  compareSearchLabel: 'Buscar perfil para comparar',
+  compareSearchPlaceholder: 'Busque uma personalidade, país ou ideologia',
+  compareView: 'Visualizar',
+  compareAxesTitle: 'Seus 12 eixos',
+  compareNoResults: 'Nenhum perfil encontrado.',
+  compareLoading: 'Comparando…',
+  compareLoadError: 'Não foi possível carregar a comparação. Tente de novo.',
+  compareTypeLabels: { personality: 'Personalidade', country: 'País', ideology: 'Ideologia' },
+  compareAxisAdverbs: {
+    estrutura: 'estruturalmente',
+    economia: 'economicamente',
+    comercio: 'comercialmente',
+    religiao: 'religiosamente',
+    moral: 'moralmente',
+    tecnologia: 'tecnologicamente',
+    diplomacia: 'diplomaticamente'
+  },
+  compareClosestLine: (adverb, name) => `Você é ${adverb} compatível com ${name}.`,
+  compareFarthestLine: (adverb, name) => `Você é ${adverb} distante de ${name}.`,
+  compareClosestFallback: (axis, name) => `Em ${axis}, você é compatível com ${name}.`,
+  compareFarthestFallback: (axis, name) => `Em ${axis}, você é distante de ${name}.`,
+  compareIdentical: (name) => `Você e ${name} têm posições praticamente idênticas em todos os eixos.`,
+  compareNearestLine: (axis, name) => `Seu eixo mais próximo de ${name} é ${axis}.`,
+  compareNoFarLine: (name) => `Nenhum eixo está muito distante de ${name}.`,
+  compareValues: (pole, you, them, name) => `${pole}: você ${you}% · ${name} ${them}%.`,
+  compareOptionAria: (name, type) => `${name}, ${type}`,
   axisExplanations: {
     estrutura:
       'Mede se você prefere poder distribuído entre estados, municípios e comunidades locais ou um Estado nacional unitário com leis e comando mais uniformes.',
@@ -523,7 +633,6 @@ const pt: Strings = {
   menuAria: 'Abrir menu',
   roseAria: 'Rosa dos 12 eixos',
   spectrumBarAria: 'Barra do espectro político com as oito categorias',
-  footerTagline: 'Quiz político independente · 12axes.vercel.app',
   versionsEyebrow: 'Versões',
   versionsTitle: 'Escolha a profundidade',
   versionsLead:
@@ -635,6 +744,30 @@ const pt: Strings = {
   share: 'Compartilhar',
   saveOrShare: 'Compartilhar resultado',
   generatingPng: 'Gerando PNG...',
+  generatingPdf: 'Gerando PDF...',
+  downloadPdf: 'Download PDF',
+  report: {
+    fileName: '12axes-relatorio',
+    docLabel: 'Relatório completo',
+    profileEyebrow: 'Seu perfil ideológico',
+    headerLabel: (ideology) => `Relatório do perfil político · ${ideology}`,
+    kpiCountry: 'País mais próximo',
+    kpiPersonality: 'Personalidade',
+    kpiAxes: 'Eixos analisados',
+    kpiAnswered: (count) => `${count} perguntas respondidas`,
+    tocTitle: 'Neste relatório',
+    generatedOn: (date) => `Gerado em ${date}`,
+    axesIntro: 'Sua posição em cada um dos 12 eixos. A barra parte do centro (50%) em direção ao polo para onde você pende; o selo indica a intensidade.',
+    intensityLegend: 'Intensidade',
+    intensityLevels: ['Equilibrado · até 57%', 'Inclinado · 58 a 72%', 'Forte · 73 a 87%', 'Muito forte · 88% ou mais'],
+    alsoClose: 'Também próximos, por dimensão do seu perfil',
+    continued: 'continuação',
+    areasIntro: 'As personalidades do catálogo cujo perfil nos 12 eixos mais se parece com o seu.',
+    booksIntro: 'Uma obra de cada uma das personalidades mais próximas dos seus resultados. Links na versão online do resultado.',
+    aboutTitle: 'Sobre este relatório',
+    aboutText: 'O 12 Axes compara suas respostas com perfis de ideologias, países e personalidades nos mesmos 12 eixos. A compatibilidade mede proximidade entre perfis; não é diagnóstico científico nem rótulo definitivo. Suas respostas não são armazenadas.',
+    ctaTitle: 'Refaça o teste ou compartilhe'
+  },
   shareFilePrefix: '12axes-perfil',
   shareMessage: (ideology, ideologyPct, country, countryPct, personality, personalityPct) =>
     `Descobri meu perfil ideológico no Quiz Político 12 Axes!\n\n` +
@@ -687,6 +820,9 @@ const pt: Strings = {
   ossBarText: 'Leia o código, audite os dados e contribua pelo GitHub.',
   ossGithubCta: 'Ver no GitHub',
   ossIssueCta: 'Sugerir melhoria',
+  feedbackTitle: 'Encontrou um problema ou tem uma ideia?',
+  feedbackReport: 'Reportar um problema',
+  feedbackSuggest: 'Sugerir melhorias',
   supportTitleEm: 'Apoie',
   supportLead:
     'O 12 Axes é independente e gratuito. Se o teste te ajudou a entender melhor sua ideologia política, considere fazer uma doação via Pix ou criptomoedas para manter o projeto no ar.',
@@ -736,6 +872,16 @@ const en: Strings = {
   loadingQuiz: 'Loading quiz...',
   loadingResult: 'Loading results...',
   tryAgain: 'Try again',
+  crashTitle: 'Something went wrong',
+  crashBody: 'The page hit an unexpected error. Reload to try again.',
+  crashBodyWithProgress: 'The page hit an unexpected error, but your answers are saved. Reload and choose to continue where you left off.',
+  crashReload: 'Reload the page',
+  resumeEyebrow: 'Quiz in progress',
+  resumeTitle: 'Pick up where you left off',
+  resumeBody: (answered, total) => `You have answered ${answered} of ${total} questions. Your answers are saved in this browser.`,
+  resumeContinue: 'Continue',
+  resumeDiscard: 'Start over',
+  resumeUnavailable: 'The previous quiz could not be resumed. Please start a new one.',
   skipToContent: 'Skip to content',
   backToStartAria: 'Back to start',
   mainNavAria: 'Main navigation',
@@ -750,6 +896,13 @@ const en: Strings = {
   langToggleLabel: 'PT',
   langToggleAria: 'Mudar para português',
   redoQuiz: 'Retake quiz',
+  religionLabel: 'Religion',
+  religionQuestion: 'Do you follow a religion? We only use this to tailor your recommendations.',
+  religionNone: 'No religion',
+  religionNames: { christianity: 'Christianity', judaism: 'Judaism', islam: 'Islam', buddhism: 'Buddhism' },
+  denominationLabel: 'Christian tradition',
+  denominationQuestion: 'Which Christian tradition do you follow?',
+  denominationNames: { catholic: 'Catholic', protestant: 'Protestant', orthodox: 'Orthodox' },
   restartQuiz: 'Restart quiz',
   heroEyebrow: 'Political discovery',
   h1Pre: 'Do you really know your ',
@@ -790,6 +943,33 @@ const en: Strings = {
   personalityInfoAria: (name) => `See details about ${name}`,
   closenessTitle: 'What brings you closer',
   closenessYou: 'You',
+  compareEyebrow: 'Comparative analysis',
+  compareTitle: 'Compare yourself with any profile',
+  compareLead: 'Pick a personality, country or ideology and see, axis by axis, where you are close or far apart.',
+  compareSearchLabel: 'Search a profile to compare',
+  compareSearchPlaceholder: 'Search a personality, country or ideology',
+  compareView: 'View',
+  compareAxesTitle: 'Your 12 axes',
+  compareNoResults: 'No profiles found.',
+  compareLoading: 'Comparing…',
+  compareLoadError: 'Could not load the comparison. Please try again.',
+  compareTypeLabels: { personality: 'Personality', country: 'Country', ideology: 'Ideology' },
+  compareAxisAdverbs: {
+    estrutura: 'structurally',
+    economia: 'economically',
+    moral: 'morally',
+    tecnologia: 'technologically',
+    diplomacia: 'diplomatically'
+  },
+  compareClosestLine: (adverb, name) => `You are ${adverb} compatible with ${name}.`,
+  compareFarthestLine: (adverb, name) => `You are ${adverb} distant from ${name}.`,
+  compareClosestFallback: (axis, name) => `In ${axis}, you are compatible with ${name}.`,
+  compareFarthestFallback: (axis, name) => `In ${axis}, you are distant from ${name}.`,
+  compareIdentical: (name) => `You and ${name} have practically identical positions on every axis.`,
+  compareNearestLine: (axis, name) => `Your closest axis to ${name} is ${axis}.`,
+  compareNoFarLine: (name) => `No axis is far from ${name}.`,
+  compareValues: (pole, you, them, name) => `${pole}: you ${you}% · ${name} ${them}%.`,
+  compareOptionAria: (name, type) => `${name}, ${type}`,
   axisExplanations: {
     estrutura:
       'Measures whether you prefer power distributed among states, cities, and local communities or a unitary national state with more uniform laws and command.',
@@ -988,7 +1168,6 @@ const en: Strings = {
   menuAria: 'Open menu',
   roseAria: 'Rose of the 12 axes',
   spectrumBarAria: 'Political spectrum bar with the eight categories',
-  footerTagline: 'Independent political quiz · 12axes.vercel.app',
   versionsEyebrow: 'Versions',
   versionsTitle: 'Choose the depth',
   versionsLead:
@@ -1100,6 +1279,30 @@ const en: Strings = {
   share: 'Share',
   saveOrShare: 'Share result',
   generatingPng: 'Generating PNG...',
+  generatingPdf: 'Generating PDF...',
+  downloadPdf: 'Download PDF',
+  report: {
+    fileName: '12axes-report',
+    docLabel: 'Full report',
+    profileEyebrow: 'Your ideological profile',
+    headerLabel: (ideology) => `Political profile report · ${ideology}`,
+    kpiCountry: 'Closest country',
+    kpiPersonality: 'Figure',
+    kpiAxes: 'Axes analyzed',
+    kpiAnswered: (count) => `${count} questions answered`,
+    tocTitle: 'In this report',
+    generatedOn: (date) => `Generated on ${date}`,
+    axesIntro: 'Your position on each of the 12 axes. The bar starts at the center (50%) and extends toward the pole you lean to; the badge shows the intensity.',
+    intensityLegend: 'Intensity',
+    intensityLevels: ['Balanced · up to 57%', 'Leaning · 58 to 72%', 'Strong · 73 to 87%', 'Very strong · 88% or more'],
+    alsoClose: 'Also close, by dimension of your profile',
+    continued: 'continued',
+    areasIntro: 'The figures in the catalog whose profile across the 12 axes most resembles yours.',
+    booksIntro: 'One work by each of the figures closest to your results. Links in the online version of the result.',
+    aboutTitle: 'About this report',
+    aboutText: '12 Axes compares your answers with profiles of ideologies, countries and figures on the same 12 axes. Compatibility measures closeness between profiles; it is not a scientific diagnosis or a definitive label. Your answers are not stored.',
+    ctaTitle: 'Retake the quiz or share it'
+  },
   shareFilePrefix: '12axes-profile',
   shareMessage: (ideology, ideologyPct, country, countryPct, personality, personalityPct) =>
     `I discovered my ideological profile on the 12 Axes Political Quiz!\n\n` +
@@ -1152,6 +1355,9 @@ const en: Strings = {
   ossBarText: 'Read the code, audit the data and contribute on GitHub.',
   ossGithubCta: 'View on GitHub',
   ossIssueCta: 'Suggest an improvement',
+  feedbackTitle: 'Found a problem or have an idea?',
+  feedbackReport: 'Report a problem',
+  feedbackSuggest: 'Suggest improvements',
   supportTitleEm: 'Support',
   supportLead:
     '12 Axes is independent and free. If the quiz helped you better understand your political ideology, consider donating via Pix or crypto to help keep the project running.',
