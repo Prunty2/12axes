@@ -2569,18 +2569,18 @@
   {
     "ideologyId": "aceleracionismo-de-esquerda",
     "vector": {
-      "estrutura": 37.5,
-      "representacao": 75.0,
-      "poder": 26.2,
-      "imigracao": 15.0,
-      "diplomacia": 18.8,
-      "intervencao": 73.8,
-      "economia": 92.5,
-      "controle": 75.0,
-      "comercio": 48.8,
+      "estrutura": 31.9,
+      "representacao": 88.2,
+      "poder": 18.7,
+      "imigracao": 9.3,
+      "diplomacia": 9.9,
+      "intervencao": 67.4,
+      "economia": 86.5,
+      "controle": 79.4,
+      "comercio": 43.1,
       "religiao": 86.2,
-      "moral": 83.8,
-      "tecnologia": 80.0
+      "moral": 91.9,
+      "tecnologia": 96.0
     }
   },
   {
@@ -4247,6 +4247,108 @@
       "religiao": 74.3,
       "moral": 51.4,
       "tecnologia": 74.9
+    }
+  },
+  {
+    "ideologyId": "tridemismo",
+    "vector": {
+      "estrutura": 48.6,
+      "representacao": 65.6,
+      "poder": 73.4,
+      "imigracao": 61.4,
+      "diplomacia": 56.4,
+      "intervencao": 43.6,
+      "economia": 78.0,
+      "controle": 79.0,
+      "comercio": 65.7,
+      "religiao": 71.8,
+      "moral": 29.8,
+      "tecnologia": 68.9
+    }
+  },
+  {
+    "ideologyId": "posmodernismo",
+    "vector": {
+      "estrutura": 80.7,
+      "representacao": 91.8,
+      "poder": 9.1,
+      "imigracao": 13.8,
+      "diplomacia": 20.5,
+      "intervencao": 63.7,
+      "economia": 61.5,
+      "controle": 50.9,
+      "comercio": 43.7,
+      "religiao": 82.6,
+      "moral": 88.3,
+      "tecnologia": 51.2
+    }
+  },
+  {
+    "ideologyId": "socialismo-chines",
+    "vector": {
+      "estrutura": 14.0,
+      "representacao": 18.6,
+      "poder": 87.4,
+      "imigracao": 72.1,
+      "diplomacia": 56.4,
+      "intervencao": 36.4,
+      "economia": 77.4,
+      "controle": 86.5,
+      "comercio": 58.6,
+      "religiao": 84.9,
+      "moral": 27.4,
+      "tecnologia": 64.1
+    }
+  },
+  {
+    "ideologyId": "nacionalismo-de-direita",
+    "vector": {
+      "estrutura": 26.0,
+      "representacao": 76.3,
+      "poder": 68.7,
+      "imigracao": 82.6,
+      "diplomacia": 73.1,
+      "intervencao": 25.7,
+      "economia": 29.2,
+      "controle": 58.8,
+      "comercio": 77.6,
+      "religiao": 31.8,
+      "moral": 18.2,
+      "tecnologia": 68.9
+    }
+  },
+  {
+    "ideologyId": "nacionalismo-de-esquerda",
+    "vector": {
+      "estrutura": 62.9,
+      "representacao": 89.4,
+      "poder": 30.6,
+      "imigracao": 31.9,
+      "diplomacia": 30.0,
+      "intervencao": 48.2,
+      "economia": 67.9,
+      "controle": 72.2,
+      "comercio": 71.7,
+      "religiao": 70.2,
+      "moral": 68.1,
+      "tecnologia": 73.7
+    }
+  },
+  {
+    "ideologyId": "republicanismo-maquiavelico",
+    "vector": {
+      "estrutura": 53.3,
+      "representacao": 72.8,
+      "poder": 55.6,
+      "imigracao": 62.6,
+      "diplomacia": 69.5,
+      "intervencao": 24.5,
+      "economia": 67.5,
+      "controle": 68.8,
+      "comercio": 66.3,
+      "religiao": 61.2,
+      "moral": 33.6,
+      "tecnologia": 67.9
     }
   }
 ]
